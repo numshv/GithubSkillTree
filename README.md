@@ -1,4 +1,10 @@
-# 🌳 GitHub Skill Tree Generator
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
+---
+
+# 🌳 Developer Platform
 
 ![Alt](Tree.png)
 
@@ -6,7 +12,9 @@
 
 ## ⚡ Quick Start
 
-``` markdown
+add this to your github profile readme
+
+```markdown
 <img 
 src="https://github-skill-tree.vercel.app/api/skilltree?username=YOUR_GITHUB_USERNAME"
 alt="My GitHub Skill Tree Visualization" 
@@ -15,15 +23,19 @@ width="800"
 ```
 
 ## ✨ Features
-- Auto-detect skills from repos
-- Beautiful SVG visualization
-- Roadmap.sh integration
+
+* Auto-detect skills from repos
+* Beautiful SVG visualization
+* Roadmap.sh integration
 
 ## 📚 Documentation
+
 Full docs: https://numshv.gitbook.io/numshv-docs/
 
 ## 🚀 Try It
+
 Add to your profile README now!
 
 ## ⭐ Star Us
+
 If you find this useful, give us a star!
