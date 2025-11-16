@@ -1,0 +1,1059 @@
+{
+  "roadmaps": [
+    "ai-data-scientist",
+    "ai-engineer",
+    "android",
+    "angular",
+    "api-design",
+    "aspnet-core",
+    "aws",
+    "backend",
+    "blockchain",
+    "computer-science",
+    "cpp",
+    "cyber-security",
+    "data-analyst",
+    "datastructures-and-algorithms",
+    "design-system",
+    "devops",
+    "engineering-manager",
+    "flutter",
+    "frontend",
+    "full-stack",
+    "game-developer",
+    "git-github",
+    "graphql",
+    "ios",
+    "java",
+    "javascript",
+    "kubernetes",
+    "linux",
+    "mlops",
+    "mongodb",
+    "nodejs",
+    "php",
+    "postgresql-dba",
+    "product-manager",
+    "python",
+    "qa",
+    "react",
+    "react-native",
+    "rust",
+    "server-side-game-developer",
+    "software-architect",
+    "software-design-architecture",
+    "spring-boot",
+    "sql",
+    "system-design",
+    "technical-writer",
+    "terraform",
+    "typescript",
+    "ux-design",
+    "vue"
+  ],
+  "totalRoadmaps": 50,
+  "scrapedAt": "2025-11-16T10:14:10.808Z",
+  "version": "2.0",
+  "summary": [
+    {
+      "name": "cyber-security",
+      "title": "Cyber Security",
+      "nodes": 373,
+      "edges": 18,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 250
+        },
+        {
+          "name": "label",
+          "count": 24
+        },
+        {
+          "name": "section",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "name": "computer-science",
+      "title": "Computer Science",
+      "nodes": 238,
+      "edges": 45,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 134
+        },
+        {
+          "name": "programming-language",
+          "count": 22
+        },
+        {
+          "name": "vertical",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "name": "postgresql-dba",
+      "title": "Postgresql Dba",
+      "nodes": 233,
+      "edges": 39,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 126
+        },
+        {
+          "name": "label",
+          "count": 21
+        },
+        {
+          "name": "database",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "name": "engineering-manager",
+      "title": "Engineering Manager",
+      "nodes": 228,
+      "edges": 27,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 117
+        },
+        {
+          "name": "label",
+          "count": 26
+        },
+        {
+          "name": "section",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "name": "ios",
+      "title": "Ios",
+      "nodes": 210,
+      "edges": 136,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 100
+        },
+        {
+          "name": "topic",
+          "count": 19
+        },
+        {
+          "name": "paragraph",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "name": "angular",
+      "title": "Angular",
+      "nodes": 203,
+      "edges": 38,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 110
+        },
+        {
+          "name": "topic",
+          "count": 20
+        },
+        {
+          "name": "vertical",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "name": "product-manager",
+      "title": "Product Manager",
+      "nodes": 203,
+      "edges": 145,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 114
+        },
+        {
+          "name": "topic",
+          "count": 28
+        },
+        {
+          "name": "data-science",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "name": "aspnet-core",
+      "title": "Aspnet Core",
+      "nodes": 202,
+      "edges": 59,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 82
+        },
+        {
+          "name": "vertical",
+          "count": 18
+        },
+        {
+          "name": "database",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "name": "system-design",
+      "title": "System Design",
+      "nodes": 201,
+      "edges": 43,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 96
+        },
+        {
+          "name": "topic",
+          "count": 17
+        },
+        {
+          "name": "section",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "git-github",
+      "title": "Git Github",
+      "nodes": 200,
+      "edges": 93,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 87
+        },
+        {
+          "name": "tools",
+          "count": 49
+        },
+        {
+          "name": "vertical",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "name": "server-side-game-developer",
+      "title": "Server Side Game Developer",
+      "nodes": 197,
+      "edges": 67,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 85
+        },
+        {
+          "name": "topic",
+          "count": 20
+        },
+        {
+          "name": "vertical",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "php",
+      "title": "Php",
+      "nodes": 193,
+      "edges": 57,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 86
+        },
+        {
+          "name": "section",
+          "count": 17
+        },
+        {
+          "name": "horizontal",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "rust",
+      "title": "Rust",
+      "nodes": 177,
+      "edges": 38,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 75
+        },
+        {
+          "name": "vertical",
+          "count": 34
+        },
+        {
+          "name": "topic",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "name": "qa",
+      "title": "Qa",
+      "nodes": 177,
+      "edges": 50,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 70
+        },
+        {
+          "name": "testing",
+          "count": 43
+        },
+        {
+          "name": "vertical",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "ai-engineer",
+      "title": "Ai Engineer",
+      "nodes": 176,
+      "edges": 29,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 60
+        },
+        {
+          "name": "data-science",
+          "count": 36
+        },
+        {
+          "name": "section",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "backend",
+      "title": "Backend",
+      "nodes": 173,
+      "edges": 97,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 62
+        },
+        {
+          "name": "database",
+          "count": 22
+        },
+        {
+          "name": "programming-language",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "design-system",
+      "title": "Design System",
+      "nodes": 173,
+      "edges": 27,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 85
+        },
+        {
+          "name": "frontend",
+          "count": 19
+        },
+        {
+          "name": "section",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "name": "game-developer",
+      "title": "Game Developer",
+      "nodes": 172,
+      "edges": 50,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 113
+        },
+        {
+          "name": "vertical",
+          "count": 11
+        },
+        {
+          "name": "topic",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "javascript",
+      "title": "Javascript",
+      "nodes": 165,
+      "edges": 79,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 96
+        },
+        {
+          "name": "vertical",
+          "count": 24
+        },
+        {
+          "name": "topic",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "data-analyst",
+      "title": "Data Analyst",
+      "nodes": 165,
+      "edges": 47,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 75
+        },
+        {
+          "name": "data-science",
+          "count": 18
+        },
+        {
+          "name": "paragraph",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "name": "devops",
+      "title": "Devops",
+      "nodes": 164,
+      "edges": 82,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 73
+        },
+        {
+          "name": "topic",
+          "count": 14
+        },
+        {
+          "name": "cloud",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "name": "cpp",
+      "title": "Cpp",
+      "nodes": 164,
+      "edges": 58,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 86
+        },
+        {
+          "name": "programming-language",
+          "count": 17
+        },
+        {
+          "name": "topic",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "name": "nodejs",
+      "title": "Nodejs",
+      "nodes": 160,
+      "edges": 42,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 81
+        },
+        {
+          "name": "topic",
+          "count": 13
+        },
+        {
+          "name": "section",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "blockchain",
+      "title": "Blockchain",
+      "nodes": 160,
+      "edges": 49,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 70
+        },
+        {
+          "name": "data-science",
+          "count": 17
+        },
+        {
+          "name": "section",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "sql",
+      "title": "Sql",
+      "nodes": 157,
+      "edges": 33,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 87
+        },
+        {
+          "name": "vertical",
+          "count": 15
+        },
+        {
+          "name": "database",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "software-architect",
+      "title": "Software Architect",
+      "nodes": 146,
+      "edges": 75,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 69
+        },
+        {
+          "name": "topic",
+          "count": 11
+        },
+        {
+          "name": "paragraph",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "name": "android",
+      "title": "Android",
+      "nodes": 140,
+      "edges": 49,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 67
+        },
+        {
+          "name": "programming-language",
+          "count": 13
+        },
+        {
+          "name": "vertical",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "name": "mongodb",
+      "title": "Mongodb",
+      "nodes": 138,
+      "edges": 42,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 79
+        },
+        {
+          "name": "programming-language",
+          "count": 15
+        },
+        {
+          "name": "section",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "name": "ux-design",
+      "title": "Ux Design",
+      "nodes": 138,
+      "edges": 45,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 78
+        },
+        {
+          "name": "label",
+          "count": 19
+        },
+        {
+          "name": "topic",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "name": "frontend",
+      "title": "Frontend",
+      "nodes": 137,
+      "edges": 87,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 47
+        },
+        {
+          "name": "frontend",
+          "count": 21
+        },
+        {
+          "name": "topic",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "ai-data-scientist",
+      "title": "Ai Data Scientist",
+      "nodes": 136,
+      "edges": 15,
+      "topCategories": [
+        {
+          "name": "label",
+          "count": 35
+        },
+        {
+          "name": "resourcebutton",
+          "count": 22
+        },
+        {
+          "name": "horizontal",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "name": "flutter",
+      "title": "Flutter",
+      "nodes": 135,
+      "edges": 54,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 63
+        },
+        {
+          "name": "vertical",
+          "count": 15
+        },
+        {
+          "name": "topic",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "datastructures-and-algorithms",
+      "title": "Datastructures And Algorithms",
+      "nodes": 133,
+      "edges": 42,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 72
+        },
+        {
+          "name": "programming-language",
+          "count": 24
+        },
+        {
+          "name": "vertical",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "aws",
+      "title": "Aws",
+      "nodes": 131,
+      "edges": 52,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 67
+        },
+        {
+          "name": "cloud",
+          "count": 13
+        },
+        {
+          "name": "topic",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "name": "terraform",
+      "title": "Terraform",
+      "nodes": 128,
+      "edges": 98,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 68
+        },
+        {
+          "name": "topic",
+          "count": 17
+        },
+        {
+          "name": "database",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "software-design-architecture",
+      "title": "Software Design Architecture",
+      "nodes": 127,
+      "edges": 31,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 69
+        },
+        {
+          "name": "topic",
+          "count": 13
+        },
+        {
+          "name": "vertical",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "name": "react-native",
+      "title": "React Native",
+      "nodes": 124,
+      "edges": 50,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 57
+        },
+        {
+          "name": "topic",
+          "count": 12
+        },
+        {
+          "name": "framework",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "java",
+      "title": "Java",
+      "nodes": 123,
+      "edges": 47,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 56
+        },
+        {
+          "name": "topic",
+          "count": 12
+        },
+        {
+          "name": "framework",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "typescript",
+      "title": "Typescript",
+      "nodes": 120,
+      "edges": 47,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 72
+        },
+        {
+          "name": "topic",
+          "count": 10
+        },
+        {
+          "name": "vertical",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "name": "linux",
+      "title": "Linux",
+      "nodes": 119,
+      "edges": 50,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 81
+        },
+        {
+          "name": "topic",
+          "count": 13
+        },
+        {
+          "name": "vertical",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "python",
+      "title": "Python",
+      "nodes": 116,
+      "edges": 32,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 52
+        },
+        {
+          "name": "topic",
+          "count": 13
+        },
+        {
+          "name": "vertical",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "vue",
+      "title": "Vue",
+      "nodes": 115,
+      "edges": 57,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 50
+        },
+        {
+          "name": "topic",
+          "count": 11
+        },
+        {
+          "name": "label",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "api-design",
+      "title": "Api Design",
+      "nodes": 108,
+      "edges": 65,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 46
+        },
+        {
+          "name": "backend",
+          "count": 22
+        },
+        {
+          "name": "section",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "react",
+      "title": "React",
+      "nodes": 106,
+      "edges": 40,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 36
+        },
+        {
+          "name": "topic",
+          "count": 12
+        },
+        {
+          "name": "framework",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "technical-writer",
+      "title": "Technical Writer",
+      "nodes": 102,
+      "edges": 56,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 46
+        },
+        {
+          "name": "topic",
+          "count": 18
+        },
+        {
+          "name": "vertical",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "name": "graphql",
+      "title": "Graphql",
+      "nodes": 102,
+      "edges": 32,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 39
+        },
+        {
+          "name": "backend",
+          "count": 17
+        },
+        {
+          "name": "programming-language",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "name": "kubernetes",
+      "title": "Kubernetes",
+      "nodes": 86,
+      "edges": 28,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 40
+        },
+        {
+          "name": "devops",
+          "count": 12
+        },
+        {
+          "name": "topic",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "full-stack",
+      "title": "Full Stack",
+      "nodes": 79,
+      "edges": 22,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 15
+        },
+        {
+          "name": "horizontal",
+          "count": 9
+        },
+        {
+          "name": "vertical",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "spring-boot",
+      "title": "Spring Boot",
+      "nodes": 57,
+      "edges": 37,
+      "topCategories": [
+        {
+          "name": "framework",
+          "count": 18
+        },
+        {
+          "name": "subtopic",
+          "count": 16
+        },
+        {
+          "name": "backend",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "mlops",
+      "title": "Mlops",
+      "nodes": 45,
+      "edges": 29,
+      "topCategories": [
+        {
+          "name": "subtopic",
+          "count": 11
+        },
+        {
+          "name": "data-science",
+          "count": 8
+        },
+        {
+          "name": "devops",
+          "count": 5
+        }
+      ]
+    }
+  ]
+}

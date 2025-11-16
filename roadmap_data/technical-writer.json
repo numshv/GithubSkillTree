@@ -1,0 +1,3158 @@
+{
+  "name": "technical-writer",
+  "title": "Technical Writer",
+  "nodes": [
+    {
+      "id": "C1UYq0kwAatvnq8ondEGr",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 673.405148207419,
+        "y": 1896.6749108232366
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 208,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Tea_v904u6tNFuMBzkVft",
+      "type": "section",
+      "label": "Tea_v904u6tNFuMBzkVft",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 880.405148207419,
+        "y": 1733.1749108232366
+      },
+      "keywords": [
+        "tea_v904u6tnfumbzkvft"
+      ],
+      "metadata": {
+        "style": {
+          "width": 385,
+          "height": 224
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BRSq7FKGqrbjRR0NKEw9C",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1147.1877382711257,
+        "y": 1537.2977449847244
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "emeziC4p96dk2ZdBnUGqj",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1101.9620919533354,
+        "y": 1447.2977449847244
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 90
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V-W_mPzOTLkdzaeU9jDtu",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1207.1877382711257,
+        "y": 1447.2977449847244
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 90
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5OchPaFXMYtz9WvMOpOK8",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 424.1877382711257,
+        "y": 1376.732278071367
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 153
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5AnsmwOaq25Z8FY3BRGm-",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 285.6877382711257,
+        "y": 1448.732278071367
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 81
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PSSovQ00thrVrRJCz2SYB",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 354.6877382711257,
+        "y": 1159.732278071367
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 91
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8bAy2PKLRM8fm-2oDrQQ_",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 723.5409442883595,
+        "y": 1114.848933004529
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 54
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dqJMYRZ0lm1Iw-MavHli-",
+      "type": "section",
+      "label": "dqJMYRZ0lm1Iw-MavHli-",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 626.1877382711257,
+        "y": 1168.848933004529
+      },
+      "keywords": [
+        "dqjmyrz0lm1iw",
+        "mavhli"
+      ],
+      "metadata": {
+        "style": {
+          "width": 634,
+          "height": 233
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5Z9o-b3vBA-ITFg86zzYM",
+      "type": "title",
+      "label": "Technical Writer",
+      "description": "",
+      "category": "title",
+      "position": {
+        "x": 556.8760409943199,
+        "y": 166.2553633125035
+      },
+      "keywords": [
+        "technical",
+        "writer"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XgM_I974PlXAu4AbeqHX1",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 668.8760409943199,
+        "y": 93.2553633125035
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 73
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 909.4971847919508,
+        "y": 83.84893300452893
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 354,
+          "height": 142
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 921.7005592047509,
+        "y": 165.8344964222742
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HlUUGj3dOZ68t4gIjerXh",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 582.8760409943199,
+        "y": 374.48940199488766
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZRGsokU313Ky-anWbWK6q",
+      "type": "subtopic",
+      "label": "Who is a Technical Writer?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 901.4340503630634,
+        "y": 267.71103642623416
+      },
+      "keywords": [
+        "who",
+        "technical",
+        "writer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 365,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jl1FsQ5-WGKeFyaILNt_p",
+      "type": "subtopic",
+      "label": "What is Technical Writing?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 901.4340503630634,
+        "y": 320.71103642623416
+      },
+      "keywords": [
+        "what",
+        "technical",
+        "writing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 365,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j69erqfosSZMDlmKcnnn0",
+      "type": "subtopic",
+      "label": "Role of Technical Writers in Organizations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 901.4340503630634,
+        "y": 373.71103642623416
+      },
+      "keywords": [
+        "role",
+        "technical",
+        "writers",
+        "organizations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 365,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cNeT1dJDfgn0ndPzSxhSL",
+      "type": "subtopic",
+      "label": "Forms of Technical Writing",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 901.4340503630634,
+        "y": 426.71103642623416
+      },
+      "keywords": [
+        "forms",
+        "technical",
+        "writing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 365,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FVxNjbDBxgf6vkZWw1Awt",
+      "type": "subtopic",
+      "label": "Growth as a Technical Writer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 901.4340503630634,
+        "y": 479.71103642623416
+      },
+      "keywords": [
+        "growth",
+        "technical",
+        "writer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 365,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ju00mr0KLGN2BV6yEQGPt",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 683.2670925742796,
+        "y": 2239.519385286052
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8rjUZ9NZPGwVRGmk6Dlyb",
+      "type": "topic",
+      "label": "Required Skills",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 285.1877382711257,
+        "y": 465.3759397202738
+      },
+      "keywords": [
+        "required",
+        "skills"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DubLTESNn3wvEH_bKQZbP",
+      "type": "subtopic",
+      "label": "Technology Expertise",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 207.18773827112568,
+        "y": 255.69725318942244
+      },
+      "keywords": [
+        "technology",
+        "expertise"
+      ],
+      "metadata": {
+        "style": {
+          "width": 316,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kNIiAJrvrNoOAllUbRtUB",
+      "type": "subtopic",
+      "label": "Language Proficiency",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 207.18773827112568,
+        "y": 308.69725318942244
+      },
+      "keywords": [
+        "language",
+        "proficiency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 316,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7-3tqRUpntoQP4nK_nul5",
+      "type": "subtopic",
+      "label": "Written Communication Proficiency",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 207.18773827112568,
+        "y": 361.69725318942244
+      },
+      "keywords": [
+        "written",
+        "communication",
+        "proficiency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 316,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_5xFbl2BHx0f2u9HmSVS8",
+      "type": "topic",
+      "label": "Tooling",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 582.8760409943199,
+        "y": 612.9709677559136
+      },
+      "keywords": [
+        "tooling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jC3ZrpskBqzxiV6SKf4Uf",
+      "type": "subtopic",
+      "label": "Publishing Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 901.9620919533353,
+        "y": 564.9266408696443
+      },
+      "keywords": [
+        "publishing",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cSZbTOB0FPPOlGzy-MkSi",
+      "type": "subtopic",
+      "label": "Plagiarism Checker",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 901.9620919533354,
+        "y": 617.9266408696443
+      },
+      "keywords": [
+        "plagiarism",
+        "checker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 202,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Am_ocP3r0HM45LYfMcQxM",
+      "type": "subtopic",
+      "label": "Editing Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 1106.9620919533354,
+        "y": 617.9266408696443
+      },
+      "keywords": [
+        "editing",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ffJyulu9GPB_TDqjeJYyV",
+      "type": "subtopic",
+      "label": "Git / Version Control",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 901.4340503630634,
+        "y": 670.9266408696443
+      },
+      "keywords": [
+        "git",
+        "version",
+        "control"
+      ],
+      "metadata": {
+        "style": {
+          "width": 203,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TJ1iuzQ9u_WbrllRQkgm_",
+      "type": "subtopic",
+      "label": "Markdown",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1106.4340503630633,
+        "y": 670.9266408696443
+      },
+      "keywords": [
+        "markdown"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0XWiraeoicNBbaGYQnNZr",
+      "type": "subtopic",
+      "label": "Research Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 582.8760409943199,
+        "y": 478.7553633125035
+      },
+      "keywords": [
+        "research",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sdoFe4A3y_-Zp3mlrJ5r8",
+      "type": "subtopic",
+      "label": "Blogging Platforms",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 582.8760409943199,
+        "y": 531.7553633125035
+      },
+      "keywords": [
+        "blogging",
+        "platforms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FD-8LQ_g2_O_i2Qwp-Gpv",
+      "type": "subtopic",
+      "label": "SEO Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 1105.9620919533354,
+        "y": 564.9266408696443
+      },
+      "keywords": [
+        "seo",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yYLsG2LuPaNUuhXSVev_0",
+      "type": "topic",
+      "label": "Best Practices",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 582.8760409943199,
+        "y": 787.1873120693793
+      },
+      "keywords": [
+        "best",
+        "practices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "27muFD1Ld1gF6hhIh22sG",
+      "type": "subtopic",
+      "label": "Story Telling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 573.1873120693793
+      },
+      "keywords": [
+        "story",
+        "telling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lxSSjgtqJk-PtRp4hARDw",
+      "type": "subtopic",
+      "label": "Subtle Selling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 626.1873120693793
+      },
+      "keywords": [
+        "subtle",
+        "selling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258,
+          "height": 51.27276611328125
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ezz2e4lYLD_bdNNwvsV_y",
+      "type": "subtopic",
+      "label": "Content Structure",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 681.1873120693793
+      },
+      "keywords": [
+        "content",
+        "structure"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a1ChwDwztjZBi79y38AGa",
+      "type": "subtopic",
+      "label": "Call to Actions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 734.1873120693793
+      },
+      "keywords": [
+        "call",
+        "actions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8qSL2esjsA3YYuB4d7B9z",
+      "type": "subtopic",
+      "label": "References",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 787.1873120693793
+      },
+      "keywords": [
+        "references"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WmOvQYlnedX0QgC5Adeen",
+      "type": "subtopic",
+      "label": "Crafting Great Titles",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 840.1873120693793
+      },
+      "keywords": [
+        "crafting",
+        "great",
+        "titles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7FGMPztd6ouvqemcGhIol",
+      "type": "subtopic",
+      "label": "Content Objectives & Intent",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 893.1873120693793
+      },
+      "keywords": [
+        "content",
+        "objectives",
+        "intent"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UuV51vM2JT_LFFXORSwru",
+      "type": "subtopic",
+      "label": "User Persona",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 946.1873120693793
+      },
+      "keywords": [
+        "user",
+        "persona"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cnEVPsqZqs9ZdyqmOuLGA",
+      "type": "subtopic",
+      "label": "Writing Style Guides",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 999.1873120693795
+      },
+      "keywords": [
+        "writing",
+        "style",
+        "guides"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O-dZEkmU0tP3dUIUPM6YJ",
+      "type": "topic",
+      "label": "Content Research",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1004.4629129969998,
+        "y": 787.1873120693793
+      },
+      "keywords": [
+        "content",
+        "research"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SX4vL_JEHrwqHdThyqKKO",
+      "type": "subtopic",
+      "label": "Topic Score",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 968.9629129969998,
+        "y": 881.7322780713671
+      },
+      "keywords": [
+        "topic",
+        "score"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JtFLW5WwH5Ixmnb0qikia",
+      "type": "subtopic",
+      "label": "Keyword Volume",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 968.9629129969998,
+        "y": 934.7322780713671
+      },
+      "keywords": [
+        "keyword",
+        "volume"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QMehC1tmWPVWaTsiV9sFC",
+      "type": "subtopic",
+      "label": "Communities & Forums",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 968.9629129969998,
+        "y": 987.7322780713671
+      },
+      "keywords": [
+        "communities",
+        "forums"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IZqyEqkrBoEfLBwIQwJl6",
+      "type": "subtopic",
+      "label": "Search Trends",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 968.9629129969998,
+        "y": 1040.732278071367
+      },
+      "keywords": [
+        "search",
+        "trends"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xFMsHYYxC0hLueY9xxART",
+      "type": "subtopic",
+      "label": "Support Request Evaluation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 968.9629129969998,
+        "y": 1093.732278071367
+      },
+      "keywords": [
+        "support",
+        "request",
+        "evaluation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xV8mox1WnSbl2jAGqQpeg",
+      "type": "topic",
+      "label": "Types of Technical Content",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 607.5409442883595,
+        "y": 1090.6879511850975
+      },
+      "keywords": [
+        "types",
+        "technical",
+        "content"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "d9mTdwqx6QWKYO5PA_rDH",
+      "type": "subtopic",
+      "label": "Product Content",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 622.0409442883595,
+        "y": 890.2642007065986
+      },
+      "keywords": [
+        "product",
+        "content"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UFuMiHtWq1M8dS8547lOp",
+      "type": "subtopic",
+      "label": "General Product Prose",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 622.0409442883595,
+        "y": 943.2642007065986
+      },
+      "keywords": [
+        "general",
+        "product",
+        "prose"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C-eVVtF6Yabp2a6XvMeh_",
+      "type": "subtopic",
+      "label": "How-to Guides",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 622.0409442883595,
+        "y": 996.2642007065986
+      },
+      "keywords": [
+        "how",
+        "guides"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "e8oNoXw1KLY4jDzojIXyk",
+      "type": "topic",
+      "label": "Developer Docs",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 832.7191176574586,
+        "y": 1180.3854162300877
+      },
+      "keywords": [
+        "developer",
+        "docs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FgyBWRtE34VNqBt_5QhAf",
+      "type": "subtopic",
+      "label": "User Goals",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 832.7191176574586,
+        "y": 1233.3854162300877
+      },
+      "keywords": [
+        "user",
+        "goals"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2pNW7wDGih_m73lhGZRg6",
+      "type": "subtopic",
+      "label": "Developer Journey",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 832.7191176574586,
+        "y": 1286.3854162300877
+      },
+      "keywords": [
+        "developer",
+        "journey"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jYhfx6RETFgDulyNqdTBy",
+      "type": "subtopic",
+      "label": "Docs Structure",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 832.7191176574586,
+        "y": 1339.3854162300877
+      },
+      "keywords": [
+        "docs",
+        "structure"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "z5_73Q7dWbBd4m_OrdZlH",
+      "type": "topic",
+      "label": "API Reference",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 1030.2384541137067,
+        "y": 1180.3854162300877
+      },
+      "keywords": [
+        "api",
+        "reference"
+      ],
+      "metadata": {
+        "style": {
+          "width": 222,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "iBBeZopD8SNo7sWTohMim",
+      "type": "subtopic",
+      "label": "Docs Generation Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 1030.2384541137067,
+        "y": 1233.8730119790503
+      },
+      "keywords": [
+        "docs",
+        "generation",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 222,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "co-35BsWMrD6PXohpFqba",
+      "type": "subtopic",
+      "label": "API Definitions",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 1030.2384541137067,
+        "y": 1286.3854162300877
+      },
+      "keywords": [
+        "api",
+        "definitions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 222,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "e_bsYrZ0eQqduURg2ybX4",
+      "type": "topic",
+      "label": "Help Content",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 636.0419920403277,
+        "y": 1181.3854162300877
+      },
+      "keywords": [
+        "help",
+        "content"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8fJcJi96Ige6z2PBuTquC",
+      "type": "subtopic",
+      "label": "Troubleshooting",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 636.0419920403277,
+        "y": 1235.7843582065113
+      },
+      "keywords": [
+        "troubleshooting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7w1SjK-LV9SBZJ673eAUd",
+      "type": "subtopic",
+      "label": "Developer Support",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 636.0419920403277,
+        "y": 1288.7843582065113
+      },
+      "keywords": [
+        "developer",
+        "support"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "How-4Re1NhxPLDoshUM-G",
+      "type": "subtopic",
+      "label": "Platform Support",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 636.0419920403277,
+        "y": 1341.7843582065113
+      },
+      "keywords": [
+        "platform",
+        "support"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mJ1s5-SGd_tj8y0LLZxYg",
+      "type": "topic",
+      "label": "Technical Content Marketing",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 231.68773827112568,
+        "y": 1229.3854162300877
+      },
+      "keywords": [
+        "technical",
+        "content",
+        "marketing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O1apL6I_g9DQl8VbL3X4W",
+      "type": "subtopic",
+      "label": "ICP & Buyer Persona",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 207.18773827112568,
+        "y": 1079.348933004529
+      },
+      "keywords": [
+        "icp",
+        "buyer",
+        "persona"
+      ],
+      "metadata": {
+        "style": {
+          "width": 295,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EhhKxYPtoLztZXBXl3ZGl",
+      "type": "subtopic",
+      "label": "Buyer Journey & Content Funnel",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 207.18773827112568,
+        "y": 1132.348933004529
+      },
+      "keywords": [
+        "buyer",
+        "journey",
+        "content",
+        "funnel"
+      ],
+      "metadata": {
+        "style": {
+          "width": 295,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-IBL9S4DelIi07w_fmrX3",
+      "type": "topic",
+      "label": "Content SEO",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 271.6877382711257,
+        "y": 1510.3854162300877
+      },
+      "keywords": [
+        "content",
+        "seo"
+      ],
+      "metadata": {
+        "style": {
+          "width": 187,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UphVii3y4T_PkRMqFJ4r_",
+      "type": "subtopic",
+      "label": "Backlinking",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.14341138485645,
+        "y": 1430.3854162300877
+      },
+      "keywords": [
+        "backlinking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eAioe6b7w8pV2Dvawl_fw",
+      "type": "subtopic",
+      "label": "Short-tail Keywords",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 392.1877382711257,
+        "y": 1305.348933004529
+      },
+      "keywords": [
+        "short",
+        "tail",
+        "keywords"
+      ],
+      "metadata": {
+        "style": {
+          "width": 195,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2LAvq7W11WMIubSprlK_l",
+      "type": "subtopic",
+      "label": "Long-Tail Keywords",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 392.1877382711257,
+        "y": 1358.348933004529
+      },
+      "keywords": [
+        "long",
+        "tail",
+        "keywords"
+      ],
+      "metadata": {
+        "style": {
+          "width": 195,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IA6TuXmOZr_-Y3HLHqxp0",
+      "type": "subtopic",
+      "label": "SEO Keywords",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 392.1877382711257,
+        "y": 1430.3854162300877
+      },
+      "keywords": [
+        "seo",
+        "keywords"
+      ],
+      "metadata": {
+        "style": {
+          "width": 160,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5dnZe0oCIzb5qGwgI6pwH",
+      "type": "topic",
+      "label": "Top-funnel Content",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 533.3803672996291,
+        "y": 1510.3854162300877
+      },
+      "keywords": [
+        "top",
+        "funnel",
+        "content"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wBDjGa2PgdmeXxHnILFjY",
+      "type": "subtopic",
+      "label": "Pillar Content",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 520.8803672996291,
+        "y": 1597.2977449847244
+      },
+      "keywords": [
+        "pillar",
+        "content"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7S2lymeBZSMBZSsmei7us",
+      "type": "subtopic",
+      "label": "Awareness Blog Posts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 520.8803672996291,
+        "y": 1650.2977449847244
+      },
+      "keywords": [
+        "awareness",
+        "blog",
+        "posts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HoNQSWy82ybT0YmejCzRb",
+      "type": "subtopic",
+      "label": "Research Reports",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 520.8803672996291,
+        "y": 1703.2977449847244
+      },
+      "keywords": [
+        "research",
+        "reports"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Q2KD70IKwBXAH3UQgeZpp",
+      "type": "topic",
+      "label": "Mid-funnel Content",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 801.3849507669174,
+        "y": 1510.3854162300877
+      },
+      "keywords": [
+        "mid",
+        "funnel",
+        "content"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XDX2QxMUkUok2fcS3tFki",
+      "type": "subtopic",
+      "label": "Generic Gated Content",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 785.8849507669174,
+        "y": 1606.3892684775974
+      },
+      "keywords": [
+        "generic",
+        "gated",
+        "content"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Xa7yBWcbP2aPs4u0C4cLJ",
+      "type": "subtopic",
+      "label": "White-papers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 785.8849507669172,
+        "y": 1659.3892684775974
+      },
+      "keywords": [
+        "white",
+        "papers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5zQpravkqwafvwXVOuNPX",
+      "type": "subtopic",
+      "label": "eBook",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 939.8849507669174,
+        "y": 1659.3892684775974
+      },
+      "keywords": [
+        "ebook"
+      ],
+      "metadata": {
+        "style": {
+          "width": 71,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vo1udIIRpxNZCpA3g32F3",
+      "type": "topic",
+      "label": "Bottom-funnel Content",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1047.1877382711257,
+        "y": 1510.3854162300877
+      },
+      "keywords": [
+        "bottom",
+        "funnel",
+        "content"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2wjRA_pQ9cCG9Ww994FEM",
+      "type": "subtopic",
+      "label": "Comparative Posts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 973.9629129969998,
+        "y": 1427.3781906911768
+      },
+      "keywords": [
+        "comparative",
+        "posts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 190
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K459CcDrcPMJCimIcCzM6",
+      "type": "subtopic",
+      "label": "Tutorials",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1167.1877382711257,
+        "y": 1427.3781906911768
+      },
+      "keywords": [
+        "tutorials"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-GZXLc9RjY6eWkKC1K_Rg",
+      "type": "topic",
+      "label": "Release Notes / Product Announcements",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 888.405148207419,
+        "y": 1741.1749108232366
+      },
+      "keywords": [
+        "release",
+        "notes",
+        "product",
+        "announcements"
+      ],
+      "metadata": {
+        "style": {
+          "width": 369,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "W44q1iEj7RKM55-9jabMJ",
+      "type": "topic",
+      "label": "Customer Case-Studies",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 888.405148207419,
+        "y": 1794.1749108232366
+      },
+      "keywords": [
+        "customer",
+        "case",
+        "studies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 369,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pgrKfp1trcIxhDdvLk95g",
+      "type": "topic",
+      "label": "Frequently Asked Questions",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 888.405148207419,
+        "y": 1900.1749108232366
+      },
+      "keywords": [
+        "frequently",
+        "asked",
+        "questions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 369,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tAFenZA0MFhMPE5cevNuD",
+      "type": "topic",
+      "label": "Technical Website Copy",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 888.405148207419,
+        "y": 1847.1749108232366
+      },
+      "keywords": [
+        "technical",
+        "website",
+        "copy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 369,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XyFEYDJvJpGZ7qSdoSZeI",
+      "type": "topic",
+      "label": "Content Optimization",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 587.8849507669174,
+        "y": 1881.7375321604657
+      },
+      "keywords": [
+        "content",
+        "optimization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 210,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TbSBCITdLswhVB82fErTP",
+      "type": "topic",
+      "label": "Content Analysis",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 258.3844471863894,
+        "y": 1881.7375321604657
+      },
+      "keywords": [
+        "content",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qpOfqbgLy5TzlNQEyt6DG",
+      "type": "subtopic",
+      "label": "Link Shorteners / Tracking",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 211.38444718638942,
+        "y": 1640.2206725696728
+      },
+      "keywords": [
+        "link",
+        "shorteners",
+        "tracking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hlhBgI3SvU3tMtNaHtu8k",
+      "type": "subtopic",
+      "label": "Platform Tracking and Metrics",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 211.38444718638942,
+        "y": 1693.2206725696728
+      },
+      "keywords": [
+        "platform",
+        "tracking",
+        "metrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UiXn-CnPcLWAflKJzaJ2a",
+      "type": "subtopic",
+      "label": "Conversion Tracking",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 211.38444718638942,
+        "y": 1746.2206725696728
+      },
+      "keywords": [
+        "conversion",
+        "tracking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JgdrXG7MX1gGuNG9uyubA",
+      "type": "subtopic",
+      "label": "Content Aging & Timelines",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 211.38444718638942,
+        "y": 1799.2206725696728
+      },
+      "keywords": [
+        "content",
+        "aging",
+        "timelines"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mrqBxsNRl1CQEKtuYSy9F",
+      "type": "topic",
+      "label": "Content Distribution",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 588.7670925742796,
+        "y": 2030.6997330921204
+      },
+      "keywords": [
+        "content",
+        "distribution"
+      ],
+      "metadata": {
+        "style": {
+          "width": 210,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NIxIhMEOxrUR8nbjbF_Fp",
+      "type": "subtopic",
+      "label": "Canonical Link",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 875.4800870292461,
+        "y": 1977.6997330921204
+      },
+      "keywords": [
+        "canonical",
+        "link"
+      ],
+      "metadata": {
+        "style": {
+          "width": 171,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AarJ887P-SFRnKaOOv9yw",
+      "type": "subtopic",
+      "label": "OpenGraph Data",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1049.4824955422164,
+        "y": 1977.6997330921204
+      },
+      "keywords": [
+        "opengraph",
+        "data"
+      ],
+      "metadata": {
+        "style": {
+          "width": 215,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m9-DqsQfeukmhjhIfCph-",
+      "type": "subtopic",
+      "label": "Content Distribution Channels",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 876.4824955422164,
+        "y": 2030.6997330921204
+      },
+      "keywords": [
+        "content",
+        "distribution",
+        "channels"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_cAGbAswDhOqpoiiikPbD",
+      "type": "subtopic",
+      "label": "Content Distribution Amplification Strategies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 876.4824955422164,
+        "y": 2083.6997330921204
+      },
+      "keywords": [
+        "content",
+        "distribution",
+        "amplification",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KEP_DmmmIbG5zdC0dj6a_",
+      "type": "paragraph",
+      "label": "Keep Learning",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 568.2670925742796,
+        "y": 2184.519385286052
+      },
+      "keywords": [
+        "keep",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 55
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vxDLRIXVZFTbfqiOmjUER",
+      "type": "paragraph",
+      "label": "Shout-out to Hackmamba who helped make this roadmap",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 202.87564859782253,
+        "y": 83.84893300452893
+      },
+      "keywords": [
+        "shout",
+        "out",
+        "hackmamba",
+        "who",
+        "helped",
+        "make",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 314,
+          "height": 148
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D5Gn7dAWlTB-Q0bbPc6ka",
+      "type": "button",
+      "label": "Visit their Website",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 220.57235751308627,
+        "y": 165.8344964222742
+      },
+      "keywords": [
+        "visit",
+        "their",
+        "website"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "_hYN0gEi9BL24nptEtXWU",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "idLHBxhvcIqZTqmh_E8Az",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "os3Pa6W9SSNEzgmlBbglQ",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "3oInpqvTSSC5_K6i7j8N7",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "YKhuRbcUFzo0hTvuTq-Yl",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "hWA7RtuqltMTmHdcCnmES",
+      "type": "default"
+    },
+    {
+      "target": "NMznG9mo2wzNFnjhg990f",
+      "type": "default"
+    },
+    {
+      "target": "gc_7cuIO2_joKlQRAPDfX",
+      "type": "default"
+    },
+    {
+      "source": "rrrvATyhXqRgJGWI3z0WF",
+      "target": "AvbMQ5vY3ip1oX_6Yq4ie",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "1AJv95mTLpR7L8KBoGym8",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "0etAs56EeBfh_0IlAaSra",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "h6ceO0kiBIxNRkPzN3hBY",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "_JlT9oKQ6Yu4UX6l19G8P",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "jZ67HhVRelJaxjsCckSSI",
+      "type": "default"
+    },
+    {
+      "source": "HlUUGj3dOZ68t4gIjerXh",
+      "target": "ZRGsokU313Ky-anWbWK6q",
+      "type": "default"
+    },
+    {
+      "source": "HlUUGj3dOZ68t4gIjerXh",
+      "target": "jl1FsQ5-WGKeFyaILNt_p",
+      "type": "default"
+    },
+    {
+      "source": "HlUUGj3dOZ68t4gIjerXh",
+      "target": "j69erqfosSZMDlmKcnnn0",
+      "type": "default"
+    },
+    {
+      "source": "HlUUGj3dOZ68t4gIjerXh",
+      "target": "cNeT1dJDfgn0ndPzSxhSL",
+      "type": "default"
+    },
+    {
+      "source": "HlUUGj3dOZ68t4gIjerXh",
+      "target": "FVxNjbDBxgf6vkZWw1Awt",
+      "type": "default"
+    },
+    {
+      "source": "5Z9o-b3vBA-ITFg86zzYM",
+      "target": "HlUUGj3dOZ68t4gIjerXh",
+      "type": "default"
+    },
+    {
+      "source": "HlUUGj3dOZ68t4gIjerXh",
+      "target": "8rjUZ9NZPGwVRGmk6Dlyb",
+      "type": "default"
+    },
+    {
+      "source": "8rjUZ9NZPGwVRGmk6Dlyb",
+      "target": "7-3tqRUpntoQP4nK_nul5",
+      "type": "default"
+    },
+    {
+      "source": "8rjUZ9NZPGwVRGmk6Dlyb",
+      "target": "_5xFbl2BHx0f2u9HmSVS8",
+      "type": "default"
+    },
+    {
+      "source": "_5xFbl2BHx0f2u9HmSVS8",
+      "target": "jC3ZrpskBqzxiV6SKf4Uf",
+      "type": "default"
+    },
+    {
+      "source": "_5xFbl2BHx0f2u9HmSVS8",
+      "target": "cSZbTOB0FPPOlGzy-MkSi",
+      "type": "default"
+    },
+    {
+      "source": "_5xFbl2BHx0f2u9HmSVS8",
+      "target": "ffJyulu9GPB_TDqjeJYyV",
+      "type": "default"
+    },
+    {
+      "source": "_5xFbl2BHx0f2u9HmSVS8",
+      "target": "0XWiraeoicNBbaGYQnNZr",
+      "type": "default"
+    },
+    {
+      "source": "_5xFbl2BHx0f2u9HmSVS8",
+      "target": "yYLsG2LuPaNUuhXSVev_0",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "27muFD1Ld1gF6hhIh22sG",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "lxSSjgtqJk-PtRp4hARDw",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "Ezz2e4lYLD_bdNNwvsV_y",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "a1ChwDwztjZBi79y38AGa",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "8qSL2esjsA3YYuB4d7B9z",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "WmOvQYlnedX0QgC5Adeen",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "7FGMPztd6ouvqemcGhIol",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "UuV51vM2JT_LFFXORSwru",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "cnEVPsqZqs9ZdyqmOuLGA",
+      "type": "default"
+    },
+    {
+      "source": "yYLsG2LuPaNUuhXSVev_0",
+      "target": "O-dZEkmU0tP3dUIUPM6YJ",
+      "type": "default"
+    },
+    {
+      "source": "O-dZEkmU0tP3dUIUPM6YJ",
+      "target": "xV8mox1WnSbl2jAGqQpeg",
+      "type": "default"
+    },
+    {
+      "source": "xV8mox1WnSbl2jAGqQpeg",
+      "target": "C-eVVtF6Yabp2a6XvMeh_",
+      "type": "default"
+    },
+    {
+      "source": "O-dZEkmU0tP3dUIUPM6YJ",
+      "target": "SX4vL_JEHrwqHdThyqKKO",
+      "type": "default"
+    },
+    {
+      "source": "xV8mox1WnSbl2jAGqQpeg",
+      "target": "mJ1s5-SGd_tj8y0LLZxYg",
+      "type": "default"
+    },
+    {
+      "source": "mJ1s5-SGd_tj8y0LLZxYg",
+      "target": "-IBL9S4DelIi07w_fmrX3",
+      "type": "default"
+    },
+    {
+      "target": "eAioe6b7w8pV2Dvawl_fw",
+      "type": "default"
+    },
+    {
+      "source": "-IBL9S4DelIi07w_fmrX3",
+      "target": "5dnZe0oCIzb5qGwgI6pwH",
+      "type": "default"
+    },
+    {
+      "source": "5dnZe0oCIzb5qGwgI6pwH",
+      "target": "wBDjGa2PgdmeXxHnILFjY",
+      "type": "default"
+    },
+    {
+      "source": "5dnZe0oCIzb5qGwgI6pwH",
+      "target": "Q2KD70IKwBXAH3UQgeZpp",
+      "type": "default"
+    },
+    {
+      "source": "Q2KD70IKwBXAH3UQgeZpp",
+      "target": "XDX2QxMUkUok2fcS3tFki",
+      "type": "default"
+    },
+    {
+      "source": "Q2KD70IKwBXAH3UQgeZpp",
+      "target": "vo1udIIRpxNZCpA3g32F3",
+      "type": "default"
+    },
+    {
+      "source": "XyFEYDJvJpGZ7qSdoSZeI",
+      "target": "TbSBCITdLswhVB82fErTP",
+      "type": "default"
+    },
+    {
+      "source": "TbSBCITdLswhVB82fErTP",
+      "target": "JgdrXG7MX1gGuNG9uyubA",
+      "type": "default"
+    },
+    {
+      "source": "TbSBCITdLswhVB82fErTP",
+      "target": "mrqBxsNRl1CQEKtuYSy9F",
+      "type": "default"
+    },
+    {
+      "source": "mrqBxsNRl1CQEKtuYSy9F",
+      "target": "NIxIhMEOxrUR8nbjbF_Fp",
+      "type": "default"
+    },
+    {
+      "source": "mrqBxsNRl1CQEKtuYSy9F",
+      "target": "m9-DqsQfeukmhjhIfCph-",
+      "type": "default"
+    },
+    {
+      "source": "mrqBxsNRl1CQEKtuYSy9F",
+      "target": "_cAGbAswDhOqpoiiikPbD",
+      "type": "default"
+    },
+    {
+      "source": "mrqBxsNRl1CQEKtuYSy9F",
+      "target": "KEP_DmmmIbG5zdC0dj6a_",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 46
+    },
+    {
+      "name": "topic",
+      "count": 18
+    },
+    {
+      "name": "vertical",
+      "count": 9
+    },
+    {
+      "name": "tools",
+      "count": 7
+    },
+    {
+      "name": "database",
+      "count": 4
+    },
+    {
+      "name": "data-science",
+      "count": 3
+    },
+    {
+      "name": "frontend",
+      "count": 3
+    },
+    {
+      "name": "section",
+      "count": 2
+    },
+    {
+      "name": "button",
+      "count": 2
+    },
+    {
+      "name": "programming-language",
+      "count": 2
+    },
+    {
+      "name": "backend",
+      "count": 2
+    },
+    {
+      "name": "paragraph",
+      "count": 2
+    },
+    {
+      "name": "horizontal",
+      "count": 1
+    },
+    {
+      "name": "title",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "Tea_v904u6tNFuMBzkVft",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "tea_v904u6tnfumbzkvft"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "dqJMYRZ0lm1Iw-MavHli-",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "dqjmyrz0lm1iw",
+        "mavhli"
+      ]
+    },
+    {
+      "name": "Technical Writer",
+      "category": "title",
+      "difficulty": "beginner",
+      "keywords": [
+        "technical",
+        "writer"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "Who is a Technical Writer?",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "who",
+        "technical",
+        "writer"
+      ]
+    },
+    {
+      "name": "What is Technical Writing?",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "technical",
+        "writing"
+      ]
+    },
+    {
+      "name": "Role of Technical Writers in Organizations",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "role",
+        "technical",
+        "writers",
+        "organizations"
+      ]
+    },
+    {
+      "name": "Forms of Technical Writing",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "forms",
+        "technical",
+        "writing"
+      ]
+    },
+    {
+      "name": "Growth as a Technical Writer",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "growth",
+        "technical",
+        "writer"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Required Skills",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "required",
+        "skills"
+      ]
+    },
+    {
+      "name": "Technology Expertise",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "technology",
+        "expertise"
+      ]
+    },
+    {
+      "name": "Language Proficiency",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "language",
+        "proficiency"
+      ]
+    },
+    {
+      "name": "Written Communication Proficiency",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "written",
+        "communication",
+        "proficiency"
+      ]
+    },
+    {
+      "name": "Tooling",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "tooling"
+      ]
+    },
+    {
+      "name": "Publishing Tools",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "publishing",
+        "tools"
+      ]
+    },
+    {
+      "name": "Plagiarism Checker",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "plagiarism",
+        "checker"
+      ]
+    },
+    {
+      "name": "Editing Tools",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "editing",
+        "tools"
+      ]
+    },
+    {
+      "name": "Git / Version Control",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "git",
+        "version",
+        "control"
+      ]
+    },
+    {
+      "name": "Markdown",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "markdown"
+      ]
+    },
+    {
+      "name": "Research Tools",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "research",
+        "tools"
+      ]
+    },
+    {
+      "name": "Blogging Platforms",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "blogging",
+        "platforms"
+      ]
+    },
+    {
+      "name": "SEO Tools",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "seo",
+        "tools"
+      ]
+    },
+    {
+      "name": "Best Practices",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "best",
+        "practices"
+      ]
+    },
+    {
+      "name": "Story Telling",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "story",
+        "telling"
+      ]
+    },
+    {
+      "name": "Subtle Selling",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "subtle",
+        "selling"
+      ]
+    },
+    {
+      "name": "Content Structure",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "content",
+        "structure"
+      ]
+    },
+    {
+      "name": "Call to Actions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "call",
+        "actions"
+      ]
+    },
+    {
+      "name": "References",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "references"
+      ]
+    },
+    {
+      "name": "Crafting Great Titles",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "crafting",
+        "great",
+        "titles"
+      ]
+    },
+    {
+      "name": "Content Objectives & Intent",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "content",
+        "objectives",
+        "intent"
+      ]
+    },
+    {
+      "name": "User Persona",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "user",
+        "persona"
+      ]
+    },
+    {
+      "name": "Writing Style Guides",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "writing",
+        "style",
+        "guides"
+      ]
+    },
+    {
+      "name": "Content Research",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "content",
+        "research"
+      ]
+    },
+    {
+      "name": "Topic Score",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "topic",
+        "score"
+      ]
+    },
+    {
+      "name": "Keyword Volume",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "keyword",
+        "volume"
+      ]
+    },
+    {
+      "name": "Communities & Forums",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "communities",
+        "forums"
+      ]
+    },
+    {
+      "name": "Search Trends",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "search",
+        "trends"
+      ]
+    },
+    {
+      "name": "Support Request Evaluation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "support",
+        "request",
+        "evaluation"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 102,
+    "totalEdges": 56,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:21.229Z",
+    "version": "2.0"
+  }
+}

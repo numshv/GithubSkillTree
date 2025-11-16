@@ -1,0 +1,3441 @@
+{
+  "name": "react-native",
+  "title": "React Native",
+  "nodes": [
+    {
+      "id": "4qvR1QQzrmoVIVCAsp92H",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -123.1381872719935,
+        "y": 2573.2541881503926
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zxa5bbXMLJsCgurI0zsRy",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -549.1381872719935,
+        "y": 2123.4007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3M-KXd4R-NzZV__UgxDPU",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -666.615904405851,
+        "y": 2123.4007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tR7FOWmBDYg6bn5d4YHzd",
+      "type": "section",
+      "label": "tR7FOWmBDYg6bn5d4YHzd",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -140.1381872719935,
+        "y": 1846.9007482223487
+      },
+      "keywords": [
+        "tr7fowmbdyg6bn5d4yhzd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hJobfOyzU-1jqdExFilz7",
+      "type": "section",
+      "label": "hJobfOyzU-1jqdExFilz7",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 24.861812728006498,
+        "y": 1846.9007482223487
+      },
+      "keywords": [
+        "hjobfoyzu",
+        "1jqdexfilz7"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "noLJjbjKyQ4AWA4TuB6-6",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -442.228964418254,
+        "y": 1773.9007482223487
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Bv-5PX8sSIddQmKtC0NQ-",
+      "type": "section",
+      "label": "Bv-5PX8sSIddQmKtC0NQ-",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -712.1381872719935,
+        "y": 1687.9007482223487
+      },
+      "keywords": [
+        "5px8ssiddqmktc0nq"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OMgqmjh8qyBUDugU8QkTL",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 264.3618127280065,
+        "y": 1441.4007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "86YH9wi6fZcj_lT98sTwy",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -215.3175069304428,
+        "y": 1145.9007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Lx-z0hK9WMcfS4lGiSD1M",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -215.3175069304428,
+        "y": 932.9007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "N4wQuEYhAU9DGQJmV1f25",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -515.6381872719935,
+        "y": 919.9393516042962
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pGSRxZZEutXQu1nncm9Uy",
+      "type": "section",
+      "label": "pGSRxZZEutXQu1nncm9Uy",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -709.6381872719935,
+        "y": 1077.9007482223487
+      },
+      "keywords": [
+        "pgsrxzzeutxqu1nncm9uy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9Pl9DKvoT0mpnc_6MUxVi",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -126.22896441825404,
+        "y": 739.9393516042962
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZMHUVvTmbR_OmXTs1k0Sf",
+      "type": "section",
+      "label": "ZMHUVvTmbR_OmXTs1k0Sf",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -709.6381872719935,
+        "y": 572.9007482223487
+      },
+      "keywords": [
+        "zmhuvvtmbr_omxts1k0sf"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ikohtpq5aBCkJ6-73aaN4",
+      "type": "section",
+      "label": "Ikohtpq5aBCkJ6-73aaN4",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 41.3618127280065,
+        "y": 426.40074822234874
+      },
+      "keywords": [
+        "ikohtpq5abckj6",
+        "73aan4"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YcjFInaeQBknkTUfpgaYk",
+      "type": "section",
+      "label": "YcjFInaeQBknkTUfpgaYk",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -708.6381872719935,
+        "y": 244.90074822234874
+      },
+      "keywords": [
+        "ycjfinaeqbknktufpgayk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HU7wZWiES3m3xl1-NYP6F",
+      "type": "title",
+      "label": "React Native",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -307.3175069304428,
+        "y": -38.879087788307686
+      },
+      "keywords": [
+        "react",
+        "native"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uqyE79OItPOX33E5FoGel",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -215.3175069304428,
+        "y": -133.0992517776511
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CCmziWV0VnzZxVbjVF_br",
+      "type": "paragraph",
+      "label": "Find the interactive version of this roadmap and more roadmaps at",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -15.138187271993502,
+        "y": -148.2948532825934
+      },
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "if9eTna5NRTMStVwpSwDP",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": -0.13818727199350178,
+        "y": -62.09925177765109
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JfXwzkN29UGz17FYHHE3A",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 137.4393516042962
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cMfsRtvzvDZZJ0TqeUOxm",
+      "type": "subtopic",
+      "label": "What is React Native?",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 83.4393516042962
+      },
+      "keywords": [
+        "what",
+        "react",
+        "native"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2rlmLn_yQQV-7DpX1qT98",
+      "type": "subtopic",
+      "label": "Why use React Native?",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 136.4393516042962
+      },
+      "keywords": [
+        "why",
+        "use",
+        "react",
+        "native"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w_rUaBorHFOY74S0JiEwM",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -710.4579568300146,
+        "y": -148.2948532825934
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ODQ8zrHc2rsc8PN-APKvz",
+      "type": "subtopic",
+      "label": "React Native Alternatives",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 189.4393516042962
+      },
+      "keywords": [
+        "react",
+        "native",
+        "alternatives"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cSXsu17F1Oy34Wp6J-N3C",
+      "type": "topic",
+      "label": "Learn the Pre-requisites",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 190.4393516042962
+      },
+      "keywords": [
+        "learn",
+        "pre",
+        "requisites"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1oUJXtHGQ29ZZU9sxwGo2",
+      "type": "subtopic",
+      "label": "JavaScript Basics",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -709.6381872719935,
+        "y": 138.4393516042962
+      },
+      "keywords": [
+        "javascript",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SnF3xtzBh-x4Z_qUQUg7H",
+      "type": "subtopic",
+      "label": "CSS Basics",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -709.6381872719935,
+        "y": 191.4393516042962
+      },
+      "keywords": [
+        "css",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k9_hVOBd9ZmC4HLuAf46v",
+      "type": "subtopic",
+      "label": "Components",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -599.1381872719935,
+        "y": 296.43935160429623
+      },
+      "keywords": [
+        "components"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V7r1Hqk9IXTfjkjAg7-BT",
+      "type": "subtopic",
+      "label": "State",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -693.1381872719935,
+        "y": 349.43935160429623
+      },
+      "keywords": [
+        "state"
+      ],
+      "metadata": {
+        "style": {
+          "width": 80
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s5YKenJY2Xv_PZBSxegEm",
+      "type": "subtopic",
+      "label": "JSX",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -693.1381872719935,
+        "y": 296.43935160429623
+      },
+      "keywords": [
+        "jsx"
+      ],
+      "metadata": {
+        "style": {
+          "width": 80
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0gH7vI_Hy7s9hO2TF6hR3",
+      "type": "subtopic",
+      "label": "Props",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -599.1381872719935,
+        "y": 349.43935160429623
+      },
+      "keywords": [
+        "props"
+      ],
+      "metadata": {
+        "style": {
+          "width": 80
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XDWpxBbW4vfJBO0jLtOZ5",
+      "type": "label",
+      "label": "React Basics",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -656.1381872719935,
+        "y": 252.90074822234874
+      },
+      "keywords": [
+        "react",
+        "basics"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lNmddXrT8IHVtWobh3-oq",
+      "type": "topic",
+      "label": "Environment Setup",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 348.90074822234874
+      },
+      "keywords": [
+        "environment",
+        "setup"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yW7nDDJbjmm8XKJI0hq3Q",
+      "type": "subtopic",
+      "label": "Expo",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 41.3618127280065,
+        "y": 402.43935160429623
+      },
+      "keywords": [
+        "expo"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uLH9eo2G09wGO80XtFI5x",
+      "type": "subtopic",
+      "label": "create-expo-app",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 53.77103558174599,
+        "y": 461.43935160429623
+      },
+      "keywords": [
+        "create",
+        "expo",
+        "app"
+      ],
+      "metadata": {
+        "style": {
+          "width": 188
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9eOwhh2k59nvH-ztuDNjg",
+      "type": "subtopic",
+      "label": "Expo Snack",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 53.77103558174599,
+        "y": 514.4393516042962
+      },
+      "keywords": [
+        "expo",
+        "snack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 188
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zzOyoDcAQYkNNv07TIKeZ",
+      "type": "subtopic",
+      "label": "Expo Tradeoffs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 53.77103558174599,
+        "y": 567.4393516042962
+      },
+      "keywords": [
+        "expo",
+        "tradeoffs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 188
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bxWLf0RDAl9Zaczkon9Rl",
+      "type": "subtopic",
+      "label": "React Native CLI",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 41.3618127280065,
+        "y": 295.90074822234874
+      },
+      "keywords": [
+        "react",
+        "native",
+        "cli"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VhSEH_RoWFt1z2lial7xZ",
+      "type": "subtopic",
+      "label": "Metro Bundler",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 41.3618127280065,
+        "y": 348.90074822234874
+      },
+      "keywords": [
+        "metro",
+        "bundler"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "T4AhL9Zls2iNZMituGdtl",
+      "type": "topic",
+      "label": "Development Workflow",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 518.4393516042962
+      },
+      "keywords": [
+        "development",
+        "workflow"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KyKMZ8Aa5XUAIWelGTiSt",
+      "type": "subtopic",
+      "label": "Running on Device",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.6381872719935,
+        "y": 518.4393516042962
+      },
+      "keywords": [
+        "running",
+        "device"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fz-xz5Nbk5DHHcTUb9cBS",
+      "type": "label",
+      "label": "Debugging",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -640.1381872719935,
+        "y": 577.9007482223487
+      },
+      "keywords": [
+        "debugging"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tOt_vvmnBtOUbgokmVa5P",
+      "type": "subtopic",
+      "label": "In-App Developer Menu",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -697.6381872719935,
+        "y": 622.4393516042962
+      },
+      "keywords": [
+        "app",
+        "developer",
+        "menu"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wWwaEdnvBsvj6jD9LJ4Jj",
+      "type": "subtopic",
+      "label": "Enabling Fast Refresh",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -697.6381872719935,
+        "y": 675.4393516042962
+      },
+      "keywords": [
+        "enabling",
+        "fast",
+        "refresh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Tz-bRjQVkZedphelhAlWM",
+      "type": "subtopic",
+      "label": "LogBox",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -697.6381872719935,
+        "y": 728.4393516042962
+      },
+      "keywords": [
+        "logbox"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Dq490IqEJXoFZRnBFJI8N",
+      "type": "subtopic",
+      "label": "Sourcemaps",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -585.6381872719935,
+        "y": 728.4393516042962
+      },
+      "keywords": [
+        "sourcemaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HHx3VSfV7xf6RqACrxjBf",
+      "type": "subtopic",
+      "label": "DevTools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": -697.6381872719935,
+        "y": 781.4393516042962
+      },
+      "keywords": [
+        "devtools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fnujIq6QAFB6bmTisuZ3T",
+      "type": "topic",
+      "label": "Core Components",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 896.4393516042962
+      },
+      "keywords": [
+        "core",
+        "components"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OFhyYyxtrCBy_UUb5YBv5",
+      "type": "subtopic",
+      "label": "Text",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 39.8618127280065,
+        "y": 790.9007482223487
+      },
+      "keywords": [
+        "text"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Frz1RYp3y9OwRb-3t2e85",
+      "type": "subtopic",
+      "label": "Text Input",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 185.8618127280065,
+        "y": 790.4393516042962
+      },
+      "keywords": [
+        "text",
+        "input"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kkH9H9Qh1FD7sLItoWw69",
+      "type": "subtopic",
+      "label": "Button",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 39.8618127280065,
+        "y": 843.9007482223487
+      },
+      "keywords": [
+        "button"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "E7N8tSg2amZW-vc-X46JU",
+      "type": "subtopic",
+      "label": "Image",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 185.8618127280065,
+        "y": 843.4393516042962
+      },
+      "keywords": [
+        "image"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GFGhnx5xUer2DdRI-SO4D",
+      "type": "subtopic",
+      "label": "ImageBackground",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 39.8618127280065,
+        "y": 896.9007482223487
+      },
+      "keywords": [
+        "imagebackground"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ouNTekf4VpZv-Vja8_bfM",
+      "type": "subtopic",
+      "label": "Switch",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 230.8618127280065,
+        "y": 896.4393516042962
+      },
+      "keywords": [
+        "switch"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QOOZs9qtz49agfZwi6k1B",
+      "type": "subtopic",
+      "label": "StatusBar",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 230.8618127280065,
+        "y": 949.9007482223487
+      },
+      "keywords": [
+        "statusbar"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hHFR59RrdMIWxcQe72qCs",
+      "type": "subtopic",
+      "label": "ActivityIndicator",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 39.8618127280065,
+        "y": 949.9007482223487
+      },
+      "keywords": [
+        "activityindicator"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V34mZCkpoT49o-74XoATS",
+      "type": "subtopic",
+      "label": "Modal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 39.8618127280065,
+        "y": 1002.9007482223487
+      },
+      "keywords": [
+        "modal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4BgVq-cZYEXgqktvlNnet",
+      "type": "subtopic",
+      "label": "Pressable",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 195.8618127280065,
+        "y": 1002.9007482223487
+      },
+      "keywords": [
+        "pressable"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GrFL32pZ_eOmdJRzSlH8b",
+      "type": "subtopic",
+      "label": "View",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -166.22896441825404,
+        "y": 712.9007482223487
+      },
+      "keywords": [
+        "view"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UqCpoPzYio3ng3RFlbvZ7",
+      "type": "subtopic",
+      "label": "SafeAreaView",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 42.8618127280065,
+        "y": 659.9007482223487
+      },
+      "keywords": [
+        "safeareaview"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8bn1PFd9h0ek6_T-cl1cS",
+      "type": "subtopic",
+      "label": "KeyboardAvoidingView",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 42.3618127280065,
+        "y": 712.9007482223487
+      },
+      "keywords": [
+        "keyboardavoidingview"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "x-OZCZcX6uhN3Yr5BAATn",
+      "type": "subtopic",
+      "label": "Listings",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -560.6381872719935,
+        "y": 896.4393516042962
+      },
+      "keywords": [
+        "listings"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yN283SRWoALOEZh9iTn-L",
+      "type": "subtopic",
+      "label": "ScrollView",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.6381872719935,
+        "y": 999.4393516042962
+      },
+      "keywords": [
+        "scrollview"
+      ],
+      "metadata": {
+        "style": {
+          "width": 181
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h3ypxGxeHDCTxURHg6D2d",
+      "type": "subtopic",
+      "label": "ListViews",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.6381872719935,
+        "y": 1052.4393516042962
+      },
+      "keywords": [
+        "listviews"
+      ],
+      "metadata": {
+        "style": {
+          "width": 181
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CYqLNGyOe9f9hVhbyUnTX",
+      "type": "subtopic",
+      "label": "FlatList",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -699,
+        "y": 1111.4393516042962
+      },
+      "keywords": [
+        "flatlist"
+      ],
+      "metadata": {
+        "style": {
+          "width": 181
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gLJMD9X7chy8OxdALht8g",
+      "type": "subtopic",
+      "label": "SectionList",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -589.1381872719935,
+        "y": 1111.4393516042962
+      },
+      "keywords": [
+        "sectionlist"
+      ],
+      "metadata": {
+        "style": {
+          "width": 181
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m8Nu71Y61Ha_fLxdtWTkn",
+      "type": "subtopic",
+      "label": "RefreshControl",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.6381872719935,
+        "y": 1178.9007482223487
+      },
+      "keywords": [
+        "refreshcontrol"
+      ],
+      "metadata": {
+        "style": {
+          "width": 181
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HiUbRfOv8OttFd85pDUHN",
+      "type": "topic",
+      "label": "Writing Platform Specific Code",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -402.3175069304428,
+        "y": 1114.4393516042962
+      },
+      "keywords": [
+        "writing",
+        "platform",
+        "specific",
+        "code"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KZIrRSYq_I-YzpFaYLuWi",
+      "type": "subtopic",
+      "label": "Platform Module",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -402.3175069304428,
+        "y": 1203.9007482223487
+      },
+      "keywords": [
+        "platform",
+        "module"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LLANnVosxOUCPTtuBfNgu",
+      "type": "subtopic",
+      "label": "File Extensions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -402.3175069304428,
+        "y": 1256.9007482223487
+      },
+      "keywords": [
+        "file",
+        "extensions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UQpyXrC2cs_jDXxVTlQOu",
+      "type": "subtopic",
+      "label": "react-native-web",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -402.3175069304428,
+        "y": 1309.9007482223487
+      },
+      "keywords": [
+        "react",
+        "native",
+        "web"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ervpuL89myBW3oR9r-4lH",
+      "type": "topic",
+      "label": "Styling",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -42.1381872719935,
+        "y": 1114.4393516042962
+      },
+      "keywords": [
+        "styling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wB0D9koC6jpt1rzX8F07F",
+      "type": "subtopic",
+      "label": "Stylesheets",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -42.1381872719935,
+        "y": 1207.4393516042962
+      },
+      "keywords": [
+        "stylesheets"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "e-r3tuRZ3PzhFegES0oOm",
+      "type": "subtopic",
+      "label": "Layouts & Flexbox",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -42.1381872719935,
+        "y": 1260.4393516042962
+      },
+      "keywords": [
+        "layouts",
+        "flexbox"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KoXTwQUqPt_ZhOFuaelny",
+      "type": "subtopic",
+      "label": "Accessibility",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -42.1381872719935,
+        "y": 1313.4393516042962
+      },
+      "keywords": [
+        "accessibility"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7GBV5sfOaGxHwpkNUvFWE",
+      "type": "topic",
+      "label": "Networking",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 204.8618127280065,
+        "y": 1414.4393516042962
+      },
+      "keywords": [
+        "networking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k7uVPyhbPgvO6HxAfxxYZ",
+      "type": "subtopic",
+      "label": "Connectivity Status",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 143.8618127280065,
+        "y": 1522.4007482223487
+      },
+      "keywords": [
+        "connectivity",
+        "status"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aSCgax1M4wlmzkJSZV_fv",
+      "type": "subtopic",
+      "label": "WebSockets",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 143.8618127280065,
+        "y": 1575.4007482223487
+      },
+      "keywords": [
+        "websockets"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f7KFPFS2-EA90pumYHM9T",
+      "type": "subtopic",
+      "label": "Fetch",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 143.8618127280065,
+        "y": 1628.4007482223487
+      },
+      "keywords": [
+        "fetch"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CAQJaGs24wx1SqKOU44aB",
+      "type": "topic",
+      "label": "Push Notifications",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -142.228964418254,
+        "y": 1414.4393516042962
+      },
+      "keywords": [
+        "push",
+        "notifications"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GYdz9a1yLiewAeMRSyfLr",
+      "type": "topic",
+      "label": "Interactions",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -380.62298223659093,
+        "y": 1414.4393516042962
+      },
+      "keywords": [
+        "interactions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "A7ZIe8nlQnHU5g3LM3Eif",
+      "type": "subtopic",
+      "label": "Touchables",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.4579568300146,
+        "y": 1308.4007482223487
+      },
+      "keywords": [
+        "touchables"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xf7L5J42yQq3LE7lG2plp",
+      "type": "subtopic",
+      "label": "Gesture Handling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.4579568300146,
+        "y": 1361.4007482223487
+      },
+      "keywords": [
+        "gesture",
+        "handling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nk6zdVNRz_xE71mVUOFsi",
+      "type": "subtopic",
+      "label": "Scrolling & Swiping",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.4579568300146,
+        "y": 1414.4007482223487
+      },
+      "keywords": [
+        "scrolling",
+        "swiping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Jr2iuQqyCbx6CyTJj4Qz2",
+      "type": "subtopic",
+      "label": "Screen Navigation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.4579568300146,
+        "y": 1467.4007482223487
+      },
+      "keywords": [
+        "screen",
+        "navigation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3NLcPO-hqQV1EacoPLVrv",
+      "type": "subtopic",
+      "label": "Animations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.4579568300146,
+        "y": 1520.4007482223487
+      },
+      "keywords": [
+        "animations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dckRzKDKj-mLB3-OxwjPh",
+      "type": "topic",
+      "label": "DeepLinking",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -380.62298223659093,
+        "y": 1522.4007482223487
+      },
+      "keywords": [
+        "deeplinking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CGtVwhVGc8Vea5RfzJvQG",
+      "type": "topic",
+      "label": "Security",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -380.62298223659093,
+        "y": 1653.4007482223487
+      },
+      "keywords": [
+        "security"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LRBHwYiT0Yyi18PwR49rc",
+      "type": "subtopic",
+      "label": "Authentication",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -137.6229822365909,
+        "y": 1545.4007482223487
+      },
+      "keywords": [
+        "authentication"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ee4QqFTosXNcTgoQIok8i",
+      "type": "subtopic",
+      "label": "Networking",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -137.6229822365909,
+        "y": 1598.4007482223487
+      },
+      "keywords": [
+        "networking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NdjmP1bZNYriV08vb-iRw",
+      "type": "subtopic",
+      "label": "Storage",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -137.6229822365909,
+        "y": 1651.4007482223487
+      },
+      "keywords": [
+        "storage"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w0WW1kg_0BEMeLa1l2gb5",
+      "type": "topic",
+      "label": "Storage",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -380.62298223659093,
+        "y": 1759.4007482223487
+      },
+      "keywords": [
+        "storage"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WsJGiMjHSQ6MpPd5wuP9h",
+      "type": "subtopic",
+      "label": "react-native-async-storage",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -712.1381872719935,
+        "y": 1632.4007482223487
+      },
+      "keywords": [
+        "react",
+        "native",
+        "async",
+        "storage"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "grThT8cvnrbgsa1mx2Dew",
+      "type": "label",
+      "label": "Expo Ecosystem",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -661.9579568300146,
+        "y": 1695.4007482223487
+      },
+      "keywords": [
+        "expo",
+        "ecosystem"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JgBfwmOgcVi_a96L5NGwr",
+      "type": "subtopic",
+      "label": "expo-secure-store",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -698.4579568300146,
+        "y": 1739.4007482223487
+      },
+      "keywords": [
+        "expo",
+        "secure",
+        "store"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9pvrXH5Drdsa1cr93UBdc",
+      "type": "subtopic",
+      "label": "expo-file-system",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -698.4579568300146,
+        "y": 1792.4007482223487
+      },
+      "keywords": [
+        "expo",
+        "file",
+        "system"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oK8z23a_CjcDjBJ843_Jn",
+      "type": "subtopic",
+      "label": "expo-sqlite",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -698.4579568300146,
+        "y": 1845.4007482223487
+      },
+      "keywords": [
+        "expo",
+        "sqlite"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vZMsm-MtsqmQMD-MG6zJY",
+      "type": "subtopic",
+      "label": "Other Storage Options",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -712.1381872719935,
+        "y": 1920.9007482223487
+      },
+      "keywords": [
+        "other",
+        "storage",
+        "options"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G15Aey-Spax_iUHpm1v38",
+      "type": "topic",
+      "label": "Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -380.62298223659093,
+        "y": 1906.4007482223487
+      },
+      "keywords": [
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "AolcZu6TMqKHcCLs1is9Z",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -451.6381872719935,
+        "y": 1628.4007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "06gsRokwjxVa2xyLY4qAb",
+      "type": "subtopic",
+      "label": "Jest",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -139.1381872719935,
+        "y": 1789.9007482223487
+      },
+      "keywords": [
+        "jest"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZJvxa-sPRRWCiqHubqEEZ",
+      "type": "label",
+      "label": "Component Tests",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 96.8618127280065,
+        "y": 1852.9007482223487
+      },
+      "keywords": [
+        "component",
+        "tests"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "81tmis0km2h1zsjS2HsP5",
+      "type": "subtopic",
+      "label": "React Test Renderer",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 39.8618127280065,
+        "y": 1948.9007482223487
+      },
+      "keywords": [
+        "react",
+        "test",
+        "renderer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-b4LfjCjkSZ6ZsSv3eFm6",
+      "type": "subtopic",
+      "label": "React Native Testing Library",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 39.8618127280065,
+        "y": 1895.9007482223487
+      },
+      "keywords": [
+        "react",
+        "native",
+        "testing",
+        "library"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "zam_qKfqtKuYyPGos1CrF",
+      "type": "label",
+      "label": "E2E Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -109.62298223659093,
+        "y": 1854.4007482223487
+      },
+      "keywords": [
+        "e2e",
+        "testing"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "3m7ANLJvtx3zie4y86MNU",
+      "type": "subtopic",
+      "label": "Detox",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -115.62298223659093,
+        "y": 1896.9007482223487
+      },
+      "keywords": [
+        "detox"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "spTzJMS7cE0cNa7tVQhVQ",
+      "type": "subtopic",
+      "label": "Appium",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -115.62298223659093,
+        "y": 1949.9007482223487
+      },
+      "keywords": [
+        "appium"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NIJzKzWlsciAjxUpm4K2v",
+      "type": "topic",
+      "label": "Performance",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -380.62298223659093,
+        "y": 2178.4007482223487
+      },
+      "keywords": [
+        "performance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1U3AiCDWEVEKsofWtqavi",
+      "type": "subtopic",
+      "label": "Understand Frame Rates",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -92.6229822365909,
+        "y": 2070.4007482223487
+      },
+      "keywords": [
+        "understand",
+        "frame",
+        "rates"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "afwB90L-q2hIwrA0LtWbG",
+      "type": "subtopic",
+      "label": "Common Problem Sources",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -92.6229822365909,
+        "y": 2123.4007482223487
+      },
+      "keywords": [
+        "common",
+        "problem",
+        "sources"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LL2ZkB7BuELyY2mPQhkAj",
+      "type": "subtopic",
+      "label": "Speeding up Builds",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -92.6229822365909,
+        "y": 2176.4007482223487
+      },
+      "keywords": [
+        "speeding",
+        "builds"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PyPjHnKIWpnFHal8RuSmX",
+      "type": "subtopic",
+      "label": "Optimizing Flatlist Config",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -92.6229822365909,
+        "y": 2229.4007482223487
+      },
+      "keywords": [
+        "optimizing",
+        "flatlist",
+        "config"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "u5I-EOnA_yt6AQsRX-qr0",
+      "type": "subtopic",
+      "label": "RAM Bundles + Inline Requires",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -92.6229822365909,
+        "y": 2282.4007482223487
+      },
+      "keywords": [
+        "ram",
+        "bundles",
+        "inline",
+        "requires"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "apXv-E6LvOuOMj3EpzwuA",
+      "type": "subtopic",
+      "label": "Profiling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -92.6229822365909,
+        "y": 2335.4007482223487
+      },
+      "keywords": [
+        "profiling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0BMpZDc-1rSvETwX82zON",
+      "type": "topic",
+      "label": "Using Native Modules",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -701.1381872719935,
+        "y": 2178.4007482223487
+      },
+      "keywords": [
+        "using",
+        "native",
+        "modules"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "b-1-JcwLSGMyH3gXS59lY",
+      "type": "subtopic",
+      "label": "For iOS",
+      "description": "",
+      "category": "mobile",
+      "position": {
+        "x": -708.115904405851,
+        "y": 2092.461728962983
+      },
+      "keywords": [
+        "ios"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wMxTB8WgU6e-oYMtQFCDY",
+      "type": "subtopic",
+      "label": "For Android",
+      "description": "",
+      "category": "mobile",
+      "position": {
+        "x": -601.115904405851,
+        "y": 2092.461728962983
+      },
+      "keywords": [
+        "android"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4U-HZQGH7kaWCB94Xy8Mh",
+      "type": "topic",
+      "label": "Publishing Apps",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -701.1381872719935,
+        "y": 2490.7541881503926
+      },
+      "keywords": [
+        "publishing",
+        "apps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1s9Y1dUtjpW9pu74ipX99",
+      "type": "subtopic",
+      "label": "Apple App store",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -701.1381872719935,
+        "y": 2587.3839027091694
+      },
+      "keywords": [
+        "apple",
+        "app",
+        "store"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D8T9cZ5zKi_KZDr9tDpCf",
+      "type": "subtopic",
+      "label": "Google Play Store",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -701.1381872719935,
+        "y": 2640.3839027091694
+      },
+      "keywords": [
+        "google",
+        "play",
+        "store"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O5dely89N5UCMBeUfh8ud",
+      "type": "paragraph",
+      "label": "Visit the following related roadmaps",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -292.6381872719935,
+        "y": 2456.2541881503926
+      },
+      "keywords": [
+        "visit",
+        "following",
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 410,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f5WRewBlpeYMf71cPcXs-",
+      "type": "button",
+      "label": "React",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -278.62298223659093,
+        "y": 2510.899845583502
+      },
+      "keywords": [
+        "react"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9CJ0oitK0ADsgwMvVZXdq",
+      "type": "button",
+      "label": "Flutter",
+      "description": "",
+      "category": "mobile",
+      "position": {
+        "x": -112.6229822365909,
+        "y": 2510.899845583502
+      },
+      "keywords": [
+        "flutter"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "HU7wZWiES3m3xl1-NYP6F",
+      "target": "JfXwzkN29UGz17FYHHE3A",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "2rlmLn_yQQV-7DpX1qT98",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "cMfsRtvzvDZZJ0TqeUOxm",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "ODQ8zrHc2rsc8PN-APKvz",
+      "type": "default"
+    },
+    {
+      "source": "cSXsu17F1Oy34Wp6J-N3C",
+      "target": "SnF3xtzBh-x4Z_qUQUg7H",
+      "type": "default"
+    },
+    {
+      "source": "cSXsu17F1Oy34Wp6J-N3C",
+      "target": "1oUJXtHGQ29ZZU9sxwGo2",
+      "type": "default"
+    },
+    {
+      "source": "cSXsu17F1Oy34Wp6J-N3C",
+      "target": "lNmddXrT8IHVtWobh3-oq",
+      "type": "default"
+    },
+    {
+      "source": "lNmddXrT8IHVtWobh3-oq",
+      "target": "VhSEH_RoWFt1z2lial7xZ",
+      "type": "default"
+    },
+    {
+      "source": "lNmddXrT8IHVtWobh3-oq",
+      "target": "bxWLf0RDAl9Zaczkon9Rl",
+      "type": "default"
+    },
+    {
+      "source": "lNmddXrT8IHVtWobh3-oq",
+      "target": "yW7nDDJbjmm8XKJI0hq3Q",
+      "type": "default"
+    },
+    {
+      "source": "lNmddXrT8IHVtWobh3-oq",
+      "target": "T4AhL9Zls2iNZMituGdtl",
+      "type": "default"
+    },
+    {
+      "source": "T4AhL9Zls2iNZMituGdtl",
+      "target": "KyKMZ8Aa5XUAIWelGTiSt",
+      "type": "default"
+    },
+    {
+      "source": "T4AhL9Zls2iNZMituGdtl",
+      "target": "fnujIq6QAFB6bmTisuZ3T",
+      "type": "default"
+    },
+    {
+      "source": "fnujIq6QAFB6bmTisuZ3T",
+      "target": "GFGhnx5xUer2DdRI-SO4D",
+      "type": "default"
+    },
+    {
+      "source": "fnujIq6QAFB6bmTisuZ3T",
+      "target": "kkH9H9Qh1FD7sLItoWw69",
+      "type": "default"
+    },
+    {
+      "source": "fnujIq6QAFB6bmTisuZ3T",
+      "target": "OFhyYyxtrCBy_UUb5YBv5",
+      "type": "default"
+    },
+    {
+      "source": "fnujIq6QAFB6bmTisuZ3T",
+      "target": "hHFR59RrdMIWxcQe72qCs",
+      "type": "default"
+    },
+    {
+      "source": "fnujIq6QAFB6bmTisuZ3T",
+      "target": "V34mZCkpoT49o-74XoATS",
+      "type": "default"
+    },
+    {
+      "source": "GrFL32pZ_eOmdJRzSlH8b",
+      "target": "8bn1PFd9h0ek6_T-cl1cS",
+      "type": "default"
+    },
+    {
+      "source": "GrFL32pZ_eOmdJRzSlH8b",
+      "target": "UqCpoPzYio3ng3RFlbvZ7",
+      "type": "default"
+    },
+    {
+      "source": "fnujIq6QAFB6bmTisuZ3T",
+      "target": "x-OZCZcX6uhN3Yr5BAATn",
+      "type": "default"
+    },
+    {
+      "source": "HiUbRfOv8OttFd85pDUHN",
+      "target": "ervpuL89myBW3oR9r-4lH",
+      "type": "default"
+    },
+    {
+      "source": "ervpuL89myBW3oR9r-4lH",
+      "target": "wB0D9koC6jpt1rzX8F07F",
+      "type": "default"
+    },
+    {
+      "source": "ervpuL89myBW3oR9r-4lH",
+      "target": "7GBV5sfOaGxHwpkNUvFWE",
+      "type": "smoothstep"
+    },
+    {
+      "source": "7GBV5sfOaGxHwpkNUvFWE",
+      "target": "CAQJaGs24wx1SqKOU44aB",
+      "type": "default"
+    },
+    {
+      "source": "CAQJaGs24wx1SqKOU44aB",
+      "target": "GYdz9a1yLiewAeMRSyfLr",
+      "type": "default"
+    },
+    {
+      "source": "GYdz9a1yLiewAeMRSyfLr",
+      "target": "nk6zdVNRz_xE71mVUOFsi",
+      "type": "default"
+    },
+    {
+      "source": "GYdz9a1yLiewAeMRSyfLr",
+      "target": "Jr2iuQqyCbx6CyTJj4Qz2",
+      "type": "default"
+    },
+    {
+      "source": "GYdz9a1yLiewAeMRSyfLr",
+      "target": "xf7L5J42yQq3LE7lG2plp",
+      "type": "default"
+    },
+    {
+      "source": "GYdz9a1yLiewAeMRSyfLr",
+      "target": "3NLcPO-hqQV1EacoPLVrv",
+      "type": "default"
+    },
+    {
+      "source": "GYdz9a1yLiewAeMRSyfLr",
+      "target": "A7ZIe8nlQnHU5g3LM3Eif",
+      "type": "default"
+    },
+    {
+      "source": "GYdz9a1yLiewAeMRSyfLr",
+      "target": "dckRzKDKj-mLB3-OxwjPh",
+      "type": "default"
+    },
+    {
+      "source": "dckRzKDKj-mLB3-OxwjPh",
+      "target": "CGtVwhVGc8Vea5RfzJvQG",
+      "type": "default"
+    },
+    {
+      "source": "CGtVwhVGc8Vea5RfzJvQG",
+      "target": "NdjmP1bZNYriV08vb-iRw",
+      "type": "default"
+    },
+    {
+      "source": "CGtVwhVGc8Vea5RfzJvQG",
+      "target": "ee4QqFTosXNcTgoQIok8i",
+      "type": "default"
+    },
+    {
+      "source": "CGtVwhVGc8Vea5RfzJvQG",
+      "target": "LRBHwYiT0Yyi18PwR49rc",
+      "type": "default"
+    },
+    {
+      "source": "CGtVwhVGc8Vea5RfzJvQG",
+      "target": "w0WW1kg_0BEMeLa1l2gb5",
+      "type": "default"
+    },
+    {
+      "source": "w0WW1kg_0BEMeLa1l2gb5",
+      "target": "G15Aey-Spax_iUHpm1v38",
+      "type": "default"
+    },
+    {
+      "source": "G15Aey-Spax_iUHpm1v38",
+      "target": "tR7FOWmBDYg6bn5d4YHzd",
+      "type": "default"
+    },
+    {
+      "source": "G15Aey-Spax_iUHpm1v38",
+      "target": "NIJzKzWlsciAjxUpm4K2v",
+      "type": "default"
+    },
+    {
+      "source": "NIJzKzWlsciAjxUpm4K2v",
+      "target": "LL2ZkB7BuELyY2mPQhkAj",
+      "type": "default"
+    },
+    {
+      "source": "NIJzKzWlsciAjxUpm4K2v",
+      "target": "PyPjHnKIWpnFHal8RuSmX",
+      "type": "default"
+    },
+    {
+      "source": "NIJzKzWlsciAjxUpm4K2v",
+      "target": "afwB90L-q2hIwrA0LtWbG",
+      "type": "default"
+    },
+    {
+      "source": "NIJzKzWlsciAjxUpm4K2v",
+      "target": "1U3AiCDWEVEKsofWtqavi",
+      "type": "default"
+    },
+    {
+      "source": "NIJzKzWlsciAjxUpm4K2v",
+      "target": "u5I-EOnA_yt6AQsRX-qr0",
+      "type": "default"
+    },
+    {
+      "source": "NIJzKzWlsciAjxUpm4K2v",
+      "target": "apXv-E6LvOuOMj3EpzwuA",
+      "type": "default"
+    },
+    {
+      "source": "NIJzKzWlsciAjxUpm4K2v",
+      "target": "0BMpZDc-1rSvETwX82zON",
+      "type": "default"
+    },
+    {
+      "source": "0BMpZDc-1rSvETwX82zON",
+      "target": "4U-HZQGH7kaWCB94Xy8Mh",
+      "type": "default"
+    },
+    {
+      "source": "4U-HZQGH7kaWCB94Xy8Mh",
+      "target": "1s9Y1dUtjpW9pu74ipX99",
+      "type": "default"
+    },
+    {
+      "source": "4U-HZQGH7kaWCB94Xy8Mh",
+      "target": "O5dely89N5UCMBeUfh8ud",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 57
+    },
+    {
+      "name": "topic",
+      "count": 12
+    },
+    {
+      "name": "framework",
+      "count": 11
+    },
+    {
+      "name": "vertical",
+      "count": 10
+    },
+    {
+      "name": "section",
+      "count": 7
+    },
+    {
+      "name": "frontend",
+      "count": 4
+    },
+    {
+      "name": "database",
+      "count": 4
+    },
+    {
+      "name": "testing",
+      "count": 4
+    },
+    {
+      "name": "mobile",
+      "count": 3
+    },
+    {
+      "name": "paragraph",
+      "count": 2
+    },
+    {
+      "name": "programming-language",
+      "count": 2
+    },
+    {
+      "name": "label",
+      "count": 2
+    },
+    {
+      "name": "security",
+      "count": 2
+    },
+    {
+      "name": "horizontal",
+      "count": 1
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    },
+    {
+      "name": "tools",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "tR7FOWmBDYg6bn5d4YHzd",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "tr7fowmbdyg6bn5d4yhzd"
+      ]
+    },
+    {
+      "name": "hJobfOyzU-1jqdExFilz7",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "hjobfoyzu",
+        "1jqdexfilz7"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "Bv-5PX8sSIddQmKtC0NQ-",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "5px8ssiddqmktc0nq"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "pGSRxZZEutXQu1nncm9Uy",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "pgsrxzzeutxqu1nncm9uy"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "ZMHUVvTmbR_OmXTs1k0Sf",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "zmhuvvtmbr_omxts1k0sf"
+      ]
+    },
+    {
+      "name": "Ikohtpq5aBCkJ6-73aaN4",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ikohtpq5abckj6",
+        "73aan4"
+      ]
+    },
+    {
+      "name": "YcjFInaeQBknkTUfpgaYk",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ycjfinaeqbknktufpgayk"
+      ]
+    },
+    {
+      "name": "React Native",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "react",
+        "native"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the interactive version of this roadmap and more roadmaps at",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "What is React Native?",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "react",
+        "native"
+      ]
+    },
+    {
+      "name": "Why use React Native?",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "why",
+        "use",
+        "react",
+        "native"
+      ]
+    },
+    {
+      "name": "Related Roadmaps",
+      "category": "linksgroup",
+      "difficulty": "beginner",
+      "keywords": [
+        "related",
+        "roadmaps"
+      ]
+    },
+    {
+      "name": "React Native Alternatives",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "react",
+        "native",
+        "alternatives"
+      ]
+    },
+    {
+      "name": "Learn the Pre-requisites",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "learn",
+        "pre",
+        "requisites"
+      ]
+    },
+    {
+      "name": "JavaScript Basics",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "javascript",
+        "basics"
+      ]
+    },
+    {
+      "name": "CSS Basics",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "css",
+        "basics"
+      ]
+    },
+    {
+      "name": "Components",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "components"
+      ]
+    },
+    {
+      "name": "State",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "state"
+      ]
+    },
+    {
+      "name": "JSX",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "jsx"
+      ]
+    },
+    {
+      "name": "Props",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "props"
+      ]
+    },
+    {
+      "name": "React Basics",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "react",
+        "basics"
+      ]
+    },
+    {
+      "name": "Environment Setup",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "environment",
+        "setup"
+      ]
+    },
+    {
+      "name": "Expo",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "expo"
+      ]
+    },
+    {
+      "name": "create-expo-app",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "create",
+        "expo",
+        "app"
+      ]
+    },
+    {
+      "name": "Expo Snack",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "expo",
+        "snack"
+      ]
+    },
+    {
+      "name": "Expo Tradeoffs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "expo",
+        "tradeoffs"
+      ]
+    },
+    {
+      "name": "React Native CLI",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "react",
+        "native",
+        "cli"
+      ]
+    },
+    {
+      "name": "Metro Bundler",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "metro",
+        "bundler"
+      ]
+    },
+    {
+      "name": "Development Workflow",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "development",
+        "workflow"
+      ]
+    },
+    {
+      "name": "Running on Device",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "running",
+        "device"
+      ]
+    },
+    {
+      "name": "Debugging",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "debugging"
+      ]
+    },
+    {
+      "name": "In-App Developer Menu",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "app",
+        "developer",
+        "menu"
+      ]
+    },
+    {
+      "name": "Enabling Fast Refresh",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "enabling",
+        "fast",
+        "refresh"
+      ]
+    },
+    {
+      "name": "LogBox",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "logbox"
+      ]
+    },
+    {
+      "name": "Sourcemaps",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "sourcemaps"
+      ]
+    },
+    {
+      "name": "DevTools",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "devtools"
+      ]
+    },
+    {
+      "name": "Core Components",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "core",
+        "components"
+      ]
+    },
+    {
+      "name": "Text",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "text"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 124,
+    "totalEdges": 50,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:11:04.357Z",
+    "version": "2.0"
+  }
+}

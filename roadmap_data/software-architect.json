@@ -1,0 +1,4213 @@
+{
+  "name": "software-architect",
+  "title": "Software Architect",
+  "nodes": [
+    {
+      "id": "HaPjaHngq_QXfsGqfVnj-",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -142.86817520709303,
+        "y": 1860.050314077109
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3wUggQOHRXp1cG9e0RrRL",
+      "type": "section",
+      "label": "3wUggQOHRXp1cG9e0RrRL",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -311.45679584154783,
+        "y": 1985.319351034787
+      },
+      "keywords": [
+        "3wuggqohrxp1cg9e0rrrl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 164
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KLmz1sHYqS_SE65Jd22qe",
+      "type": "section",
+      "label": "KLmz1sHYqS_SE65Jd22qe",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -308.40212184953555,
+        "y": 1698.050314077109
+      },
+      "keywords": [
+        "klmz1shyqs_se65jd22qe"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 162
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BZl8WjxR6OBpYI7btJ7Z4",
+      "type": "section",
+      "label": "BZl8WjxR6OBpYI7btJ7Z4",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 481.8910035611806,
+        "y": 1605.198473727102
+      },
+      "keywords": [
+        "bzl8wjxr6obpyi7btj7z4"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 160
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4dmGhZzyRHLp5kW_QLhFG",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 348.4771710739557,
+        "y": 761.9367950897802
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-B9_tpFcjP76sRfklGI91",
+      "type": "section",
+      "label": "-B9_tpFcjP76sRfklGI91",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 46.477171073955674,
+        "y": 458.43679508978016
+      },
+      "keywords": [
+        "b9_tpfcjp76srfklgi91"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303,
+          "height": 342
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "niKLPwmuH0-UH6WY9Lhk-",
+      "type": "section",
+      "label": "niKLPwmuH0-UH6WY9Lhk-",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 390.72005963135257,
+        "y": 96.05752747542311
+      },
+      "keywords": [
+        "niklpwmuh0",
+        "uh6wy9lhk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 352,
+          "height": 175
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tbmunGk2lG74hVWv_W8lN",
+      "type": "title",
+      "label": "Software Architect",
+      "description": "",
+      "category": "title",
+      "position": {
+        "x": 61.527349227807406,
+        "y": 40.31163847670996
+      },
+      "keywords": [
+        "software",
+        "architect"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Bkiz775Up6nX6I4ZjNeq5",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 186.5273492278074,
+        "y": -44.68836152329004
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 85
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4zicbh7Wg2lmKSRhb6E-L",
+      "type": "topic",
+      "label": "Understand the Basics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 68.47717107395567,
+        "y": 260.222809792092
+      },
+      "keywords": [
+        "understand",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 259,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EGG99VA-PEdWdVxNDLtG_",
+      "type": "subtopic",
+      "label": "What is Software Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -314.9127590352981,
+        "y": 205.80206058696632
+      },
+      "keywords": [
+        "what",
+        "software",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "eG38hT0rotYJ3G-t9df9R",
+      "type": "subtopic",
+      "label": "What is a Software Architect",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -314.9127590352981,
+        "y": 258.8020605869663
+      },
+      "keywords": [
+        "what",
+        "software",
+        "architect"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2sR4KULvAUUoOtopvsEBs",
+      "type": "subtopic",
+      "label": "Levels of Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -314.9127590352981,
+        "y": 311.8020605869663
+      },
+      "keywords": [
+        "levels",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "Lqe47l4j-C4OwkbkwPYry",
+      "type": "subtopic",
+      "label": "Application Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -314.9127590352981,
+        "y": 399.1970427715811
+      },
+      "keywords": [
+        "application",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "uGs-9xE3DMJxKhenltbFK",
+      "type": "subtopic",
+      "label": "Solution Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -314.9127590352981,
+        "y": 452.1970427715811
+      },
+      "keywords": [
+        "solution",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "vlW07sc-FQnxPMjDMn8_F",
+      "type": "subtopic",
+      "label": "Enterprise Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -314.9127590352981,
+        "y": 505.19704277158115
+      },
+      "keywords": [
+        "enterprise",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "-1CN6Aid4t6LizfUPHZl0",
+      "type": "paragraph",
+      "label": "Describes how an application is built including its components, how they interact with each other, environment in which they operate and so on.",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 409.77040727110045,
+        "y": 146.165003481839
+      },
+      "keywords": [
+        "describes",
+        "how",
+        "application",
+        "built",
+        "including",
+        "its",
+        "components",
+        "they",
+        "interact",
+        "each",
+        "other",
+        "environment",
+        "which",
+        "operate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EdKaiAzDHy0l2GdboCABn",
+      "type": "paragraph",
+      "label": "Software Architecture",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 409.77040727110045,
+        "y": 112.165003481839
+      },
+      "keywords": [
+        "software",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 35
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "7AbVOnkYRf5nCmlGgsqaa",
+      "type": "section",
+      "label": "7AbVOnkYRf5nCmlGgsqaa",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 390.2550655698143,
+        "y": 292.36368097542015
+      },
+      "keywords": [
+        "7abvonkyrf5ncmlggsqaa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 352,
+          "height": 175
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "x5V5daeZ5VDcgKqGXvjA7",
+      "type": "paragraph",
+      "label": "A software expert who makes high level software design choices, including technical standards, tools, design principles, platforms to be used, etc.",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 409.77040727110045,
+        "y": 342.47115698183603
+      },
+      "keywords": [
+        "software",
+        "expert",
+        "who",
+        "makes",
+        "high",
+        "level",
+        "design",
+        "choices",
+        "including",
+        "technical",
+        "standards",
+        "tools",
+        "principles",
+        "platforms",
+        "used"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "T44pv88xPxh_JipwWpRLi",
+      "type": "paragraph",
+      "label": "Software Architect",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 409.77040727110045,
+        "y": 308.47115698183603
+      },
+      "keywords": [
+        "software",
+        "architect"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 34
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rUxbG2S2nJuA1YVY6sjiX",
+      "type": "topic",
+      "label": "Responsibilities",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 46.477171073955674,
+        "y": 433.93679508978016
+      },
+      "keywords": [
+        "responsibilities"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3rzjC7Y05bOvY4B3y69hn",
+      "type": "paragraph",
+      "label": "Tech Decisions",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 53.977171073955674,
+        "y": 490.93679508978016
+      },
+      "keywords": [
+        "tech",
+        "decisions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 39
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K-doenNgxcrnoGTeX18RI",
+      "type": "paragraph",
+      "label": "Design & Architecture Decisions",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 53.977171073955674,
+        "y": 533.9367950897802
+      },
+      "keywords": [
+        "design",
+        "architecture",
+        "decisions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 39
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "RD-XVnyRBnLnNnYJwsJe7",
+      "type": "paragraph",
+      "label": "Requirements Elicitation",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 53.977171073955674,
+        "y": 577.9367950897802
+      },
+      "keywords": [
+        "requirements",
+        "elicitation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2ij7YJCqkRQwMCrM3isjN",
+      "type": "paragraph",
+      "label": "Documentation",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 53.977171073955674,
+        "y": 619.9367950897802
+      },
+      "keywords": [
+        "documentation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 40
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "35YVxotPwXi4Zpjauc8-P",
+      "type": "paragraph",
+      "label": "Enforcing Standards",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 53.977171073955674,
+        "y": 663.9367950897802
+      },
+      "keywords": [
+        "enforcing",
+        "standards"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 40
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BxWxDufL8BviuG9qp6fg9",
+      "type": "paragraph",
+      "label": "Collaborate with Others",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 53.977171073955674,
+        "y": 707.9367950897802
+      },
+      "keywords": [
+        "collaborate",
+        "others"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 40
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dwpl-QlN9EzpSsLKfDZiU",
+      "type": "paragraph",
+      "label": "Consult & Coach Developers",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 53.977171073955674,
+        "y": 751.9367950897802
+      },
+      "keywords": [
+        "consult",
+        "coach",
+        "developers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 40
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lBtlDFPEQvQ_xtLtehU0S",
+      "type": "topic",
+      "label": "Important Skills to Learn",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 753.213248721831
+      },
+      "keywords": [
+        "important",
+        "skills",
+        "learn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fBd2m8tMJmhuNSaakrpg4",
+      "type": "subtopic",
+      "label": "Design & Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 505.21324872183095
+      },
+      "keywords": [
+        "design",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "MSDo0nPk_ghRYkZS4MAQ_",
+      "type": "subtopic",
+      "label": "Decision Making",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 558.213248721831
+      },
+      "keywords": [
+        "decision",
+        "making"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lrtgF1RTaS4TCKww0aY6C",
+      "type": "subtopic",
+      "label": "Simplifying Things",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 611.213248721831
+      },
+      "keywords": [
+        "simplifying",
+        "things"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "77KvWCA1oHSGgDKBTwjv7",
+      "type": "subtopic",
+      "label": "How to Code",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 664.213248721831
+      },
+      "keywords": [
+        "how",
+        "code"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5D-kbQ520k1D3fCtD01T7",
+      "type": "subtopic",
+      "label": "Documentation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 859.213248721831
+      },
+      "keywords": [
+        "documentation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ac49sOlQKblYK4FZuFHDR",
+      "type": "subtopic",
+      "label": "Communication",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 912.213248721831
+      },
+      "keywords": [
+        "communication"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m0ZYdqPFDoHOPo18wKyvV",
+      "type": "subtopic",
+      "label": "Estimate and Evaluate",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 965.213248721831
+      },
+      "keywords": [
+        "estimate",
+        "evaluate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "otHQ6ye1xgkI1qb4tEHVF",
+      "type": "subtopic",
+      "label": "Balance",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 1018.213248721831
+      },
+      "keywords": [
+        "balance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LSWlk9A3b6hco9Il_elao",
+      "type": "subtopic",
+      "label": "Consult & Coach",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 1071.213248721831
+      },
+      "keywords": [
+        "consult",
+        "coach"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YW6j3Sg511dXToTcwSnOS",
+      "type": "subtopic",
+      "label": "Marketing Skills",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 1124.213248721831
+      },
+      "keywords": [
+        "marketing",
+        "skills"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hFx3mLqh5omNxqI9lfaAQ",
+      "type": "topic",
+      "label": "Technical Skills",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 137.47717107395567,
+        "y": 843.213248721831
+      },
+      "keywords": [
+        "technical",
+        "skills"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uoDtVFThaV6OMK2wXGfP5",
+      "type": "topic",
+      "label": "Programming Languages",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -311.4127590352981,
+        "y": 843.213248721831
+      },
+      "keywords": [
+        "programming",
+        "languages"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a5DB_hsD4bAf8BtHNFNPo",
+      "type": "subtopic",
+      "label": "Java / Kotlin / Scala",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -311.86817520709303,
+        "y": 587.51163847671
+      },
+      "keywords": [
+        "java",
+        "kotlin",
+        "scala"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j2Ph2QcKwmKlbaMHz1l_i",
+      "type": "subtopic",
+      "label": "Python",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -311.86817520709303,
+        "y": 640.51163847671
+      },
+      "keywords": [
+        "python"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "U_Hmzfjjs1jVtu2CZ0TlG",
+      "type": "subtopic",
+      "label": "Ruby",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -217.86817520709303,
+        "y": 640.51163847671
+      },
+      "keywords": [
+        "ruby"
+      ],
+      "metadata": {
+        "style": {
+          "width": 76,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nKlM9k4qAh4wBFXqM-2kC",
+      "type": "subtopic",
+      "label": "Go",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -138.86817520709303,
+        "y": 640.51163847671
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bhP5gMpRVebSFpCeHVXBj",
+      "type": "subtopic",
+      "label": "JavaScript / TypeScript",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -311.86817520709303,
+        "y": 693.51163847671
+      },
+      "keywords": [
+        "javascript",
+        "typescript"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D1IXOBUrrXf5bXhVu9cmI",
+      "type": "subtopic",
+      "label": ".NET Framework Based",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -311.86817520709303,
+        "y": 746.51163847671
+      },
+      "keywords": [
+        "net",
+        "framework",
+        "based"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "_U0VoTkqM1d6NR13p5azS",
+      "type": "topic",
+      "label": "Patterns & Design Principles",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -311.86817520709303,
+        "y": 968.01163847671
+      },
+      "keywords": [
+        "patterns",
+        "design",
+        "principles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AMDLJ_Bup-AY1chl_taV3",
+      "type": "subtopic",
+      "label": "OOP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -307.86817520709303,
+        "y": 1167.213248721831
+      },
+      "keywords": [
+        "oop"
+      ],
+      "metadata": {
+        "style": {
+          "width": 135,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jj5otph6mEYiR-oU5WVtT",
+      "type": "subtopic",
+      "label": "MVC, MVP, MVVM",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -307.86817520709303,
+        "y": 1061.213248721831
+      },
+      "keywords": [
+        "mvc",
+        "mvp",
+        "mvvm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RsnN5bt8OhSMjSFmVgw-X",
+      "type": "subtopic",
+      "label": "CQRS, Eventual Consistency",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -307.86817520709303,
+        "y": 1114.213248721831
+      },
+      "keywords": [
+        "cqrs",
+        "eventual",
+        "consistency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AoWO2BIKG5X4JWir6kh5r",
+      "type": "subtopic",
+      "label": "Actors",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -169.86817520709303,
+        "y": 1167.213248721831
+      },
+      "keywords": [
+        "actors"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bbKEEk7dvfFZBBJaIjm0j",
+      "type": "subtopic",
+      "label": "ACID, CAP Theorem",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -307.86817520709303,
+        "y": 1220.213248721831
+      },
+      "keywords": [
+        "acid",
+        "cap",
+        "theorem"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QNG-KP01WQnq8o1-In1-n",
+      "type": "subtopic",
+      "label": "SOLID",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -307.86817520709303,
+        "y": 1273.213248721831
+      },
+      "keywords": [
+        "solid"
+      ],
+      "metadata": {
+        "style": {
+          "width": 96,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DnP66pjK3b8tCtYr05n2G",
+      "type": "subtopic",
+      "label": "TDD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -207.86817520709303,
+        "y": 1273.213248721831
+      },
+      "keywords": [
+        "tdd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IIelzs8XYMPnXabFKRI51",
+      "type": "subtopic",
+      "label": "DDD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -122.86817520709303,
+        "y": 1273.213248721831
+      },
+      "keywords": [
+        "ddd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "diu8MyHxZuZSdhavYVj1T",
+      "type": "topic",
+      "label": "Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 47.63182479290697,
+        "y": 968.01163847671
+      },
+      "keywords": [
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZEzYb-i55hBe9kK3bla94",
+      "type": "subtopic",
+      "label": "Git",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 282.63182479290697,
+        "y": 915.01163847671
+      },
+      "keywords": [
+        "git"
+      ],
+      "metadata": {
+        "style": {
+          "width": 71,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CYnUg_okOcRrD7fSllxLW",
+      "type": "subtopic",
+      "label": "Slack",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 282.63182479290697,
+        "y": 968.01163847671
+      },
+      "keywords": [
+        "slack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 159
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a6joS9WXg-rbw29_KfBd9",
+      "type": "subtopic",
+      "label": "Trello",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 282.63182479290697,
+        "y": 1021.01163847671
+      },
+      "keywords": [
+        "trello"
+      ],
+      "metadata": {
+        "style": {
+          "width": 159
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3bpd0iZTd3G-H8A7yrExY",
+      "type": "subtopic",
+      "label": "Atlassian Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 282.63182479290697,
+        "y": 1074.01163847671
+      },
+      "keywords": [
+        "atlassian",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 160,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PyTuVs08_z4EhLwhTYzFu",
+      "type": "subtopic",
+      "label": "GitHub",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 356.63182479290697,
+        "y": 915.01163847671
+      },
+      "keywords": [
+        "github"
+      ],
+      "metadata": {
+        "style": {
+          "width": 86,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SuMhTyaBS9vwASxAt39DH",
+      "type": "topic",
+      "label": "Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 47.63182479290697,
+        "y": 968.01163847671
+      },
+      "keywords": [
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OaLmlfkZid7hKqJ9G8oNV",
+      "type": "topic",
+      "label": "Architecture",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 47.63182479290697,
+        "y": 1110.213248721831
+      },
+      "keywords": [
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "FAXKxl3fWUFShYmoCsInZ",
+      "type": "subtopic",
+      "label": "Serverless",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 17.13182479290697,
+        "y": 1247.213248721831
+      },
+      "keywords": [
+        "serverless"
+      ],
+      "metadata": {
+        "style": {
+          "width": 200,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mka_DwiboH5sGFhXhk6ez",
+      "type": "subtopic",
+      "label": "Client / Server",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 17.13182479290697,
+        "y": 1300.213248721831
+      },
+      "keywords": [
+        "client",
+        "server"
+      ],
+      "metadata": {
+        "style": {
+          "width": 200,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "05hLO2_A8Tr6cLJGFRhOh",
+      "type": "subtopic",
+      "label": "Layered",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 17.13182479290697,
+        "y": 1353.213248721831
+      },
+      "keywords": [
+        "layered"
+      ],
+      "metadata": {
+        "style": {
+          "width": 200,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j7OP6RD_IAU6HsyiGaynx",
+      "type": "subtopic",
+      "label": "Distributed Systems",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 17.13182479290697,
+        "y": 1406.213248721831
+      },
+      "keywords": [
+        "distributed",
+        "systems"
+      ],
+      "metadata": {
+        "style": {
+          "width": 200,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6uvmMgvOwGyuLC5TOhjFu",
+      "type": "subtopic",
+      "label": "Service Oriented",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 17.13182479290697,
+        "y": 1459.213248721831
+      },
+      "keywords": [
+        "service",
+        "oriented"
+      ],
+      "metadata": {
+        "style": {
+          "width": 200,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IzFTn5-tQuF_Z0cG_w6CW",
+      "type": "topic",
+      "label": "Security",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 267.09445895848086,
+        "y": 1256.51163847671
+      },
+      "keywords": [
+        "security"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7tBAD0ox9hTK4D483GTRo",
+      "type": "subtopic",
+      "label": "Hashing Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 1203.51163847671
+      },
+      "keywords": [
+        "hashing",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OpL2EqvHbUmFgnpuhtZPr",
+      "type": "subtopic",
+      "label": "PKI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 1256.51163847671
+      },
+      "keywords": [
+        "pki"
+      ],
+      "metadata": {
+        "style": {
+          "width": 104,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KhqUK-7jdClu9M2Pq7x--",
+      "type": "subtopic",
+      "label": "OWASP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 612.2550655698143,
+        "y": 1256.51163847671
+      },
+      "keywords": [
+        "owasp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 130,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KiwFXB6yd0go30zAFMTJt",
+      "type": "subtopic",
+      "label": "Auth Strategies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 504.2550655698143,
+        "y": 1309.51163847671
+      },
+      "keywords": [
+        "auth",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YCJYRA3b-YSm8vKmGUFk5",
+      "type": "topic",
+      "label": "Working with Data",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 236.09445895848086,
+        "y": 1443.198473727102
+      },
+      "keywords": [
+        "working",
+        "data"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "92GG4IRZ3FijumC94aL-T",
+      "type": "subtopic",
+      "label": "Hadoop, Spark, MapReduce",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 483.39100356118047,
+        "y": 1390.198473727102
+      },
+      "keywords": [
+        "hadoop",
+        "spark",
+        "mapreduce"
+      ],
+      "metadata": {
+        "style": {
+          "width": 261
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JUFE4OQhnXOt1J_MG-Sjf",
+      "type": "subtopic",
+      "label": "ETL, Datawarehouses",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 483.39100356118047,
+        "y": 1443.198473727102
+      },
+      "keywords": [
+        "etl",
+        "datawarehouses"
+      ],
+      "metadata": {
+        "style": {
+          "width": 261
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "n5AcBt_u8qtTe3PP9svPZ",
+      "type": "subtopic",
+      "label": "SQL Databases",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 483.39100356118047,
+        "y": 1496.198473727102
+      },
+      "keywords": [
+        "sql",
+        "databases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 261
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "57liQPaPyVpE-mdLnsbi0",
+      "type": "subtopic",
+      "label": "NoSQL Databases",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 483.39100356118047,
+        "y": 1549.198473727102
+      },
+      "keywords": [
+        "nosql",
+        "databases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 261
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "a0baFv7hVWZGvS5VLh5ig",
+      "type": "subtopic",
+      "label": "Apache Spark",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 490.8910035611806,
+        "y": 1653.198473727102
+      },
+      "keywords": [
+        "apache",
+        "spark"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I_VjjmMK52_tS8qjQUspN",
+      "type": "subtopic",
+      "label": "Hadoop",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 649.8910035611806,
+        "y": 1653.198473727102
+      },
+      "keywords": [
+        "hadoop"
+      ],
+      "metadata": {
+        "style": {
+          "width": 88,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "B5YtP8C1A0jB3MOdg0c_q",
+      "type": "subtopic",
+      "label": "Datawarehouse Principles",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 490.8910035611806,
+        "y": 1707.198473727102
+      },
+      "keywords": [
+        "datawarehouse",
+        "principles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7uGRbqYB-FpHb7H0Cgkmu",
+      "type": "label",
+      "label": "Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 572.8910035611806,
+        "y": 1613.198473727102
+      },
+      "keywords": [
+        "analytics"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ocn7-ctpnl71ZCZ_uV-uD",
+      "type": "topic",
+      "label": "APIs & Integrations",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 231.59445895848086,
+        "y": 1534.0024061639958
+      },
+      "keywords": [
+        "apis",
+        "integrations"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "priDGksAvJ05YzakkTFtM",
+      "type": "subtopic",
+      "label": "gRPC",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 229.59445895848086,
+        "y": 1617.2550651624274
+      },
+      "keywords": [
+        "grpc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fELnBA0eOoE-d9rSmDJ8l",
+      "type": "subtopic",
+      "label": "ESB, SOAP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 229.59445895848086,
+        "y": 1670.2550651624274
+      },
+      "keywords": [
+        "esb",
+        "soap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Sp3FdPT4F9YnTGvlE_vyq",
+      "type": "subtopic",
+      "label": "GraphQL",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 323.59445895848086,
+        "y": 1723.2550651624274
+      },
+      "keywords": [
+        "graphql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ss43xwK1ydEToj6XmmCt7",
+      "type": "subtopic",
+      "label": "REST",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 228.59445895848086,
+        "y": 1723.2550651624274
+      },
+      "keywords": [
+        "rest"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DwNda95-fE7LWnDA6u1LU",
+      "type": "subtopic",
+      "label": "BPM, BPEL",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 228.59445895848086,
+        "y": 1776.2550651624274
+      },
+      "keywords": [
+        "bpm",
+        "bpel"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4NVdEbmpQVHpBc7582S6E",
+      "type": "subtopic",
+      "label": "Messaging Queues",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 228.59445895848086,
+        "y": 1829.2550651624274
+      },
+      "keywords": [
+        "messaging",
+        "queues"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "type": "topic",
+      "label": "Web, Mobile",
+      "description": "",
+      "category": "mobile",
+      "position": {
+        "x": 46.13182479290697,
+        "y": 1534.0024061639958
+      },
+      "keywords": [
+        "web",
+        "mobile"
+      ],
+      "metadata": {
+        "style": {
+          "width": 142,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6FDGecsHbqY-cm32yTZJa",
+      "type": "subtopic",
+      "label": "Functional Programming",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -310.400653829474,
+        "y": 1426.9953697065484
+      },
+      "keywords": [
+        "functional",
+        "programming"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mCiYCbKIOVU34qil_q7Hg",
+      "type": "subtopic",
+      "label": "React, Vue, Angular",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -310.400653829474,
+        "y": 1479.9953697065484
+      },
+      "keywords": [
+        "react",
+        "vue",
+        "angular"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ulwgDCQi_BYx5lmll7pzU",
+      "type": "subtopic",
+      "label": "SPA, SSR, SSG",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -310.400653829474,
+        "y": 1532.9953697065484
+      },
+      "keywords": [
+        "spa",
+        "ssr",
+        "ssg"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vpko5Kyf6BZ5MHpxXOKaf",
+      "type": "subtopic",
+      "label": "Microfrontends",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -310.400653829474,
+        "y": 1585.9953697065484
+      },
+      "keywords": [
+        "microfrontends"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s0RvufK2PLMXtlsn2KAUN",
+      "type": "subtopic",
+      "label": "W3C and WHATWG",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -310.400653829474,
+        "y": 1638.9953697065484
+      },
+      "keywords": [
+        "w3c",
+        "whatwg"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C0g_kQFlte5siHMHwlHQb",
+      "type": "subtopic",
+      "label": "Reactive Programming",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -310.400653829474,
+        "y": 1373.9953697065484
+      },
+      "keywords": [
+        "reactive",
+        "programming"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hjlkxYZS7Zf9En3IUS-Wm",
+      "type": "topic",
+      "label": "Frameworks",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 54.13182479290697,
+        "y": 1652.198473727102
+      },
+      "keywords": [
+        "frameworks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "LQlzVxUxM3haWRwbhYHKY",
+      "type": "subtopic",
+      "label": "BABOK",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 54.13182479290697,
+        "y": 1729.6968401239587
+      },
+      "keywords": [
+        "babok"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wFu9VO48EYbIQrsM8YUCj",
+      "type": "subtopic",
+      "label": "IAF",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 54.13182479290697,
+        "y": 1782.6968401239587
+      },
+      "keywords": [
+        "iaf"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8FTKnAKNL9LnZBrw9YXqK",
+      "type": "subtopic",
+      "label": "UML",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 54.13182479290697,
+        "y": 1835.6968401239587
+      },
+      "keywords": [
+        "uml"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5TDTU22Fla2mRr6JeOcaY",
+      "type": "subtopic",
+      "label": "TOGAF",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 54.13182479290697,
+        "y": 1888.6968401239587
+      },
+      "keywords": [
+        "togaf"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UyIwiIiKaa6LTQaqzbCam",
+      "type": "topic",
+      "label": "Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -224.40065382947398,
+        "y": 1897.4952156939685
+      },
+      "keywords": [
+        "management"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hRug9yJKYacB9X_2cUalR",
+      "type": "subtopic",
+      "label": "PMI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -300.40212184953555,
+        "y": 1706.050314077109
+      },
+      "keywords": [
+        "pmi"
+      ],
+      "metadata": {
+        "style": {
+          "width": 71,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Rq1Wi-cHjS54SYo-Btp-e",
+      "type": "subtopic",
+      "label": "ITIL",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -226.40212184953555,
+        "y": 1706.050314077109
+      },
+      "keywords": [
+        "itil"
+      ],
+      "metadata": {
+        "style": {
+          "width": 71,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SJ5lrlvyXgtAwOx4wvT2W",
+      "type": "subtopic",
+      "label": "Prince2",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -301.1965145742373,
+        "y": 1760.050314077109
+      },
+      "keywords": [
+        "prince2"
+      ],
+      "metadata": {
+        "style": {
+          "width": 215,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7rudOREGG-TTkCosU0hNw",
+      "type": "subtopic",
+      "label": "RUP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -152.40212184953555,
+        "y": 1706.050314077109
+      },
+      "keywords": [
+        "rup"
+      ],
+      "metadata": {
+        "style": {
+          "width": 66,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VW5wxTaGFAgplYadcSKP7",
+      "type": "label",
+      "label": "Certifications",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -251.90212184953555,
+        "y": 1815.050314077109
+      },
+      "keywords": [
+        "certifications"
+      ],
+      "metadata": {
+        "style": {
+          "width": 118
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4kW6EUtdDfIN80z4nOMFS",
+      "type": "label",
+      "label": "Agile Model",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -255.45679584154783,
+        "y": 2103.449136096591
+      },
+      "keywords": [
+        "agile",
+        "model"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qwpsGRFgzAYstM7bJA2ZJ",
+      "type": "subtopic",
+      "label": "LeSS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -303.45679584154783,
+        "y": 1993.319351034787
+      },
+      "keywords": [
+        "less"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 76
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Bg7ru1q1j6pNB43HGxnHT",
+      "type": "subtopic",
+      "label": "SaFE",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -224.45679584154783,
+        "y": 1993.319351034787
+      },
+      "keywords": [
+        "safe"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 76
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O7H6dt3Z7EKohxfJzwbPM",
+      "type": "subtopic",
+      "label": "Kanban",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -304.5129378536217,
+        "y": 2046.319351034787
+      },
+      "keywords": [
+        "kanban"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 101
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PKqwKvoffm0unwcFwpojk",
+      "type": "subtopic",
+      "label": "Scrum",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -200.38008047930697,
+        "y": 2046.319351034787
+      },
+      "keywords": [
+        "scrum"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 110
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7fL9lSu4BD1wRjnZy9tM9",
+      "type": "subtopic",
+      "label": "XP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -145.45679584154783,
+        "y": 1993.319351034787
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 56,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cBWJ6Duw99tSKr7U6OW3A",
+      "type": "topic",
+      "label": "Networks",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 53.02174042035165,
+        "y": 1963.5613549649484
+      },
+      "keywords": [
+        "networks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Mt5W1IvuHevNXVRlh7z26",
+      "type": "subtopic",
+      "label": "OSI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 38.02174042035165,
+        "y": 2035.0393153503123
+      },
+      "keywords": [
+        "osi"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UCCT7-E_QUKPg3jAsjobx",
+      "type": "subtopic",
+      "label": "TCP/IP Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 38.02174042035165,
+        "y": 2088.0393153503123
+      },
+      "keywords": [
+        "tcp",
+        "model"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Nq6o6Ty8VyNRsvg-UWp7D",
+      "type": "subtopic",
+      "label": "HTTP, HTTPS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 38.02174042035165,
+        "y": 2141.0393153503123
+      },
+      "keywords": [
+        "http",
+        "https"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6_EOmU5GYGDGzmNoLY8cB",
+      "type": "subtopic",
+      "label": "Proxies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 38.02174042035165,
+        "y": 2194.0393153503123
+      },
+      "keywords": [
+        "proxies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Hqk_GGsFi14SI5fgPSoGV",
+      "type": "subtopic",
+      "label": "Firewalls",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 38.02174042035165,
+        "y": 2247.0393153503123
+      },
+      "keywords": [
+        "firewalls"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EdJhuNhMSWjeVxGW-RZtL",
+      "type": "topic",
+      "label": "Operations Knowledge",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 219.62236418857248,
+        "y": 1963.5613549649484
+      },
+      "keywords": [
+        "operations",
+        "knowledge"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "igf9yp1lRdAlN5gyQ8HHC",
+      "type": "subtopic",
+      "label": "Infrastructure as Code",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 1801.7604150408933
+      },
+      "keywords": [
+        "infrastructure",
+        "code"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C0rKd5Rr27Z1_GleoEZxF",
+      "type": "subtopic",
+      "label": "Cloud Providers",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 1854.7604150408933
+      },
+      "keywords": [
+        "cloud",
+        "providers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WoXoVwkSqXTP5U8HtyJOL",
+      "type": "subtopic",
+      "label": "Serverless Concepts",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 1907.7604150408933
+      },
+      "keywords": [
+        "serverless",
+        "concepts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XnvlRrOhdoMsiGwGEhBro",
+      "type": "subtopic",
+      "label": "Linux / Unix",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 1960.7604150408933
+      },
+      "keywords": [
+        "linux",
+        "unix"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OErbfM-H3laFm47GCHNPI",
+      "type": "subtopic",
+      "label": "Service Mesh",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 2013.7604150408933
+      },
+      "keywords": [
+        "service",
+        "mesh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "isavRe4ANVn77ZX6gNSLH",
+      "type": "subtopic",
+      "label": "CI / CD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 2066.7604150408933
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l3oeo65FyV5HHvw5n_1wa",
+      "type": "subtopic",
+      "label": "Containers",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 2119.7604150408933
+      },
+      "keywords": [
+        "containers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CxceVdaNCyKDhs0huDtcL",
+      "type": "subtopic",
+      "label": "Cloud Design Patterns",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 2172.7604150408933
+      },
+      "keywords": [
+        "cloud",
+        "design",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "glz8FmnkNhdmgBUj3EeL2",
+      "type": "button",
+      "label": "Visit DevOps Roadmap",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 517.3511997578869,
+        "y": 2225.7604150408933
+      },
+      "keywords": [
+        "visit",
+        "devops",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8yALyPVUZPtd7LX3GrO1e",
+      "type": "topic",
+      "label": "Enterprise Software",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 231.12236418857248,
+        "y": 2394.1340715881647
+      },
+      "keywords": [
+        "enterprise",
+        "software"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gdtI0H_PzzTj_aFQn_NeA",
+      "type": "subtopic",
+      "label": "MS Dynamics",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -217.58070017726277,
+        "y": 2315.971559527482
+      },
+      "keywords": [
+        "dynamics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 310
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TxWAznp1tUtZ1MvThf9M1",
+      "type": "subtopic",
+      "label": "SAP ERP, HANA, Business Objects",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -217.58070017726277,
+        "y": 2368.971559527482
+      },
+      "keywords": [
+        "sap",
+        "erp",
+        "hana",
+        "business",
+        "objects"
+      ],
+      "metadata": {
+        "style": {
+          "width": 310
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YfYviOXqGVp9C6DuhqBrn",
+      "type": "subtopic",
+      "label": "EMC DMS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -217.58070017726277,
+        "y": 2421.971559527482
+      },
+      "keywords": [
+        "emc",
+        "dms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 161,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5EVecZmvor09LjD7WR_Y9",
+      "type": "subtopic",
+      "label": "IBM BPM",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -52.580700177262884,
+        "y": 2421.971559527482
+      },
+      "keywords": [
+        "ibm",
+        "bpm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mOXyzdNn8W-9R99ffcnor",
+      "type": "subtopic",
+      "label": "Salesforce",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -217.58070017726277,
+        "y": 2474.971559527482
+      },
+      "keywords": [
+        "salesforce"
+      ],
+      "metadata": {
+        "style": {
+          "width": 310
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ju00mr0KLGN2BV6yEQGPt",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 319.6223641885725,
+        "y": 2675.8489889520815
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 104
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "paragraph",
+      "label": "Visit the following relevant roadmaps and keep learning",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -0.377635811427524,
+        "y": 2588.4929641767267
+      },
+      "keywords": [
+        "visit",
+        "following",
+        "relevant",
+        "roadmaps",
+        "keep",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 661,
+          "height": 116
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gC8lsIdYLRzo3HzwVqtm1",
+      "type": "button",
+      "label": "Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 10.84398263919212,
+        "y": 2644.1746462644314
+      },
+      "keywords": [
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 167,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "U4YFpc82iJ60qD3aYnJkt",
+      "type": "button",
+      "label": "System Design",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 180.84398263919212,
+        "y": 2644.1746462644314
+      },
+      "keywords": [
+        "system",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 181,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "uSLzfLPXxS5-P7ozscvjZ",
+      "type": "button",
+      "label": "Software Design & Architecture",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 364.8439826391921,
+        "y": 2644.1746462644314
+      },
+      "keywords": [
+        "software",
+        "design",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 387.8763900167917,
+        "y": -64.07316744617222
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 401.0797644295918,
+        "y": 17.91239597157309
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "X3IC3D4MqkxpS6s99vdj-",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -314.9127590352981,
+        "y": -64.07316744617222
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 321,
+          "height": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "b6lCGw82qKpUmsxe1r1f5",
+      "type": "subtopic",
+      "label": "Microservices",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 17.13182479290697,
+        "y": 1194.213248721831
+      },
+      "keywords": [
+        "microservices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 200,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "_hYN0gEi9BL24nptEtXWU",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "idLHBxhvcIqZTqmh_E8Az",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "os3Pa6W9SSNEzgmlBbglQ",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "3oInpqvTSSC5_K6i7j8N7",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "YKhuRbcUFzo0hTvuTq-Yl",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "hWA7RtuqltMTmHdcCnmES",
+      "type": "default"
+    },
+    {
+      "target": "NMznG9mo2wzNFnjhg990f",
+      "type": "default"
+    },
+    {
+      "target": "gc_7cuIO2_joKlQRAPDfX",
+      "type": "default"
+    },
+    {
+      "source": "rrrvATyhXqRgJGWI3z0WF",
+      "target": "AvbMQ5vY3ip1oX_6Yq4ie",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "1AJv95mTLpR7L8KBoGym8",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "0etAs56EeBfh_0IlAaSra",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "h6ceO0kiBIxNRkPzN3hBY",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "_JlT9oKQ6Yu4UX6l19G8P",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "jZ67HhVRelJaxjsCckSSI",
+      "type": "default"
+    },
+    {
+      "source": "tbmunGk2lG74hVWv_W8lN",
+      "target": "4zicbh7Wg2lmKSRhb6E-L",
+      "type": "default"
+    },
+    {
+      "source": "4zicbh7Wg2lmKSRhb6E-L",
+      "target": "EGG99VA-PEdWdVxNDLtG_",
+      "type": "default"
+    },
+    {
+      "source": "4zicbh7Wg2lmKSRhb6E-L",
+      "target": "eG38hT0rotYJ3G-t9df9R",
+      "type": "default"
+    },
+    {
+      "source": "4zicbh7Wg2lmKSRhb6E-L",
+      "target": "2sR4KULvAUUoOtopvsEBs",
+      "type": "default"
+    },
+    {
+      "source": "2sR4KULvAUUoOtopvsEBs",
+      "target": "Lqe47l4j-C4OwkbkwPYry",
+      "type": "default"
+    },
+    {
+      "source": "4zicbh7Wg2lmKSRhb6E-L",
+      "target": "rUxbG2S2nJuA1YVY6sjiX",
+      "type": "default"
+    },
+    {
+      "source": "lBtlDFPEQvQ_xtLtehU0S",
+      "target": "77KvWCA1oHSGgDKBTwjv7",
+      "type": "default"
+    },
+    {
+      "source": "lBtlDFPEQvQ_xtLtehU0S",
+      "target": "5D-kbQ520k1D3fCtD01T7",
+      "type": "default"
+    },
+    {
+      "source": "lBtlDFPEQvQ_xtLtehU0S",
+      "target": "hFx3mLqh5omNxqI9lfaAQ",
+      "type": "default"
+    },
+    {
+      "source": "uoDtVFThaV6OMK2wXGfP5",
+      "target": "D1IXOBUrrXf5bXhVu9cmI",
+      "type": "default"
+    },
+    {
+      "source": "hFx3mLqh5omNxqI9lfaAQ",
+      "target": "uoDtVFThaV6OMK2wXGfP5",
+      "type": "default"
+    },
+    {
+      "source": "uoDtVFThaV6OMK2wXGfP5",
+      "target": "_U0VoTkqM1d6NR13p5azS",
+      "type": "default"
+    },
+    {
+      "source": "_U0VoTkqM1d6NR13p5azS",
+      "target": "jj5otph6mEYiR-oU5WVtT",
+      "type": "default"
+    },
+    {
+      "source": "_U0VoTkqM1d6NR13p5azS",
+      "target": "diu8MyHxZuZSdhavYVj1T",
+      "type": "default"
+    },
+    {
+      "source": "diu8MyHxZuZSdhavYVj1T",
+      "target": "ZEzYb-i55hBe9kK3bla94",
+      "type": "default"
+    },
+    {
+      "source": "diu8MyHxZuZSdhavYVj1T",
+      "target": "CYnUg_okOcRrD7fSllxLW",
+      "type": "default"
+    },
+    {
+      "source": "diu8MyHxZuZSdhavYVj1T",
+      "target": "a6joS9WXg-rbw29_KfBd9",
+      "type": "default"
+    },
+    {
+      "source": "diu8MyHxZuZSdhavYVj1T",
+      "target": "3bpd0iZTd3G-H8A7yrExY",
+      "type": "default"
+    },
+    {
+      "source": "SuMhTyaBS9vwASxAt39DH",
+      "target": "OaLmlfkZid7hKqJ9G8oNV",
+      "type": "default"
+    },
+    {
+      "source": "IzFTn5-tQuF_Z0cG_w6CW",
+      "target": "7tBAD0ox9hTK4D483GTRo",
+      "type": "default"
+    },
+    {
+      "source": "IzFTn5-tQuF_Z0cG_w6CW",
+      "target": "OpL2EqvHbUmFgnpuhtZPr",
+      "type": "default"
+    },
+    {
+      "source": "IzFTn5-tQuF_Z0cG_w6CW",
+      "target": "KiwFXB6yd0go30zAFMTJt",
+      "type": "default"
+    },
+    {
+      "source": "OaLmlfkZid7hKqJ9G8oNV",
+      "target": "IzFTn5-tQuF_Z0cG_w6CW",
+      "type": "default"
+    },
+    {
+      "source": "IzFTn5-tQuF_Z0cG_w6CW",
+      "target": "YCJYRA3b-YSm8vKmGUFk5",
+      "type": "default"
+    },
+    {
+      "source": "YCJYRA3b-YSm8vKmGUFk5",
+      "target": "57liQPaPyVpE-mdLnsbi0",
+      "type": "default"
+    },
+    {
+      "source": "YCJYRA3b-YSm8vKmGUFk5",
+      "target": "n5AcBt_u8qtTe3PP9svPZ",
+      "type": "default"
+    },
+    {
+      "source": "YCJYRA3b-YSm8vKmGUFk5",
+      "target": "JUFE4OQhnXOt1J_MG-Sjf",
+      "type": "default"
+    },
+    {
+      "source": "YCJYRA3b-YSm8vKmGUFk5",
+      "target": "92GG4IRZ3FijumC94aL-T",
+      "type": "default"
+    },
+    {
+      "source": "YCJYRA3b-YSm8vKmGUFk5",
+      "target": "Ocn7-ctpnl71ZCZ_uV-uD",
+      "type": "default"
+    },
+    {
+      "source": "Ocn7-ctpnl71ZCZ_uV-uD",
+      "target": "priDGksAvJ05YzakkTFtM",
+      "type": "default"
+    },
+    {
+      "source": "Ocn7-ctpnl71ZCZ_uV-uD",
+      "target": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "type": "default"
+    },
+    {
+      "source": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "target": "C0g_kQFlte5siHMHwlHQb",
+      "type": "default"
+    },
+    {
+      "source": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "target": "6FDGecsHbqY-cm32yTZJa",
+      "type": "default"
+    },
+    {
+      "source": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "target": "mCiYCbKIOVU34qil_q7Hg",
+      "type": "default"
+    },
+    {
+      "source": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "target": "ulwgDCQi_BYx5lmll7pzU",
+      "type": "default"
+    },
+    {
+      "source": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "target": "vpko5Kyf6BZ5MHpxXOKaf",
+      "type": "default"
+    },
+    {
+      "source": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "target": "s0RvufK2PLMXtlsn2KAUN",
+      "type": "default"
+    },
+    {
+      "source": "j9Y2YbBKi3clO_sZ2L_hQ",
+      "target": "hjlkxYZS7Zf9En3IUS-Wm",
+      "type": "default"
+    },
+    {
+      "source": "hjlkxYZS7Zf9En3IUS-Wm",
+      "target": "LQlzVxUxM3haWRwbhYHKY",
+      "type": "default"
+    },
+    {
+      "source": "hjlkxYZS7Zf9En3IUS-Wm",
+      "target": "UyIwiIiKaa6LTQaqzbCam",
+      "type": "default"
+    },
+    {
+      "source": "UyIwiIiKaa6LTQaqzbCam",
+      "target": "cBWJ6Duw99tSKr7U6OW3A",
+      "type": "default"
+    },
+    {
+      "source": "cBWJ6Duw99tSKr7U6OW3A",
+      "target": "Mt5W1IvuHevNXVRlh7z26",
+      "type": "default"
+    },
+    {
+      "source": "cBWJ6Duw99tSKr7U6OW3A",
+      "target": "EdJhuNhMSWjeVxGW-RZtL",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "igf9yp1lRdAlN5gyQ8HHC",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "C0rKd5Rr27Z1_GleoEZxF",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "WoXoVwkSqXTP5U8HtyJOL",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "XnvlRrOhdoMsiGwGEhBro",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "OErbfM-H3laFm47GCHNPI",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "isavRe4ANVn77ZX6gNSLH",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "l3oeo65FyV5HHvw5n_1wa",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "CxceVdaNCyKDhs0huDtcL",
+      "type": "default"
+    },
+    {
+      "source": "EdJhuNhMSWjeVxGW-RZtL",
+      "target": "8yALyPVUZPtd7LX3GrO1e",
+      "type": "default"
+    },
+    {
+      "source": "8yALyPVUZPtd7LX3GrO1e",
+      "target": "gdtI0H_PzzTj_aFQn_NeA",
+      "type": "default"
+    },
+    {
+      "source": "8yALyPVUZPtd7LX3GrO1e",
+      "target": "TxWAznp1tUtZ1MvThf9M1",
+      "type": "default"
+    },
+    {
+      "source": "8yALyPVUZPtd7LX3GrO1e",
+      "target": "5EVecZmvor09LjD7WR_Y9",
+      "type": "default"
+    },
+    {
+      "source": "8yALyPVUZPtd7LX3GrO1e",
+      "target": "mOXyzdNn8W-9R99ffcnor",
+      "type": "default"
+    },
+    {
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "smoothstep"
+    },
+    {
+      "source": "STQQbPa7PE3gbjMdL6P-t",
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "default"
+    },
+    {
+      "source": "kc6buUsLAeZeUb4Tk0apM",
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "default"
+    },
+    {
+      "source": "8yALyPVUZPtd7LX3GrO1e",
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "default"
+    },
+    {
+      "source": "OaLmlfkZid7hKqJ9G8oNV",
+      "target": "b6lCGw82qKpUmsxe1r1f5",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 69
+    },
+    {
+      "name": "topic",
+      "count": 11
+    },
+    {
+      "name": "paragraph",
+      "count": 9
+    },
+    {
+      "name": "programming-language",
+      "count": 7
+    },
+    {
+      "name": "backend",
+      "count": 6
+    },
+    {
+      "name": "section",
+      "count": 5
+    },
+    {
+      "name": "data-science",
+      "count": 5
+    },
+    {
+      "name": "tools",
+      "count": 5
+    },
+    {
+      "name": "frontend",
+      "count": 4
+    },
+    {
+      "name": "framework",
+      "count": 4
+    },
+    {
+      "name": "cloud",
+      "count": 4
+    },
+    {
+      "name": "vertical",
+      "count": 3
+    },
+    {
+      "name": "database",
+      "count": 3
+    },
+    {
+      "name": "button",
+      "count": 3
+    },
+    {
+      "name": "label",
+      "count": 2
+    },
+    {
+      "name": "horizontal",
+      "count": 1
+    },
+    {
+      "name": "title",
+      "count": 1
+    },
+    {
+      "name": "security",
+      "count": 1
+    },
+    {
+      "name": "mobile",
+      "count": 1
+    },
+    {
+      "name": "devops",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "3wUggQOHRXp1cG9e0RrRL",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "3wuggqohrxp1cg9e0rrrl"
+      ]
+    },
+    {
+      "name": "KLmz1sHYqS_SE65Jd22qe",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "klmz1shyqs_se65jd22qe"
+      ]
+    },
+    {
+      "name": "BZl8WjxR6OBpYI7btJ7Z4",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "bzl8wjxr6obpyi7btj7z4"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "-B9_tpFcjP76sRfklGI91",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "b9_tpfcjp76srfklgi91"
+      ]
+    },
+    {
+      "name": "niKLPwmuH0-UH6WY9Lhk-",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "niklpwmuh0",
+        "uh6wy9lhk"
+      ]
+    },
+    {
+      "name": "Software Architect",
+      "category": "title",
+      "difficulty": "beginner",
+      "keywords": [
+        "software",
+        "architect"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Understand the Basics",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "understand",
+        "basics"
+      ]
+    },
+    {
+      "name": "What is Software Architecture",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "what",
+        "software",
+        "architecture"
+      ]
+    },
+    {
+      "name": "What is a Software Architect",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "software",
+        "architect"
+      ]
+    },
+    {
+      "name": "Levels of Architecture",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "levels",
+        "architecture"
+      ]
+    },
+    {
+      "name": "Application Architecture",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "application",
+        "architecture"
+      ]
+    },
+    {
+      "name": "Solution Architecture",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "solution",
+        "architecture"
+      ]
+    },
+    {
+      "name": "Enterprise Architecture",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "enterprise",
+        "architecture"
+      ]
+    },
+    {
+      "name": "Describes how an application is built including its components, how they interact with each other, environment in which they operate and so on.",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "describes",
+        "how",
+        "application",
+        "built",
+        "including"
+      ]
+    },
+    {
+      "name": "Software Architecture",
+      "category": "paragraph",
+      "difficulty": "advanced",
+      "keywords": [
+        "software",
+        "architecture"
+      ]
+    },
+    {
+      "name": "7AbVOnkYRf5nCmlGgsqaa",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "7abvonkyrf5ncmlggsqaa"
+      ]
+    },
+    {
+      "name": "A software expert who makes high level software design choices, including technical standards, tools, design principles, platforms to be used, etc.",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "software",
+        "expert",
+        "who",
+        "makes",
+        "high"
+      ]
+    },
+    {
+      "name": "Software Architect",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "software",
+        "architect"
+      ]
+    },
+    {
+      "name": "Responsibilities",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "responsibilities"
+      ]
+    },
+    {
+      "name": "Tech Decisions",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "tech",
+        "decisions"
+      ]
+    },
+    {
+      "name": "Design & Architecture Decisions",
+      "category": "paragraph",
+      "difficulty": "advanced",
+      "keywords": [
+        "design",
+        "architecture",
+        "decisions"
+      ]
+    },
+    {
+      "name": "Requirements Elicitation",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "requirements",
+        "elicitation"
+      ]
+    },
+    {
+      "name": "Documentation",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "documentation"
+      ]
+    },
+    {
+      "name": "Enforcing Standards",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "enforcing",
+        "standards"
+      ]
+    },
+    {
+      "name": "Collaborate with Others",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "collaborate",
+        "others"
+      ]
+    },
+    {
+      "name": "Consult & Coach Developers",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "consult",
+        "coach",
+        "developers"
+      ]
+    },
+    {
+      "name": "Important Skills to Learn",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "important",
+        "skills",
+        "learn"
+      ]
+    },
+    {
+      "name": "Design & Architecture",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "design",
+        "architecture"
+      ]
+    },
+    {
+      "name": "Decision Making",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "decision",
+        "making"
+      ]
+    },
+    {
+      "name": "Simplifying Things",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "simplifying",
+        "things"
+      ]
+    },
+    {
+      "name": "How to Code",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "how",
+        "code"
+      ]
+    },
+    {
+      "name": "Documentation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "documentation"
+      ]
+    },
+    {
+      "name": "Communication",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "communication"
+      ]
+    },
+    {
+      "name": "Estimate and Evaluate",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "estimate",
+        "evaluate"
+      ]
+    },
+    {
+      "name": "Balance",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "balance"
+      ]
+    },
+    {
+      "name": "Consult & Coach",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "consult",
+        "coach"
+      ]
+    },
+    {
+      "name": "Marketing Skills",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "marketing",
+        "skills"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "technical",
+        "skills"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "programming",
+        "languages"
+      ]
+    },
+    {
+      "name": "Java / Kotlin / Scala",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "java",
+        "kotlin",
+        "scala"
+      ]
+    },
+    {
+      "name": "Python",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "python"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "ruby"
+      ]
+    },
+    {
+      "name": "Go",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript / TypeScript",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "javascript",
+        "typescript"
+      ]
+    },
+    {
+      "name": ".NET Framework Based",
+      "category": "framework",
+      "difficulty": "intermediate",
+      "keywords": [
+        "net",
+        "framework",
+        "based"
+      ]
+    },
+    {
+      "name": "Patterns & Design Principles",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "patterns",
+        "design",
+        "principles"
+      ]
+    },
+    {
+      "name": "OOP",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "oop"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 146,
+    "totalEdges": 75,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:11:02.119Z",
+    "version": "2.0"
+  }
+}

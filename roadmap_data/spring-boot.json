@@ -1,0 +1,1922 @@
+{
+  "name": "spring-boot",
+  "title": "Spring Boot",
+  "nodes": [
+    {
+      "id": "4qvR1QQzrmoVIVCAsp92H",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -225.22890816639756,
+        "y": 1663.454217904046
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HU7wZWiES3m3xl1-NYP6F",
+      "type": "title",
+      "label": "Spring Boot",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -309.8175069304428,
+        "y": -32.800633281393
+      },
+      "keywords": [
+        "spring",
+        "boot"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uqyE79OItPOX33E5FoGel",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -225.3175069304428,
+        "y": -133.0992517776511
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CCmziWV0VnzZxVbjVF_br",
+      "type": "paragraph",
+      "label": "Find the interactive version of this roadmap and more roadmaps at",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -20.138187271993502,
+        "y": -148.2948532825934
+      },
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "if9eTna5NRTMStVwpSwDP",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": -5.138187271993502,
+        "y": -62.09925177765109
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w_rUaBorHFOY74S0JiEwM",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -710.4579568300146,
+        "y": -148.2948532825934
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O5dely89N5UCMBeUfh8ud",
+      "type": "paragraph",
+      "label": "For ecosystem and more, check these other tracks involving GraphQL",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -513.7289081663976,
+        "y": 1541.454217904046
+      },
+      "keywords": [
+        "ecosystem",
+        "more",
+        "check",
+        "these",
+        "other",
+        "tracks",
+        "involving",
+        "graphql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 410,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6AIUtChWC_gK8Ax0UuBjd",
+      "type": "button",
+      "label": "Java Roadmap",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -499.713703130995,
+        "y": 1596.0998753371555
+      },
+      "keywords": [
+        "java",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f5WRewBlpeYMf71cPcXs-",
+      "type": "button",
+      "label": "Backend Roadmap",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -213.83351566356316,
+        "y": 1596.0998753371555
+      },
+      "keywords": [
+        "backend",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WJtVLmJLvKk_vvqhFItZ2",
+      "type": "button",
+      "label": "Visit Java Roadmap",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 147.20083230005372
+      },
+      "keywords": [
+        "visit",
+        "java",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jy2heDVZuM6ASCXlI1TDn",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 233.71361308804387
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OB--nMudscm0p6RqqfA7T",
+      "type": "subtopic",
+      "label": "Configuration",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 229.71361308804387
+      },
+      "keywords": [
+        "configuration"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C2EQ5J1aJYF9e9Rr2KysT",
+      "type": "subtopic",
+      "label": "Dependency Injection",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 282.71361308804387
+      },
+      "keywords": [
+        "dependency",
+        "injection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PlUU_vzFQ3Xx6Z5XREIYP",
+      "type": "subtopic",
+      "label": "Spring IOC",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 335.71361308804387
+      },
+      "keywords": [
+        "spring",
+        "ioc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wV1_I_4czMIxpBionvLs4",
+      "type": "subtopic",
+      "label": "Spring AOP",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 388.71361308804387
+      },
+      "keywords": [
+        "spring",
+        "aop"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QiNWE4sMTao3cVzjt3yPp",
+      "type": "subtopic",
+      "label": "Spring MVC",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 441.71361308804387
+      },
+      "keywords": [
+        "spring",
+        "mvc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HdCpfGMrMaXxk5QrtYn3X",
+      "type": "subtopic",
+      "label": "Annotations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 494.71361308804387
+      },
+      "keywords": [
+        "annotations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KdN62IpNgPFMndXfLaYa1",
+      "type": "subtopic",
+      "label": "Spring Bean Scope",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 547.7136130880439
+      },
+      "keywords": [
+        "spring",
+        "bean",
+        "scope"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WrUCyVfFNUpHB8jyjjKna",
+      "type": "subtopic",
+      "label": "Terminology",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 70.71361308804387
+      },
+      "keywords": [
+        "terminology"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yuXN-rD4AyyPYUYOR50L_",
+      "type": "subtopic",
+      "label": "Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 123.71361308804387
+      },
+      "keywords": [
+        "architecture"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "WGf3W6bdWL0rK0o6O28G2",
+      "type": "subtopic",
+      "label": "Why use Spring?",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 176.71361308804387
+      },
+      "keywords": [
+        "why",
+        "use",
+        "spring"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KaUdyVWEiZa6lUDRBlOKt",
+      "type": "topic",
+      "label": "Spring Security",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 323.0143553645502
+      },
+      "keywords": [
+        "spring",
+        "security"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ssdk2iAt4avhc8B5tnIzQ",
+      "type": "subtopic",
+      "label": "Authentication",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 254.25996814340215
+      },
+      "keywords": [
+        "authentication"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "c7w7Z3Coa81FKa_yAKTse",
+      "type": "subtopic",
+      "label": "Authorization",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 307.25996814340215
+      },
+      "keywords": [
+        "authorization"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "p7t3RlIIm9U08GFC6azff",
+      "type": "subtopic",
+      "label": "OAuth2",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 360.25996814340215
+      },
+      "keywords": [
+        "oauth2"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1My7mbdwAbRcJoiA50pWW",
+      "type": "subtopic",
+      "label": "JWT Authentication",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 413.25996814340215
+      },
+      "keywords": [
+        "jwt",
+        "authentication"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Vx7GXHYuM0ZOB9_ovS6sw",
+      "type": "paragraph",
+      "label": "Spring Boot",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -286.8175069304428,
+        "y": 441.71361308804387
+      },
+      "keywords": [
+        "spring",
+        "boot"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JrH2hiu27PhIO1VtrArMa",
+      "type": "topic",
+      "label": "Spring Boot Starters",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 596.7136130880439
+      },
+      "keywords": [
+        "spring",
+        "boot",
+        "starters"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "88-h3d7kb-VmUBsnUUXW_",
+      "type": "topic",
+      "label": "Autoconfiguration",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 649.7136130880439
+      },
+      "keywords": [
+        "autoconfiguration"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "N7hd3d_XQtvOgnCqdCFt3",
+      "type": "topic",
+      "label": "Actuators",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 702.7136130880439
+      },
+      "keywords": [
+        "actuators"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ONb0VnSUMY8JBeW3G2mTp",
+      "type": "topic",
+      "label": "Embedded Server",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 755.7136130880439
+      },
+      "keywords": [
+        "embedded",
+        "server"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h5-HnycxfbJgwalSdXTAz",
+      "type": "topic",
+      "label": "Hibernate",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -663.3054618325863,
+        "y": 755.7136130880439
+      },
+      "keywords": [
+        "hibernate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "H9Z0EvKT_148vD0mR-dUf",
+      "type": "subtopic",
+      "label": "Transactions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 560.5044010696047
+      },
+      "keywords": [
+        "transactions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D4ybyh0ydvl9W2_xUcvZ_",
+      "type": "subtopic",
+      "label": "Relationships",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 613.5044010696047
+      },
+      "keywords": [
+        "relationships"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ijmy0J3VyaeTGXtu2VkkQ",
+      "type": "subtopic",
+      "label": "Entity Lifecycle",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 666.5044010696047
+      },
+      "keywords": [
+        "entity",
+        "lifecycle"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pvVLbFQoT50vz_VRK4VbJ",
+      "type": "topic",
+      "label": "Spring Data",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -663.3054618325863,
+        "y": 853.4919152447768
+      },
+      "keywords": [
+        "spring",
+        "data"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6u08QN-pUeFm3o0h5Scfm",
+      "type": "subtopic",
+      "label": "Spring Data JPA",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 955.8193989499127
+      },
+      "keywords": [
+        "spring",
+        "data",
+        "jpa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fy-TphbqkLpR1zvFcr7dg",
+      "type": "subtopic",
+      "label": "Spring Data MongoDB",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 1008.8193989499127
+      },
+      "keywords": [
+        "spring",
+        "data",
+        "mongodb"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dd1A-MyzBs_kNOtVG7f1D",
+      "type": "subtopic",
+      "label": "Spring Data JDBC",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 1061.8193989499127
+      },
+      "keywords": [
+        "spring",
+        "data",
+        "jdbc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jU_KHoPUSU_HoIKk0ZpRF",
+      "type": "topic",
+      "label": "Microservices",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 853.4919152447768
+      },
+      "keywords": [
+        "microservices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "VWNDYSw83Vzi2UPQprJ5z",
+      "type": "subtopic",
+      "label": "Spring Cloud",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 853.4919152447768
+      },
+      "keywords": [
+        "spring",
+        "cloud"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f-i0NX2KOzCh3JwkaSPFo",
+      "type": "subtopic",
+      "label": "Spring Cloud Gateway",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 641.2298102954034
+      },
+      "keywords": [
+        "spring",
+        "cloud",
+        "gateway"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9hG3CB8r41bUb_s8-0u73",
+      "type": "subtopic",
+      "label": "Cloud Config",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 694.2298102954034
+      },
+      "keywords": [
+        "cloud",
+        "config"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kqpSlO--X9-xYxfq1KFVe",
+      "type": "subtopic",
+      "label": "Spring Cloud Circuit Breaker",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 747.2298102954034
+      },
+      "keywords": [
+        "spring",
+        "cloud",
+        "circuit",
+        "breaker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EKSXTMSN2xdaleJ4wOV1A",
+      "type": "subtopic",
+      "label": "Spring Cloud Open Feign",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 955.2633845627711
+      },
+      "keywords": [
+        "spring",
+        "cloud",
+        "open",
+        "feign"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GsmBGRohWbJ6XOaALFZ8o",
+      "type": "subtopic",
+      "label": "Micrometer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 63.8618127280065,
+        "y": 1008.2633845627711
+      },
+      "keywords": [
+        "micrometer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6sLE6gb5Y477SmO2GhQIG",
+      "type": "subtopic",
+      "label": "Eureka",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 206.8618127280065,
+        "y": 1008.2633845627711
+      },
+      "keywords": [
+        "eureka"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "S-BbOoRD7anvoJrprjoKF",
+      "type": "topic",
+      "label": "Spring MVC",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 1216.5088543799602
+      },
+      "keywords": [
+        "spring",
+        "mvc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "35NTx2eO1j02sjy4m6DPq",
+      "type": "subtopic",
+      "label": "Servlet",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 1162.1076554015908
+      },
+      "keywords": [
+        "servlet"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Lz0GPMiYzb30iFJdv1dL6",
+      "type": "subtopic",
+      "label": "JSP Files",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 1215.1076554015908
+      },
+      "keywords": [
+        "jsp",
+        "files"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_vS_zdJZegZS6MIKAFyg8",
+      "type": "subtopic",
+      "label": "Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 1268.1076554015908
+      },
+      "keywords": [
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "sgA06Tu9Y4cEHtfI8CyLL",
+      "type": "subtopic",
+      "label": "Components",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -704.3054618325863,
+        "y": 1321.1076554015908
+      },
+      "keywords": [
+        "components"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7Qqrh_Rz_7uAD49g9sDzi",
+      "type": "topic",
+      "label": "Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -329.3175069304428,
+        "y": 1326.5562767322235
+      },
+      "keywords": [
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "Nhx2QiSD_4pVWD17lsCbu",
+      "type": "subtopic",
+      "label": "JPA Test",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 24.5539544766211,
+        "y": 1270.7911348223495
+      },
+      "keywords": [
+        "jpa",
+        "test"
+      ],
+      "metadata": {
+        "style": {
+          "width": 162
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5d1BERqTKNJMKiBcqa8Ie",
+      "type": "subtopic",
+      "label": "Mock MVC",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 185.5539544766211,
+        "y": 1270.7911348223495
+      },
+      "keywords": [
+        "mock",
+        "mvc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 162
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "p91CaVPh5GMzFU0yEU_hl",
+      "type": "subtopic",
+      "label": "@SpringBootTest Annotation",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 24.5539544766211,
+        "y": 1325.2397561529822
+      },
+      "keywords": [
+        "springboottest",
+        "annotation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 298
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "i77NTa0hpGGBjmql9u_CT",
+      "type": "subtopic",
+      "label": "@MockBean Annotation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 24.5539544766211,
+        "y": 1378.2397561529822
+      },
+      "keywords": [
+        "mockbean",
+        "annotation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 298
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "HU7wZWiES3m3xl1-NYP6F",
+      "target": "WJtVLmJLvKk_vvqhFItZ2",
+      "type": "default"
+    },
+    {
+      "source": "WJtVLmJLvKk_vvqhFItZ2",
+      "target": "jy2heDVZuM6ASCXlI1TDn",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "wV1_I_4czMIxpBionvLs4",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "QiNWE4sMTao3cVzjt3yPp",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "PlUU_vzFQ3Xx6Z5XREIYP",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "C2EQ5J1aJYF9e9Rr2KysT",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "OB--nMudscm0p6RqqfA7T",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "HdCpfGMrMaXxk5QrtYn3X",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "KdN62IpNgPFMndXfLaYa1",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "WGf3W6bdWL0rK0o6O28G2",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "yuXN-rD4AyyPYUYOR50L_",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "WrUCyVfFNUpHB8jyjjKna",
+      "type": "default"
+    },
+    {
+      "source": "jy2heDVZuM6ASCXlI1TDn",
+      "target": "KaUdyVWEiZa6lUDRBlOKt",
+      "type": "default"
+    },
+    {
+      "source": "KaUdyVWEiZa6lUDRBlOKt",
+      "target": "ssdk2iAt4avhc8B5tnIzQ",
+      "type": "default"
+    },
+    {
+      "source": "KaUdyVWEiZa6lUDRBlOKt",
+      "target": "c7w7Z3Coa81FKa_yAKTse",
+      "type": "default"
+    },
+    {
+      "source": "KaUdyVWEiZa6lUDRBlOKt",
+      "target": "p7t3RlIIm9U08GFC6azff",
+      "type": "default"
+    },
+    {
+      "source": "KaUdyVWEiZa6lUDRBlOKt",
+      "target": "1My7mbdwAbRcJoiA50pWW",
+      "type": "default"
+    },
+    {
+      "source": "KaUdyVWEiZa6lUDRBlOKt",
+      "target": "Vx7GXHYuM0ZOB9_ovS6sw",
+      "type": "default"
+    },
+    {
+      "source": "Vx7GXHYuM0ZOB9_ovS6sw",
+      "target": "JrH2hiu27PhIO1VtrArMa",
+      "type": "default"
+    },
+    {
+      "source": "ONb0VnSUMY8JBeW3G2mTp",
+      "target": "h5-HnycxfbJgwalSdXTAz",
+      "type": "default"
+    },
+    {
+      "source": "h5-HnycxfbJgwalSdXTAz",
+      "target": "Ijmy0J3VyaeTGXtu2VkkQ",
+      "type": "default"
+    },
+    {
+      "source": "h5-HnycxfbJgwalSdXTAz",
+      "target": "pvVLbFQoT50vz_VRK4VbJ",
+      "type": "default"
+    },
+    {
+      "source": "pvVLbFQoT50vz_VRK4VbJ",
+      "target": "6u08QN-pUeFm3o0h5Scfm",
+      "type": "default"
+    },
+    {
+      "source": "pvVLbFQoT50vz_VRK4VbJ",
+      "target": "jU_KHoPUSU_HoIKk0ZpRF",
+      "type": "default"
+    },
+    {
+      "source": "jU_KHoPUSU_HoIKk0ZpRF",
+      "target": "VWNDYSw83Vzi2UPQprJ5z",
+      "type": "default"
+    },
+    {
+      "source": "VWNDYSw83Vzi2UPQprJ5z",
+      "target": "kqpSlO--X9-xYxfq1KFVe",
+      "type": "default"
+    },
+    {
+      "source": "VWNDYSw83Vzi2UPQprJ5z",
+      "target": "EKSXTMSN2xdaleJ4wOV1A",
+      "type": "default"
+    },
+    {
+      "source": "jU_KHoPUSU_HoIKk0ZpRF",
+      "target": "S-BbOoRD7anvoJrprjoKF",
+      "type": "default"
+    },
+    {
+      "source": "S-BbOoRD7anvoJrprjoKF",
+      "target": "Lz0GPMiYzb30iFJdv1dL6",
+      "type": "default"
+    },
+    {
+      "source": "S-BbOoRD7anvoJrprjoKF",
+      "target": "_vS_zdJZegZS6MIKAFyg8",
+      "type": "default"
+    },
+    {
+      "source": "S-BbOoRD7anvoJrprjoKF",
+      "target": "sgA06Tu9Y4cEHtfI8CyLL",
+      "type": "default"
+    },
+    {
+      "source": "S-BbOoRD7anvoJrprjoKF",
+      "target": "35NTx2eO1j02sjy4m6DPq",
+      "type": "default"
+    },
+    {
+      "source": "S-BbOoRD7anvoJrprjoKF",
+      "target": "7Qqrh_Rz_7uAD49g9sDzi",
+      "type": "default"
+    },
+    {
+      "source": "7Qqrh_Rz_7uAD49g9sDzi",
+      "target": "i77NTa0hpGGBjmql9u_CT",
+      "type": "default"
+    },
+    {
+      "source": "7Qqrh_Rz_7uAD49g9sDzi",
+      "target": "p91CaVPh5GMzFU0yEU_hl",
+      "type": "default"
+    },
+    {
+      "source": "7Qqrh_Rz_7uAD49g9sDzi",
+      "target": "Nhx2QiSD_4pVWD17lsCbu",
+      "type": "default"
+    },
+    {
+      "source": "7Qqrh_Rz_7uAD49g9sDzi",
+      "target": "O5dely89N5UCMBeUfh8ud",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "framework",
+      "count": 18
+    },
+    {
+      "name": "subtopic",
+      "count": 16
+    },
+    {
+      "name": "backend",
+      "count": 4
+    },
+    {
+      "name": "topic",
+      "count": 4
+    },
+    {
+      "name": "security",
+      "count": 4
+    },
+    {
+      "name": "programming-language",
+      "count": 3
+    },
+    {
+      "name": "vertical",
+      "count": 2
+    },
+    {
+      "name": "testing",
+      "count": 2
+    },
+    {
+      "name": "paragraph",
+      "count": 1
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    },
+    {
+      "name": "cloud",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "boot"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the interactive version of this roadmap and more roadmaps at",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Related Roadmaps",
+      "category": "linksgroup",
+      "difficulty": "beginner",
+      "keywords": [
+        "related",
+        "roadmaps"
+      ]
+    },
+    {
+      "name": "For ecosystem and more, check these other tracks involving GraphQL",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "ecosystem",
+        "more",
+        "check",
+        "these",
+        "other"
+      ]
+    },
+    {
+      "name": "Java Roadmap",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "java",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Backend Roadmap",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "backend",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Visit Java Roadmap",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "visit",
+        "java",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "Configuration",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "configuration"
+      ]
+    },
+    {
+      "name": "Dependency Injection",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "dependency",
+        "injection"
+      ]
+    },
+    {
+      "name": "Spring IOC",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "ioc"
+      ]
+    },
+    {
+      "name": "Spring AOP",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "aop"
+      ]
+    },
+    {
+      "name": "Spring MVC",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "mvc"
+      ]
+    },
+    {
+      "name": "Annotations",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "annotations"
+      ]
+    },
+    {
+      "name": "Spring Bean Scope",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "bean",
+        "scope"
+      ]
+    },
+    {
+      "name": "Terminology",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "terminology"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "architecture"
+      ]
+    },
+    {
+      "name": "Why use Spring?",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "why",
+        "use",
+        "spring"
+      ]
+    },
+    {
+      "name": "Spring Security",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "security"
+      ]
+    },
+    {
+      "name": "Authentication",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "authentication"
+      ]
+    },
+    {
+      "name": "Authorization",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "authorization"
+      ]
+    },
+    {
+      "name": "OAuth2",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "oauth2"
+      ]
+    },
+    {
+      "name": "JWT Authentication",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "jwt",
+        "authentication"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "boot"
+      ]
+    },
+    {
+      "name": "Spring Boot Starters",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "boot",
+        "starters"
+      ]
+    },
+    {
+      "name": "Autoconfiguration",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "autoconfiguration"
+      ]
+    },
+    {
+      "name": "Actuators",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "actuators"
+      ]
+    },
+    {
+      "name": "Embedded Server",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "embedded",
+        "server"
+      ]
+    },
+    {
+      "name": "Hibernate",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "hibernate"
+      ]
+    },
+    {
+      "name": "Transactions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "transactions"
+      ]
+    },
+    {
+      "name": "Relationships",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "relationships"
+      ]
+    },
+    {
+      "name": "Entity Lifecycle",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "entity",
+        "lifecycle"
+      ]
+    },
+    {
+      "name": "Spring Data",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "data"
+      ]
+    },
+    {
+      "name": "Spring Data JPA",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "data",
+        "jpa"
+      ]
+    },
+    {
+      "name": "Spring Data MongoDB",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "data",
+        "mongodb"
+      ]
+    },
+    {
+      "name": "Spring Data JDBC",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "data",
+        "jdbc"
+      ]
+    },
+    {
+      "name": "Microservices",
+      "category": "backend",
+      "difficulty": "advanced",
+      "keywords": [
+        "microservices"
+      ]
+    },
+    {
+      "name": "Spring Cloud",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Spring Cloud Gateway",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "cloud",
+        "gateway"
+      ]
+    },
+    {
+      "name": "Cloud Config",
+      "category": "cloud",
+      "difficulty": "beginner",
+      "keywords": [
+        "cloud",
+        "config"
+      ]
+    },
+    {
+      "name": "Spring Cloud Circuit Breaker",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "cloud",
+        "circuit",
+        "breaker"
+      ]
+    },
+    {
+      "name": "Spring Cloud Open Feign",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "cloud",
+        "open",
+        "feign"
+      ]
+    },
+    {
+      "name": "Micrometer",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "micrometer"
+      ]
+    },
+    {
+      "name": "Eureka",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "eureka"
+      ]
+    },
+    {
+      "name": "Spring MVC",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "spring",
+        "mvc"
+      ]
+    },
+    {
+      "name": "Servlet",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "servlet"
+      ]
+    },
+    {
+      "name": "JSP Files",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "jsp",
+        "files"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 57,
+    "totalEdges": 37,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:11:33.769Z",
+    "version": "2.0"
+  }
+}

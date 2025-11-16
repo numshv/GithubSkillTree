@@ -1,0 +1,3955 @@
+{
+  "name": "ux-design",
+  "title": "Ux Design",
+  "nodes": [
+    {
+      "id": "h7JsYb4AUn59MUfSHkXPH",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 245.2883535458459,
+        "y": 2142.888026311074
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 88
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ni18gXdtdggAI4P8HG0h5",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 28.305412875927175,
+        "y": 1773.1312791016187
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 94,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UVjYjf0frEacBLo-gegK-",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 265.2883535458459,
+        "y": 1570.9741748535075
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 94,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kPYDO-8dOqviVg33HgkaY",
+      "type": "section",
+      "label": "kPYDO-8dOqviVg33HgkaY",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 358.2883535458459,
+        "y": 1555.3769542823657
+      },
+      "keywords": [
+        "kpydo",
+        "8doqvivg33hgkay"
+      ],
+      "metadata": {
+        "style": {
+          "width": 317,
+          "height": 533
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tcn_QdJHQlpG1t6udFNXq",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 28.305412875927175,
+        "y": 1570.9741748535075
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 94,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fzq6qo5CG6CkIgI7Y7bMn",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 28.305412875927175,
+        "y": 1084.4298705260153
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 94,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3oo6PeHghXixNr2a4FWvt",
+      "type": "section",
+      "label": "3oo6PeHghXixNr2a4FWvt",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 379.0510840420194,
+        "y": 1048.9298705260153
+      },
+      "keywords": [
+        "3oo6pehghxixnr2a4fwvt"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 418
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WQntKm1lyBLwvDdYXG5AJ",
+      "type": "section",
+      "label": "WQntKm1lyBLwvDdYXG5AJ",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -383.9489159579806,
+        "y": 537.4027519463209
+      },
+      "keywords": [
+        "wqntkm1lyblwvddyxg5aj"
+      ],
+      "metadata": {
+        "style": {
+          "width": 367,
+          "height": 461
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YvybHSbUUnnhcpSvBWkZh",
+      "type": "title",
+      "label": "UX Design",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 82.30541287592717,
+        "y": 0.5169994754369327
+      },
+      "keywords": [
+        "design"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Zh6GbYp2r7nctlaO_gnGk",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 158.80541287592717,
+        "y": -113.31976397787162
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 99
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "liUKYf7UghuPk25xMPPYj",
+      "type": "topic",
+      "label": "Human Decision Making",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 38.305412875927175,
+        "y": 190.60681367650216
+      },
+      "keywords": [
+        "human",
+        "decision",
+        "making"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DsvCptlLWLq7-VvVhRXsy",
+      "type": "label",
+      "label": "Buzzwords to lookout for",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 457.0066517763971,
+        "y": 54.85318500308563
+      },
+      "keywords": [
+        "buzzwords",
+        "lookout"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6ffY5wO-XhkiDJJ5YcI0x",
+      "type": "subtopic",
+      "label": "Nudge Theory",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 448.5066517763971,
+        "y": 90.85318500308563
+      },
+      "keywords": [
+        "nudge",
+        "theory"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K22gvF9DLt0Ikc80yZLCb",
+      "type": "subtopic",
+      "label": "Persuasive Technology",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 448.5066517763971,
+        "y": 143.8531850030856
+      },
+      "keywords": [
+        "persuasive",
+        "technology"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zYCBEUqZVlvjlAKnh5cPQ",
+      "type": "subtopic",
+      "label": "Behavior Design",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 448.5066517763971,
+        "y": 302.85318500308557
+      },
+      "keywords": [
+        "behavior",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D553-nVELaB5gdxtoKSVc",
+      "type": "subtopic",
+      "label": "Behavioral Science",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 448.5066517763971,
+        "y": 196.8531850030856
+      },
+      "keywords": [
+        "behavioral",
+        "science"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_lv6GJ0wlMfhJ7PHRGQ_V",
+      "type": "subtopic",
+      "label": "Behavioral Economics",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 448.5066517763971,
+        "y": 249.8531850030856
+      },
+      "keywords": [
+        "behavioral",
+        "economics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V5u2kv7Io7825rn1_zKJD",
+      "type": "label",
+      "label": "Frameworks",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -288.289926549572,
+        "y": 72.04939959827789
+      },
+      "keywords": [
+        "frameworks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136,
+          "height": 36
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "2NlgbLeLBYwZX2u2rKkIO",
+      "type": "subtopic",
+      "label": "BJ Fogg's Behavior Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -381.789926549572,
+        "y": 112.82719095483185
+      },
+      "keywords": [
+        "fogg",
+        "behavior",
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kcG4IpneJzA6di0uqTiwb",
+      "type": "subtopic",
+      "label": "CREATE Action Funnel",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -381.789926549572,
+        "y": 165.82719095483185
+      },
+      "keywords": [
+        "create",
+        "action",
+        "funnel"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0Df110GZcDw5wbAe1eKoA",
+      "type": "subtopic",
+      "label": "Spectrum of Thinking Interventions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -381.789926549572,
+        "y": 218.82719095483185
+      },
+      "keywords": [
+        "spectrum",
+        "thinking",
+        "interventions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kWA8CvocP1pkom2N7O4gb",
+      "type": "subtopic",
+      "label": "Dual Process Theory",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -381.789926549572,
+        "y": 271.82719095483185
+      },
+      "keywords": [
+        "dual",
+        "process",
+        "theory"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lRBC8VYJPsR65LHDuuIsL",
+      "type": "subtopic",
+      "label": "BJ Fogg's Behavior Grid",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -290.21566738325384,
+        "y": 400.8462912210996
+      },
+      "keywords": [
+        "fogg",
+        "behavior",
+        "grid"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PLLTcrHkhd1KYaMSRKALp",
+      "type": "subtopic",
+      "label": "Nir Eyal's Hook Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -375.9489159579806,
+        "y": 887.9027519463207
+      },
+      "keywords": [
+        "nir",
+        "eyal",
+        "hook",
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 350,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "X1AroUI8Fge_lRpKab4A9",
+      "type": "subtopic",
+      "label": "Cue Routine Reward Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -375.9489159579806,
+        "y": 940.9027519463208
+      },
+      "keywords": [
+        "cue",
+        "routine",
+        "reward",
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 350,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PTZROvpPtEvu06szwmt4K",
+      "type": "topic",
+      "label": "Support Conscious Action",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 46.805412875927175,
+        "y": 638.1061340881306
+      },
+      "keywords": [
+        "support",
+        "conscious",
+        "action"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SLXjoYL-lhPef8s9V3jpf",
+      "type": "subtopic",
+      "label": "Educate & Encourage User",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 15.305412875927175,
+        "y": 728.2635268798921
+      },
+      "keywords": [
+        "educate",
+        "encourage",
+        "user"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "e9n9an1PGxDPGkLCOHIwz",
+      "type": "subtopic",
+      "label": "Help User think about their Action",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 15.305412875927175,
+        "y": 781.2635268798921
+      },
+      "keywords": [
+        "help",
+        "user",
+        "think",
+        "about",
+        "their",
+        "action"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zVXJPpqZvUFIxTGVrr0rN",
+      "type": "topic",
+      "label": "Cheating",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 46.805412875927175,
+        "y": 532.1061340881306
+      },
+      "keywords": [
+        "cheating"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IpKCXqf_PkxIllwmiIZsq",
+      "type": "subtopic",
+      "label": "Defaulting",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 364.8773977705443,
+        "y": 478.07175044502765
+      },
+      "keywords": [
+        "defaulting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 282,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ix5Fll_dAINWLxVF2DXFI",
+      "type": "subtopic",
+      "label": "Making it Incidental",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 364.8773977705443,
+        "y": 531.0717504450278
+      },
+      "keywords": [
+        "making",
+        "incidental"
+      ],
+      "metadata": {
+        "style": {
+          "width": 282,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZufrLRNkMoJ4e2T-vWxCR",
+      "type": "subtopic",
+      "label": "Automate the Act of Repetition",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 364.8773977705443,
+        "y": 584.0717504450278
+      },
+      "keywords": [
+        "automate",
+        "act",
+        "repetition"
+      ],
+      "metadata": {
+        "style": {
+          "width": 282,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y6CqgqTvOt-LrvTnPJkQQ",
+      "type": "topic",
+      "label": "Make or Change Habits",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 46.805412875927175,
+        "y": 585.1061340881306
+      },
+      "keywords": [
+        "make",
+        "change",
+        "habits"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TG0y546UrqLyWXGTjDYBb",
+      "type": "label",
+      "label": "New Behavior",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -266.44891595798083,
+        "y": 847.9027519463209
+      },
+      "keywords": [
+        "new",
+        "behavior"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-61prALJPwj43JtUcO5le",
+      "type": "label",
+      "label": "Existing Behavior",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -275.94891595798083,
+        "y": 545.9027519463209
+      },
+      "keywords": [
+        "existing",
+        "behavior"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "S2TgqNDjvmcJTaXncM09u",
+      "type": "subtopic",
+      "label": "Help user Avoiding the Cue",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -375.9489159579806,
+        "y": 581.9027519463209
+      },
+      "keywords": [
+        "help",
+        "user",
+        "avoiding",
+        "cue"
+      ],
+      "metadata": {
+        "style": {
+          "width": 350,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_C-55tciBzc6_Kyk6272k",
+      "type": "subtopic",
+      "label": "Replace the Routine",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -375.9489159579806,
+        "y": 634.9027519463209
+      },
+      "keywords": [
+        "replace",
+        "routine"
+      ],
+      "metadata": {
+        "style": {
+          "width": 350,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0MbrHG-VDrdZqQ0jWtiDo",
+      "type": "subtopic",
+      "label": "Use Consciousness to Interfere",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -375.9489159579806,
+        "y": 687.9027519463209
+      },
+      "keywords": [
+        "use",
+        "consciousness",
+        "interfere"
+      ],
+      "metadata": {
+        "style": {
+          "width": 350,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "d1dXGCHmMF2EFpL5yKVJA",
+      "type": "subtopic",
+      "label": "Mindfulness to Avoid Acting on the Cue",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -375.9489159579806,
+        "y": 740.9027519463209
+      },
+      "keywords": [
+        "mindfulness",
+        "avoid",
+        "acting",
+        "cue"
+      ],
+      "metadata": {
+        "style": {
+          "width": 350,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "B0gg7Z5JL9m9Srb89KcN5",
+      "type": "subtopic",
+      "label": "Crowd Out Old Habit with New Behavior",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -375.9489159579806,
+        "y": 793.9027519463209
+      },
+      "keywords": [
+        "crowd",
+        "out",
+        "old",
+        "habit",
+        "new",
+        "behavior"
+      ],
+      "metadata": {
+        "style": {
+          "width": 350,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 316.94680530818437,
+        "y": -124.22219261572492
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 354,
+          "height": 142
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 329.1501797209845,
+        "y": -42.23662919797964
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w_QWN80zCf1tsVROeyuvo",
+      "type": "topic",
+      "label": "Behavior Change Strategies",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 36.805412875927175,
+        "y": 400.8462912210996
+      },
+      "keywords": [
+        "behavior",
+        "change",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ifG_Cp4d_9v4FdUkRkN2A",
+      "type": "label",
+      "label": "Classifying Behavior",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -259.21566738325384,
+        "y": 454.8462912210996
+      },
+      "keywords": [
+        "classifying",
+        "behavior"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0abyvwi8Rf8nNjUbY0qq1",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -17.948915957980603,
+        "y": 600.0364827465391
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 68,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "q1WX2Cp4k4-o1T1vgL8FH",
+      "type": "topic",
+      "label": "Understanding the Product",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 379.0510840420194,
+        "y": 915.9027519463209
+      },
+      "keywords": [
+        "understanding",
+        "product"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sQeGE1Q_7y15-n4LXS8s2",
+      "type": "label",
+      "label": "Clarify Product",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 447.0510840420194,
+        "y": 842.9027519463209
+      },
+      "keywords": [
+        "clarify",
+        "product"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7J8F9dn1jGaVlhLVVRPrG",
+      "type": "subtopic",
+      "label": "Target Outcome",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 426.5510840420194,
+        "y": 679.9682005558906
+      },
+      "keywords": [
+        "target",
+        "outcome"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FRn2MaR0-ehSD3zmwXcCI",
+      "type": "subtopic",
+      "label": "Target Actor",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 426.5510840420194,
+        "y": 732.9682005558906
+      },
+      "keywords": [
+        "target",
+        "actor"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AXn-N15U_z4OagClNoXrW",
+      "type": "subtopic",
+      "label": "Target Action",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 426.5510840420194,
+        "y": 785.9682005558906
+      },
+      "keywords": [
+        "target",
+        "action"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4nmx07v1O-rHYl84dutEU",
+      "type": "label",
+      "label": "Define Target Users  ",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 86.6095391594074,
+        "y": 922.4027519463209
+      },
+      "keywords": [
+        "define",
+        "target",
+        "users"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s2KJ5kNv9UcnsP0QKIKQ7",
+      "type": "subtopic",
+      "label": "Create User Personas",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 63.109539159407404,
+        "y": 865.9027519463209
+      },
+      "keywords": [
+        "create",
+        "user",
+        "personas"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "803UQ48IOF6XplL6s2R16",
+      "type": "label",
+      "label": "Existing Business Model",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 409.5510840420194,
+        "y": 1058.9298705260153
+      },
+      "keywords": [
+        "existing",
+        "business",
+        "model"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SGO9hHju49_py0n0ASGBe",
+      "type": "subtopic",
+      "label": "Business Model Canvas",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 388.0510840420194,
+        "y": 1096.9298705260153
+      },
+      "keywords": [
+        "business",
+        "model",
+        "canvas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sc8jJ_77CrkQuxIJYk28Q",
+      "type": "subtopic",
+      "label": "Lean Canvas",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 388.0510840420194,
+        "y": 1149.9298705260153
+      },
+      "keywords": [
+        "lean",
+        "canvas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mFXXwHxZ0ZHjw31iAQaH-",
+      "type": "label",
+      "label": "New Business Model",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 422.5510840420194,
+        "y": 1206.9298705260153
+      },
+      "keywords": [
+        "new",
+        "business",
+        "model"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GI06-DbGyJlQXq5Tyi-aH",
+      "type": "subtopic",
+      "label": "Business Model Inspirator",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 388.0510840420194,
+        "y": 1246.9298705260153
+      },
+      "keywords": [
+        "business",
+        "model",
+        "inspirator"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HUZ5n2MRHzQPyjwX2h6Q4",
+      "type": "subtopic",
+      "label": "Competitor Analysis",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 388.0510840420194,
+        "y": 1299.9298705260153
+      },
+      "keywords": [
+        "competitor",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "F9gpGTRwXq08jNo5pPKm6",
+      "type": "subtopic",
+      "label": "Five Forces Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 388.0510840420194,
+        "y": 1352.9298705260153
+      },
+      "keywords": [
+        "five",
+        "forces",
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XiEn1OGFY1bMCoB0Pk8N_",
+      "type": "subtopic",
+      "label": "SWOT Analysis",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 388.0510840420194,
+        "y": 1405.9298705260153
+      },
+      "keywords": [
+        "swot",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D1JzUxHFpT9-xjoLsvsCY",
+      "type": "label",
+      "label": "Business Model",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 441.5510840420194,
+        "y": 1005.9298705260153
+      },
+      "keywords": [
+        "business",
+        "model"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r6D07cN0Mg4YXsiRSrl1_",
+      "type": "topic",
+      "label": "Conceptual Design",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 82.30541287592717,
+        "y": 1069.9298705260153
+      },
+      "keywords": [
+        "conceptual",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "N6tD-O5IFvSr0-UTlBAAp",
+      "type": "label",
+      "label": "Create Product Backlog",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -286.73595655435645,
+        "y": 1036.169554817315
+      },
+      "keywords": [
+        "create",
+        "product",
+        "backlog"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tkbkpvHlWQeOnReanR8J7",
+      "type": "subtopic",
+      "label": "User Stories",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.73595655435645,
+        "y": 1072.169554817315
+      },
+      "keywords": [
+        "user",
+        "stories"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NQg3zCnDg7qdtH7bL2XLl",
+      "type": "label",
+      "label": "Things to lookout for",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -272.73595655435645,
+        "y": 1131.496860258174
+      },
+      "keywords": [
+        "things",
+        "lookout"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QNJ-LxfYtR8lbnmuy2Qm9",
+      "type": "subtopic",
+      "label": "In general, keep it short and simple",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.73595655435645,
+        "y": 1172.5599036315757
+      },
+      "keywords": [
+        "general",
+        "keep",
+        "short",
+        "simple"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vAu2c45c7DgoRydHR2tvD",
+      "type": "subtopic",
+      "label": "Make it easy to understand and complete",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.73595655435645,
+        "y": 1225.5599036315757
+      },
+      "keywords": [
+        "make",
+        "easy",
+        "understand",
+        "complete"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8YePym3cQtoVY0DJQLllK",
+      "type": "subtopic",
+      "label": "Make progress visible to user",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.73595655435645,
+        "y": 1278.5599036315757
+      },
+      "keywords": [
+        "make",
+        "progress",
+        "visible",
+        "user"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D3LVYuCDHD6-kU8GhXokf",
+      "type": "subtopic",
+      "label": "Make progress meaningful to reward user",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.73595655435645,
+        "y": 1331.5599036315757
+      },
+      "keywords": [
+        "make",
+        "progress",
+        "meaningful",
+        "reward",
+        "user"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "94V3wUtZ0NMm_0Vb1pBju",
+      "type": "subtopic",
+      "label": "Make successful completion clearly visible",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.73595655435645,
+        "y": 1384.5599036315757
+      },
+      "keywords": [
+        "make",
+        "successful",
+        "completion",
+        "clearly",
+        "visible"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sKGv31mHcykV4mYugn9SH",
+      "type": "label",
+      "label": "Deliverables",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -242.73595655435636,
+        "y": 1443.8886076912136
+      },
+      "keywords": [
+        "deliverables"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0KEqAjHFBjfmGA1bKzXuD",
+      "type": "subtopic",
+      "label": "Customer Experience Map by Mel Edwards",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.7359565543562,
+        "y": 1484.7690150431436
+      },
+      "keywords": [
+        "customer",
+        "experience",
+        "map",
+        "mel",
+        "edwards"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JCP5_jyvh9u7hxp379iW2",
+      "type": "subtopic",
+      "label": "Simple Flowchart",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.7359565543562,
+        "y": 1537.7690150431436
+      },
+      "keywords": [
+        "simple",
+        "flowchart"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nccToz_0FUvHMJytpDpM0",
+      "type": "subtopic",
+      "label": "Event-driven Process Chain Model (EPC)",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -380.7359565543562,
+        "y": 1590.7690150431436
+      },
+      "keywords": [
+        "event",
+        "driven",
+        "process",
+        "chain",
+        "model",
+        "epc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jy5jtSEyNE8iJpad27rPX",
+      "type": "subtopic",
+      "label": "Business Process Model & Notation (BPMN)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.7359565543562,
+        "y": 1643.7690150431436
+      },
+      "keywords": [
+        "business",
+        "process",
+        "model",
+        "notation",
+        "bpmn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sG9Vwdypz0t17SwlHV-xw",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 18.305412875927175,
+        "y": 1032.5599036315757
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 665
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6yCBFwntQ_KxFmmGTJ8iR",
+      "type": "topic",
+      "label": "Prototyping",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 82.30541287592717,
+        "y": 1555.3769542823657
+      },
+      "keywords": [
+        "prototyping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "90_M5qABC1vZ1nsXVyqFJ",
+      "type": "subtopic",
+      "label": "Good Layout Rules",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 80.80541287592717,
+        "y": 1466.9973748348116
+      },
+      "keywords": [
+        "good",
+        "layout",
+        "rules"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ekTWlRH0AJFQW22L0D4qQ",
+      "type": "label",
+      "label": "Wireframing",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 128.6095391594074,
+        "y": 1412.7690150431436
+      },
+      "keywords": [
+        "wireframing"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "t46s6Piyd8MoJYzdDTsjr",
+      "type": "subtopic",
+      "label": "Figma",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 84.1095391594074,
+        "y": 1199.6484927422323
+      },
+      "keywords": [
+        "figma"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HI_urBhPqT0m3AeBQJIej",
+      "type": "subtopic",
+      "label": "Adobe XD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 84.1095391594074,
+        "y": 1252.6484927422323
+      },
+      "keywords": [
+        "adobe"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nb7Ql1gvxqEucsGnIWTyY",
+      "type": "subtopic",
+      "label": "Sketch",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 84.1095391594074,
+        "y": 1305.6484927422323
+      },
+      "keywords": [
+        "sketch"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fZkARg6kPXPemYW1vDMTe",
+      "type": "subtopic",
+      "label": "Balsamiq",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 84.1095391594074,
+        "y": 1358.6484927422323
+      },
+      "keywords": [
+        "balsamiq"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "u-5aejF7WUpuvk2QKGbeO",
+      "type": "label",
+      "label": "When attention is fleeting and scarce",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 364.8773977705443,
+        "y": 1562.9741748535075
+      },
+      "keywords": [
+        "when",
+        "attention",
+        "fleeting",
+        "scarce"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "U4ZEFUcghr9XjSyf-0Np7",
+      "type": "subtopic",
+      "label": "Call to Action",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 372.2416430408088,
+        "y": 1603.6312791016187
+      },
+      "keywords": [
+        "call",
+        "action"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G4Ap91NgZfkV-54EuWe-Z",
+      "type": "subtopic",
+      "label": "Status Reports",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 371.87739777054435,
+        "y": 1656.6312791016187
+      },
+      "keywords": [
+        "status",
+        "reports"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mzWd-xSr7sO2RgfPbKy4T",
+      "type": "subtopic",
+      "label": "How-to-Tips",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 523.2416430408089,
+        "y": 1603.6312791016187
+      },
+      "keywords": [
+        "how",
+        "tips"
+      ],
+      "metadata": {
+        "style": {
+          "width": 137,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wFWidrOZ5EHPgo9uuUclK",
+      "type": "subtopic",
+      "label": "Reminders & Planning Prompts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 371.87739777054435,
+        "y": 1709.6312791016187
+      },
+      "keywords": [
+        "reminders",
+        "planning",
+        "prompts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jsCKUH1HKQi_5kGvYbVtI",
+      "type": "label",
+      "label": "with many chances to influence user",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 368.87739777054435,
+        "y": 1768.6312791016187
+      },
+      "keywords": [
+        "many",
+        "chances",
+        "influence",
+        "user"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9vA3ZWMiKG6NiEqGDvcFR",
+      "type": "subtopic",
+      "label": "Decision-Making Support",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 372.24164304080887,
+        "y": 1864.888026311074
+      },
+      "keywords": [
+        "decision",
+        "making",
+        "support"
+      ],
+      "metadata": {
+        "style": {
+          "width": 292,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JSBiw0C6aq1LhA33y79PM",
+      "type": "subtopic",
+      "label": "Behavior Change Games",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 372.24164304080887,
+        "y": 1811.888026311074
+      },
+      "keywords": [
+        "behavior",
+        "change",
+        "games"
+      ],
+      "metadata": {
+        "style": {
+          "width": 292,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fbIur1tEIdNDE6gls4Bru",
+      "type": "subtopic",
+      "label": "Gamification",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 371.87739777054435,
+        "y": 1917.888026311074
+      },
+      "keywords": [
+        "gamification"
+      ],
+      "metadata": {
+        "style": {
+          "width": 130,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eYZf67rnhOksfh44hnzHg",
+      "type": "subtopic",
+      "label": "Planners",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 505.0066517763971,
+        "y": 2023.888026311074
+      },
+      "keywords": [
+        "planners"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "esWGzYUJwv7_xGjq6kpVE",
+      "type": "subtopic",
+      "label": "Reminders",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 371.87739777054435,
+        "y": 1970.888026311074
+      },
+      "keywords": [
+        "reminders"
+      ],
+      "metadata": {
+        "style": {
+          "width": 130,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FoKtBRuTuMD2SZDHLWS-5",
+      "type": "subtopic",
+      "label": "Social Sharing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 505.0066517763971,
+        "y": 1970.888026311074
+      },
+      "keywords": [
+        "social",
+        "sharing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "g-bcan_JnjJfg0_fMOb64",
+      "type": "subtopic",
+      "label": "Goal Trackers",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 505.0066517763971,
+        "y": 1917.888026311074
+      },
+      "keywords": [
+        "goal",
+        "trackers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f0n2JKxpcuP0JW-h4CvwN",
+      "type": "subtopic",
+      "label": "Tutorials",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 373.87739777054435,
+        "y": 2023.888026311074
+      },
+      "keywords": [
+        "tutorials"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NPUtT6QqPa5YdybFHdAQE",
+      "type": "label",
+      "label": "UX Patterns",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 461.87739777054435,
+        "y": 1515.9973748348116
+      },
+      "keywords": [
+        "patterns"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VUf72i5hYaLR_8ul9EzmM",
+      "type": "topic",
+      "label": "UX Best Practices",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 82.30541287592717,
+        "y": 1758.6312791016187
+      },
+      "keywords": [
+        "best",
+        "practices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IjqH_Ev2fDWG0QDQ9c9eN",
+      "type": "subtopic",
+      "label": "Clear the Page of Distractions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 1822.1374207135236
+      },
+      "keywords": [
+        "clear",
+        "page",
+        "distractions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hDj3HaYAM7K1UJmP_T52n",
+      "type": "subtopic",
+      "label": "Make it Clear, Where to Act",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 1875.1374207135236
+      },
+      "keywords": [
+        "make",
+        "clear",
+        "where",
+        "act"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FXJpJDIp-JBc0-0z4PIRo",
+      "type": "subtopic",
+      "label": "Tell User what the Action is and ask for it",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 1769.1374207135236
+      },
+      "keywords": [
+        "tell",
+        "user",
+        "what",
+        "action",
+        "ask"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "T3JsbjelcUdDkvjQ8PU2f",
+      "type": "label",
+      "label": "Getting Users Attention",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -285.14250645475397,
+        "y": 1729.1374207135236
+      },
+      "keywords": [
+        "getting",
+        "users",
+        "attention"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "p-Umr7oMAafTRjVawBQfX",
+      "type": "label",
+      "label": "Getting Positive Intuitive Reaction",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -324.14250645475397,
+        "y": 1934.888026311074
+      },
+      "keywords": [
+        "getting",
+        "positive",
+        "intuitive",
+        "reaction"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ahhffBkmd-feroleBrhJm",
+      "type": "subtopic",
+      "label": "Make UI Professional and Beautiful",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 1974.888026311074
+      },
+      "keywords": [
+        "make",
+        "professional",
+        "beautiful"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C1NwA0Pivoo73GANoOaPi",
+      "type": "subtopic",
+      "label": "Deploy Social Proof",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2133.888026311074
+      },
+      "keywords": [
+        "deploy",
+        "social",
+        "proof"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C5dKHIIgBzxtBpFgDs-hB",
+      "type": "subtopic",
+      "label": "Deploy Strong Authority on Subject",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2027.888026311074
+      },
+      "keywords": [
+        "deploy",
+        "strong",
+        "authority",
+        "subject"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m30ePaw_qa36m9Rv9NSFf",
+      "type": "subtopic",
+      "label": "Be Authentic and Personal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2080.888026311074
+      },
+      "keywords": [
+        "authentic",
+        "personal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nD4XaBOKa74aLlPkT0Q3w",
+      "type": "label",
+      "label": "Get a favorable Conscious Evaluation",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -338.64250645475397,
+        "y": 2199.716018359537
+      },
+      "keywords": [
+        "get",
+        "favorable",
+        "conscious",
+        "evaluation"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jBQtuiHGl3eyCTZG85Vz5",
+      "type": "subtopic",
+      "label": "Prime User-Relevant Associations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2235.716018359537
+      },
+      "keywords": [
+        "prime",
+        "user",
+        "relevant",
+        "associations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zXinWCEH4LlYvXekLK0Ju",
+      "type": "subtopic",
+      "label": "Leverage Loss-Aversion",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2447.716018359537
+      },
+      "keywords": [
+        "leverage",
+        "loss",
+        "aversion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iKHU0O0z6gCunCgv_aZye",
+      "type": "subtopic",
+      "label": "Use Peer Comparisons",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2500.716018359537
+      },
+      "keywords": [
+        "use",
+        "peer",
+        "comparisons"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6Mvm8SrISyTT99AJ-VFaW",
+      "type": "subtopic",
+      "label": "Use Competition",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2553.716018359537
+      },
+      "keywords": [
+        "use",
+        "competition"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4AzPOKXUN32CkgchRMrRY",
+      "type": "subtopic",
+      "label": "Avoid Cognitive Overhead",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2394.716018359537
+      },
+      "keywords": [
+        "avoid",
+        "cognitive",
+        "overhead"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8wxlu4KA2iu9CJa1UAUll",
+      "type": "subtopic",
+      "label": "Avoid Choice Overload",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2341.716018359537
+      },
+      "keywords": [
+        "avoid",
+        "choice",
+        "overload"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iQNvKhwhvbis4Yn1ZxQua",
+      "type": "subtopic",
+      "label": "Avoid Direct Payments",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2288.716018359537
+      },
+      "keywords": [
+        "avoid",
+        "direct",
+        "payments"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mTpG4uiYuBQIZA5eWVIpP",
+      "type": "label",
+      "label": "Creating Urgency to Act Now",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -305.64250645475397,
+        "y": 2618.294868949119
+      },
+      "keywords": [
+        "creating",
+        "urgency",
+        "act",
+        "now"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "S9rJr8pc-Ln8BxG0suBWa",
+      "type": "subtopic",
+      "label": "Frame Text to Avoid Temporal Myopia",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2655.442289043937
+      },
+      "keywords": [
+        "frame",
+        "text",
+        "avoid",
+        "temporal",
+        "myopia"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kR-UbUFdELVeiPJqT0GlZ",
+      "type": "subtopic",
+      "label": "Remind of Prior Commitment to Act",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2708.442289043937
+      },
+      "keywords": [
+        "remind",
+        "prior",
+        "commitment",
+        "act"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dOL2z6ULpmzRD5N3MrYCy",
+      "type": "subtopic",
+      "label": "Make Commitment to Friends",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2761.442289043937
+      },
+      "keywords": [
+        "make",
+        "commitment",
+        "friends"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1pzONoWafLAeX8eWbH-Dz",
+      "type": "subtopic",
+      "label": "Make Reward Scarce",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -380.64250645475397,
+        "y": 2814.442289043937
+      },
+      "keywords": [
+        "make",
+        "reward",
+        "scarce"
+      ],
+      "metadata": {
+        "style": {
+          "width": 388,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nlu4DdEQG072Oy2BbCBKi",
+      "type": "label",
+      "label": "Make sure Users can do it Easily",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 63.05810580522689,
+        "y": 2613.912383827578
+      },
+      "keywords": [
+        "make",
+        "sure",
+        "users",
+        "easily"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EmDgiwaknBz5lXr1rwalE",
+      "type": "subtopic",
+      "label": "Elicit Implementation Intentions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.55810580522689,
+        "y": 2656.412383827578
+      },
+      "keywords": [
+        "elicit",
+        "implementation",
+        "intentions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wE5gt1vMgbF3csA61VO2-",
+      "type": "subtopic",
+      "label": "Default Everything",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.55810580522689,
+        "y": 2709.412383827578
+      },
+      "keywords": [
+        "default",
+        "everything"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gf7et64xCqkYBrP9HwWs_",
+      "type": "subtopic",
+      "label": "Lessen the Burden of Action / Info",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.55810580522689,
+        "y": 2762.412383827578
+      },
+      "keywords": [
+        "lessen",
+        "burden",
+        "action",
+        "info"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gqOnzmiLQHmIXuEe4jG2e",
+      "type": "subtopic",
+      "label": "Deploy Peer Comparisons",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.55810580522689,
+        "y": 2815.412383827578
+      },
+      "keywords": [
+        "deploy",
+        "peer",
+        "comparisons"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3inGDmHdZzATjIwTcHInX",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 16.805412875927175,
+        "y": 1741.5403856953653
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 861
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Xm5ZZDvriOWFWXBtd2TeM",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 26.288353545845894,
+        "y": 2590
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 333,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GgBazWfF2OvOqkuo3DO2L",
+      "type": "topic",
+      "label": "Measuring the Impact",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 62.305412875927175,
+        "y": 2199.716018359537
+      },
+      "keywords": [
+        "measuring",
+        "impact"
+      ],
+      "metadata": {
+        "style": {
+          "width": 236,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Q4xBz9f3yyZi2F_aZ5ixL",
+      "type": "subtopic",
+      "label": "Incremental A/B Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 64.30541287592717,
+        "y": 2386.2450274059497
+      },
+      "keywords": [
+        "incremental",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "-_T2nzp1vV1jUcpsC5DI3",
+      "type": "subtopic",
+      "label": "Multivariate Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 64.30541287592717,
+        "y": 2333.2450274059497
+      },
+      "keywords": [
+        "multivariate",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "M-ghIECr0h_9RUgtpkjX8",
+      "type": "label",
+      "label": "Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 143.80541287592717,
+        "y": 2293.11930137945
+      },
+      "keywords": [
+        "testing"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "Emby09Nsm_j6uNreT58r6",
+      "type": "subtopic",
+      "label": "Gather Lessons, Prioritize & Integrate",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 215.80541287592717,
+        "y": 2111.900631885402
+      },
+      "keywords": [
+        "gather",
+        "lessons",
+        "prioritize",
+        "integrate"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xwpc_KxehAruFM0pCQnie",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 428.5066517763971,
+        "y": 3027.1774505212534
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 104
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "paragraph",
+      "label": "You might be interested in following roadmaps as well",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 207.50758661623695,
+        "y": 2938.4377800208467
+      },
+      "keywords": [
+        "you",
+        "interested",
+        "following",
+        "roadmaps",
+        "well"
+      ],
+      "metadata": {
+        "style": {
+          "width": 472,
+          "height": 118
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dlGf3ZdFXYx0Z6Viu2x-l",
+      "type": "button",
+      "label": "Design System",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 225.90014686686425,
+        "y": 2994.9075373933047
+      },
+      "keywords": [
+        "design",
+        "system"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9LKa-YjOMtO1j62Ukt0q0",
+      "type": "button",
+      "label": "Frontend",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 451.40014686686425,
+        "y": 2994.9075373933047
+      },
+      "keywords": [
+        "frontend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 216,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fMfC7VJEq94e19h9i1vAG",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -381.789926549572,
+        "y": -124.22219261572492
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 134
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "_hYN0gEi9BL24nptEtXWU",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "idLHBxhvcIqZTqmh_E8Az",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "os3Pa6W9SSNEzgmlBbglQ",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "3oInpqvTSSC5_K6i7j8N7",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "YKhuRbcUFzo0hTvuTq-Yl",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "hWA7RtuqltMTmHdcCnmES",
+      "type": "default"
+    },
+    {
+      "target": "NMznG9mo2wzNFnjhg990f",
+      "type": "default"
+    },
+    {
+      "target": "gc_7cuIO2_joKlQRAPDfX",
+      "type": "default"
+    },
+    {
+      "source": "rrrvATyhXqRgJGWI3z0WF",
+      "target": "AvbMQ5vY3ip1oX_6Yq4ie",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "1AJv95mTLpR7L8KBoGym8",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "0etAs56EeBfh_0IlAaSra",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "h6ceO0kiBIxNRkPzN3hBY",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "_JlT9oKQ6Yu4UX6l19G8P",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "jZ67HhVRelJaxjsCckSSI",
+      "type": "default"
+    },
+    {
+      "source": "YvybHSbUUnnhcpSvBWkZh",
+      "target": "liUKYf7UghuPk25xMPPYj",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "D553-nVELaB5gdxtoKSVc",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "K22gvF9DLt0Ikc80yZLCb",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "6ffY5wO-XhkiDJJ5YcI0x",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "_lv6GJ0wlMfhJ7PHRGQ_V",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "zYCBEUqZVlvjlAKnh5cPQ",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "w_QWN80zCf1tsVROeyuvo",
+      "type": "default"
+    },
+    {
+      "source": "w_QWN80zCf1tsVROeyuvo",
+      "target": "lRBC8VYJPsR65LHDuuIsL",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "2NlgbLeLBYwZX2u2rKkIO",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "kcG4IpneJzA6di0uqTiwb",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "0Df110GZcDw5wbAe1eKoA",
+      "type": "default"
+    },
+    {
+      "source": "liUKYf7UghuPk25xMPPYj",
+      "target": "kWA8CvocP1pkom2N7O4gb",
+      "type": "default"
+    },
+    {
+      "source": "w_QWN80zCf1tsVROeyuvo",
+      "target": "zVXJPpqZvUFIxTGVrr0rN",
+      "type": "default"
+    },
+    {
+      "source": "PTZROvpPtEvu06szwmt4K",
+      "target": "SLXjoYL-lhPef8s9V3jpf",
+      "type": "default"
+    },
+    {
+      "source": "zVXJPpqZvUFIxTGVrr0rN",
+      "target": "IpKCXqf_PkxIllwmiIZsq",
+      "type": "default"
+    },
+    {
+      "source": "zVXJPpqZvUFIxTGVrr0rN",
+      "target": "Ix5Fll_dAINWLxVF2DXFI",
+      "type": "default"
+    },
+    {
+      "source": "zVXJPpqZvUFIxTGVrr0rN",
+      "target": "ZufrLRNkMoJ4e2T-vWxCR",
+      "type": "default"
+    },
+    {
+      "source": "w_QWN80zCf1tsVROeyuvo",
+      "target": "q1WX2Cp4k4-o1T1vgL8FH",
+      "type": "smoothstep"
+    },
+    {
+      "source": "q1WX2Cp4k4-o1T1vgL8FH",
+      "target": "sQeGE1Q_7y15-n4LXS8s2",
+      "type": "default"
+    },
+    {
+      "source": "q1WX2Cp4k4-o1T1vgL8FH",
+      "target": "4nmx07v1O-rHYl84dutEU",
+      "type": "default"
+    },
+    {
+      "source": "q1WX2Cp4k4-o1T1vgL8FH",
+      "target": "D1JzUxHFpT9-xjoLsvsCY",
+      "type": "default"
+    },
+    {
+      "source": "q1WX2Cp4k4-o1T1vgL8FH",
+      "target": "r6D07cN0Mg4YXsiRSrl1_",
+      "type": "default"
+    },
+    {
+      "source": "6yCBFwntQ_KxFmmGTJ8iR",
+      "target": "90_M5qABC1vZ1nsXVyqFJ",
+      "type": "default"
+    },
+    {
+      "source": "6yCBFwntQ_KxFmmGTJ8iR",
+      "target": "VUf72i5hYaLR_8ul9EzmM",
+      "type": "default"
+    },
+    {
+      "source": "VUf72i5hYaLR_8ul9EzmM",
+      "target": "GgBazWfF2OvOqkuo3DO2L",
+      "type": "default"
+    },
+    {
+      "source": "GgBazWfF2OvOqkuo3DO2L",
+      "target": "M-ghIECr0h_9RUgtpkjX8",
+      "type": "default"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "smoothstep"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "source": "Pm-Wx7Z3jCUFcafetsQYi",
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "source": "GgBazWfF2OvOqkuo3DO2L",
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "step"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 78
+    },
+    {
+      "name": "label",
+      "count": 19
+    },
+    {
+      "name": "topic",
+      "count": 9
+    },
+    {
+      "name": "horizontal",
+      "count": 6
+    },
+    {
+      "name": "vertical",
+      "count": 5
+    },
+    {
+      "name": "frontend",
+      "count": 5
+    },
+    {
+      "name": "section",
+      "count": 3
+    },
+    {
+      "name": "testing",
+      "count": 3
+    },
+    {
+      "name": "framework",
+      "count": 2
+    },
+    {
+      "name": "data-science",
+      "count": 2
+    },
+    {
+      "name": "button",
+      "count": 2
+    },
+    {
+      "name": "programming-language",
+      "count": 2
+    },
+    {
+      "name": "backend",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "kPYDO-8dOqviVg33HgkaY",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "kpydo",
+        "8doqvivg33hgkay"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "3oo6PeHghXixNr2a4FWvt",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "3oo6pehghxixnr2a4fwvt"
+      ]
+    },
+    {
+      "name": "WQntKm1lyBLwvDdYXG5AJ",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "wqntkm1lyblwvddyxg5aj"
+      ]
+    },
+    {
+      "name": "UX Design",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "design"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Human Decision Making",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "human",
+        "decision",
+        "making"
+      ]
+    },
+    {
+      "name": "Buzzwords to lookout for",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "buzzwords",
+        "lookout"
+      ]
+    },
+    {
+      "name": "Nudge Theory",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "nudge",
+        "theory"
+      ]
+    },
+    {
+      "name": "Persuasive Technology",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "persuasive",
+        "technology"
+      ]
+    },
+    {
+      "name": "Behavior Design",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "behavior",
+        "design"
+      ]
+    },
+    {
+      "name": "Behavioral Science",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "behavioral",
+        "science"
+      ]
+    },
+    {
+      "name": "Behavioral Economics",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "behavioral",
+        "economics"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "category": "framework",
+      "difficulty": "intermediate",
+      "keywords": [
+        "frameworks"
+      ]
+    },
+    {
+      "name": "BJ Fogg's Behavior Model",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "fogg",
+        "behavior",
+        "model"
+      ]
+    },
+    {
+      "name": "CREATE Action Funnel",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "create",
+        "action",
+        "funnel"
+      ]
+    },
+    {
+      "name": "Spectrum of Thinking Interventions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "spectrum",
+        "thinking",
+        "interventions"
+      ]
+    },
+    {
+      "name": "Dual Process Theory",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "dual",
+        "process",
+        "theory"
+      ]
+    },
+    {
+      "name": "BJ Fogg's Behavior Grid",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "fogg",
+        "behavior",
+        "grid"
+      ]
+    },
+    {
+      "name": "Nir Eyal's Hook Model",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "nir",
+        "eyal",
+        "hook",
+        "model"
+      ]
+    },
+    {
+      "name": "Cue Routine Reward Model",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "cue",
+        "routine",
+        "reward",
+        "model"
+      ]
+    },
+    {
+      "name": "Support Conscious Action",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "support",
+        "conscious",
+        "action"
+      ]
+    },
+    {
+      "name": "Educate & Encourage User",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "educate",
+        "encourage",
+        "user"
+      ]
+    },
+    {
+      "name": "Help User think about their Action",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "help",
+        "user",
+        "think",
+        "about",
+        "their"
+      ]
+    },
+    {
+      "name": "Cheating",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "cheating"
+      ]
+    },
+    {
+      "name": "Defaulting",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "defaulting"
+      ]
+    },
+    {
+      "name": "Making it Incidental",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "making",
+        "incidental"
+      ]
+    },
+    {
+      "name": "Automate the Act of Repetition",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "automate",
+        "act",
+        "repetition"
+      ]
+    },
+    {
+      "name": "Make or Change Habits",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "make",
+        "change",
+        "habits"
+      ]
+    },
+    {
+      "name": "New Behavior",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "new",
+        "behavior"
+      ]
+    },
+    {
+      "name": "Existing Behavior",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "existing",
+        "behavior"
+      ]
+    },
+    {
+      "name": "Help user Avoiding the Cue",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "help",
+        "user",
+        "avoiding",
+        "cue"
+      ]
+    },
+    {
+      "name": "Replace the Routine",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "replace",
+        "routine"
+      ]
+    },
+    {
+      "name": "Use Consciousness to Interfere",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "use",
+        "consciousness",
+        "interfere"
+      ]
+    },
+    {
+      "name": "Mindfulness to Avoid Acting on the Cue",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "mindfulness",
+        "avoid",
+        "acting",
+        "cue"
+      ]
+    },
+    {
+      "name": "Crowd Out Old Habit with New Behavior",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "crowd",
+        "out",
+        "old",
+        "habit",
+        "new"
+      ]
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Behavior Change Strategies",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "behavior",
+        "change",
+        "strategies"
+      ]
+    },
+    {
+      "name": "Classifying Behavior",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "classifying",
+        "behavior"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "Understanding the Product",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "understanding",
+        "product"
+      ]
+    },
+    {
+      "name": "Clarify Product",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "clarify",
+        "product"
+      ]
+    },
+    {
+      "name": "Target Outcome",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "target",
+        "outcome"
+      ]
+    },
+    {
+      "name": "Target Actor",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "target",
+        "actor"
+      ]
+    },
+    {
+      "name": "Target Action",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "target",
+        "action"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 138,
+    "totalEdges": 45,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:21.014Z",
+    "version": "2.0"
+  }
+}

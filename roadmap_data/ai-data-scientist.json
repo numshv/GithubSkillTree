@@ -1,0 +1,3575 @@
+{
+  "name": "ai-data-scientist",
+  "title": "Ai Data Scientist",
+  "nodes": [
+    {
+      "id": "28Iu61OKR6_3BBmO8M5lg",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 481.39029212267985,
+        "y": 1925.5843010493045
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 290,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0dVq5C16sFyWglWitQQdD",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 542.8902921226799,
+        "y": 1266.7340815556822
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 244,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Vdw0GAnxhDCj_C3XDxNDF",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 192.89029212267985,
+        "y": 1266.7340815556822
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 78,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Z4MOOqNXpHkxWe0PJ7hjt",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -82.10970787732015,
+        "y": 132.4007482223489
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 344,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JHqi_gjATUrPtewn-cdGo",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -164.10970787732015,
+        "y": 46.40074822234891
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 109
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I7PI9n8QfW9_tCWOdw7yY",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -144.10970787732015,
+        "y": 1174.400748222349
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 338,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3_CBtQLv0X6GzUEtq7jyp",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 434.89029212267985,
+        "y": 133.4007482223489
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 354,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aq0gNWINbAQFG28HLJgCF",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -82.10970787732015,
+        "y": 453.9007482223489
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 331,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "c58fcsthBlVfzfr-MHdpF",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -164.10970787732015,
+        "y": -107.59925177765109
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 86
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ji35JsKgUQXN4DJGEgTAC",
+      "type": "title",
+      "label": "AI and Data Scientist",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -271.10970787732015,
+        "y": -21.59925177765109
+      },
+      "keywords": [
+        "data",
+        "scientist"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aStaDENn5PhEa-cFvNzXa",
+      "type": "topic",
+      "label": "Mathematics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -196.10970787732015,
+        "y": 118.90074822234891
+      },
+      "keywords": [
+        "mathematics"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4WZL_fzJ3cZdWLLDoWN8D",
+      "type": "topic",
+      "label": "Statistics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 118.90074822234891
+      },
+      "keywords": [
+        "statistics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 161,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gWMvD83hVXeTmCuHGIiOL",
+      "type": "todo",
+      "label": "Linear Algebra, Calculus, Mathematical Analysis",
+      "description": "",
+      "category": "todo",
+      "position": {
+        "x": -226.10970787732015,
+        "y": 200.4007482223489
+      },
+      "keywords": [
+        "linear",
+        "algebra",
+        "calculus",
+        "mathematical",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 417,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HclEU3v8OdC_Oq7ONvApt",
+      "type": "resourceButton",
+      "label": "Mathematics for Machine Learning",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -196.10970787732015,
+        "y": 238.4007482223489
+      },
+      "keywords": [
+        "mathematics",
+        "machine",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 433,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mwPJh33MEUQ4Co_LiVEOb",
+      "type": "todo",
+      "label": "Differential Calculus ",
+      "description": "",
+      "category": "todo",
+      "position": {
+        "x": -226.10970787732015,
+        "y": 307.4007482223489
+      },
+      "keywords": [
+        "differential",
+        "calculus"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Py2ZgxmPRQ620cuOj_Cig",
+      "type": "resourceButton",
+      "label": "Coursera: Algebra and Differential Calculus",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -196.10970787732015,
+        "y": 349.4007482223489
+      },
+      "keywords": [
+        "coursera",
+        "algebra",
+        "differential",
+        "calculus"
+      ],
+      "metadata": {
+        "style": {
+          "width": 429,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Y9YJdARIRqqCBCy3GVYdA",
+      "type": "todo",
+      "label": "Statistics, CLT",
+      "description": "",
+      "category": "todo",
+      "position": {
+        "x": 279.89029212267985,
+        "y": 200.4007482223489
+      },
+      "keywords": [
+        "statistics",
+        "clt"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O-9EsoKrMpfkcGIBKnSty",
+      "type": "resourceButton",
+      "label": "Coursera: Introduction to Statistics",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 238.4007482223489
+      },
+      "keywords": [
+        "coursera",
+        "introduction",
+        "statistics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XJXIkWVDIrPJ-bVIvX0ZO",
+      "type": "todo",
+      "label": "Hypothesis Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 279.89029212267985,
+        "y": 307.4007482223489
+      },
+      "keywords": [
+        "hypothesis",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "5_wxpYdzweUkSMugiKV94",
+      "type": "resourceButton",
+      "label": "Coursera: Hypothesis Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 344.4007482223489
+      },
+      "keywords": [
+        "coursera",
+        "hypothesis",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "jxJtwbiCvxHqmkWkE7zdx",
+      "type": "todo",
+      "label": "Probability and Sampling",
+      "description": "",
+      "category": "todo",
+      "position": {
+        "x": 279.89029212267985,
+        "y": 408.4007482223489
+      },
+      "keywords": [
+        "probability",
+        "sampling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jIeLbbE0KYjoQo0t0CVXm",
+      "type": "resourceButton",
+      "label": "Coursera: Probability and Statistics",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 439.4007482223489
+      },
+      "keywords": [
+        "coursera",
+        "probability",
+        "statistics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mJq9b50MJM9o9dLhx40iN",
+      "type": "todo",
+      "label": "AB Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 279.89029212267985,
+        "y": 511.40074822234897
+      },
+      "keywords": [
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "lrDei3AUInJZ1ISDxOxdT",
+      "type": "resourceButton",
+      "label": "Practitioner's Guide to Statistical Tests",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 549.400748222349
+      },
+      "keywords": [
+        "practitioner",
+        "guide",
+        "statistical",
+        "tests"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R0lIHKW2JmXQp79hoGU6x",
+      "type": "resourceButton",
+      "label": "Step by Step Process for Planning an A/B Test",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 603.400748222349
+      },
+      "keywords": [
+        "step",
+        "process",
+        "planning",
+        "test"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v68nwX914qCwHDSwY_ZhG",
+      "type": "todo",
+      "label": "Increasing Test Sensitivity",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 282.89029212267985,
+        "y": 669.400748222349
+      },
+      "keywords": [
+        "increasing",
+        "test",
+        "sensitivity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 256,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G6wxStgN1ShtD6RR2xVc-",
+      "type": "resourceButton",
+      "label": "Minimum Detectable Effect",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 700.400748222349
+      },
+      "keywords": [
+        "minimum",
+        "detectable",
+        "effect"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Pu6kiJ0YOvtD6AypKWkfJ",
+      "type": "resourceButton",
+      "label": "Paper: Improving Test Sensitivity",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 753.400748222349
+      },
+      "keywords": [
+        "paper",
+        "improving",
+        "test",
+        "sensitivity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "usXkw57ukCuc9gAw6E5Td",
+      "type": "resourceButton",
+      "label": "Paper: Improving Sensitivity (CUPED)",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 806.400748222349
+      },
+      "keywords": [
+        "paper",
+        "improving",
+        "sensitivity",
+        "cuped"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "T0suD_0uw6nSq7NOFBoNQ",
+      "type": "resourceButton",
+      "label": "CUPED at Booking.com",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 859.400748222349
+      },
+      "keywords": [
+        "cuped",
+        "booking",
+        "com"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Vx5zD4Y-6yLxorD8kNvop",
+      "type": "resourceButton",
+      "label": "Doordash: CUPAC",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 912.400748222349
+      },
+      "keywords": [
+        "doordash",
+        "cupac"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bdAl2ne0fsE1R02wWdIK9",
+      "type": "resourceButton",
+      "label": "Netflix: Stratification",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 965.400748222349
+      },
+      "keywords": [
+        "netflix",
+        "stratification"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "n2JFGwFxTuOviW6kHO1Uv",
+      "type": "todo",
+      "label": "Ratio Metrics",
+      "description": "",
+      "category": "todo",
+      "position": {
+        "x": 282.89029212267985,
+        "y": 1036.400748222349
+      },
+      "keywords": [
+        "ratio",
+        "metrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 180,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nW_wSh-PoSlmOONP48UDD",
+      "type": "resourceButton",
+      "label": "Microsoft: Delta Method in Metric Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 1072.400748222349
+      },
+      "keywords": [
+        "microsoft",
+        "delta",
+        "method",
+        "metric",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KiaiatCPngkVem7Bw3s0T",
+      "type": "resourceButton",
+      "label": "Paper: Ratio Metrics",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 1125.400748222349
+      },
+      "keywords": [
+        "paper",
+        "ratio",
+        "metrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 441,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "o_Ddc5iv9y4ZLUjmUTvP-",
+      "type": "label",
+      "label": "1",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -232.71752171424652,
+        "y": 125.40074822234891
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "B3ZzcZspEctJ2kX6At0tb",
+      "type": "label",
+      "label": "2",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 273.89029212267985,
+        "y": 125.40074822234891
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Io-XP7K1_siYDrlwFmbEx",
+      "type": "label",
+      "label": "3",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -200.10970787732015,
+        "y": 445.78255589147204
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Gd2egqKZPnbPW1W2jw4j8",
+      "type": "topic",
+      "label": "Econometrics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -163.75449749114952,
+        "y": 439.28255589147204
+      },
+      "keywords": [
+        "econometrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EqgwFsJqejdABpTBoxOix",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 236.89029212267985,
+        "y": 463.9007482223489
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 747
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GFlPWkEVwPlxPhOitG1xH",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 245,
+        "y": 1200.900748222349
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 544,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h9_7FHMPipHVN7C4ErKHU",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 778,
+        "y": 141.9007482223489
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 1069
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_uOgVh3d8lAlbTgYNJFpt",
+      "type": "label",
+      "label": ">",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 45.89029212267985,
+        "y": 125
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qRxvTDjpoW1GuQ771syXb",
+      "type": "label",
+      "label": ">",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 578.5569587893465,
+        "y": 125
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TAN0BhW1tm0t3eNHOmOZ8",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 771,
+        "y": 398.4007482223489
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5wqI-L_vEpqtvXZEAbfqE",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 771,
+        "y": 835.900748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hvFSTxMfMXPysDinI0oH8",
+      "type": "label",
+      "label": "<",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 695.2536071965056,
+        "y": 1192.900748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YT5_iofe0kQ-wVjd54RT8",
+      "type": "label",
+      "label": "<",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 331.89029212267985,
+        "y": 1192.900748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ct0yUXFnbSXCw4HGIh3hh",
+      "type": "label",
+      "label": "^",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 229,
+        "y": 799.900748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_-qXa7MhA16X2BBdaWw4f",
+      "type": "label",
+      "label": "^",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 229,
+        "y": 1131.900748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EyjiTmb9kck4OoNtbde1x",
+      "type": "label",
+      "label": "^",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 229,
+        "y": 501.40074822234897
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WmbvaP_zRGs_WhYK30YqM",
+      "type": "label",
+      "label": "<",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 45.89029212267985,
+        "y": 445.9007482223489
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y6xXsc-uSAmRDnNuyhqH2",
+      "type": "todo",
+      "label": "Pre-requisites of Econometrics",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -226.10970787732018,
+        "y": 517.6026955968633
+      },
+      "keywords": [
+        "pre",
+        "requisites",
+        "econometrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2rt4WE9cE93K6vDM-c-IL",
+      "type": "resourceButton",
+      "label": "Fundamentals of Econometrics",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -196.10970787732018,
+        "y": 548.6026955968633
+      },
+      "keywords": [
+        "fundamentals",
+        "econometrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h19k9Fn5XPh3_pKEC8Ftp",
+      "type": "todo",
+      "label": "Regression, Timeseries, Fitting Distributions",
+      "description": "",
+      "category": "todo",
+      "position": {
+        "x": -226.10970787732018,
+        "y": 621.1026955968633
+      },
+      "keywords": [
+        "regression",
+        "timeseries",
+        "fitting",
+        "distributions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 384,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Eu7OT0Q7mtrMseUVumGXA",
+      "type": "resourceButton",
+      "label": "Intro to Econometrics",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 658.6026955968633
+      },
+      "keywords": [
+        "intro",
+        "econometrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hVOt_Ya86r_SIXJBkLXBj",
+      "type": "resourceButton",
+      "label": "Coursera: Econometrics",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 711.6026955968633
+      },
+      "keywords": [
+        "coursera",
+        "econometrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YU_5XufdA-zfhM0fXxGYs",
+      "type": "resourceButton",
+      "label": "Kaggle: Learn Time Series",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 784.6026955968633
+      },
+      "keywords": [
+        "kaggle",
+        "learn",
+        "time",
+        "series"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9mB3u8st5yhM7HfVWWqFZ",
+      "type": "resourceButton",
+      "label": "Kaggle: Time Series Basics",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 837.6026955968633
+      },
+      "keywords": [
+        "kaggle",
+        "time",
+        "series",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FwuC8d9ocHeDxi8MSIPH6",
+      "type": "resourceButton",
+      "label": "ARIMA model for Time Series",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 890.6026955968633
+      },
+      "keywords": [
+        "arima",
+        "model",
+        "time",
+        "series"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "53Z3qm-zP4u7_KqSD_XlB",
+      "type": "resourceButton",
+      "label": "Time Series Models",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -191.10970787732006,
+        "y": 943.6026955968633
+      },
+      "keywords": [
+        "time",
+        "series",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LVLv69h57rnKPKpa0Cj4h",
+      "type": "resourceButton",
+      "label": "Forecasting Task with Solution",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -191.10970787732006,
+        "y": 996.6026955968633
+      },
+      "keywords": [
+        "forecasting",
+        "task",
+        "solution"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FrY1Yl6yvLYA5zjBNKRVx",
+      "type": "resourceButton",
+      "label": "Coursera: Linear Regression",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 1063.6026955968632
+      },
+      "keywords": [
+        "coursera",
+        "linear",
+        "regression"
+      ],
+      "metadata": {
+        "style": {
+          "width": 419,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XLDWuSt4tI4gnmqMFdpmy",
+      "type": "topic",
+      "label": "Coding",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -153.75449749114952,
+        "y": 1159.900748222349
+      },
+      "keywords": [
+        "coding"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HVHYJ8gWHCZMACuvKP7gK",
+      "type": "label",
+      "label": "4",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -188.75449749114966,
+        "y": 1166.400748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "27CsPu77wfCw4uI0Tu45e",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -266.2175217142465,
+        "y": 463.28255589147204
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 722
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "z9R4_7UWeLz66RptYvcEI",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -273,
+        "y": 555.400748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AIFkyjgGB7AXmCG6D1bzs",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -273,
+        "y": 812.400748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Jsyv0X1BPlP0Vi_oklxHA",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -273,
+        "y": 1039.400748222349
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MVrAqizgkoAs2aghN8TgV",
+      "type": "todo",
+      "label": "Learn Python Programming Language",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -253.75449749114952,
+        "y": 1233.900748222349
+      },
+      "keywords": [
+        "learn",
+        "python",
+        "programming",
+        "language"
+      ],
+      "metadata": {
+        "style": {
+          "width": 344,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aRYOzyqvWmarRmNaPKqxI",
+      "type": "resourceButton",
+      "label": "Learn Python: Kaggle",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1273.94348613687
+      },
+      "keywords": [
+        "learn",
+        "python",
+        "kaggle"
+      ],
+      "metadata": {
+        "style": {
+          "width": 387,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eUQRHOSQq0hjwH0LuGDqY",
+      "type": "resourceButton",
+      "label": "Google's Python Class",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1327.94348613687
+      },
+      "keywords": [
+        "google",
+        "python",
+        "class"
+      ],
+      "metadata": {
+        "style": {
+          "width": 387,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R2WD0NKP7oM27aHr9SpO6",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -257.93697112052075,
+        "y": 453.78255589147204
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 51,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "36wmSfRpWOnprqPo4C7QA",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -257.93697112052075,
+        "y": 1174.400748222349
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 66,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "StBCykpzpM4g9PRFeSNXa",
+      "type": "todo",
+      "label": "Data Structures and Algorithms (Python)",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -252.60970787732018,
+        "y": 1405.2347754827133
+      },
+      "keywords": [
+        "data",
+        "structures",
+        "algorithms",
+        "python"
+      ],
+      "metadata": {
+        "style": {
+          "width": 362,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lhLL1ycUWgeX_d5gd-g8g",
+      "type": "resourceButton",
+      "label": "Study Plans - Leetcode",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1497.72719179845
+      },
+      "keywords": [
+        "study",
+        "plans",
+        "leetcode"
+      ],
+      "metadata": {
+        "style": {
+          "width": 387,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4_5Q9PesKAtnLlT-NAm3z",
+      "type": "resourceButton",
+      "label": "Algorithmic Excercises",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1442.932766177383
+      },
+      "keywords": [
+        "algorithmic",
+        "excercises"
+      ],
+      "metadata": {
+        "style": {
+          "width": 387,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Bh3vUHjY9So8vWli_464_",
+      "type": "resourceButton",
+      "label": "Algorithms Specialization",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1551.72719179845
+      },
+      "keywords": [
+        "algorithms",
+        "specialization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 387,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Im0tXXn3GC-FUq2aMHgwm",
+      "type": "todo",
+      "label": "Learn SQL",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -252.60970787732018,
+        "y": 1625.613764362119
+      },
+      "keywords": [
+        "learn",
+        "sql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 134,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "22XRxoVJX-hIdinkFICPU",
+      "type": "resourceButton",
+      "label": "SQL Tutorial",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1667.4659358409885
+      },
+      "keywords": [
+        "sql",
+        "tutorial"
+      ],
+      "metadata": {
+        "style": {
+          "width": 387,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Sx6HhmEozlX7CEXQoVkTf",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 182.89029212267985,
+        "y": 1183
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 96
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l1027SBZxTHKzqWw98Ee-",
+      "type": "topic",
+      "label": "Exploratory Data Analysis",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 1252.2340815556822
+      },
+      "keywords": [
+        "exploratory",
+        "data",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YJ2fIGILZJjobx5CAD6QW",
+      "type": "label",
+      "label": "5",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 273.89029212267985,
+        "y": 1258.7340815556822
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JaN8YhMeN3whAe2TCXvw9",
+      "type": "todo",
+      "label": "Data understanding, Data Analysis and Visualization",
+      "description": "",
+      "category": "todo",
+      "position": {
+        "x": 245,
+        "y": 1327.94348613687
+      },
+      "keywords": [
+        "data",
+        "understanding",
+        "analysis",
+        "visualization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 461,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wG3LU8181BGihDVYJVI09",
+      "type": "resourceButton",
+      "label": "Exploratory Data Analysis with Python and Pandas",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 278,
+        "y": 1366.2347754827133
+      },
+      "keywords": [
+        "exploratory",
+        "data",
+        "analysis",
+        "python",
+        "pandas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 478,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R4MhS5WFGaGOLNq6SRpy0",
+      "type": "resourceButton",
+      "label": "Exploratory Data Analysis for Machine Learning",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 278,
+        "y": 1419.2347754827133
+      },
+      "keywords": [
+        "exploratory",
+        "data",
+        "analysis",
+        "machine",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 478,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mpPs2k7oT7EWrhQwaoPXr",
+      "type": "resourceButton",
+      "label": "Python for Data Visualization: Matplotlib & Seaborn",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 278,
+        "y": 1472.2347754827133
+      },
+      "keywords": [
+        "python",
+        "data",
+        "visualization",
+        "matplotlib",
+        "seaborn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 478,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FsU7_B1LCULtlVQg7gEPR",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 776,
+        "y": 1275.5
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 288
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ofcYD3hTVEMeRptkHsVer",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 525.8902921226799,
+        "y": 1551.72719179845
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 261,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kBdt_t2SvVsY3blfubWIz",
+      "type": "topic",
+      "label": "Machine Learning",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 336.89029212267985,
+        "y": 1537.22719179845
+      },
+      "keywords": [
+        "machine",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 207,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wOqfPAZ24GxUrkxVRRyT5",
+      "type": "label",
+      "label": "6",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 299.89029212267985,
+        "y": 1543.72719179845
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oeNjgke33Daibit1E6Rqr",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 211.89029212267985,
+        "y": 1551.72719179845
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 88,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FdBih8tlGPPy97YWq463y",
+      "type": "todo",
+      "label": "Classic ML (Sup., Unsup.), Advanced ML (Ensembles, NNs)",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 245,
+        "y": 1619.1289204774196
+      },
+      "keywords": [
+        "classic",
+        "sup",
+        "unsup",
+        "advanced",
+        "ensembles",
+        "nns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 536,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "MyBAdtFSNVOnpw1BPQNky",
+      "type": "resourceButton",
+      "label": "Open Machine Learning Course - Open Data Science",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 272,
+        "y": 1657.1289204774196
+      },
+      "keywords": [
+        "open",
+        "machine",
+        "learning",
+        "course",
+        "data",
+        "science"
+      ],
+      "metadata": {
+        "style": {
+          "width": 516,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qCjcQWK1RGUU6K3dljow2",
+      "type": "resourceButton",
+      "label": "Machine Learning Specialization",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 272,
+        "y": 1709
+      },
+      "keywords": [
+        "machine",
+        "learning",
+        "specialization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 516,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "erDpbh0iRTfoUQrU4uEMs",
+      "type": "resourceButton",
+      "label": "Pattern Recognition & ML by Christopher m. Bishop",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 272,
+        "y": 1779.259275392802
+      },
+      "keywords": [
+        "pattern",
+        "recognition",
+        "christopher",
+        "bishop"
+      ],
+      "metadata": {
+        "style": {
+          "width": 516,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9yKXxruT8s9KBEFf_Twd0",
+      "type": "resourceButton",
+      "label": "GitHub repository with notes & code from the eBook above",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 272,
+        "y": 1832.1050525886042
+      },
+      "keywords": [
+        "github",
+        "repository",
+        "notes",
+        "code",
+        "ebook",
+        "above"
+      ],
+      "metadata": {
+        "style": {
+          "width": 516,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uCZ6_FKeaY0lCkrNttNhz",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 201.89029212267982,
+        "y": 1561.1289204774196
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 204
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "41yv5UhFw3kHIrAMQb6qy",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 24.890292122679853,
+        "y": 1754.1289204774196
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 188,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cjvVLN0XjrKPn6o20oMmc",
+      "type": "topic",
+      "label": "Deep Learning",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -153.75449749114952,
+        "y": 1739.6289204774196
+      },
+      "keywords": [
+        "deep",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 182,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rarV0SS26NyqAHkYeqsfa",
+      "type": "label",
+      "label": "7",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -188.75449749114966,
+        "y": 1746.1289204774196
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iJv3Ii5B5TK8i5mN2mLs2",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -270.93697112052075,
+        "y": 1754.1289204774196
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 79,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kBQV71KwuVxpUi0nFj17X",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -281,
+        "y": 1763
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 360
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eOFoGKveaHaBm_6ppJUtA",
+      "type": "todo",
+      "label": "Fully Connected, CNN, RNN, LSTM, Transformers, TL",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -254.10970787732015,
+        "y": 1823.259275392802
+      },
+      "keywords": [
+        "fully",
+        "connected",
+        "cnn",
+        "rnn",
+        "lstm",
+        "transformers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 450,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4TyV6lDCVCOIOhmY9bgPC",
+      "type": "resourceButton",
+      "label": "Deep Learning Specialization",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 1862.0843010493045
+      },
+      "keywords": [
+        "deep",
+        "learning",
+        "specialization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 406,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-rl87TRJZTWqbQmW95NAi",
+      "type": "resourceButton",
+      "label": "Deep Learning Book",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 1915.0843010493045
+      },
+      "keywords": [
+        "deep",
+        "learning",
+        "book"
+      ],
+      "metadata": {
+        "style": {
+          "width": 406,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "54pd0lYYLvuNYmuaOZbrT",
+      "type": "resourceButton",
+      "label": "Attention is all you need",
+      "description": "",
+      "category": "resourcebutton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 1968.0843010493045
+      },
+      "keywords": [
+        "attention",
+        "all",
+        "you",
+        "need"
+      ],
+      "metadata": {
+        "style": {
+          "width": 406,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lm3BCmHTcd-_cOIc_dDmU",
+      "type": "resourceButton",
+      "label": "The Illustrated Transformer",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 2021.0843010493045
+      },
+      "keywords": [
+        "illustrated",
+        "transformer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 406,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "deHK6yEdytCu2ACvVC0bs",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -271.10970787732015,
+        "y": 2112
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 515,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Nn5ZjuUG_uEbCxcIcYY9U",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 231.89029212267985,
+        "y": 1935
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 188
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C85MXDnb-d0eVur0DLGr-",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 242.89029212267985,
+        "y": 1925.5843010493045
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 88,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Sehg_WX_mnMCRlKrvwWzc",
+      "type": "label",
+      "label": "8",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 339.89029212267985,
+        "y": 1918.0843010493045
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Qa85hEVe2kz62k9Pj4QCA",
+      "type": "topic",
+      "label": "MLOps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 369.89029212267985,
+        "y": 1911.5843010493045
+      },
+      "keywords": [
+        "mlops"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bsj2IHFXur-qqDSI4B1wg",
+      "type": "resourceButton",
+      "label": "MLOps Specialization",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 287,
+        "y": 2017.0843010493045
+      },
+      "keywords": [
+        "mlops",
+        "specialization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 452,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uPzzUpI0--7OWDfNeBIjt",
+      "type": "todo",
+      "label": "Deployment Models, CI/CD",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 259.89029212267985,
+        "y": 1979.0843010493045
+      },
+      "keywords": [
+        "deployment",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 536,
+          "height": 38
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rKb8lqYH0GC_6R5qybzzM",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 760,
+        "y": 1935
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 217
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "q_oYxEPUvEylwjAyDA5FL",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 277.39029212267985,
+        "y": 2142
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 494,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jVVrvW1PCXEKz5IfJMXKo",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 269.89029212267985,
+        "y": 2152
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 75
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kpF15oUmlUmk1qVGEBB7Y",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 443.3036441730079,
+        "y": -71.532769530855
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 456.50701858580805,
+        "y": 10.452793886890277
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qnjDifLlSYoxWd5GmuQXd",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": 114.89029212267985,
+        "y": -67.532769530855
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 316,
+          "height": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0bn7U-9YoeOqPXTnrMpfz",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -287,
+        "y": 1875.0843010493045
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "13tRO2lYWb0m8LwjAcdIY",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -287,
+        "y": 1999.8462240428494
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uBSNhZB4PuEKY1bkzoZGG",
+      "type": "label",
+      "label": ">",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 41.890292122679824,
+        "y": 1167
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-5YUJmODVX62RchBu-G0y",
+      "type": "label",
+      "label": ">",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 621.8902921226799,
+        "y": 1258.7340815556822
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wt-ifu9mv7Ydc_-Gaqv-V",
+      "type": "label",
+      "label": "<",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 609.3902921226799,
+        "y": 1543.72719179845
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "93tag4KlRPagkbdpY4lVT",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 768.5,
+        "y": 1383.2347754827133
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DEW_GsNVEf75P63SvEQwB",
+      "type": "label",
+      "label": "<",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 223.89029212267985,
+        "y": 1543.72719179845
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nAi-ndQiOiYCuAMqtDZ1I",
+      "type": "label",
+      "label": "<",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 106.89029212267982,
+        "y": 1746.1289204774196
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ftUWZ9y0YFc4geCEaCEAq",
+      "type": "label",
+      "label": ">",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 561.8902921226799,
+        "y": 1917.5843010493045
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SG6DkcQM4NdgTSu2MR8Q5",
+      "type": "label",
+      "label": "<",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 509.89029212267985,
+        "y": 2134
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FGJcnSeI5Fgn2bxfY9DEd",
+      "type": "label",
+      "label": "V",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 754,
+        "y": 2035.8462240428494
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PV5ACkfJLhJOUZ2qnobhZ",
+      "type": "label",
+      "label": ">",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 27.24550250885048,
+        "y": 2104
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Xd_mdvQdbCWcucpSTcDz1",
+      "type": "label",
+      "label": ">",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -164.75449749114966,
+        "y": 2104
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ju00mr0KLGN2BV6yEQGPt",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 272,
+        "y": 2284.5820625712176
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 55
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IDGTOlC_h3rt_3ZF4x8bG",
+      "type": "label",
+      "label": "Keep Learning",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 205.39029212267985,
+        "y": 2236.300845579272
+      },
+      "keywords": [
+        "keep",
+        "learning"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "_hYN0gEi9BL24nptEtXWU",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "idLHBxhvcIqZTqmh_E8Az",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "os3Pa6W9SSNEzgmlBbglQ",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "3oInpqvTSSC5_K6i7j8N7",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "YKhuRbcUFzo0hTvuTq-Yl",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "hWA7RtuqltMTmHdcCnmES",
+      "type": "default"
+    },
+    {
+      "target": "NMznG9mo2wzNFnjhg990f",
+      "type": "default"
+    },
+    {
+      "target": "gc_7cuIO2_joKlQRAPDfX",
+      "type": "default"
+    },
+    {
+      "source": "rrrvATyhXqRgJGWI3z0WF",
+      "target": "AvbMQ5vY3ip1oX_6Yq4ie",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "1AJv95mTLpR7L8KBoGym8",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "0etAs56EeBfh_0IlAaSra",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "h6ceO0kiBIxNRkPzN3hBY",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "_JlT9oKQ6Yu4UX6l19G8P",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "jZ67HhVRelJaxjsCckSSI",
+      "type": "default"
+    },
+    {
+      "source": "HVHYJ8gWHCZMACuvKP7gK",
+      "target": "HVHYJ8gWHCZMACuvKP7gK",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "label",
+      "count": 35
+    },
+    {
+      "name": "resourcebutton",
+      "count": 22
+    },
+    {
+      "name": "horizontal",
+      "count": 17
+    },
+    {
+      "name": "vertical",
+      "count": 13
+    },
+    {
+      "name": "data-science",
+      "count": 12
+    },
+    {
+      "name": "programming-language",
+      "count": 8
+    },
+    {
+      "name": "todo",
+      "count": 7
+    },
+    {
+      "name": "testing",
+      "count": 7
+    },
+    {
+      "name": "topic",
+      "count": 6
+    },
+    {
+      "name": "database",
+      "count": 4
+    },
+    {
+      "name": "frontend",
+      "count": 1
+    },
+    {
+      "name": "tools",
+      "count": 1
+    },
+    {
+      "name": "devops",
+      "count": 1
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "AI and Data Scientist",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "data",
+        "scientist"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "mathematics"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "statistics"
+      ]
+    },
+    {
+      "name": "Linear Algebra, Calculus, Mathematical Analysis",
+      "category": "todo",
+      "difficulty": "beginner",
+      "keywords": [
+        "linear",
+        "algebra",
+        "calculus",
+        "mathematical",
+        "analysis"
+      ]
+    },
+    {
+      "name": "Mathematics for Machine Learning",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "mathematics",
+        "machine",
+        "learning"
+      ]
+    },
+    {
+      "name": "Differential Calculus ",
+      "category": "todo",
+      "difficulty": "beginner",
+      "keywords": [
+        "differential",
+        "calculus"
+      ]
+    },
+    {
+      "name": "Coursera: Algebra and Differential Calculus",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "coursera",
+        "algebra",
+        "differential",
+        "calculus"
+      ]
+    },
+    {
+      "name": "Statistics, CLT",
+      "category": "todo",
+      "difficulty": "beginner",
+      "keywords": [
+        "statistics",
+        "clt"
+      ]
+    },
+    {
+      "name": "Coursera: Introduction to Statistics",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "coursera",
+        "introduction",
+        "statistics"
+      ]
+    },
+    {
+      "name": "Hypothesis Testing",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "hypothesis",
+        "testing"
+      ]
+    },
+    {
+      "name": "Coursera: Hypothesis Testing",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "coursera",
+        "hypothesis",
+        "testing"
+      ]
+    },
+    {
+      "name": "Probability and Sampling",
+      "category": "todo",
+      "difficulty": "beginner",
+      "keywords": [
+        "probability",
+        "sampling"
+      ]
+    },
+    {
+      "name": "Coursera: Probability and Statistics",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "coursera",
+        "probability",
+        "statistics"
+      ]
+    },
+    {
+      "name": "AB Testing",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "testing"
+      ]
+    },
+    {
+      "name": "Practitioner's Guide to Statistical Tests",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "practitioner",
+        "guide",
+        "statistical",
+        "tests"
+      ]
+    },
+    {
+      "name": "Step by Step Process for Planning an A/B Test",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "step",
+        "process",
+        "planning",
+        "test"
+      ]
+    },
+    {
+      "name": "Increasing Test Sensitivity",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "increasing",
+        "test",
+        "sensitivity"
+      ]
+    },
+    {
+      "name": "Minimum Detectable Effect",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "minimum",
+        "detectable",
+        "effect"
+      ]
+    },
+    {
+      "name": "Paper: Improving Test Sensitivity",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "paper",
+        "improving",
+        "test",
+        "sensitivity"
+      ]
+    },
+    {
+      "name": "Paper: Improving Sensitivity (CUPED)",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "paper",
+        "improving",
+        "sensitivity",
+        "cuped"
+      ]
+    },
+    {
+      "name": "CUPED at Booking.com",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "cuped",
+        "booking",
+        "com"
+      ]
+    },
+    {
+      "name": "Doordash: CUPAC",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "doordash",
+        "cupac"
+      ]
+    },
+    {
+      "name": "Netflix: Stratification",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "netflix",
+        "stratification"
+      ]
+    },
+    {
+      "name": "Ratio Metrics",
+      "category": "todo",
+      "difficulty": "beginner",
+      "keywords": [
+        "ratio",
+        "metrics"
+      ]
+    },
+    {
+      "name": "Microsoft: Delta Method in Metric Analytics",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "microsoft",
+        "delta",
+        "method",
+        "metric",
+        "analytics"
+      ]
+    },
+    {
+      "name": "Paper: Ratio Metrics",
+      "category": "resourcebutton",
+      "difficulty": "beginner",
+      "keywords": [
+        "paper",
+        "ratio",
+        "metrics"
+      ]
+    },
+    {
+      "name": "1",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "2",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "3",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "Econometrics",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "econometrics"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": ">",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": ">",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "V",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "V",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "<",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "<",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "^",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "^",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": []
+    }
+  ],
+  "metadata": {
+    "totalNodes": 136,
+    "totalEdges": 15,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:02.947Z",
+    "version": "2.0"
+  }
+}

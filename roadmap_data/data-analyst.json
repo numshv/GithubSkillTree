@@ -1,0 +1,4506 @@
+{
+  "name": "data-analyst",
+  "title": "Data Analyst",
+  "nodes": [
+    {
+      "id": "s53kNESX2DeFOZX5X4C1w",
+      "type": "section",
+      "label": "s53kNESX2DeFOZX5X4C1w",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -718.799052802922,
+        "y": 2285.4191362257843
+      },
+      "keywords": [
+        "s53knesx2defozx5x4c1w"
+      ],
+      "metadata": {
+        "style": {
+          "width": 465,
+          "height": 395
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mjrtkv8khMV_doNvDW33w",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -289.821810236714,
+        "y": 1582.770762802686
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 57
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vjPbrUxt7m9mi_-41gepg",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -471,
+        "y": 1570.9045877729018
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Wf38aF9E2p2d4HjaEz_jA",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 233.1185781382378,
+        "y": 1185.4045877729018
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9JPrXvAn4Ygvd-0l46e-b",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 69.11857813823781,
+        "y": 1185.4045877729018
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eYtoaWaZyQbfAVq8d3tFE",
+      "type": "section",
+      "label": "eYtoaWaZyQbfAVq8d3tFE",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -503.321810236714,
+        "y": 931.4045877729018
+      },
+      "keywords": [
+        "eytoawazyqbfavq8d3tfe"
+      ],
+      "metadata": {
+        "style": {
+          "width": 215,
+          "height": 146
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IKDpwowMgjPy_91gd8hBJ",
+      "type": "section",
+      "label": "IKDpwowMgjPy_91gd8hBJ",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -711.321810236714,
+        "y": 761.9045877729018
+      },
+      "keywords": [
+        "ikdpwowmgjpy_91gd8hbj"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 159
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "U90uRMtULJfxfX5D4Lvet",
+      "type": "section",
+      "label": "U90uRMtULJfxfX5D4Lvet",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -711.321810236714,
+        "y": 932.4045877729018
+      },
+      "keywords": [
+        "u90urmtuljfxfx5d4lvet"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 145
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Mmb2g51O5AH43xdv4q9L0",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 140.57457800662047,
+        "y": 418.8426822070478
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 58
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LXzQof9GV5YFNXEnsJmSe",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 53.13989797603216,
+        "y": 418.8426822070478
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 58
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mM_v9xK6A6p3-02lc1Xsw",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -419.5,
+        "y": 432.8426822070478
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 93,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NdLvmwQiqaHevxiaz6Bcx",
+      "type": "section",
+      "label": "NdLvmwQiqaHevxiaz6Bcx",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -713.5,
+        "y": 139.10000000000014
+      },
+      "keywords": [
+        "ndlvmwqiqahevxiaz6bcx"
+      ],
+      "metadata": {
+        "style": {
+          "width": 294,
+          "height": 450
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gVDCgxnwW0ueuay58qLfa",
+      "type": "section",
+      "label": "gVDCgxnwW0ueuay58qLfa",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -327.321810236714,
+        "y": 131.34268220704786
+      },
+      "keywords": [
+        "gvdcgxnww0ueuay58qlfa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 285,
+          "height": 262
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ju00mr0KLGN2BV6yEQGPt",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 34.44582056716166,
+        "y": 2444.398390743421
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 104
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "paragraph",
+      "label": "Keep learning with the following relevant track",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -162.05417943283828,
+        "y": 2355.1268841725323
+      },
+      "keywords": [
+        "keep",
+        "learning",
+        "following",
+        "relevant",
+        "track"
+      ],
+      "metadata": {
+        "style": {
+          "width": 414,
+          "height": 124
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "type": "title",
+      "label": "Data Analyst",
+      "description": "",
+      "category": "title",
+      "position": {
+        "x": -283.821810236714,
+        "y": -118.42445334555111
+      },
+      "keywords": [
+        "data",
+        "analyst"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3xp2fogAVmwXQhdzhZDWR",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -326.321810236714,
+        "y": 4.707303502152058
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uSLzfLPXxS5-P7ozscvjZ",
+      "type": "button",
+      "label": "AI and Data Scientist Roadmap",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -144.6405735632627,
+        "y": 2413.512123340524
+      },
+      "keywords": [
+        "data",
+        "scientist",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 387,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LEijbLyxg4RyutKEM2Y5g",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -194.821810236714,
+        "y": -220.42445334555111
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 102
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -14.502815208049242,
+        "y": -270.15106699547107
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": -1.2994407952490974,
+        "y": -188.1655035777258
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yCnn-NfSxIybUQ2iTuUGq",
+      "type": "subtopic",
+      "label": "What is Data Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 93.13989797603216,
+        "y": -50.03927645622106
+      },
+      "keywords": [
+        "what",
+        "data",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Lsapbmg-eMIYJAHpV97nO",
+      "type": "topic",
+      "label": "Types of Data Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 93.13989797603216,
+        "y": 4.707303502152058
+      },
+      "keywords": [
+        "types",
+        "data",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wITmMpWlQy2z-fhJJsuJS",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 62.07457800662047,
+        "y": 85.96072354377894
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 209
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hWDh0ooidbqZb000ENVok",
+      "type": "subtopic",
+      "label": "Descriptive Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 93.13989797603216,
+        "y": 85.96072354377894
+      },
+      "keywords": [
+        "descriptive",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j7DA2J3speSaBsZAV4M0v",
+      "type": "subtopic",
+      "label": "Diagnostic Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 93.13989797603216,
+        "y": 138.96072354377895
+      },
+      "keywords": [
+        "diagnostic",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3WZORRCwme3HsaKew23Z5",
+      "type": "subtopic",
+      "label": "Predictive Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 93.13989797603216,
+        "y": 191.96072354377895
+      },
+      "keywords": [
+        "predictive",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DFMR-0MbmVCCrJu0I9JWG",
+      "type": "subtopic",
+      "label": "Prescriptive Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 93.13989797603216,
+        "y": 244.96072354377895
+      },
+      "keywords": [
+        "prescriptive",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R12sArWVpbIs_PHxBqVaR",
+      "type": "subtopic",
+      "label": "Key Concepts of Data",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -327.321810236714,
+        "y": 112.34268220704786
+      },
+      "keywords": [
+        "key",
+        "concepts",
+        "data"
+      ],
+      "metadata": {
+        "style": {
+          "width": 285,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mDUSpexdq3ITV6qokwSJl",
+      "type": "subtopic",
+      "label": "Collection",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -319.143620473428,
+        "y": 173.84268220704786
+      },
+      "keywords": [
+        "collection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nC7tViln4UyQFYP_-fyjB",
+      "type": "subtopic",
+      "label": "Cleanup",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -191.14362047342797,
+        "y": 173.84268220704786
+      },
+      "keywords": [
+        "cleanup"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XFnw4_dQYSzm96-srWa7X",
+      "type": "subtopic",
+      "label": "Exploration",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -319.143620473428,
+        "y": 226.84268220704786
+      },
+      "keywords": [
+        "exploration"
+      ],
+      "metadata": {
+        "style": {
+          "width": 123,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jowh4CFLQiFzKaaElyCuQ",
+      "type": "subtopic",
+      "label": "Visualisation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -191.14362047342797,
+        "y": 226.84268220704786
+      },
+      "keywords": [
+        "visualisation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 138,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2pUq-7hu5EjGpowz98YoV",
+      "type": "subtopic",
+      "label": "Statistical Analysis",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -319.143620473428,
+        "y": 279.84268220704786
+      },
+      "keywords": [
+        "statistical",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "U55hwR0HRCIz2cveVR8FZ",
+      "type": "subtopic",
+      "label": "Machine Learning",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -319.143620473428,
+        "y": 332.84268220704786
+      },
+      "keywords": [
+        "machine",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zF-aibk1m_zAsafT04efn",
+      "type": "paragraph",
+      "label": "Building a Strong Foundation",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -719,
+        "y": -3.792696497847942
+      },
+      "keywords": [
+        "building",
+        "strong",
+        "foundation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sgXIjVTbwdwdYoaxN3XBM",
+      "type": "topic",
+      "label": "Analysis / Reporting with Excel",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -713.5,
+        "y": 109.34268220704786
+      },
+      "keywords": [
+        "analysis",
+        "reporting",
+        "excel"
+      ],
+      "metadata": {
+        "style": {
+          "width": 294,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wME4MSldOWlMB54ekpReS",
+      "type": "subtopic",
+      "label": "IF",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -703.143620473428,
+        "y": 166.8426822070478
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yBlJrNo9eO470dLp6OaQZ",
+      "type": "subtopic",
+      "label": "DATEDIF",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -569.5,
+        "y": 167.8426822070478
+      },
+      "keywords": [
+        "datedif"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9sIP-jpNjtA1JPCBjTf-H",
+      "type": "subtopic",
+      "label": "VLOOKUP / HLOOKUP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -703.5,
+        "y": 219.8426822070478
+      },
+      "keywords": [
+        "vlookup",
+        "hlookup"
+      ],
+      "metadata": {
+        "style": {
+          "width": 270,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dke_pySrqYZZ7K3rprnIT",
+      "type": "subtopic",
+      "label": "REPLACE / SUBSTITUTE",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -703.5,
+        "y": 272.8426822070478
+      },
+      "keywords": [
+        "replace",
+        "substitute"
+      ],
+      "metadata": {
+        "style": {
+          "width": 270,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YReKRRgE_2dWfGGdBQqbf",
+      "type": "subtopic",
+      "label": "UPPER / LOWER / PROPER",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -703.5,
+        "y": 325.8426822070478
+      },
+      "keywords": [
+        "upper",
+        "lower",
+        "proper"
+      ],
+      "metadata": {
+        "style": {
+          "width": 270,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SIiIfcy-jeiRoDlxw385V",
+      "type": "subtopic",
+      "label": "CONCAT",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -703.143620473428,
+        "y": 378.8426822070478
+      },
+      "keywords": [
+        "concat"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D5Q6o6ydr1j51kB0ASFPE",
+      "type": "subtopic",
+      "label": "TRIM",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -569.5,
+        "y": 378.8426822070478
+      },
+      "keywords": [
+        "trim"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FDYunL9KJkR_tHEcUV2iC",
+      "type": "subtopic",
+      "label": "AVERAGE",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -703.143620473428,
+        "y": 431.8426822070478
+      },
+      "keywords": [
+        "average"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uAdxP1ZkgzcU8JcWjvw6d",
+      "type": "subtopic",
+      "label": "COUNT",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -569.5,
+        "y": 432.8426822070478
+      },
+      "keywords": [
+        "count"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_FO80Cm2iAD_bThmnsEgp",
+      "type": "subtopic",
+      "label": "SUM",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -703.143620473428,
+        "y": 484.8426822070478
+      },
+      "keywords": [
+        "sum"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "F3-cr5onkWqKKPRdxu8lV",
+      "type": "subtopic",
+      "label": "MIN / MAX",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -569.5,
+        "y": 485.8426822070478
+      },
+      "keywords": [
+        "min",
+        "max"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5GarFKYApjrhxHBLNPVnJ",
+      "type": "label",
+      "label": "Learn Common Functions",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -674,
+        "y": 543.1000000000001
+      },
+      "keywords": [
+        "learn",
+        "common",
+        "functions"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KBqpT6IbJCgJ0TRy3ey-H",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -419.5,
+        "y": 485.8426822070478
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 93,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Vk3JErqxpnPY44iyfkLMl",
+      "type": "subtopic",
+      "label": "Charting",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -327.321810236714,
+        "y": 418.3426822070478
+      },
+      "keywords": [
+        "charting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 142,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2DDJUFr0AJTVR2Whj8zub",
+      "type": "subtopic",
+      "label": "Pivot Tables",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -327.321810236714,
+        "y": 471.3426822070478
+      },
+      "keywords": [
+        "pivot",
+        "tables"
+      ],
+      "metadata": {
+        "style": {
+          "width": 142,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "i2uEcaO4bJhcZ5ayRs2CQ",
+      "type": "topic",
+      "label": "Learn a Programming Lang.",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -87.42542199337953,
+        "y": 441
+      },
+      "keywords": [
+        "learn",
+        "programming",
+        "lang"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4UNRDLVOlXSR5u6tdypth",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -420.5,
+        "y": 554.6000000000001
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 95,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "g_EBQizZsIe-vn8ir6FTv",
+      "type": "subtopic",
+      "label": "R",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 120.57457800662047,
+        "y": 369.60000000000014
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 61,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "M1QtGTLyygIjePoCfvjve",
+      "type": "topic",
+      "label": "Data Manipulation Libraries",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -87.42542199337953,
+        "y": 494.8426822070478
+      },
+      "keywords": [
+        "data",
+        "manipulation",
+        "libraries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8OXmF2Gn6TYJotBRvDjqA",
+      "type": "subtopic",
+      "label": "Pandas",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 236.13989797603216,
+        "y": 441
+      },
+      "keywords": [
+        "pandas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 106,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l1SnPc4EMqGdaIAhIQfrT",
+      "type": "topic",
+      "label": "Data Visualisation Libraries",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -87.42542199337953,
+        "y": 547.8426822070478
+      },
+      "keywords": [
+        "data",
+        "visualisation",
+        "libraries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uGkXxdMXUMY-3fQFS1jK8",
+      "type": "subtopic",
+      "label": "Matplotlib",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 236.49718479195076,
+        "y": 547.8426822070478
+      },
+      "keywords": [
+        "matplotlib"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y__UHXe2DD-IB7bvMF1-X",
+      "type": "subtopic",
+      "label": "Dplyr",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 236.13989797603216,
+        "y": 494.8426822070478
+      },
+      "keywords": [
+        "dplyr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 106,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "E0hIgQEeZlEidr4HtUFrL",
+      "type": "subtopic",
+      "label": "Ggplot2",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 236.49718479195076,
+        "y": 600.8426822070478
+      },
+      "keywords": [
+        "ggplot2"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_sjXCLHHTbZromJYn6fnu",
+      "type": "topic",
+      "label": "Data Collection",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -161.92542199337953,
+        "y": 716.8426822070478
+      },
+      "keywords": [
+        "data",
+        "collection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r1ZlPtp7j6PFIdgrFrOx0",
+      "type": "paragraph",
+      "label": "Mastering Data Handling",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 89.11857813823781,
+        "y": 707.8426822070478
+      },
+      "keywords": [
+        "mastering",
+        "data",
+        "handling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tYPeLCxbqvMFlTkCGjdHg",
+      "type": "subtopic",
+      "label": "Databases",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -445.31525874602266,
+        "y": 664.9740268980099
+      },
+      "keywords": [
+        "databases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "iWOK0mRY-hAGxMnHYJ0tt",
+      "type": "subtopic",
+      "label": "CSV Files",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -445.31525874602266,
+        "y": 717.9740268980099
+      },
+      "keywords": [
+        "csv",
+        "files"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4DFcXSSHxg5wv0uXLIRij",
+      "type": "subtopic",
+      "label": "APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -445.31525874602266,
+        "y": 770.9740268980099
+      },
+      "keywords": [
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "qQ64ZhSlbbWu9pP8KTE67",
+      "type": "subtopic",
+      "label": "Web Scraping",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -445.31525874602266,
+        "y": 823.9740268980099
+      },
+      "keywords": [
+        "web",
+        "scraping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "E6cpb6kvluJM8OGuDcFBT",
+      "type": "topic",
+      "label": "Data Cleanup",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -161.92542199337953,
+        "y": 854.5814615179639
+      },
+      "keywords": [
+        "data",
+        "cleanup"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "X9WmfHOks82BIAzs6abqO",
+      "type": "subtopic",
+      "label": "Handling Missing Data",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 92.7005592047509,
+        "y": 801.5814615179639
+      },
+      "keywords": [
+        "handling",
+        "missing",
+        "data"
+      ],
+      "metadata": {
+        "style": {
+          "width": 236,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Xltm7B-8TZ1-igLjVJXoR",
+      "type": "subtopic",
+      "label": "Removing Duplicates",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 92.7005592047509,
+        "y": 854.5814615179639
+      },
+      "keywords": [
+        "removing",
+        "duplicates"
+      ],
+      "metadata": {
+        "style": {
+          "width": 236,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-rQ8h_6NFxEOhxXgo7LHo",
+      "type": "subtopic",
+      "label": "Finding Outliers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 92.7005592047509,
+        "y": 907.5814615179639
+      },
+      "keywords": [
+        "finding",
+        "outliers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 236,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "t_BRtEharsrOZxoyX0OzV",
+      "type": "subtopic",
+      "label": "Data Transformation",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 92.7005592047509,
+        "y": 960.5814615179639
+      },
+      "keywords": [
+        "data",
+        "transformation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 236,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TucngXKNptbeo3PtdJHX8",
+      "type": "subtopic",
+      "label": "Pandas",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 92.7005592047509,
+        "y": 1060.5814615179638
+      },
+      "keywords": [
+        "pandas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v8TfY-b4W5ygOv7r-syHq",
+      "type": "subtopic",
+      "label": "Dplyr",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 211.7005592047509,
+        "y": 1060.5814615179638
+      },
+      "keywords": [
+        "dplyr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 117,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Yx0ICrkjMA_VQdS9DROMb",
+      "type": "paragraph",
+      "label": "Data Analysis Techniques",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -203.42542199337953,
+        "y": 998.4045877729018
+      },
+      "keywords": [
+        "data",
+        "analysis",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "il6KQXVPGBza5libN38ib",
+      "type": "topic",
+      "label": "Descriptive Analysis",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -402.821810236714,
+        "y": 1147.5814615179638
+      },
+      "keywords": [
+        "descriptive",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2ldO-_ZnIg364Eo8Jyfgr",
+      "type": "subtopic",
+      "label": "Dispersion",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -711.321810236714,
+        "y": 735.9740268980099
+      },
+      "keywords": [
+        "dispersion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Fyqg3MRcwY7g-Q3gjiqwK",
+      "type": "subtopic",
+      "label": "Distribution Space",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -503.321810236714,
+        "y": 907.9740268980099
+      },
+      "keywords": [
+        "distribution",
+        "space"
+      ],
+      "metadata": {
+        "style": {
+          "width": 215,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "923KGEUG9ofBm7dYkkrxz",
+      "type": "subtopic",
+      "label": "Mean",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -697.321810236714,
+        "y": 963.4045877729018
+      },
+      "keywords": [
+        "mean"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qdXoikVh2xkJkOQNKcyvb",
+      "type": "subtopic",
+      "label": "Median",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -613.321810236714,
+        "y": 963.4045877729018
+      },
+      "keywords": [
+        "median"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fY8zVG2tVbmtx5OhY7hj-",
+      "type": "subtopic",
+      "label": "Mode",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -697.321810236714,
+        "y": 1016.4045877729018
+      },
+      "keywords": [
+        "mode"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yn1sstYMO9du3rpfQqNs9",
+      "type": "subtopic",
+      "label": "Average",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -613.321810236714,
+        "y": 1016.4045877729018
+      },
+      "keywords": [
+        "average"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tSxtyJhL5wjU0XJcjsJmm",
+      "type": "subtopic",
+      "label": "Range",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -702.321810236714,
+        "y": 796.4045877729018
+      },
+      "keywords": [
+        "range"
+      ],
+      "metadata": {
+        "style": {
+          "width": 89,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ict4JkoVM-AzPbp9bDztg",
+      "type": "subtopic",
+      "label": "Variance",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -609.321810236714,
+        "y": 796.4045877729018
+      },
+      "keywords": [
+        "variance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MXIP8ekH4YtczODKM_G_l",
+      "type": "subtopic",
+      "label": "Standard Deviation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -701.321810236714,
+        "y": 849.4045877729018
+      },
+      "keywords": [
+        "standard",
+        "deviation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VfcCRRqwLxkYpIX0ZKNNX",
+      "type": "subtopic",
+      "label": "Skewness",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -494.2994407952491,
+        "y": 963.4045877729018
+      },
+      "keywords": [
+        "skewness"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PqGO8AU1zE2ZdtqrIrOkZ",
+      "type": "subtopic",
+      "label": "Kurtosis",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -494.2994407952491,
+        "y": 1016.4045877729018
+      },
+      "keywords": [
+        "kurtosis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 192,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BJTVa4ur_bJB7mMtD2-hQ",
+      "type": "subtopic",
+      "label": "Central Tendency",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -711.321810236714,
+        "y": 907.9740268980099
+      },
+      "keywords": [
+        "central",
+        "tendency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NEplo6r1F2EJSO3NOv1z8",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -629.321810236714,
+        "y": 1077.4045877729018
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 54
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nYqQXh3j-d5mpOhyTO6dW",
+      "type": "paragraph",
+      "label": "Generating Statistics",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -713.321810236714,
+        "y": 1109.5814615179638
+      },
+      "keywords": [
+        "generating",
+        "statistics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 229,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Sz2Y8HLbSmDjSKAJztDql",
+      "type": "subtopic",
+      "label": "Tableau",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 22.118578138237808,
+        "y": 1290.4045877729018
+      },
+      "keywords": [
+        "tableau"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SJLeose5vZU8w_18C8_t0",
+      "type": "subtopic",
+      "label": "Power BI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 22.118578138237808,
+        "y": 1343.4045877729018
+      },
+      "keywords": [
+        "power"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tvDdXwaRPsUSTqJGaLS3P",
+      "type": "subtopic",
+      "label": "Matplotlib",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 140.6185781382378,
+        "y": 1289.4045877729018
+      },
+      "keywords": [
+        "matplotlib"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-cJb8gEBvdVFf7FlgG3Ud",
+      "type": "subtopic",
+      "label": "Seaborn",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 140.6185781382378,
+        "y": 1342.4045877729018
+      },
+      "keywords": [
+        "seaborn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "n3M49lgNPn28hm7kzki-a",
+      "type": "subtopic",
+      "label": "ggplot2",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 245.678189763286,
+        "y": 1289.4045877729018
+      },
+      "keywords": [
+        "ggplot2"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zq6DItyQQ2Sxpzm5ZBJUX",
+      "type": "paragraph",
+      "label": "Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 22.118578138237808,
+        "y": 1235.4045877729018
+      },
+      "keywords": [
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1YilPs0bQSuHkMeMiJfO-",
+      "type": "paragraph",
+      "label": "Libraries",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 140.6185781382378,
+        "y": 1235.4045877729018
+      },
+      "keywords": [
+        "libraries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hieeryNX0lh6B8Alh77vi",
+      "type": "paragraph",
+      "label": "Charting",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 24,
+        "y": 1401.9045877729018
+      },
+      "keywords": [
+        "charting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EVk1H-QLtTlpG7lVEenDt",
+      "type": "subtopic",
+      "label": "Bar Charts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 24,
+        "y": 1456.4045877729018
+      },
+      "keywords": [
+        "bar",
+        "charts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v9T0DX56jFNhUz9nzubzS",
+      "type": "subtopic",
+      "label": "Line Chart",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 24,
+        "y": 1509.4045877729018
+      },
+      "keywords": [
+        "line",
+        "chart"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "A5YQv7D4qRcskdZ64XldH",
+      "type": "subtopic",
+      "label": "Scatter Plot",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 24,
+        "y": 1562.4045877729018
+      },
+      "keywords": [
+        "scatter",
+        "plot"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "muFy-C2agCX9vR_NU7UZF",
+      "type": "subtopic",
+      "label": "Funnel Charts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 24,
+        "y": 1615.4045877729018
+      },
+      "keywords": [
+        "funnel",
+        "charts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FEyBFZLaGJqTC-IUEcOVS",
+      "type": "subtopic",
+      "label": "Histograms",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 184.678189763286,
+        "y": 1457.4045877729018
+      },
+      "keywords": [
+        "histograms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 164,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "329BrtmXjXNLfi1SFfdeo",
+      "type": "subtopic",
+      "label": "Stacked Charts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 184.678189763286,
+        "y": 1510.4045877729018
+      },
+      "keywords": [
+        "stacked",
+        "charts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 164,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G8resQXEVEHCaQfDlt3nj",
+      "type": "subtopic",
+      "label": "Heatmap",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 184.678189763286,
+        "y": 1563.4045877729018
+      },
+      "keywords": [
+        "heatmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 164,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K9xwm_Vpdup9ujYqlD9F3",
+      "type": "subtopic",
+      "label": "Pie Charts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 184.678189763286,
+        "y": 1616.4045877729018
+      },
+      "keywords": [
+        "pie",
+        "charts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 164,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2g19zjEASJw2ve57hxpr0",
+      "type": "topic",
+      "label": "Data Visualisation",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 22.118578138237808,
+        "y": 1147.5814615179638
+      },
+      "keywords": [
+        "data",
+        "visualisation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TeewVruErSsD4VLXcaDxp",
+      "type": "topic",
+      "label": "Statistical Analysis",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -402.821810236714,
+        "y": 1330.7503022792923
+      },
+      "keywords": [
+        "statistical",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3vIpMdHQ8BVgUuu1S_mSJ",
+      "type": "paragraph",
+      "label": "Learn to analyze relationships and make data driven decisions",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -407.47806963137555,
+        "y": 1262.5718689856715
+      },
+      "keywords": [
+        "learn",
+        "analyze",
+        "relationships",
+        "make",
+        "data",
+        "driven",
+        "decisions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 259
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Xygwu0m5TeYT6S_8FKKXh",
+      "type": "subtopic",
+      "label": "Hypothesis Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -714.8814218617622,
+        "y": 1277.270762802686
+      },
+      "keywords": [
+        "hypothesis",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 198,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "murioZ0NdrTix_lqSGz-8",
+      "type": "subtopic",
+      "label": "Correlation Analysis",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -714.8814218617622,
+        "y": 1330.270762802686
+      },
+      "keywords": [
+        "correlation",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 198,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lTycWscyFPi-BtkNg9cdm",
+      "type": "subtopic",
+      "label": "Regression",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -714.8814218617622,
+        "y": 1383.270762802686
+      },
+      "keywords": [
+        "regression"
+      ],
+      "metadata": {
+        "style": {
+          "width": 198,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mCUW07rx74_dUNi7OGVlj",
+      "type": "subtopic",
+      "label": "Visualizing Distributions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -714.8814218617622,
+        "y": 1178.5814615179638
+      },
+      "keywords": [
+        "visualizing",
+        "distributions"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "g45cn450Awr2W5hadxKY3",
+      "type": "paragraph",
+      "label": "Advanced Topics",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -374.821810236714,
+        "y": 1431.9045877729018
+      },
+      "keywords": [
+        "advanced",
+        "topics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 191
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "f4GuzeokP9w_gwtOquP0g",
+      "type": "topic",
+      "label": "Machine Learning",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -376.821810236714,
+        "y": 1556.4045877729018
+      },
+      "keywords": [
+        "machine",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 195,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XdBwqLoYYiLJNlWPBEDUj",
+      "type": "subtopic",
+      "label": "Reinforcement Learning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -722.3814218617622,
+        "y": 1551.270762802686
+      },
+      "keywords": [
+        "reinforcement",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FntL9E2yVAYwIrlANDNKE",
+      "type": "subtopic",
+      "label": "Unsupervised Learning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -722.3814218617622,
+        "y": 1604.270762802686
+      },
+      "keywords": [
+        "unsupervised",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FIYCkGXofKMsXmsqHSMh9",
+      "type": "subtopic",
+      "label": "Supervised Learning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -722.3814218617622,
+        "y": 1657.270762802686
+      },
+      "keywords": [
+        "supervised",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HAKzVeRkJWxLc-kFmkpkH",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -483.321810236714,
+        "y": 1503.4045877729018
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 475
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vHDm_9Lh4EqvXNYSOBaqZ",
+      "type": "subtopic",
+      "label": "Decision Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -722.3814218617622,
+        "y": 1765.270762802686
+      },
+      "keywords": [
+        "decision",
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zbUw5PyVsdccbgDTRHg7d",
+      "type": "subtopic",
+      "label": "Naive Byes",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -723.8814218617622,
+        "y": 1818.270762802686
+      },
+      "keywords": [
+        "naive",
+        "byes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h2xF5bZeUByDgsAi4dga2",
+      "type": "subtopic",
+      "label": "K-Means Clustering",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -722.3814218617622,
+        "y": 1871.270762802686
+      },
+      "keywords": [
+        "means",
+        "clustering"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7ikA373qH88HBx5irCgIH",
+      "type": "subtopic",
+      "label": "Model Evaluation Techniques",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -453.821810236714,
+        "y": 1639.270762802686
+      },
+      "keywords": [
+        "model",
+        "evaluation",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_aUQZWUhFRvNu0MZ8CPit",
+      "type": "topic",
+      "label": "Big Data Technologies",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 80.49718479195076,
+        "y": 1725.9045877729018
+      },
+      "keywords": [
+        "big",
+        "data",
+        "technologies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 260,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m1IfG2sEedUxMXrv_B8GW",
+      "type": "subtopic",
+      "label": "Big Data Concepts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 80.49718479195076,
+        "y": 1814.270762802686
+      },
+      "keywords": [
+        "big",
+        "data",
+        "concepts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 260,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SStzU_iXSvI_9QWbvGNou",
+      "type": "subtopic",
+      "label": "KNN",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -561.8814218617622,
+        "y": 1818.270762802686
+      },
+      "keywords": [
+        "knn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 71,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ofOQKAIu4rezWmgZeE-KT",
+      "type": "subtopic",
+      "label": "Logistic Regression",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -722.3814218617622,
+        "y": 1925.270762802686
+      },
+      "keywords": [
+        "logistic",
+        "regression"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Fwwve0j-KDfc605IIgmil",
+      "type": "subtopic",
+      "label": "Parallel Processing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 82.61857813823781,
+        "y": 2083.5075991775
+      },
+      "keywords": [
+        "parallel",
+        "processing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 259,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uEn7siAHnnYEzU2CJItvo",
+      "type": "paragraph",
+      "label": "Data Processing Frameworks",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 82.49718479195076,
+        "y": 1921.2505657648564
+      },
+      "keywords": [
+        "data",
+        "processing",
+        "frameworks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "wECWIRMlWNoTxz5eKwaSf",
+      "type": "subtopic",
+      "label": "Hadoop",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 82.07457800662047,
+        "y": 1974.2505657648564
+      },
+      "keywords": [
+        "hadoop"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vaiigToDh4522rtWamuSM",
+      "type": "subtopic",
+      "label": "Spark",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 215.49718479195076,
+        "y": 1974.2505657648564
+      },
+      "keywords": [
+        "spark"
+      ],
+      "metadata": {
+        "style": {
+          "width": 125,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yOEspbP24pJctynHMd0eL",
+      "type": "paragraph",
+      "label": "Data Processing Techniques",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 81.61857813823781,
+        "y": 2029.2505657648562
+      },
+      "keywords": [
+        "data",
+        "processing",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {
+          "width": 259,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fqCAH4Enc4AAJHoSkk2Pe",
+      "type": "subtopic",
+      "label": "MPI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 82.07457800662047,
+        "y": 2136.5075991775
+      },
+      "keywords": [
+        "mpi"
+      ],
+      "metadata": {
+        "style": {
+          "width": 104,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eAM9orCNwzqh34uvGBVm8",
+      "type": "subtopic",
+      "label": "MapReduce",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 188.49718479195076,
+        "y": 2136.5075991775
+      },
+      "keywords": [
+        "mapreduce"
+      ],
+      "metadata": {
+        "style": {
+          "width": 152,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SiYUdtYMDImRPmV2_XPkH",
+      "type": "topic",
+      "label": "Deep Learning (Optional)",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -434.3814218617622,
+        "y": 2015.2505657648562
+      },
+      "keywords": [
+        "deep",
+        "learning",
+        "optional"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "29NGSuCu_LZ2DhGNwq4UE",
+      "type": "paragraph",
+      "label": "Learn the Basics",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -434.3814218617622,
+        "y": 1934.2505657648562
+      },
+      "keywords": [
+        "learn",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gGHsKcS92StK5FolzmVvm",
+      "type": "subtopic",
+      "label": "Neural Networks",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -434.3814218617622,
+        "y": 1881.2505657648564
+      },
+      "keywords": [
+        "neural",
+        "networks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XlCv2OirEfuBFa4ranyyE",
+      "type": "subtopic",
+      "label": "CNNs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -432.5,
+        "y": 1828.2505657648564
+      },
+      "keywords": [
+        "cnns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 132,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Gocm98_tRg5BGxKcP-7zg",
+      "type": "subtopic",
+      "label": "RNN",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -297.8814218617622,
+        "y": 1828.2505657648564
+      },
+      "keywords": [
+        "rnn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NhmKafQe87sR8hqPBWszq",
+      "type": "paragraph",
+      "label": "Frameworks",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -720.8814218617622,
+        "y": 2015.2505657648562
+      },
+      "keywords": [
+        "frameworks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "FJ4Sx477FWxyDsQr0R8rl",
+      "type": "subtopic",
+      "label": "Tensorflow",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -720.8814218617622,
+        "y": 2068.250565764856
+      },
+      "keywords": [
+        "tensorflow"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LJSqfz6aYJbCe_bK8EWI1",
+      "type": "subtopic",
+      "label": "Pytorch",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -720.8814218617622,
+        "y": 2122.250565764856
+      },
+      "keywords": [
+        "pytorch"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "owMhaho3OruAkPEVjfIk1",
+      "type": "paragraph",
+      "label": "Practice Training Models",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -434.3814218617622,
+        "y": 2097.250565764856
+      },
+      "keywords": [
+        "practice",
+        "training",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bHPJ6yOHtUq5EjJBSrJUE",
+      "type": "subtopic",
+      "label": "Image Recognition",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -434.3814218617622,
+        "y": 2150.250565764856
+      },
+      "keywords": [
+        "image",
+        "recognition"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DFv-eiYDicF4cA4jgVk9_",
+      "type": "subtopic",
+      "label": "Natural Language Processing",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -434.3814218617622,
+        "y": 2203.250565764856
+      },
+      "keywords": [
+        "natural",
+        "language",
+        "processing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 274,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "reuRSWs_FOllfoRJKaz2A",
+      "type": "paragraph",
+      "label": "Build a portfolio of projects. Some example projects:",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -697.4287445047304,
+        "y": 2303.9191362257843
+      },
+      "keywords": [
+        "build",
+        "portfolio",
+        "projects",
+        "some",
+        "example"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2D6mKlVuB6sFGfxzZLNOg",
+      "type": "paragraph",
+      "label": "1) Predicting sales trends 2) Customer Segmentation.",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -697.4287445047304,
+        "y": 2334.9191362257843
+      },
+      "keywords": [
+        "predicting",
+        "sales",
+        "trends",
+        "customer",
+        "segmentation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 432
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GcJGq4OPx-NqIDIoSJgIy",
+      "type": "paragraph",
+      "label": "Participate in Kaggle Competitions",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -697.6069342680164,
+        "y": 2378.9191362257843
+      },
+      "keywords": [
+        "participate",
+        "kaggle",
+        "competitions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 382
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rn8NylkALsvBT7qDJTEIs",
+      "type": "paragraph",
+      "label": "Participate in competitions and learn from community",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -697.6069342680164,
+        "y": 2409.9191362257843
+      },
+      "keywords": [
+        "participate",
+        "competitions",
+        "learn",
+        "community"
+      ],
+      "metadata": {
+        "style": {
+          "width": 439
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RFTRCQ99DNPcTLPgTBFEi",
+      "type": "paragraph",
+      "label": "Online Courses and Certifications",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -697.4287445047304,
+        "y": 2452.9191362257843
+      },
+      "keywords": [
+        "online",
+        "courses",
+        "certifications"
+      ],
+      "metadata": {
+        "style": {
+          "width": 369
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "E5Pp9prCfmhWfuiPka4cF",
+      "type": "paragraph",
+      "label": "Platforms like Coursera, edX, Udemy and Datacamp offer courses in Data Analytics and related topics.",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -697.4287445047304,
+        "y": 2483.9191362257843
+      },
+      "keywords": [
+        "platforms",
+        "like",
+        "coursera",
+        "edx",
+        "udemy",
+        "datacamp",
+        "offer",
+        "courses",
+        "data",
+        "analytics",
+        "related",
+        "topics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 424,
+          "height": 55
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dOrnsftQKhJAmOmsSzDI0",
+      "type": "paragraph",
+      "label": "Stay Updated and Network",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -698.4287445047304,
+        "y": 2548.9191362257843
+      },
+      "keywords": [
+        "stay",
+        "updated",
+        "network"
+      ],
+      "metadata": {
+        "style": {
+          "width": 372
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l4Dw_u91dR92hHQCbA848",
+      "type": "paragraph",
+      "label": "Join networking events, communities, seek mentorship, attend webinars and engage in discussions to expand your network.",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -698.4287445047304,
+        "y": 2580.9191362257843
+      },
+      "keywords": [
+        "join",
+        "networking",
+        "events",
+        "communities",
+        "seek",
+        "mentorship",
+        "attend",
+        "webinars",
+        "engage",
+        "discussions",
+        "expand",
+        "your",
+        "network"
+      ],
+      "metadata": {
+        "style": {
+          "width": 437
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ma5qE4EbrnFqnWm8-koQX",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -720.8814218617622,
+        "y": -270.15106699547107
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 329,
+          "height": 192
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9dfYjsY9P25QrQIqW5_m5",
+      "type": "label",
+      "label": "Popular ML Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -698.8814218617622,
+        "y": 1722.9045877729018
+      },
+      "keywords": [
+        "popular",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1DgiVLBYwEDPiRf11C2NS",
+      "type": "label",
+      "label": "Learn Different Techniques",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -726.3814218617622,
+        "y": 1442.4045877729018
+      },
+      "keywords": [
+        "learn",
+        "different",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vPVfEbf1N9Pm-OGipCAFs",
+      "type": "label",
+      "label": "Machine Learning Types",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -708.3814218617622,
+        "y": 1506.4045877729018
+      },
+      "keywords": [
+        "machine",
+        "learning",
+        "types"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qoTejLLexhNdpCwhfpDwn",
+      "type": "label",
+      "label": "Using Libraries for Cleanup",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 98.61857813823781,
+        "y": 1016.4045877729018
+      },
+      "keywords": [
+        "using",
+        "libraries",
+        "cleanup"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YDomoxzf-65sru6XVu0_X",
+      "type": "paragraph",
+      "label": "Gain Programming Skills",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -89.55417943283828,
+        "y": 615.9075181316396
+      },
+      "keywords": [
+        "gain",
+        "programming",
+        "skills"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iTmtpXe7dR4XKslgpsk2q",
+      "type": "subtopic",
+      "label": "Data Storage Solutions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 80.49718479195076,
+        "y": 1867.270762802686
+      },
+      "keywords": [
+        "data",
+        "storage",
+        "solutions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 260,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aopqiF0Svmpq94g6OQBX0",
+      "type": "label",
+      "label": "1",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -119.05417943283828,
+        "y": 448.8426822070478
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ClwrtyoxnU-slBd3nQ6zG",
+      "type": "label",
+      "label": "2",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -120.55417943283828,
+        "y": 501.3426822070478
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NsoLCA-sJ8W9N4TrMzV8-",
+      "type": "label",
+      "label": "3",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -120.55417943283828,
+        "y": 554.3426822070478
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VVU8uggtiOrRNaN-IzatG",
+      "type": "button",
+      "label": "Python",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 15.13989797603216,
+        "y": 369.3426822070478
+      },
+      "keywords": [
+        "python"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BnvNJCHnPsTo25Hn0dN9v",
+      "type": "button",
+      "label": "Learn SQL",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -321.643620473428,
+        "y": 543.1000000000001
+      },
+      "keywords": [
+        "learn",
+        "sql"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "target": "3xp2fogAVmwXQhdzhZDWR",
+      "type": "default"
+    },
+    {
+      "source": "3xp2fogAVmwXQhdzhZDWR",
+      "type": "smoothstep"
+    },
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "3xp2fogAVmwXQhdzhZDWR",
+      "type": "default"
+    },
+    {
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "smoothstep"
+    },
+    {
+      "source": "VlNNwIEDWqQXtqkHWJYzC",
+      "target": "yCnn-NfSxIybUQ2iTuUGq",
+      "type": "default"
+    },
+    {
+      "source": "3xp2fogAVmwXQhdzhZDWR",
+      "target": "yCnn-NfSxIybUQ2iTuUGq",
+      "type": "default"
+    },
+    {
+      "source": "3xp2fogAVmwXQhdzhZDWR",
+      "target": "Lsapbmg-eMIYJAHpV97nO",
+      "type": "default"
+    },
+    {
+      "source": "Lsapbmg-eMIYJAHpV97nO",
+      "target": "hWDh0ooidbqZb000ENVok",
+      "type": "default"
+    },
+    {
+      "source": "3xp2fogAVmwXQhdzhZDWR",
+      "target": "R12sArWVpbIs_PHxBqVaR",
+      "type": "default"
+    },
+    {
+      "source": "3xp2fogAVmwXQhdzhZDWR",
+      "target": "zF-aibk1m_zAsafT04efn",
+      "type": "default"
+    },
+    {
+      "source": "zF-aibk1m_zAsafT04efn",
+      "target": "sgXIjVTbwdwdYoaxN3XBM",
+      "type": "default"
+    },
+    {
+      "source": "l1SnPc4EMqGdaIAhIQfrT",
+      "target": "uGkXxdMXUMY-3fQFS1jK8",
+      "type": "default"
+    },
+    {
+      "source": "M1QtGTLyygIjePoCfvjve",
+      "target": "y__UHXe2DD-IB7bvMF1-X",
+      "type": "default"
+    },
+    {
+      "source": "M1QtGTLyygIjePoCfvjve",
+      "target": "8OXmF2Gn6TYJotBRvDjqA",
+      "type": "default"
+    },
+    {
+      "source": "l1SnPc4EMqGdaIAhIQfrT",
+      "target": "E0hIgQEeZlEidr4HtUFrL",
+      "type": "default"
+    },
+    {
+      "source": "r1ZlPtp7j6PFIdgrFrOx0",
+      "target": "_sjXCLHHTbZromJYn6fnu",
+      "type": "default"
+    },
+    {
+      "source": "_sjXCLHHTbZromJYn6fnu",
+      "target": "tYPeLCxbqvMFlTkCGjdHg",
+      "type": "default"
+    },
+    {
+      "source": "_sjXCLHHTbZromJYn6fnu",
+      "target": "iWOK0mRY-hAGxMnHYJ0tt",
+      "type": "default"
+    },
+    {
+      "source": "_sjXCLHHTbZromJYn6fnu",
+      "target": "4DFcXSSHxg5wv0uXLIRij",
+      "type": "default"
+    },
+    {
+      "source": "_sjXCLHHTbZromJYn6fnu",
+      "target": "qQ64ZhSlbbWu9pP8KTE67",
+      "type": "default"
+    },
+    {
+      "source": "_sjXCLHHTbZromJYn6fnu",
+      "target": "E6cpb6kvluJM8OGuDcFBT",
+      "type": "default"
+    },
+    {
+      "source": "E6cpb6kvluJM8OGuDcFBT",
+      "target": "Xltm7B-8TZ1-igLjVJXoR",
+      "type": "default"
+    },
+    {
+      "source": "E6cpb6kvluJM8OGuDcFBT",
+      "target": "X9WmfHOks82BIAzs6abqO",
+      "type": "default"
+    },
+    {
+      "source": "E6cpb6kvluJM8OGuDcFBT",
+      "target": "-rQ8h_6NFxEOhxXgo7LHo",
+      "type": "default"
+    },
+    {
+      "source": "E6cpb6kvluJM8OGuDcFBT",
+      "target": "t_BRtEharsrOZxoyX0OzV",
+      "type": "default"
+    },
+    {
+      "source": "E6cpb6kvluJM8OGuDcFBT",
+      "target": "Yx0ICrkjMA_VQdS9DROMb",
+      "type": "default"
+    },
+    {
+      "source": "Yx0ICrkjMA_VQdS9DROMb",
+      "target": "il6KQXVPGBza5libN38ib",
+      "type": "default"
+    },
+    {
+      "source": "il6KQXVPGBza5libN38ib",
+      "target": "2g19zjEASJw2ve57hxpr0",
+      "type": "default"
+    },
+    {
+      "source": "il6KQXVPGBza5libN38ib",
+      "target": "nYqQXh3j-d5mpOhyTO6dW",
+      "type": "default"
+    },
+    {
+      "source": "2g19zjEASJw2ve57hxpr0",
+      "target": "TeewVruErSsD4VLXcaDxp",
+      "type": "default"
+    },
+    {
+      "source": "TeewVruErSsD4VLXcaDxp",
+      "target": "Xygwu0m5TeYT6S_8FKKXh",
+      "type": "default"
+    },
+    {
+      "source": "TeewVruErSsD4VLXcaDxp",
+      "target": "murioZ0NdrTix_lqSGz-8",
+      "type": "default"
+    },
+    {
+      "source": "TeewVruErSsD4VLXcaDxp",
+      "target": "g45cn450Awr2W5hadxKY3",
+      "type": "default"
+    },
+    {
+      "source": "g45cn450Awr2W5hadxKY3",
+      "target": "f4GuzeokP9w_gwtOquP0g",
+      "type": "default"
+    },
+    {
+      "source": "f4GuzeokP9w_gwtOquP0g",
+      "target": "_aUQZWUhFRvNu0MZ8CPit",
+      "type": "default"
+    },
+    {
+      "source": "il6KQXVPGBza5libN38ib",
+      "target": "mCUW07rx74_dUNi7OGVlj",
+      "type": "default"
+    },
+    {
+      "source": "_aUQZWUhFRvNu0MZ8CPit",
+      "target": "SiYUdtYMDImRPmV2_XPkH",
+      "type": "default"
+    },
+    {
+      "source": "SiYUdtYMDImRPmV2_XPkH",
+      "target": "29NGSuCu_LZ2DhGNwq4UE",
+      "type": "default"
+    },
+    {
+      "source": "SiYUdtYMDImRPmV2_XPkH",
+      "target": "NhmKafQe87sR8hqPBWszq",
+      "type": "default"
+    },
+    {
+      "source": "SiYUdtYMDImRPmV2_XPkH",
+      "target": "owMhaho3OruAkPEVjfIk1",
+      "type": "default"
+    },
+    {
+      "source": "yvdfoly5WHHTq2Puss355",
+      "target": "XzXLGjJr2F8Ln7gP0e5N8",
+      "type": "step"
+    },
+    {
+      "source": "lse0W6_nPrjGJGW2bVFfM",
+      "target": "XzXLGjJr2F8Ln7gP0e5N8",
+      "type": "default"
+    },
+    {
+      "source": "SiYUdtYMDImRPmV2_XPkH",
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "simplebezier"
+    },
+    {
+      "source": "_aUQZWUhFRvNu0MZ8CPit",
+      "target": "m1IfG2sEedUxMXrv_B8GW",
+      "type": "default"
+    },
+    {
+      "source": "YDomoxzf-65sru6XVu0_X",
+      "target": "r1ZlPtp7j6PFIdgrFrOx0",
+      "type": "default"
+    },
+    {
+      "source": "TeewVruErSsD4VLXcaDxp",
+      "target": "lTycWscyFPi-BtkNg9cdm",
+      "type": "default"
+    },
+    {
+      "source": "BnvNJCHnPsTo25Hn0dN9v",
+      "target": "YDomoxzf-65sru6XVu0_X",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 75
+    },
+    {
+      "name": "data-science",
+      "count": 18
+    },
+    {
+      "name": "paragraph",
+      "count": 16
+    },
+    {
+      "name": "topic",
+      "count": 12
+    },
+    {
+      "name": "vertical",
+      "count": 10
+    },
+    {
+      "name": "section",
+      "count": 6
+    },
+    {
+      "name": "label",
+      "count": 6
+    },
+    {
+      "name": "horizontal",
+      "count": 4
+    },
+    {
+      "name": "database",
+      "count": 4
+    },
+    {
+      "name": "programming-language",
+      "count": 3
+    },
+    {
+      "name": "frontend",
+      "count": 2
+    },
+    {
+      "name": "backend",
+      "count": 2
+    },
+    {
+      "name": "framework",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "count": 1
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "tools",
+      "count": 1
+    },
+    {
+      "name": "testing",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "s53kNESX2DeFOZX5X4C1w",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "s53knesx2defozx5x4c1w"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "eYtoaWaZyQbfAVq8d3tFE",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "eytoawazyqbfavq8d3tfe"
+      ]
+    },
+    {
+      "name": "IKDpwowMgjPy_91gd8hBJ",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ikdpwowmgjpy_91gd8hbj"
+      ]
+    },
+    {
+      "name": "U90uRMtULJfxfX5D4Lvet",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "u90urmtuljfxfx5d4lvet"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "NdLvmwQiqaHevxiaz6Bcx",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ndlvmwqiqahevxiaz6bcx"
+      ]
+    },
+    {
+      "name": "gVDCgxnwW0ueuay58qLfa",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "gvdcgxnww0ueuay58qlfa"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Keep learning with the following relevant track",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "keep",
+        "learning",
+        "following",
+        "relevant",
+        "track"
+      ]
+    },
+    {
+      "name": "Data Analyst",
+      "category": "title",
+      "difficulty": "beginner",
+      "keywords": [
+        "data",
+        "analyst"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "AI and Data Scientist Roadmap",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "data",
+        "scientist",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "What is Data Analytics",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "data",
+        "analytics"
+      ]
+    },
+    {
+      "name": "Types of Data Analytics",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "types",
+        "data",
+        "analytics"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Descriptive Analytics",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "descriptive",
+        "analytics"
+      ]
+    },
+    {
+      "name": "Diagnostic Analytics",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "diagnostic",
+        "analytics"
+      ]
+    },
+    {
+      "name": "Predictive Analytics",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "predictive",
+        "analytics"
+      ]
+    },
+    {
+      "name": "Prescriptive Analytics",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "prescriptive",
+        "analytics"
+      ]
+    },
+    {
+      "name": "Key Concepts of Data",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "key",
+        "concepts",
+        "data"
+      ]
+    },
+    {
+      "name": "Collection",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "collection"
+      ]
+    },
+    {
+      "name": "Cleanup",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "cleanup"
+      ]
+    },
+    {
+      "name": "Exploration",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "exploration"
+      ]
+    },
+    {
+      "name": "Visualisation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "visualisation"
+      ]
+    },
+    {
+      "name": "Statistical Analysis",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "statistical",
+        "analysis"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "machine",
+        "learning"
+      ]
+    },
+    {
+      "name": "Building a Strong Foundation",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "building",
+        "strong",
+        "foundation"
+      ]
+    },
+    {
+      "name": "Analysis / Reporting with Excel",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "analysis",
+        "reporting",
+        "excel"
+      ]
+    },
+    {
+      "name": "IF",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "DATEDIF",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "datedif"
+      ]
+    },
+    {
+      "name": "VLOOKUP / HLOOKUP",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "vlookup",
+        "hlookup"
+      ]
+    },
+    {
+      "name": "REPLACE / SUBSTITUTE",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "replace",
+        "substitute"
+      ]
+    },
+    {
+      "name": "UPPER / LOWER / PROPER",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "upper",
+        "lower",
+        "proper"
+      ]
+    },
+    {
+      "name": "CONCAT",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "concat"
+      ]
+    },
+    {
+      "name": "TRIM",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "trim"
+      ]
+    },
+    {
+      "name": "AVERAGE",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "average"
+      ]
+    },
+    {
+      "name": "COUNT",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "count"
+      ]
+    },
+    {
+      "name": "SUM",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "sum"
+      ]
+    },
+    {
+      "name": "MIN / MAX",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "min",
+        "max"
+      ]
+    },
+    {
+      "name": "Learn Common Functions",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "learn",
+        "common",
+        "functions"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 165,
+    "totalEdges": 47,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:02.984Z",
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,3323 @@
+{
+  "name": "api-design",
+  "title": "Api Design",
+  "nodes": [
+    {
+      "id": "SP-d4YngpYXkeIB9SSD-K",
+      "type": "section",
+      "label": "SP-d4YngpYXkeIB9SSD-K",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 240.93596412339082,
+        "y": 1861.570310981244
+      },
+      "keywords": [
+        "d4yngpyxkeib9ssd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 203,
+          "height": 114
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XzXLGjJr2F8Ln7gP0e5N8",
+      "type": "paragraph",
+      "label": "Continue Learning with following relevant tracks",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -151.46804969796983,
+        "y": 2375.4716162213053
+      },
+      "keywords": [
+        "continue",
+        "learning",
+        "following",
+        "relevant",
+        "tracks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 437,
+          "height": 118
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zL4QEM5xZO8XWXXWrdPuj",
+      "type": "section",
+      "label": "zL4QEM5xZO8XWXXWrdPuj",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 244.19846699906657,
+        "y": 1501.3654630729577
+      },
+      "keywords": [
+        "zl4qem5xzo8xwxxwrdpuj"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 217
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "o3XFXW2HHLBoxlbEnoWdZ",
+      "type": "section",
+      "label": "o3XFXW2HHLBoxlbEnoWdZ",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -592.469505701316,
+        "y": 1567.7437339754388
+      },
+      "keywords": [
+        "o3xfxw2hhlboxlbenowdz"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248,
+          "height": 381
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ludceg3fQVkilNTKWznti",
+      "type": "section",
+      "label": "ludceg3fQVkilNTKWznti",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -210.7109644352177,
+        "y": 1239.744561558562
+      },
+      "keywords": [
+        "ludceg3fqvkilntkwznti"
+      ],
+      "metadata": {
+        "style": {
+          "width": 253,
+          "height": 114
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RkPVaSF9XnX6uHUns_-oC",
+      "type": "section",
+      "label": "RkPVaSF9XnX6uHUns_-oC",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 228.3676576847514,
+        "y": 1267.1153073402706
+      },
+      "keywords": [
+        "rkpvasf9xnx6uhuns_"
+      ],
+      "metadata": {
+        "style": {
+          "width": 220,
+          "height": 235
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cGWZQjKazJQ0D3nz_AdAX",
+      "type": "section",
+      "label": "cGWZQjKazJQ0D3nz_AdAX",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -593.4010478029121,
+        "y": 982.3357132591475
+      },
+      "keywords": [
+        "cgwzqjkazjq0d3nz_adax"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 279
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iHtjFSkQWMoUNdltNttEd",
+      "type": "section",
+      "label": "iHtjFSkQWMoUNdltNttEd",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 219.72110595703134,
+        "y": 644.8914213180542
+      },
+      "keywords": [
+        "ihtjfskqwmoundltntted"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "junprE7dbMyeovApqhSgr",
+      "type": "section",
+      "label": "junprE7dbMyeovApqhSgr",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 219.22110595703134,
+        "y": 281.3914213180542
+      },
+      "keywords": [
+        "junpre7dbmyeovapqhsgr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 270,
+          "height": 228
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wTrcPqj0KpoeOvJf7k3iI",
+      "type": "section",
+      "label": "wTrcPqj0KpoeOvJf7k3iI",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -206.8881872719935,
+        "y": 436.40074822234897
+      },
+      "keywords": [
+        "wtrcpqj0kpoeovjf7k3ii"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 289
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IzMY2P54llvbVixWxAl7H",
+      "type": "section",
+      "label": "IzMY2P54llvbVixWxAl7H",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -571.1381872719934,
+        "y": 123.90074822234897
+      },
+      "keywords": [
+        "izmy2p54llvbvixwxal7h"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 437
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AZoEY2N7PqAQgUl04E3KF",
+      "type": "title",
+      "label": "Building APIs",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -178.6381872719934,
+        "y": -57.599251777651034
+      },
+      "keywords": [
+        "building",
+        "apis"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "duKkpzPjUU_-8kyJGHqRX",
+      "type": "topic",
+      "label": "Learn the Basics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -198.1381872719934,
+        "y": 123.40074822234897
+      },
+      "keywords": [
+        "learn",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r8M3quACGO2piu0u_R4hO",
+      "type": "subtopic",
+      "label": "What are APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -570.1381872719934,
+        "y": 63.400748222348966
+      },
+      "keywords": [
+        "what",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "2HdKzAIQi15pr3YHHrbPp",
+      "type": "subtopic",
+      "label": "HTTP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -571.1381872719934,
+        "y": 122.60000000000008
+      },
+      "keywords": [
+        "http"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ACALE93mL4gnX5ThRIdRp",
+      "type": "subtopic",
+      "label": "HTTP Versions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -560.6381872719934,
+        "y": 183.90074822234897
+      },
+      "keywords": [
+        "http",
+        "versions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rADHM-6NAxEjzmgiHefDX",
+      "type": "subtopic",
+      "label": "HTTP Methods",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -560.6381872719934,
+        "y": 236.40074822234897
+      },
+      "keywords": [
+        "http",
+        "methods"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7szYyzLifKsepNU0c2KnN",
+      "type": "subtopic",
+      "label": "HTTP Status Codes",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -560.6381872719934,
+        "y": 288.90074822234897
+      },
+      "keywords": [
+        "http",
+        "status",
+        "codes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rE-0yibRH6B2UBKp351cf",
+      "type": "subtopic",
+      "label": "HTTP Headers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -560.6381872719934,
+        "y": 341.40074822234897
+      },
+      "keywords": [
+        "http",
+        "headers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "P-rGIk50Bg7nFmWieAW07",
+      "type": "subtopic",
+      "label": "URL, Query & Path Parameters",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 197.8618127280065,
+        "y": 52.100748222348955
+      },
+      "keywords": [
+        "url",
+        "query",
+        "path",
+        "parameters"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UFuX8wcxZQ7dvaQF_2Yp8",
+      "type": "subtopic",
+      "label": "Cookies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -560.6381872719934,
+        "y": 393.90074822234897
+      },
+      "keywords": [
+        "cookies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TX_hg7EobNJhmWKsMCaT1",
+      "type": "subtopic",
+      "label": "Content Negotiation",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 197.8618127280065,
+        "y": 106.10074822234895
+      },
+      "keywords": [
+        "content",
+        "negotiation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GRlsBogOlOwuqhMMPyHN3",
+      "type": "subtopic",
+      "label": "CORS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -559.6381872719934,
+        "y": 446.40074822234897
+      },
+      "keywords": [
+        "cors"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KG3wO86F8Of27fU7QRcsn",
+      "type": "subtopic",
+      "label": "Understand TCP / IP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 197.8618127280065,
+        "y": 160.10074822234895
+      },
+      "keywords": [
+        "understand",
+        "tcp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v4nJYD9yiIEUviLPhVTCD",
+      "type": "subtopic",
+      "label": "Basics of DNS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 197.8618127280065,
+        "y": 214.10074822234895
+      },
+      "keywords": [
+        "basics",
+        "dns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "o8i093VQv-T5Qf1yGqU0R",
+      "type": "topic",
+      "label": "Different API Styles",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -198.1381872719934,
+        "y": 330.40074822234897
+      },
+      "keywords": [
+        "different",
+        "api",
+        "styles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "BvwdASMvuNQ9DNgzdSZ4o",
+      "type": "subtopic",
+      "label": "RESTful APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -196.3881872719935,
+        "y": 438.90074822234897
+      },
+      "keywords": [
+        "restful",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "TVR-SkErlOHbDKLBGfxep",
+      "type": "subtopic",
+      "label": "Simple JSON APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -196.3881872719935,
+        "y": 492.90074822234897
+      },
+      "keywords": [
+        "simple",
+        "json",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "Wwd-0PjrtViMFWxRGaQey",
+      "type": "subtopic",
+      "label": "SOAP APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -196.3881872719935,
+        "y": 546.900748222349
+      },
+      "keywords": [
+        "soap",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "MKVcPM2EzAr2_Ieyp9Fu3",
+      "type": "subtopic",
+      "label": "GraphQL APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -196.3881872719935,
+        "y": 600.900748222349
+      },
+      "keywords": [
+        "graphql",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "iA0C1mFlM_73GcL9XNJmF",
+      "type": "button",
+      "label": "Visit GraphQL Roadmap",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -577.1381872719934,
+        "y": 600.900748222349
+      },
+      "keywords": [
+        "visit",
+        "graphql",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "awdoiCHz7Yc3kYac_iy-a",
+      "type": "topic",
+      "label": "Building JSON / RESTful APIs",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 212.7618127280066,
+        "y": 548.400748222349
+      },
+      "keywords": [
+        "building",
+        "json",
+        "restful",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "9WI_z34jIFXwoUQuChyRU",
+      "type": "subtopic",
+      "label": "REST Principles",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 290.40074822234897
+      },
+      "keywords": [
+        "rest",
+        "principles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "b3qRTLwCC_9uDoPGrd9Bu",
+      "type": "subtopic",
+      "label": "URI Design",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 344.40074822234897
+      },
+      "keywords": [
+        "uri",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "itILK2SXvLvAjk1Kul7EK",
+      "type": "subtopic",
+      "label": "Versioning Strategies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 398.40074822234897
+      },
+      "keywords": [
+        "versioning",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pgJDzP3pJjhjr5wTRtPJO",
+      "type": "subtopic",
+      "label": "Pagination",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 649.400748222349
+      },
+      "keywords": [
+        "pagination"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O7wjldZ3yTA2s_F-UnJw_",
+      "type": "subtopic",
+      "label": "Rate Limiting",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 703.400748222349
+      },
+      "keywords": [
+        "rate",
+        "limiting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "20KEgZH6cu_UokqWpV-9I",
+      "type": "subtopic",
+      "label": "Idempotency",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 757.400748222349
+      },
+      "keywords": [
+        "idempotency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LByD1vhzunhY1uY1YGZHP",
+      "type": "subtopic",
+      "label": "HATEOAS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 811.400748222349
+      },
+      "keywords": [
+        "hateoas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zXxEiM5HeOn7W-Vue0tQf",
+      "type": "subtopic",
+      "label": "Handling CRUD Operations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 452.40074822234897
+      },
+      "keywords": [
+        "handling",
+        "crud",
+        "operations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8tELdagrOaGCf3nMVs8t3",
+      "type": "subtopic",
+      "label": "Error Handling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 223.2618127280066,
+        "y": 865.400748222349
+      },
+      "keywords": [
+        "error",
+        "handling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5CxU3inGcSHp-TDg3BQiY",
+      "type": "subtopic",
+      "label": "RFC 7807 -  Problem Details for APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -165.6381872719934,
+        "y": 865.400748222349
+      },
+      "keywords": [
+        "rfc",
+        "7807",
+        "problem",
+        "details",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 327,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "eUsorPQ8VRLJs28J8dyk2",
+      "type": "paragraph",
+      "label": "API Authentication and Authorization",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -318.1381872719934,
+        "y": 728.9974788763272
+      },
+      "keywords": [
+        "api",
+        "authentication",
+        "authorization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 371,
+          "height": 69
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "qAolZHf_jp8hCdtqHZwC8",
+      "type": "subtopic",
+      "label": "HTTP Caching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -559.1381872719934,
+        "y": 498.90074822234897
+      },
+      "keywords": [
+        "http",
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cQnQ9v3mH27MGNwetz3JW",
+      "type": "topic",
+      "label": "Authentication Methods",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -601.4010478029121,
+        "y": 859.6211541412258
+      },
+      "keywords": [
+        "authentication",
+        "methods"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0FzHERK5AeYL5wv1FBJbH",
+      "type": "subtopic",
+      "label": "Basic Auth",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -583.4010478029121,
+        "y": 983.7533379465866
+      },
+      "keywords": [
+        "basic",
+        "auth"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QTH7sy9uQZWl6ieBz7erY",
+      "type": "subtopic",
+      "label": "Token Based Auth",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -583.4010478029121,
+        "y": 1037.7533379465865
+      },
+      "keywords": [
+        "token",
+        "based",
+        "auth"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tWg68AHLIr1gIZA1za3jp",
+      "type": "subtopic",
+      "label": "JWT ",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -583.4010478029121,
+        "y": 1091.7533379465865
+      },
+      "keywords": [
+        "jwt"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TLuNtQ6HKYQXmglyVk8-t",
+      "type": "subtopic",
+      "label": "OAuth 2.0",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -583.4010478029121,
+        "y": 1145.7533379465865
+      },
+      "keywords": [
+        "oauth"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eQWoy4CpYP3TJL2bbhPB_",
+      "type": "subtopic",
+      "label": "Session Based Auth",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -583.4010478029121,
+        "y": 1199.8443340956667
+      },
+      "keywords": [
+        "session",
+        "based",
+        "auth"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nHbn8_sMY7J8o6ckbD-ER",
+      "type": "topic",
+      "label": "Authorization Methods",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -210.6381872719934,
+        "y": 1033.5329320277096
+      },
+      "keywords": [
+        "authorization",
+        "methods"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wFsbmMi5Ey9UyDADdbdPW",
+      "type": "subtopic",
+      "label": "Role Based Access Control (RBAC)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 165.00932230336673,
+        "y": 1004.0041963907498
+      },
+      "keywords": [
+        "role",
+        "based",
+        "access",
+        "control",
+        "rbac"
+      ],
+      "metadata": {
+        "style": {
+          "width": 353,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dZTe_kxIUQsc9N3w920aR",
+      "type": "subtopic",
+      "label": "Attribute Based Access Control (ABAC)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 165.00932230336673,
+        "y": 1058.00419639075
+      },
+      "keywords": [
+        "attribute",
+        "based",
+        "access",
+        "control",
+        "abac"
+      ],
+      "metadata": {
+        "style": {
+          "width": 352,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tzUJwXu_scwQHnPPT0oY-",
+      "type": "topic",
+      "label": "API Keys & Management",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -210.6381872719934,
+        "y": 1146.5329320277096
+      },
+      "keywords": [
+        "api",
+        "keys",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "5R9yKfN1vItuv__HgCwP7",
+      "type": "topic",
+      "label": "API Documentation Tools",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 214.72110595703134,
+        "y": 1146.5329320277096
+      },
+      "keywords": [
+        "api",
+        "documentation",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "5RY7AlfRQydjxWK65Z4cv",
+      "type": "subtopic",
+      "label": "Swagger / Open API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 232.85884761415554,
+        "y": 1270.9481617844106
+      },
+      "keywords": [
+        "swagger",
+        "open",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "KQAus72RGqx5f-3-YeJby",
+      "type": "subtopic",
+      "label": "Postman",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 232.85884761415554,
+        "y": 1427.5717249610107
+      },
+      "keywords": [
+        "postman"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LxWHkhlikUaMT2G8YmVDQ",
+      "type": "subtopic",
+      "label": "Readme.com",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 232.85884761415554,
+        "y": 1323.1560161766106
+      },
+      "keywords": [
+        "readme",
+        "com"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OpS2NX1lPTOtfjV1wKtC4",
+      "type": "subtopic",
+      "label": "Stoplight",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 232.85884761415554,
+        "y": 1375.3638705688106
+      },
+      "keywords": [
+        "stoplight"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qIJ6dUppjAjOTA8eQbp0n",
+      "type": "topic",
+      "label": "API Security",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -207.7109644352177,
+        "y": 1398.532340911712
+      },
+      "keywords": [
+        "api",
+        "security"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "G70wvcOM1Isrx5ZBvS2xP",
+      "type": "subtopic",
+      "label": "Common Vulnerabilities",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -205.2109644352177,
+        "y": 1251.6104620579213
+      },
+      "keywords": [
+        "common",
+        "vulnerabilities"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "q1yaf-RbHIQsOqfzjn4k4",
+      "type": "subtopic",
+      "label": "Best Practices",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -205.2109644352177,
+        "y": 1303.8183164501213
+      },
+      "keywords": [
+        "best",
+        "practices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "92-ebM0EwQ3nLjZKtvCZX",
+      "type": "button",
+      "label": "API Security Best Practices",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -612.1381872719934,
+        "y": 1303.8183164501213
+      },
+      "keywords": [
+        "api",
+        "security",
+        "best",
+        "practices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 291,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "d9ZXdU73jiCdeNHQv1_DH",
+      "type": "topic",
+      "label": "API Performance",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -590.469505701316,
+        "y": 1467.491632075372
+      },
+      "keywords": [
+        "api",
+        "performance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "nQpczZUcn-TvrfT80dv0Q",
+      "type": "subtopic",
+      "label": "Performance Metrics",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -585.469505701316,
+        "y": 1568.4353183589587
+      },
+      "keywords": [
+        "performance",
+        "metrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PrvRCR4HCdGar0vcUbG_a",
+      "type": "subtopic",
+      "label": "Caching Strategies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -585.469505701316,
+        "y": 1619.7437339754388
+      },
+      "keywords": [
+        "caching",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "p5wsniYnOS7cbHd92RxGk",
+      "type": "subtopic",
+      "label": "Load Balancing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -585.469505701316,
+        "y": 1671.0521495919188
+      },
+      "keywords": [
+        "load",
+        "balancing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tPVtRV818D8zAAuNbqPNa",
+      "type": "subtopic",
+      "label": "Rate Limiting / Throttling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -585.469505701316,
+        "y": 1722.3605652083988
+      },
+      "keywords": [
+        "rate",
+        "limiting",
+        "throttling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-qdwBg7HvwlbLy3IKCRij",
+      "type": "subtopic",
+      "label": "Profiling and Monitoring",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -585.469505701316,
+        "y": 1773.6689808248789
+      },
+      "keywords": [
+        "profiling",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DQcAV59vr1-ZRnMfbLXpu",
+      "type": "subtopic",
+      "label": "Performance Testing",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -585.469505701316,
+        "y": 1824.977396441359
+      },
+      "keywords": [
+        "performance",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "MSeNU5cURBInhPlvnhVfO",
+      "type": "button",
+      "label": "API Performance Best Practices",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -614.469505701316,
+        "y": 1367.532340911712
+      },
+      "keywords": [
+        "api",
+        "performance",
+        "best",
+        "practices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 295,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "R3aRhqCslwhegMfHtxg5z",
+      "type": "topic",
+      "label": "API Integration Patterns",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -210.2109644352177,
+        "y": 1544.4353183589587
+      },
+      "keywords": [
+        "api",
+        "integration",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "kJD1K2-ZkoezFCfpmOM0Z",
+      "type": "section",
+      "label": "kJD1K2-ZkoezFCfpmOM0Z",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -255.7109644352177,
+        "y": 1661.7437339754388
+      },
+      "keywords": [
+        "kjd1k2",
+        "zkoezfcfpmom0z"
+      ],
+      "metadata": {
+        "style": {
+          "width": 336,
+          "height": 370
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "--mmTKhG58_elbUqyn90G",
+      "type": "subtopic",
+      "label": "Synchronous vs Asynchronous APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -250.7109644352177,
+        "y": 1662.4353183589587
+      },
+      "keywords": [
+        "synchronous",
+        "asynchronous",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 326,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "oMfOBkVsgiLvFLicOUdx6",
+      "type": "subtopic",
+      "label": "Event Driven Architecture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -250.7109644352177,
+        "y": 1713.7417878080591
+      },
+      "keywords": [
+        "event",
+        "driven",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 326,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "MJeUD4fOHaJu1oxk4uQ-x",
+      "type": "subtopic",
+      "label": "API Gateways",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -250.7109644352177,
+        "y": 1765.752205777561
+      },
+      "keywords": [
+        "api",
+        "gateways"
+      ],
+      "metadata": {
+        "style": {
+          "width": 326,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "PPeBbooE121zrgNwpVTiA",
+      "type": "subtopic",
+      "label": "Microservices Architecture",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -250.7109644352177,
+        "y": 1817.410649486862
+      },
+      "keywords": [
+        "microservices",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 326,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "IkPZel5zxXWIx90Qx7fZI",
+      "type": "subtopic",
+      "label": "Messaging Queues",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -250.7109644352177,
+        "y": 1972.3859806147652
+      },
+      "keywords": [
+        "messaging",
+        "queues"
+      ],
+      "metadata": {
+        "style": {
+          "width": 326,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "75NVxS0iwoQXxOHCkWQxH",
+      "type": "subtopic",
+      "label": "Webhooks vs Polling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -250.7109644352177,
+        "y": 1869.069093196163
+      },
+      "keywords": [
+        "webhooks",
+        "polling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 326,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "X68HXAAV-nKo-V4Fu1o72",
+      "type": "subtopic",
+      "label": "Batch Processing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -250.7109644352177,
+        "y": 1920.7275369054641
+      },
+      "keywords": [
+        "batch",
+        "processing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 326,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "H22jAI2W5QLL-b1rq-c56",
+      "type": "subtopic",
+      "label": "Rabbit MQ",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -497.66906836651873,
+        "y": 1941.8678842718575
+      },
+      "keywords": [
+        "rabbit"
+      ],
+      "metadata": {
+        "style": {
+          "width": 146,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "boYX1QcJullypfX4sevdy",
+      "type": "subtopic",
+      "label": "Kafka",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -499.16906836651884,
+        "y": 1996.867884271857
+      },
+      "keywords": [
+        "kafka"
+      ],
+      "metadata": {
+        "style": {
+          "width": 149,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Wpk4TvxcZOJgAoXjrOsZF",
+      "type": "topic",
+      "label": "API Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 221.19846699906657,
+        "y": 1758.058993623857
+      },
+      "keywords": [
+        "api",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "JvmW78cDm84GNhq8VEYZp",
+      "type": "subtopic",
+      "label": "Unit Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 247.69846699906657,
+        "y": 1505.4070461854096
+      },
+      "keywords": [
+        "unit",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "qZELS5vw2feS7QfyD7spX",
+      "type": "subtopic",
+      "label": "Integration Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 247.69846699906657,
+        "y": 1559.4070461854096
+      },
+      "keywords": [
+        "integration",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "6lm3wy9WTAERTqXCn6pFt",
+      "type": "subtopic",
+      "label": "Functional Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 247.69846699906657,
+        "y": 1613.4070461854096
+      },
+      "keywords": [
+        "functional",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "7JNEx_cbqnAx3esvwZMOd",
+      "type": "subtopic",
+      "label": "Load Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 247.69846699906657,
+        "y": 1667.4070461854096
+      },
+      "keywords": [
+        "load",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "bEVCT5QGY3uw0kIfAELKh",
+      "type": "subtopic",
+      "label": "Mocking APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 248.4735203536439,
+        "y": 1861.446054725657
+      },
+      "keywords": [
+        "mocking",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "NqeBglhzukVMMEF9p2CXc",
+      "type": "subtopic",
+      "label": "Contract Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 248.4735203536439,
+        "y": 1915.446054725657
+      },
+      "keywords": [
+        "contract",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "XD1vDtrRQFbLyKJaD1AlA",
+      "type": "subtopic",
+      "label": "Error Handling / Retries",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -585.469505701316,
+        "y": 1876.285812057839
+      },
+      "keywords": [
+        "error",
+        "handling",
+        "retries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JE12g5cqnwmgeTle14Vxw",
+      "type": "topic",
+      "label": "Real-time APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 35.36181272800661,
+        "y": 2095.4915595367556
+      },
+      "keywords": [
+        "real",
+        "time",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 171,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "UQ8N7gcVpRLAYXgUNHBt5",
+      "type": "subtopic",
+      "label": "Web Sockets",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 267.72110595703134,
+        "y": 2069.2728071916526
+      },
+      "keywords": [
+        "web",
+        "sockets"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iNsXTtcIHsI_i-mCfjGYn",
+      "type": "subtopic",
+      "label": "Server Sent Events",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 267.72110595703134,
+        "y": 2123.2728071916526
+      },
+      "keywords": [
+        "server",
+        "sent",
+        "events"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yvdfoly5WHHTq2Puss355",
+      "type": "topic",
+      "label": "Standards and Compliance",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -363.31358688509135,
+        "y": 2210.5425435400516
+      },
+      "keywords": [
+        "standards",
+        "compliance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 272,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vZxdswGLHCPi5GSuXEcHJ",
+      "type": "subtopic",
+      "label": "GDPR",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -570.6112846237921,
+        "y": 2102.642324872653
+      },
+      "keywords": [
+        "gdpr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "At5exN7ZAx2IzY3cTCzHm",
+      "type": "topic",
+      "label": "API Lifecycle Management",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -361.55504561899306,
+        "y": 2095.4915595367556
+      },
+      "keywords": [
+        "api",
+        "lifecycle",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "a-_iIE7UdoXzD00fD9MxN",
+      "type": "subtopic",
+      "label": "CCPA",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -570.6112846237921,
+        "y": 2156.642324872653
+      },
+      "keywords": [
+        "ccpa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "J0enF8UTVzY3H4n3pbPIF",
+      "type": "subtopic",
+      "label": "PCI DSS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -570.6112846237921,
+        "y": 2210.642324872653
+      },
+      "keywords": [
+        "pci",
+        "dss"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "W4WwTmgZGnWmiYsB0ezml",
+      "type": "subtopic",
+      "label": "HIPAA",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -568.8897926825906,
+        "y": 2264.642324872653
+      },
+      "keywords": [
+        "hipaa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mXCKtLUvwVJkHrpHzOecq",
+      "type": "subtopic",
+      "label": "PII",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -570.6112846237921,
+        "y": 2318.642324872653
+      },
+      "keywords": [
+        "pii"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ETSZIZbfsiSgwpAS6HgGp",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -85.13818727199339,
+        "y": -164.08481519539623
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 94
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PstbOGqR_4C2WWV8CWXes",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -599.3135868850914,
+        "y": -176.03181769055132
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 163
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 158.23571626420664,
+        "y": -175.8282364125966
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 171.43909067700685,
+        "y": -93.84267299485134
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4fauwiq2CJnzDA7Z9Pmeo",
+      "type": "button",
+      "label": "Backend Roadmap",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -139.18102870413122,
+        "y": 2429.279985574316
+      },
+      "keywords": [
+        "backend",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eYziHRN-gsg9qr8Yddu2K",
+      "type": "button",
+      "label": "DevOps Roadmap",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 68.81897129586875,
+        "y": 2429.279985574316
+      },
+      "keywords": [
+        "devops",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cV_O7RiFmpoI4f1o8lF4B",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 56.53195030203017,
+        "y": 2493.4716162213053
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 94
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1DrqtOwxCuFtWQXQ6ZALp",
+      "type": "subtopic",
+      "label": "gRPC APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -198.46804969796983,
+        "y": 654.900748222349
+      },
+      "keywords": [
+        "grpc",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "source": "AZoEY2N7PqAQgUl04E3KF",
+      "target": "duKkpzPjUU_-8kyJGHqRX",
+      "type": "default"
+    },
+    {
+      "source": "duKkpzPjUU_-8kyJGHqRX",
+      "target": "r8M3quACGO2piu0u_R4hO",
+      "type": "default"
+    },
+    {
+      "source": "duKkpzPjUU_-8kyJGHqRX",
+      "target": "2HdKzAIQi15pr3YHHrbPp",
+      "type": "default"
+    },
+    {
+      "source": "duKkpzPjUU_-8kyJGHqRX",
+      "target": "P-rGIk50Bg7nFmWieAW07",
+      "type": "default"
+    },
+    {
+      "source": "duKkpzPjUU_-8kyJGHqRX",
+      "target": "TX_hg7EobNJhmWKsMCaT1",
+      "type": "default"
+    },
+    {
+      "source": "GRlsBogOlOwuqhMMPyHN3",
+      "target": "GRlsBogOlOwuqhMMPyHN3",
+      "type": "default"
+    },
+    {
+      "source": "duKkpzPjUU_-8kyJGHqRX",
+      "target": "KG3wO86F8Of27fU7QRcsn",
+      "type": "default"
+    },
+    {
+      "source": "duKkpzPjUU_-8kyJGHqRX",
+      "target": "v4nJYD9yiIEUviLPhVTCD",
+      "type": "default"
+    },
+    {
+      "source": "duKkpzPjUU_-8kyJGHqRX",
+      "target": "o8i093VQv-T5Qf1yGqU0R",
+      "type": "default"
+    },
+    {
+      "source": "o8i093VQv-T5Qf1yGqU0R",
+      "target": "wTrcPqj0KpoeOvJf7k3iI",
+      "type": "default"
+    },
+    {
+      "source": "o8i093VQv-T5Qf1yGqU0R",
+      "target": "awdoiCHz7Yc3kYac_iy-a",
+      "type": "default"
+    },
+    {
+      "source": "awdoiCHz7Yc3kYac_iy-a",
+      "target": "junprE7dbMyeovApqhSgr",
+      "type": "default"
+    },
+    {
+      "source": "awdoiCHz7Yc3kYac_iy-a",
+      "target": "iHtjFSkQWMoUNdltNttEd",
+      "type": "default"
+    },
+    {
+      "source": "8tELdagrOaGCf3nMVs8t3",
+      "target": "5CxU3inGcSHp-TDg3BQiY",
+      "type": "default"
+    },
+    {
+      "source": "awdoiCHz7Yc3kYac_iy-a",
+      "target": "eUsorPQ8VRLJs28J8dyk2",
+      "type": "default"
+    },
+    {
+      "source": "eUsorPQ8VRLJs28J8dyk2",
+      "target": "cQnQ9v3mH27MGNwetz3JW",
+      "type": "default"
+    },
+    {
+      "source": "cQnQ9v3mH27MGNwetz3JW",
+      "target": "cGWZQjKazJQ0D3nz_AdAX",
+      "type": "default"
+    },
+    {
+      "source": "cQnQ9v3mH27MGNwetz3JW",
+      "target": "nHbn8_sMY7J8o6ckbD-ER",
+      "type": "default"
+    },
+    {
+      "source": "nHbn8_sMY7J8o6ckbD-ER",
+      "target": "wFsbmMi5Ey9UyDADdbdPW",
+      "type": "default"
+    },
+    {
+      "source": "nHbn8_sMY7J8o6ckbD-ER",
+      "target": "dZTe_kxIUQsc9N3w920aR",
+      "type": "default"
+    },
+    {
+      "source": "nHbn8_sMY7J8o6ckbD-ER",
+      "target": "tzUJwXu_scwQHnPPT0oY-",
+      "type": "default"
+    },
+    {
+      "source": "tzUJwXu_scwQHnPPT0oY-",
+      "target": "5R9yKfN1vItuv__HgCwP7",
+      "type": "default"
+    },
+    {
+      "source": "5R9yKfN1vItuv__HgCwP7",
+      "target": "RkPVaSF9XnX6uHUns_-oC",
+      "type": "default"
+    },
+    {
+      "source": "5R9yKfN1vItuv__HgCwP7",
+      "target": "qIJ6dUppjAjOTA8eQbp0n",
+      "type": "default"
+    },
+    {
+      "source": "qIJ6dUppjAjOTA8eQbp0n",
+      "target": "ludceg3fQVkilNTKWznti",
+      "type": "default"
+    },
+    {
+      "source": "q1yaf-RbHIQsOqfzjn4k4",
+      "target": "92-ebM0EwQ3nLjZKtvCZX",
+      "type": "default"
+    },
+    {
+      "source": "qIJ6dUppjAjOTA8eQbp0n",
+      "target": "d9ZXdU73jiCdeNHQv1_DH",
+      "type": "default"
+    },
+    {
+      "source": "d9ZXdU73jiCdeNHQv1_DH",
+      "target": "MSeNU5cURBInhPlvnhVfO",
+      "type": "default"
+    },
+    {
+      "source": "d9ZXdU73jiCdeNHQv1_DH",
+      "target": "o3XFXW2HHLBoxlbEnoWdZ",
+      "type": "default"
+    },
+    {
+      "source": "d9ZXdU73jiCdeNHQv1_DH",
+      "target": "R3aRhqCslwhegMfHtxg5z",
+      "type": "default"
+    },
+    {
+      "target": "kJD1K2-ZkoezFCfpmOM0Z",
+      "type": "default"
+    },
+    {
+      "source": "R3aRhqCslwhegMfHtxg5z",
+      "target": "kJD1K2-ZkoezFCfpmOM0Z",
+      "type": "default"
+    },
+    {
+      "source": "IkPZel5zxXWIx90Qx7fZI",
+      "target": "H22jAI2W5QLL-b1rq-c56",
+      "type": "default"
+    },
+    {
+      "source": "IkPZel5zxXWIx90Qx7fZI",
+      "target": "boYX1QcJullypfX4sevdy",
+      "type": "default"
+    },
+    {
+      "source": "Wpk4TvxcZOJgAoXjrOsZF",
+      "target": "zL4QEM5xZO8XWXXWrdPuj",
+      "type": "default"
+    },
+    {
+      "source": "R3aRhqCslwhegMfHtxg5z",
+      "target": "Wpk4TvxcZOJgAoXjrOsZF",
+      "type": "default"
+    },
+    {
+      "target": "SP-d4YngpYXkeIB9SSD-K",
+      "type": "default"
+    },
+    {
+      "source": "Wpk4TvxcZOJgAoXjrOsZF",
+      "target": "bEVCT5QGY3uw0kIfAELKh",
+      "type": "default"
+    },
+    {
+      "source": "Wpk4TvxcZOJgAoXjrOsZF",
+      "target": "JE12g5cqnwmgeTle14Vxw",
+      "type": "default"
+    },
+    {
+      "source": "JE12g5cqnwmgeTle14Vxw",
+      "target": "UQ8N7gcVpRLAYXgUNHBt5",
+      "type": "default"
+    },
+    {
+      "source": "JE12g5cqnwmgeTle14Vxw",
+      "target": "iNsXTtcIHsI_i-mCfjGYn",
+      "type": "default"
+    },
+    {
+      "source": "JE12g5cqnwmgeTle14Vxw",
+      "target": "At5exN7ZAx2IzY3cTCzHm",
+      "type": "default"
+    },
+    {
+      "source": "At5exN7ZAx2IzY3cTCzHm",
+      "target": "yvdfoly5WHHTq2Puss355",
+      "type": "default"
+    },
+    {
+      "source": "yvdfoly5WHHTq2Puss355",
+      "target": "vZxdswGLHCPi5GSuXEcHJ",
+      "type": "default"
+    },
+    {
+      "source": "yvdfoly5WHHTq2Puss355",
+      "target": "a-_iIE7UdoXzD00fD9MxN",
+      "type": "default"
+    },
+    {
+      "source": "yvdfoly5WHHTq2Puss355",
+      "target": "J0enF8UTVzY3H4n3pbPIF",
+      "type": "default"
+    },
+    {
+      "source": "yvdfoly5WHHTq2Puss355",
+      "target": "W4WwTmgZGnWmiYsB0ezml",
+      "type": "default"
+    },
+    {
+      "source": "yvdfoly5WHHTq2Puss355",
+      "target": "mXCKtLUvwVJkHrpHzOecq",
+      "type": "default"
+    },
+    {
+      "source": "yvdfoly5WHHTq2Puss355",
+      "target": "jXtqI8k4Abz-vr01IcpWL",
+      "type": "step"
+    },
+    {
+      "source": "yvdfoly5WHHTq2Puss355",
+      "target": "XzXLGjJr2F8Ln7gP0e5N8",
+      "type": "step"
+    },
+    {
+      "source": "MKVcPM2EzAr2_Ieyp9Fu3",
+      "target": "iA0C1mFlM_73GcL9XNJmF",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 46
+    },
+    {
+      "name": "backend",
+      "count": 22
+    },
+    {
+      "name": "section",
+      "count": 10
+    },
+    {
+      "name": "security",
+      "count": 7
+    },
+    {
+      "name": "testing",
+      "count": 6
+    },
+    {
+      "name": "database",
+      "count": 5
+    },
+    {
+      "name": "frontend",
+      "count": 2
+    },
+    {
+      "name": "topic",
+      "count": 2
+    },
+    {
+      "name": "vertical",
+      "count": 2
+    },
+    {
+      "name": "paragraph",
+      "count": 1
+    },
+    {
+      "name": "programming-language",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    },
+    {
+      "name": "data-science",
+      "count": 1
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "devops",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "SP-d4YngpYXkeIB9SSD-K",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "d4yngpyxkeib9ssd"
+      ]
+    },
+    {
+      "name": "Continue Learning with following relevant tracks",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "continue",
+        "learning",
+        "following",
+        "relevant",
+        "tracks"
+      ]
+    },
+    {
+      "name": "zL4QEM5xZO8XWXXWrdPuj",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "zl4qem5xzo8xwxxwrdpuj"
+      ]
+    },
+    {
+      "name": "o3XFXW2HHLBoxlbEnoWdZ",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "o3xfxw2hhlboxlbenowdz"
+      ]
+    },
+    {
+      "name": "ludceg3fQVkilNTKWznti",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ludceg3fqvkilntkwznti"
+      ]
+    },
+    {
+      "name": "RkPVaSF9XnX6uHUns_-oC",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "rkpvasf9xnx6uhuns_"
+      ]
+    },
+    {
+      "name": "cGWZQjKazJQ0D3nz_AdAX",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "cgwzqjkazjq0d3nz_adax"
+      ]
+    },
+    {
+      "name": "iHtjFSkQWMoUNdltNttEd",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ihtjfskqwmoundltntted"
+      ]
+    },
+    {
+      "name": "junprE7dbMyeovApqhSgr",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "junpre7dbmyeovapqhsgr"
+      ]
+    },
+    {
+      "name": "wTrcPqj0KpoeOvJf7k3iI",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "wtrcpqj0kpoeovjf7k3ii"
+      ]
+    },
+    {
+      "name": "IzMY2P54llvbVixWxAl7H",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "izmy2p54llvbvixwxal7h"
+      ]
+    },
+    {
+      "name": "Building APIs",
+      "category": "frontend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "building",
+        "apis"
+      ]
+    },
+    {
+      "name": "Learn the Basics",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "learn",
+        "basics"
+      ]
+    },
+    {
+      "name": "What are APIs",
+      "category": "backend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "what",
+        "apis"
+      ]
+    },
+    {
+      "name": "HTTP",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "http"
+      ]
+    },
+    {
+      "name": "HTTP Versions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "http",
+        "versions"
+      ]
+    },
+    {
+      "name": "HTTP Methods",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "http",
+        "methods"
+      ]
+    },
+    {
+      "name": "HTTP Status Codes",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "http",
+        "status",
+        "codes"
+      ]
+    },
+    {
+      "name": "HTTP Headers",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "http",
+        "headers"
+      ]
+    },
+    {
+      "name": "URL, Query & Path Parameters",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "url",
+        "query",
+        "path",
+        "parameters"
+      ]
+    },
+    {
+      "name": "Cookies",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "cookies"
+      ]
+    },
+    {
+      "name": "Content Negotiation",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "content",
+        "negotiation"
+      ]
+    },
+    {
+      "name": "CORS",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "cors"
+      ]
+    },
+    {
+      "name": "Understand TCP / IP",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "understand",
+        "tcp"
+      ]
+    },
+    {
+      "name": "Basics of DNS",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "basics",
+        "dns"
+      ]
+    },
+    {
+      "name": "Different API Styles",
+      "category": "backend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "different",
+        "api",
+        "styles"
+      ]
+    },
+    {
+      "name": "RESTful APIs",
+      "category": "backend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "restful",
+        "apis"
+      ]
+    },
+    {
+      "name": "Simple JSON APIs",
+      "category": "backend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "simple",
+        "json",
+        "apis"
+      ]
+    },
+    {
+      "name": "SOAP APIs",
+      "category": "backend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "soap",
+        "apis"
+      ]
+    },
+    {
+      "name": "GraphQL APIs",
+      "category": "backend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "graphql",
+        "apis"
+      ]
+    },
+    {
+      "name": "Visit GraphQL Roadmap",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "visit",
+        "graphql",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Building JSON / RESTful APIs",
+      "category": "frontend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "building",
+        "json",
+        "restful",
+        "apis"
+      ]
+    },
+    {
+      "name": "REST Principles",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "rest",
+        "principles"
+      ]
+    },
+    {
+      "name": "URI Design",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "uri",
+        "design"
+      ]
+    },
+    {
+      "name": "Versioning Strategies",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "versioning",
+        "strategies"
+      ]
+    },
+    {
+      "name": "Pagination",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "pagination"
+      ]
+    },
+    {
+      "name": "Rate Limiting",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "rate",
+        "limiting"
+      ]
+    },
+    {
+      "name": "Idempotency",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "idempotency"
+      ]
+    },
+    {
+      "name": "HATEOAS",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "hateoas"
+      ]
+    },
+    {
+      "name": "Handling CRUD Operations",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "handling",
+        "crud",
+        "operations"
+      ]
+    },
+    {
+      "name": "Error Handling",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "error",
+        "handling"
+      ]
+    },
+    {
+      "name": "RFC 7807 -  Problem Details for APIs",
+      "category": "backend",
+      "difficulty": "intermediate",
+      "keywords": [
+        "rfc",
+        "7807",
+        "problem",
+        "details",
+        "apis"
+      ]
+    },
+    {
+      "name": "API Authentication and Authorization",
+      "category": "security",
+      "difficulty": "intermediate",
+      "keywords": [
+        "api",
+        "authentication",
+        "authorization"
+      ]
+    },
+    {
+      "name": "HTTP Caching",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "http",
+        "caching"
+      ]
+    },
+    {
+      "name": "Authentication Methods",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "authentication",
+        "methods"
+      ]
+    },
+    {
+      "name": "Basic Auth",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "basic",
+        "auth"
+      ]
+    },
+    {
+      "name": "Token Based Auth",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "token",
+        "based",
+        "auth"
+      ]
+    },
+    {
+      "name": "JWT ",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "jwt"
+      ]
+    },
+    {
+      "name": "OAuth 2.0",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "oauth"
+      ]
+    },
+    {
+      "name": "Session Based Auth",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "session",
+        "based",
+        "auth"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 108,
+    "totalEdges": 65,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:26.397Z",
+    "version": "2.0"
+  }
+}

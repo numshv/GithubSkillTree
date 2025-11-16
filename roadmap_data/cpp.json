@@ -1,0 +1,4498 @@
+{
+  "name": "cpp",
+  "title": "Cpp",
+  "nodes": [
+    {
+      "id": "b5EyLVAnEsPBiwy2dMr6F",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 132.993752405053,
+        "y": 2903.0129376580285
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I1aDakZmYpe7pKczou0qC",
+      "type": "section",
+      "label": "I1aDakZmYpe7pKczou0qC",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 258.0179751445827,
+        "y": 2688.244194339027
+      },
+      "keywords": [
+        "i1adakzmype7pkczou0qc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196,
+          "height": 278
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "goX6oPqweGg7J9yXJjDsR",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 441.5179751445827,
+        "y": 2530.0128020469147
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 92,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iisl6B61awdQDJVGaBqtI",
+      "type": "section",
+      "label": "iisl6B61awdQDJVGaBqtI",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 532.5179751445827,
+        "y": 2381.244194339027
+      },
+      "keywords": [
+        "iisl6b61awdqdjvgabqti"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240,
+          "height": 385
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SNEm8ibYyywxb0prHdlMA",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 118.26444711909286,
+        "y": 2545.23808936492
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 86
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "REVHzbbcSWfylibdGZG5A",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 12.144083619869434,
+        "y": 2545.23808936492
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 86
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Tm2kjpCnwZhAw0vwqn_PK",
+      "type": "section",
+      "label": "Tm2kjpCnwZhAw0vwqn_PK",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -31.733089516576577,
+        "y": 2235.2284032315606
+      },
+      "keywords": [
+        "tm2kjpcnwzhaw0vwqn_pk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 212
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_sUz-qKSggnUjAO281ROC",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -233.429978402122,
+        "y": 1962.677896706502
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 97
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wGg3UBe3OqaXWxPxYiBQz",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 594.833180361922,
+        "y": 1673.789165472234
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 103
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3SsQBuq6ie73yAMvRcqtR",
+      "type": "section",
+      "label": "3SsQBuq6ie73yAMvRcqtR",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 466.39833855329164,
+        "y": 1470.7730008603658
+      },
+      "keywords": [
+        "3ssqbuq6ie73yamvrcqtr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303,
+          "height": 174
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ra0ZEvbILayGotRDlRwjF",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 309.993752405053,
+        "y": 1671.789165472234
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 107
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XUHjmFhEsTjGRLlmDgl_w",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 159.993752405053,
+        "y": 1671.789165472234
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 107
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mnUWOqBFgcuNsXUr18fJI",
+      "type": "section",
+      "label": "mnUWOqBFgcuNsXUr18fJI",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -286.929978402122,
+        "y": 1484.789165472234
+      },
+      "keywords": [
+        "mnuwoqbfgcunsxur18fji"
+      ],
+      "metadata": {
+        "style": {
+          "width": 322,
+          "height": 128
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l5xm8tzFqMKwGdK3MYaXm",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 500.31370390738084,
+        "y": 1150.9555450086277
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 199
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fG1lGRwUDPc-aiETFyEE7",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 588.119142886761,
+        "y": 1045.9498696738276
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ofwdZm05AUqCIWmfgGHk8",
+      "type": "subtopic",
+      "label": "Diamond Inheritance",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 539.0885117402935,
+        "y": 1257.538589268166
+      },
+      "keywords": [
+        "diamond",
+        "inheritance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZHjU60uzJTezADRhDTESG",
+      "type": "subtopic",
+      "label": "Forward Declaration",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 66.99375240505299,
+        "y": 877.9725710130274
+      },
+      "keywords": [
+        "forward",
+        "declaration"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "J7Jwh6hrrEyni5eGmuCqc",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -44.467176049532384,
+        "y": 1130.9555450086277
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Qk3hqX1Wj68FD8jXHS5NU",
+      "type": "section",
+      "label": "Qk3hqX1Wj68FD8jXHS5NU",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -284.4671760495324,
+        "y": 822.073069776383
+      },
+      "keywords": [
+        "qk3hqx1wj68fd8jxhs5nu"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 234
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zybofouGIVxcKvr47F3Yy",
+      "type": "section",
+      "label": "zybofouGIVxcKvr47F3Yy",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -284.4671760495324,
+        "y": 1051.9498696738276
+      },
+      "keywords": [
+        "zybofougivxckvr47f3yy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 175
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "c58fcsthBlVfzfr-MHdpF",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 256.89029212267985,
+        "y": -124.59925177765109
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ji35JsKgUQXN4DJGEgTAC",
+      "type": "title",
+      "label": "C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 218.39029212267985,
+        "y": -59.09925177765109
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kpF15oUmlUmk1qVGEBB7Y",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 421.119142886761,
+        "y": -125.95736970235458
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "if9eTna5NRTMStVwpSwDP",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 433.619142886761,
+        "y": -44.09925177765109
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "g4hjyQF8-SpjPi8mYtIsk",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 256.89029212267985,
+        "y": 15.028193715390685
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "paragraph",
+      "label": "Keep learning with following relevant tracks",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -278.006247594947,
+        "y": 2846.2883869394877
+      },
+      "keywords": [
+        "keep",
+        "learning",
+        "following",
+        "relevant",
+        "tracks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 412,
+          "height": 121
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xi0QAi4kXm3-IFKgopnOP",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -82.50624759494701,
+        "y": 2967.2883869394877
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 85
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-sFboM4eFUMVq1tlPl-fV",
+      "type": "button",
+      "label": "Backend Roadmap",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -261.006247594947,
+        "y": 2903.0129376580285
+      },
+      "keywords": [
+        "backend",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 378,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NvODRFR0DLINB0RlPSsvt",
+      "type": "topic",
+      "label": "Introduction to Language",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 128.89029212267985,
+        "y": 150.76582156925141
+      },
+      "keywords": [
+        "introduction",
+        "language"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "q2z_1wnPUnWM7MYIIUyBg",
+      "type": "legend",
+      "label": "q2z_1wnPUnWM7MYIIUyBg",
+      "description": "",
+      "category": "legend",
+      "position": {
+        "x": -285.20291471146976,
+        "y": -130.55580566097228
+      },
+      "keywords": [
+        "q2z_1wnpunwm7myiiuybg"
+      ],
+      "metadata": {
+        "style": {
+          "width": 352
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "x_28LiDVshqWns_aIBsdx",
+      "type": "subtopic",
+      "label": "What is C++?",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 519.3983385532916,
+        "y": 95.44419433902749
+      },
+      "keywords": [
+        "what"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tl6VCQ5IEGDVyFcgj7jDm",
+      "type": "subtopic",
+      "label": "Why use C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 520.3137039073808,
+        "y": 149.4441943390275
+      },
+      "keywords": [
+        "why",
+        "use"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2Ag0t3LPryTF8khHLRfy-",
+      "type": "subtopic",
+      "label": "C vs C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 520.3137039073808,
+        "y": 202.4441943390275
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Zc_TTzmM36yWsu3GvOy9x",
+      "type": "topic",
+      "label": "Setting up your Environment",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -281.68629609261916,
+        "y": 282.9441943390275
+      },
+      "keywords": [
+        "setting",
+        "your",
+        "environment"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0J_ltQEJh2g28OE2ZEYJj",
+      "type": "subtopic",
+      "label": "Installing C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -281.68629609261916,
+        "y": 364.4441943390275
+      },
+      "keywords": [
+        "installing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ew0AfyadpXPRO0ZY3Z19k",
+      "type": "subtopic",
+      "label": "Code Editors / IDEs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -281.68629609261916,
+        "y": 417.4441943390275
+      },
+      "keywords": [
+        "code",
+        "editors",
+        "ides"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SEq0D2Zg5WTsIDtd1hW9f",
+      "type": "subtopic",
+      "label": "Running your First Program",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -281.68629609261916,
+        "y": 470.4441943390275
+      },
+      "keywords": [
+        "running",
+        "your",
+        "first",
+        "program"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kl2JI_Wl47c5r8SYzxvCq",
+      "type": "topic",
+      "label": "Basic Operations",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 127.76444711909286,
+        "y": 282.9441943390275
+      },
+      "keywords": [
+        "basic",
+        "operations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8aOSpZLWwZv_BEYiurhyR",
+      "type": "subtopic",
+      "label": "Arithmetic Operators",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 127.76444711909286,
+        "y": 367.4441943390275
+      },
+      "keywords": [
+        "arithmetic",
+        "operators"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Y9gq8WkDA_XGe68JkY2UZ",
+      "type": "subtopic",
+      "label": "Logical Operators",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 127.76444711909286,
+        "y": 420.4441943390275
+      },
+      "keywords": [
+        "logical",
+        "operators"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zE4iPSq2KsrDSByQ0sGK_",
+      "type": "subtopic",
+      "label": "Bitwise Operators",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 127.76444711909286,
+        "y": 473.4441943390275
+      },
+      "keywords": [
+        "bitwise",
+        "operators"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s5Gs4yF9TPh-psYmtPzks",
+      "type": "topic",
+      "label": "Control Flow & Statements",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 518.9836543599333,
+        "y": 461.1708336969881
+      },
+      "keywords": [
+        "control",
+        "flow",
+        "statements"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_IP_e1K9LhNHilYTDh7L5",
+      "type": "subtopic",
+      "label": "for / while / do while loops",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 518.9836543599333,
+        "y": 347.2028070104984
+      },
+      "keywords": [
+        "while",
+        "loops"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bjpFWxiCKGz28E-ukhZBp",
+      "type": "subtopic",
+      "label": "if else / switch / goto",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 518.9836543599333,
+        "y": 294.7028070104984
+      },
+      "keywords": [
+        "else",
+        "switch",
+        "goto"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oYi3YOc1GC2Nfp71VOkJt",
+      "type": "topic",
+      "label": "Functions",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 517.4836543599333,
+        "y": 569.015602149086
+      },
+      "keywords": [
+        "functions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "obZIxRp0eMWdG7gplNIBc",
+      "type": "subtopic",
+      "label": "Static Polymorphism",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 518.4590437918661,
+        "y": 765.6954620911321
+      },
+      "keywords": [
+        "static",
+        "polymorphism"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sgfqb22sdN4VRJYkhAVaf",
+      "type": "subtopic",
+      "label": "Function Overloading",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 518.4590437918661,
+        "y": 809.6954620911321
+      },
+      "keywords": [
+        "function",
+        "overloading"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "llCBeut_uc9IAe2oi4KZ9",
+      "type": "subtopic",
+      "label": "Operator Overloading",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 518.4590437918661,
+        "y": 658.0698136821208
+      },
+      "keywords": [
+        "operator",
+        "overloading"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xjiFBVe-VGqCqWfkPVGKf",
+      "type": "subtopic",
+      "label": "Lambdas",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 518.4590437918661,
+        "y": 711.0698136821208
+      },
+      "keywords": [
+        "lambdas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MwznA4qfpNlv6sqSNjPZi",
+      "type": "topic",
+      "label": "Data Types",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 128.06739090002304,
+        "y": 569.015602149086
+      },
+      "keywords": [
+        "data",
+        "types"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f1djN0GxoeVPr_0cl6vMq",
+      "type": "subtopic",
+      "label": "Static Typing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 128.06739090002304,
+        "y": 656.9515973902295
+      },
+      "keywords": [
+        "static",
+        "typing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "i0EAFEUB-F0wBJWOtrl1A",
+      "type": "subtopic",
+      "label": "Dynamic Typing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 128.06739090002304,
+        "y": 709.9515973902295
+      },
+      "keywords": [
+        "dynamic",
+        "typing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r0yD1gfn03wTpEBi6zNsu",
+      "type": "subtopic",
+      "label": "RTTI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 128.06739090002304,
+        "y": 783.5772457992408
+      },
+      "keywords": [
+        "rtti"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DWw8NxkLpIpiOSUaZZ1oA",
+      "type": "topic",
+      "label": "Pointers and References",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -281.9671760495324,
+        "y": 569.015602149086
+      },
+      "keywords": [
+        "pointers",
+        "references"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uUzRKa9wGzdUwwmAg3FWr",
+      "type": "subtopic",
+      "label": "References",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -284.4671760495324,
+        "y": 661.0205568938326
+      },
+      "keywords": [
+        "references"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mSFwsTYvmg-GwG4_DEIEf",
+      "type": "subtopic",
+      "label": "Memory Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -284.4671760495324,
+        "y": 714.0205568938326
+      },
+      "keywords": [
+        "memory",
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9aA_-IfQ9WmbPgwic0mFN",
+      "type": "subtopic",
+      "label": "Lifetime of Objects",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -284.4671760495324,
+        "y": 767.0205568938326
+      },
+      "keywords": [
+        "lifetime",
+        "objects"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ulvwm4rRPgkpgaqGgyH5a",
+      "type": "subtopic",
+      "label": "Smart Pointers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -275.9671760495324,
+        "y": 834.0632184187253
+      },
+      "keywords": [
+        "smart",
+        "pointers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vUwSS-uX36OWZouO0wOcy",
+      "type": "subtopic",
+      "label": "weak_ptr",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -275.9671760495324,
+        "y": 887.0632184187253
+      },
+      "keywords": [
+        "weak_ptr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "b5jZIZD_U_CPg-_bdndjz",
+      "type": "subtopic",
+      "label": "shared_ptr",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -275.9671760495324,
+        "y": 940.0632184187253
+      },
+      "keywords": [
+        "shared_ptr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k9c5seRkhgm_yHPpiz2X0",
+      "type": "subtopic",
+      "label": "unique_ptr",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -275.9671760495324,
+        "y": 993.0632184187253
+      },
+      "keywords": [
+        "unique_ptr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uEGEmbxegATIrvGfobJb9",
+      "type": "subtopic",
+      "label": "Raw Pointers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -275.9671760495324,
+        "y": 1060.9498696738276
+      },
+      "keywords": [
+        "raw",
+        "pointers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Gld0nRs0sM8kRe8XmYolu",
+      "type": "subtopic",
+      "label": "New/Delete Operators",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -275.9671760495324,
+        "y": 1113.9498696738276
+      },
+      "keywords": [
+        "new",
+        "delete",
+        "operators"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6w0WExQ4lGIGgok6Thq0s",
+      "type": "subtopic",
+      "label": "Memory Leakage",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -275.9671760495324,
+        "y": 1166.9498696738276
+      },
+      "keywords": [
+        "memory",
+        "leakage"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Zw2AOTK5uc9BoKEpY7W1C",
+      "type": "topic",
+      "label": "Structuring Codebase",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 66.99375240505299,
+        "y": 1116.4555450086277
+      },
+      "keywords": [
+        "structuring",
+        "codebase"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dKCYmxDNZubCVcR5rf8b-",
+      "type": "subtopic",
+      "label": "Scope",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 66.99375240505299,
+        "y": 1025.0759762139076
+      },
+      "keywords": [
+        "scope"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iIdC7V8sojwyEqK1xMuHn",
+      "type": "subtopic",
+      "label": "Namespaces",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 66.99375240505299,
+        "y": 980.0759762139076
+      },
+      "keywords": [
+        "namespaces"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CK7yf8Bo7kfbV6x2tZTrh",
+      "type": "subtopic",
+      "label": "Headers / CPP Files",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 66.99375240505299,
+        "y": 921.9725710130274
+      },
+      "keywords": [
+        "headers",
+        "cpp",
+        "files"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CMlWNQwpywNhO9B6Yj6Me",
+      "type": "topic",
+      "label": "Structures and Classes",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 418.86058049826306,
+        "y": 1116.4555450086277
+      },
+      "keywords": [
+        "structures",
+        "classes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7sdEzZCIoarzznwO4XcCv",
+      "type": "subtopic",
+      "label": "Rule of Zero, Five, Three",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 486.0885117402935,
+        "y": 1335.826261482708
+      },
+      "keywords": [
+        "rule",
+        "zero",
+        "five",
+        "three"
+      ],
+      "metadata": {
+        "style": {
+          "width": 285,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WjHpueZDK-d3oDNMVZi9w",
+      "type": "subtopic",
+      "label": "Multiple Inheritance",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 539.0885117402935,
+        "y": 1213.538589268166
+      },
+      "keywords": [
+        "multiple",
+        "inheritance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "b3-QYKNcW3LYCNOza3Olf",
+      "type": "subtopic",
+      "label": "Object Oriented Programming",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 468.86058049826306,
+        "y": 1022.9612203434276
+      },
+      "keywords": [
+        "object",
+        "oriented",
+        "programming"
+      ],
+      "metadata": {
+        "style": {
+          "width": 307,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hNBErGNiegLsUJn_vgcOR",
+      "type": "subtopic",
+      "label": "Virtual Methods",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 468.86058049826306,
+        "y": 921.9725710130272
+      },
+      "keywords": [
+        "virtual",
+        "methods"
+      ],
+      "metadata": {
+        "style": {
+          "width": 167,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s99ImazcwCgAESxZd8ksa",
+      "type": "subtopic",
+      "label": "Virtual Tables",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 626.8605804982631,
+        "y": 921.9725710130272
+      },
+      "keywords": [
+        "virtual",
+        "tables"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7h1VivjCPDwriL7FirtFv",
+      "type": "subtopic",
+      "label": "Dynamic Polymorphism",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 468.86058049826306,
+        "y": 968.6623554103876
+      },
+      "keywords": [
+        "dynamic",
+        "polymorphism"
+      ],
+      "metadata": {
+        "style": {
+          "width": 307,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "B2SGBENzUMl0SAjG4j91V",
+      "type": "topic",
+      "label": "Exception Handling",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 178.53282395046762,
+        "y": 1286.826261482708
+      },
+      "keywords": [
+        "exception",
+        "handling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oWygnpwHq2poXQMTTSCpl",
+      "type": "subtopic",
+      "label": "Exit Codes",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 178.53282395046762,
+        "y": 1384.826261482708
+      },
+      "keywords": [
+        "exit",
+        "codes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NJud5SXBAUZ6Sr78kZ7jx",
+      "type": "subtopic",
+      "label": "Exceptions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 180.4684674563091,
+        "y": 1438.7934586483889
+      },
+      "keywords": [
+        "exceptions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y4-P4UNC--rE1vni8HdTn",
+      "type": "subtopic",
+      "label": "Access Violations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 180.4684674563091,
+        "y": 1492.7934586483889
+      },
+      "keywords": [
+        "access",
+        "violations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 199,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-6fwJQOfsorgHkoQGp4T3",
+      "type": "topic",
+      "label": "Language Concepts",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -286.929978402122,
+        "y": 1286.826261482708
+      },
+      "keywords": [
+        "language",
+        "concepts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 322,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CG01PTVgHtjfKvsJkJLGl",
+      "type": "subtopic",
+      "label": "auto (Automatic Type Deduction)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 1389.7934586483889
+      },
+      "keywords": [
+        "auto",
+        "automatic",
+        "type",
+        "deduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 322,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PiMhw1oP9-NZEa6I9u4lX",
+      "type": "subtopic",
+      "label": "Type Casting",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 1444.7147615325937
+      },
+      "keywords": [
+        "type",
+        "casting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 322,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_XB2Imyf23-6AOeoNLhYQ",
+      "type": "subtopic",
+      "label": "static_cast",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -278.29496924274974,
+        "y": 1500.2090861977936
+      },
+      "keywords": [
+        "static_cast"
+      ],
+      "metadata": {
+        "style": {
+          "width": 141,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5g22glc97siQOcTkHbwan",
+      "type": "subtopic",
+      "label": "const_cast",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -130.52203293340202,
+        "y": 1500.2090861977936
+      },
+      "keywords": [
+        "const_cast"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4BdFcuQ5KNW94cu2jz-vE",
+      "type": "subtopic",
+      "label": "dynamic_cast",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -278.29496924274974,
+        "y": 1553.301140729074
+      },
+      "keywords": [
+        "dynamic_cast"
+      ],
+      "metadata": {
+        "style": {
+          "width": 141,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZMyFDJrpCauGrY5NZkOwg",
+      "type": "subtopic",
+      "label": "reinterpret_cast",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -130.52203293340202,
+        "y": 1553.301140729074
+      },
+      "keywords": [
+        "reinterpret_cast"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IDOlquv6jlfecwQoBwkGZ",
+      "type": "subtopic",
+      "label": "Undefined Behavior (UB)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 1618.893819847594
+      },
+      "keywords": [
+        "undefined",
+        "behavior"
+      ],
+      "metadata": {
+        "style": {
+          "width": 322,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YSWN7nS8vA9nMldSUrZRT",
+      "type": "subtopic",
+      "label": "Argument Dependent Lookup (ADL)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 1672.893819847594
+      },
+      "keywords": [
+        "argument",
+        "dependent",
+        "lookup",
+        "adl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 322,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Lt7ss59KZw9Jwqj234jm2",
+      "type": "subtopic",
+      "label": "Name Mangling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 1726.893819847594
+      },
+      "keywords": [
+        "name",
+        "mangling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 186,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zKdlfZTRHwjtmRUGW9z9-",
+      "type": "subtopic",
+      "label": "Macros",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -97.929978402122,
+        "y": 1726.893819847594
+      },
+      "keywords": [
+        "macros"
+      ],
+      "metadata": {
+        "style": {
+          "width": 133,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V2SeVMoQJXI2btIHr8e-u",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 122.76444711909286,
+        "y": 1310.789165472234
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 365
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DHdNBP7_ixjr6h-dIQ7g6",
+      "type": "topic",
+      "label": "Standard Library + STL",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 93.99375240505299,
+        "y": 1658.893819847594
+      },
+      "keywords": [
+        "standard",
+        "library",
+        "stl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ebu8gzbyyXEeJryeE0SpG",
+      "type": "subtopic",
+      "label": "Iterators",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 93.99375240505299,
+        "y": 1745.4441943390277
+      },
+      "keywords": [
+        "iterators"
+      ],
+      "metadata": {
+        "style": {
+          "width": 153,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VeVxZ230xkesQsIDig8zQ",
+      "type": "subtopic",
+      "label": "iostream",
+      "description": "",
+      "category": "mobile",
+      "position": {
+        "x": 250.993752405053,
+        "y": 1746.4441943390277
+      },
+      "keywords": [
+        "iostream"
+      ],
+      "metadata": {
+        "style": {
+          "width": 140,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "whyj6Z4RXFsVQYRfYYn7B",
+      "type": "subtopic",
+      "label": "Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 93.99375240505299,
+        "y": 1798.4441943390277
+      },
+      "keywords": [
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 153,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yGvE6eHKlPMBB6rde0llR",
+      "type": "subtopic",
+      "label": "Date / Time",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 250.993752405053,
+        "y": 1799.4441943390277
+      },
+      "keywords": [
+        "date",
+        "time"
+      ],
+      "metadata": {
+        "style": {
+          "width": 140,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OXQUPqxzs1-giAACwl3X1",
+      "type": "subtopic",
+      "label": "Multithreading",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 93.99375240505299,
+        "y": 1851.4441943390277
+      },
+      "keywords": [
+        "multithreading"
+      ],
+      "metadata": {
+        "style": {
+          "width": 153,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1pydf-SR0QUfVNuBEyvzc",
+      "type": "subtopic",
+      "label": "Containers",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 250.993752405053,
+        "y": 1852.4441943390277
+      },
+      "keywords": [
+        "containers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 140,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-6AOrbuOE7DJCmxlcgCay",
+      "type": "topic",
+      "label": "Templates",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 526.0040411704451,
+        "y": 1751.4441943390277
+      },
+      "keywords": [
+        "templates"
+      ],
+      "metadata": {
+        "style": {
+          "width": 161,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w4EIf58KP-Pq-yc0HlGxc",
+      "type": "subtopic",
+      "label": "Variadic Templates",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 466.39833855329164,
+        "y": 1639.7730008603658
+      },
+      "keywords": [
+        "variadic",
+        "templates"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sObOuccY0PDeGG-9GrFDF",
+      "type": "subtopic",
+      "label": "Template Specialization",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 466.39833855329164,
+        "y": 1470.7730008603658
+      },
+      "keywords": [
+        "template",
+        "specialization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WptReUOwVth3C9-AVmMHF",
+      "type": "subtopic",
+      "label": "Type Traits",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 466.39833855329164,
+        "y": 1417.117522069225
+      },
+      "keywords": [
+        "type",
+        "traits"
+      ],
+      "metadata": {
+        "style": {
+          "width": 172,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3C5UfejDX-1Z8ZF6C53xD",
+      "type": "subtopic",
+      "label": "SFINAE",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 642.3983385532916,
+        "y": 1417.117522069225
+      },
+      "keywords": [
+        "sfinae"
+      ],
+      "metadata": {
+        "style": {
+          "width": 129,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6hTcmJwNnQstbWWzNCfTe",
+      "type": "subtopic",
+      "label": "Full Template Specialization",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 478.39833855329164,
+        "y": 1529.9677661061605
+      },
+      "keywords": [
+        "full",
+        "template",
+        "specialization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1NYJtbdcdOB4-vIrnq4yX",
+      "type": "subtopic",
+      "label": "Partial Template Specialization",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 477.39833855329164,
+        "y": 1582.9677661061605
+      },
+      "keywords": [
+        "partial",
+        "template",
+        "specialization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fb3bnfKXjSIjPAk4b95lg",
+      "type": "topic",
+      "label": "Idioms",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 526.0040411704451,
+        "y": 2041.110352538959
+      },
+      "keywords": [
+        "idioms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 161,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xjUaIp8gGxkN-cp8emJ2M",
+      "type": "subtopic",
+      "label": "Non-Copyable / Non-Moveable",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 446.00404117044513,
+        "y": 2138.738988313017
+      },
+      "keywords": [
+        "non",
+        "copyable",
+        "moveable"
+      ],
+      "metadata": {
+        "style": {
+          "width": 321,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YvmjrZSAOmjhVPo05MJqN",
+      "type": "subtopic",
+      "label": "Erase-Remove",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 446.00404117044513,
+        "y": 2191.738988313017
+      },
+      "keywords": [
+        "erase",
+        "remove"
+      ],
+      "metadata": {
+        "style": {
+          "width": 321,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lxAzI42jQdaofzQ5MXebG",
+      "type": "subtopic",
+      "label": "Copy and Swap",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 446.00404117044513,
+        "y": 2244.738988313017
+      },
+      "keywords": [
+        "copy",
+        "swap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 163,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O2Du5gHHxFxAI2u5uO8wu",
+      "type": "subtopic",
+      "label": "Copy on Write",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 612.0040411704451,
+        "y": 2244.738988313017
+      },
+      "keywords": [
+        "copy",
+        "write"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OmHDlLxCnH8RDdu5vx9fl",
+      "type": "subtopic",
+      "label": "RAII",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 446.833180361922,
+        "y": 2298.6609277564776
+      },
+      "keywords": [
+        "raii"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MEoWt8NKjPLVTeGgYf3cR",
+      "type": "subtopic",
+      "label": "Pimpl",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 550.333180361922,
+        "y": 2298.6609277564776
+      },
+      "keywords": [
+        "pimpl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 110,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ttt-yeIi4BPWrgvW324W7",
+      "type": "subtopic",
+      "label": "CRTP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 665.0040411704451,
+        "y": 2298.6609277564776
+      },
+      "keywords": [
+        "crtp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vvE1aUsWbF1OFcmMUHbJa",
+      "type": "topic",
+      "label": "Standards",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 227.76444711909286,
+        "y": 2041.110352538959
+      },
+      "keywords": [
+        "standards"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "T6rCTv9Dxkm-tEA-l9XEv",
+      "type": "subtopic",
+      "label": "C++ 11 / 14",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 227.76444711909286,
+        "y": 1939.0246296702257
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R2-qWGUxsTOeSHRuUzhd2",
+      "type": "subtopic",
+      "label": "C++ 17",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 227.76444711909286,
+        "y": 2136.9142315942822
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "o3no4a5_iMFzEAGs56-BJ",
+      "type": "subtopic",
+      "label": "C++ 20",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 227.76444711909286,
+        "y": 2189.9142315942822
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sxbbKtg7kMNbkx7fXhjR9",
+      "type": "subtopic",
+      "label": "Newest",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 227.76444711909286,
+        "y": 2242.9142315942822
+      },
+      "keywords": [
+        "newest"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PPg0V5EzGBeJsysg1215V",
+      "type": "subtopic",
+      "label": "C++ 0x",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 227.76444711909286,
+        "y": 2295.9142315942822
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qmHs6_BzND_xpMmls5YUH",
+      "type": "topic",
+      "label": "Debuggers",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 2041.110352538959
+      },
+      "keywords": [
+        "debuggers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Kb2Pbz0Sq7YlO1vCwYxnX",
+      "type": "paragraph",
+      "label": "Language Tools",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -39.10970787732015,
+        "y": 2041.110352538959
+      },
+      "keywords": [
+        "language",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 169,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VtPb8-AJKzhTB0QbMtoU4",
+      "type": "subtopic",
+      "label": "Understanding Debugger Messages",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -288.0831925975956,
+        "y": 1934.0246296702257
+      },
+      "keywords": [
+        "understanding",
+        "debugger",
+        "messages"
+      ],
+      "metadata": {
+        "style": {
+          "width": 329,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sR_FxGZHoMCV9Iv7z2_SX",
+      "type": "subtopic",
+      "label": "Debugging Symbols",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -288.0831925975956,
+        "y": 1880.9389202464117
+      },
+      "keywords": [
+        "debugging",
+        "symbols"
+      ],
+      "metadata": {
+        "style": {
+          "width": 329,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y8VCbGDUco9bzGRfIBD8R",
+      "type": "subtopic",
+      "label": "WinDBg",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -288.0831925975956,
+        "y": 1826.1637109984486
+      },
+      "keywords": [
+        "windbg"
+      ],
+      "metadata": {
+        "style": {
+          "width": 177,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BmWsoL9c_Aag5nVlMsKm2",
+      "type": "subtopic",
+      "label": "GDB",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -106.91368596678642,
+        "y": 1825.2532448559004
+      },
+      "keywords": [
+        "gdb"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FTMHsUiE8isD_OVZr62Xc",
+      "type": "topic",
+      "label": "Compilers",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 2165.7752999047043
+      },
+      "keywords": [
+        "compilers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DVckzBUMgk_lWThVkLyAT",
+      "type": "subtopic",
+      "label": "Compiler Stages",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -38.85702534893973,
+        "y": 2138.927677033192
+      },
+      "keywords": [
+        "compiler",
+        "stages"
+      ],
+      "metadata": {
+        "style": {
+          "width": 236,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hSG6Aux39X0cXi6ADy2al",
+      "type": "subtopic",
+      "label": "Compilers and Features",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -38.85702534893973,
+        "y": 2191.927677033192
+      },
+      "keywords": [
+        "compilers",
+        "features"
+      ],
+      "metadata": {
+        "style": {
+          "width": 236,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hurj4ktZD6sDbMg7lz3Dn",
+      "type": "label",
+      "label": "C/lang++ / LLVM",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -15.825412667929704,
+        "y": 2248.415195613617
+      },
+      "keywords": [
+        "lang",
+        "llvm"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hVi9vzLaVfcXhhd7m8-ei",
+      "type": "label",
+      "label": "Intel C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -15.825412667929704,
+        "y": 2285.415195613617
+      },
+      "keywords": [
+        "intel"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7byy5GiTl4SPpVN39UFbC",
+      "type": "label",
+      "label": "MSVS C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -15.825412667929704,
+        "y": 2322.415195613617
+      },
+      "keywords": [
+        "msvs"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2oTFuzQ6j0AmdAc9U_UwQ",
+      "type": "label",
+      "label": "GCC",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -15.825412667929704,
+        "y": 2359.415195613617
+      },
+      "keywords": [
+        "gcc"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9DDS861RQhuFgpaR2_KeO",
+      "type": "label",
+      "label": "MinGW",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -15.825412667929704,
+        "y": 2396.415195613617
+      },
+      "keywords": [
+        "mingw"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jVXFCo6puMxJ_ifn_uwim",
+      "type": "topic",
+      "label": "Build Systems",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -286.929978402122,
+        "y": 2515.5128020469147
+      },
+      "keywords": [
+        "build",
+        "systems"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ysnXvSHGBMMozBJyXpHl5",
+      "type": "subtopic",
+      "label": "CMAKE",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 2614.6661606275225
+      },
+      "keywords": [
+        "cmake"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "t6rZLH7l8JQm99ax_fEJ9",
+      "type": "subtopic",
+      "label": "Makefile",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 2667.6661606275225
+      },
+      "keywords": [
+        "makefile"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HkUCD5A_M9bJxJRElkK0x",
+      "type": "subtopic",
+      "label": "Ninja",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -286.929978402122,
+        "y": 2720.6661606275225
+      },
+      "keywords": [
+        "ninja"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h29eJG1hWHa7vMhSqtfV2",
+      "type": "topic",
+      "label": "Package Managers",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -30.235552880907136,
+        "y": 2515.5128020469147
+      },
+      "keywords": [
+        "package",
+        "managers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 211,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PKG5pACLfRS2ogfzBX47_",
+      "type": "subtopic",
+      "label": "vcpkg",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -25.855916380130566,
+        "y": 2608.8378646515134
+      },
+      "keywords": [
+        "vcpkg"
+      ],
+      "metadata": {
+        "style": {
+          "width": 97,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "g0s0F4mLV16eNvMBflN2e",
+      "type": "subtopic",
+      "label": "NuGet",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 76.76444711909286,
+        "y": 2660.9355066535127
+      },
+      "keywords": [
+        "nuget"
+      ],
+      "metadata": {
+        "style": {
+          "width": 104,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ky_UqizToTZHC_b77qFi2",
+      "type": "subtopic",
+      "label": "Conan",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -25.855916380130566,
+        "y": 2661.8378646515134
+      },
+      "keywords": [
+        "conan"
+      ],
+      "metadata": {
+        "style": {
+          "width": 97,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3ehBc2sKVlPj7dn4RVZCH",
+      "type": "subtopic",
+      "label": "Spack",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 76.76444711909286,
+        "y": 2607.9355066535127
+      },
+      "keywords": [
+        "spack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 104,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4kkX5g_-plX9zVqr0ZoiR",
+      "type": "topic",
+      "label": "Working with Libraries",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 245.31805846187558,
+        "y": 2515.5128020469147
+      },
+      "keywords": [
+        "working",
+        "libraries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 222,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5mNqH_AEiLxUmgurNW1Fq",
+      "type": "subtopic",
+      "label": "Library Inclusion",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 245.31805846187558,
+        "y": 2432.907835806348
+      },
+      "keywords": [
+        "library",
+        "inclusion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 222,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sLVs95EOeHZldoKY0L_dH",
+      "type": "subtopic",
+      "label": "Licensing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 245.31805846187558,
+        "y": 2379.907835806348
+      },
+      "keywords": [
+        "licensing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 222,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1d7h5P1Q0RVHryKPVogQy",
+      "type": "subtopic",
+      "label": "Boost",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 543.5766878818748,
+        "y": 2436.6661606275225
+      },
+      "keywords": [
+        "boost"
+      ],
+      "metadata": {
+        "style": {
+          "width": 103,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Eq3TKSFJ2F2mrTHAaU2J4",
+      "type": "subtopic",
+      "label": "OpenCV",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 649.5179751445827,
+        "y": 2437.6661606275225
+      },
+      "keywords": [
+        "opencv"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nOkniNXfXwPPlOEJHJoGl",
+      "type": "subtopic",
+      "label": "POCO",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 543.5766878818748,
+        "y": 2489.6661606275225
+      },
+      "keywords": [
+        "poco"
+      ],
+      "metadata": {
+        "style": {
+          "width": 103,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jpMCIWQko7p3ndezYHL4D",
+      "type": "subtopic",
+      "label": "protobuf",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 543.5766878818748,
+        "y": 2542.6661606275225
+      },
+      "keywords": [
+        "protobuf"
+      ],
+      "metadata": {
+        "style": {
+          "width": 103,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "621J9W4xCofumNZGo4TZT",
+      "type": "subtopic",
+      "label": "gRPC",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 543.5766878818748,
+        "y": 2595.6661606275225
+      },
+      "keywords": [
+        "grpc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 103,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j_eNHhs0J08Dt7HVbo4Q2",
+      "type": "subtopic",
+      "label": "Tensorflow",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 649.5179751445827,
+        "y": 2490.6661606275225
+      },
+      "keywords": [
+        "tensorflow"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tEkvlJPAkD5fji-MMODL7",
+      "type": "subtopic",
+      "label": "pybind11",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 649.5179751445827,
+        "y": 2596.6661606275225
+      },
+      "keywords": [
+        "pybind11"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "q64qFxoCrR38RPsN2lC8x",
+      "type": "subtopic",
+      "label": "spdlog",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 649.5179751445827,
+        "y": 2543.6661606275225
+      },
+      "keywords": [
+        "spdlog"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GGZJaYpRENaqloJzt0VtY",
+      "type": "subtopic",
+      "label": "opencl",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 649.5179751445827,
+        "y": 2649.6661606275225
+      },
+      "keywords": [
+        "opencl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1CqQgmHDeo1HlPdpUJS7H",
+      "type": "subtopic",
+      "label": "fmt",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 543.5766878818748,
+        "y": 2648.6661606275225
+      },
+      "keywords": [
+        "fmt"
+      ],
+      "metadata": {
+        "style": {
+          "width": 103,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "et-dXKPYuyVW6eV2K3CM8",
+      "type": "subtopic",
+      "label": "ranges_v3",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 543.5766878818748,
+        "y": 2703.6661606275225
+      },
+      "keywords": [
+        "ranges_v3"
+      ],
+      "metadata": {
+        "style": {
+          "width": 216,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YkaqIkt2bGBsrRwOFQpV4",
+      "type": "label",
+      "label": "Libraries",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 609.5766878818748,
+        "y": 2392.9355066535127
+      },
+      "keywords": [
+        "libraries"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MrAM-viRaF8DSxB6sVdD9",
+      "type": "subtopic",
+      "label": "gtest / gmock",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 273.5766878818748,
+        "y": 2700.6661606275225
+      },
+      "keywords": [
+        "gtest",
+        "gmock"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gAZ9Dqgj1_UkaLzVgzx1t",
+      "type": "subtopic",
+      "label": "Qt",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 273.5766878818748,
+        "y": 2753.6661606275225
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s13jQuaC6gw0Lab3Cbyy6",
+      "type": "subtopic",
+      "label": "Catch2",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 342.86058049826306,
+        "y": 2753.6661606275225
+      },
+      "keywords": [
+        "catch2"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O0lVEMTAV1pq9sYCKQvh_",
+      "type": "subtopic",
+      "label": "Orbit Profiler",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 273.5766878818748,
+        "y": 2806.6661606275225
+      },
+      "keywords": [
+        "orbit",
+        "profiler"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "88pr5aN7cctZfDVVo-2ns",
+      "type": "subtopic",
+      "label": "PyTorch C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 273.5766878818748,
+        "y": 2859.6661606275225
+      },
+      "keywords": [
+        "pytorch"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1Bm9i2IdUeDkWg4ZGEylB",
+      "type": "label",
+      "label": "Frameworks",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 300.5179751445827,
+        "y": 2919.244194339027
+      },
+      "keywords": [
+        "frameworks"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "Wm2VPi1Tn_Y7dqPowny69",
+      "type": "linksgroup",
+      "label": "References",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -285.20291471146976,
+        "y": 20.444194339027717
+      },
+      "keywords": [
+        "references"
+      ],
+      "metadata": {
+        "style": {
+          "width": 352,
+          "height": 96
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "_hYN0gEi9BL24nptEtXWU",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "idLHBxhvcIqZTqmh_E8Az",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "os3Pa6W9SSNEzgmlBbglQ",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "3oInpqvTSSC5_K6i7j8N7",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "YKhuRbcUFzo0hTvuTq-Yl",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "hWA7RtuqltMTmHdcCnmES",
+      "type": "default"
+    },
+    {
+      "target": "NMznG9mo2wzNFnjhg990f",
+      "type": "default"
+    },
+    {
+      "target": "gc_7cuIO2_joKlQRAPDfX",
+      "type": "default"
+    },
+    {
+      "source": "rrrvATyhXqRgJGWI3z0WF",
+      "target": "AvbMQ5vY3ip1oX_6Yq4ie",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "1AJv95mTLpR7L8KBoGym8",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "0etAs56EeBfh_0IlAaSra",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "h6ceO0kiBIxNRkPzN3hBY",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "_JlT9oKQ6Yu4UX6l19G8P",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "jZ67HhVRelJaxjsCckSSI",
+      "type": "default"
+    },
+    {
+      "source": "Ji35JsKgUQXN4DJGEgTAC",
+      "target": "t3Op8UcgDKVeMLNMDePrW",
+      "type": "default"
+    },
+    {
+      "source": "Ji35JsKgUQXN4DJGEgTAC",
+      "target": "c2YZ7PPCX1jF_RU7C0AqN",
+      "type": "default"
+    },
+    {
+      "source": "KMA7NkxFbPoUDtFnGBFnj",
+      "target": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "simplebezier"
+    },
+    {
+      "source": "DYkdM_L7T2GcTPAoZNnUR",
+      "target": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "smoothstep"
+    },
+    {
+      "source": "Z-zHIbLBy7cqcDu_QEJIn",
+      "target": "WSrbHa0mKIQs33vEJHp15",
+      "type": "default"
+    },
+    {
+      "source": "NvODRFR0DLINB0RlPSsvt",
+      "target": "x_28LiDVshqWns_aIBsdx",
+      "type": "default"
+    },
+    {
+      "source": "NvODRFR0DLINB0RlPSsvt",
+      "target": "tl6VCQ5IEGDVyFcgj7jDm",
+      "type": "default"
+    },
+    {
+      "source": "NvODRFR0DLINB0RlPSsvt",
+      "target": "2Ag0t3LPryTF8khHLRfy-",
+      "type": "default"
+    },
+    {
+      "source": "NvODRFR0DLINB0RlPSsvt",
+      "target": "Zc_TTzmM36yWsu3GvOy9x",
+      "type": "smoothstep"
+    },
+    {
+      "source": "Zc_TTzmM36yWsu3GvOy9x",
+      "target": "0J_ltQEJh2g28OE2ZEYJj",
+      "type": "default"
+    },
+    {
+      "source": "Zc_TTzmM36yWsu3GvOy9x",
+      "target": "kl2JI_Wl47c5r8SYzxvCq",
+      "type": "default"
+    },
+    {
+      "source": "kl2JI_Wl47c5r8SYzxvCq",
+      "target": "8aOSpZLWwZv_BEYiurhyR",
+      "type": "default"
+    },
+    {
+      "source": "kl2JI_Wl47c5r8SYzxvCq",
+      "target": "s5Gs4yF9TPh-psYmtPzks",
+      "type": "default"
+    },
+    {
+      "source": "s5Gs4yF9TPh-psYmtPzks",
+      "target": "_IP_e1K9LhNHilYTDh7L5",
+      "type": "default"
+    },
+    {
+      "source": "s5Gs4yF9TPh-psYmtPzks",
+      "target": "oYi3YOc1GC2Nfp71VOkJt",
+      "type": "default"
+    },
+    {
+      "source": "oYi3YOc1GC2Nfp71VOkJt",
+      "target": "llCBeut_uc9IAe2oi4KZ9",
+      "type": "default"
+    },
+    {
+      "source": "oYi3YOc1GC2Nfp71VOkJt",
+      "target": "MwznA4qfpNlv6sqSNjPZi",
+      "type": "default"
+    },
+    {
+      "source": "i0EAFEUB-F0wBJWOtrl1A",
+      "target": "r0yD1gfn03wTpEBi6zNsu",
+      "type": "default"
+    },
+    {
+      "source": "MwznA4qfpNlv6sqSNjPZi",
+      "target": "DWw8NxkLpIpiOSUaZZ1oA",
+      "type": "default"
+    },
+    {
+      "source": "MwznA4qfpNlv6sqSNjPZi",
+      "target": "f1djN0GxoeVPr_0cl6vMq",
+      "type": "default"
+    },
+    {
+      "source": "DWw8NxkLpIpiOSUaZZ1oA",
+      "target": "uUzRKa9wGzdUwwmAg3FWr",
+      "type": "default"
+    },
+    {
+      "source": "Zw2AOTK5uc9BoKEpY7W1C",
+      "target": "dKCYmxDNZubCVcR5rf8b-",
+      "type": "default"
+    },
+    {
+      "source": "Zw2AOTK5uc9BoKEpY7W1C",
+      "target": "CMlWNQwpywNhO9B6Yj6Me",
+      "type": "default"
+    },
+    {
+      "source": "CMlWNQwpywNhO9B6Yj6Me",
+      "target": "B2SGBENzUMl0SAjG4j91V",
+      "type": "default"
+    },
+    {
+      "source": "B2SGBENzUMl0SAjG4j91V",
+      "target": "oWygnpwHq2poXQMTTSCpl",
+      "type": "default"
+    },
+    {
+      "source": "B2SGBENzUMl0SAjG4j91V",
+      "target": "-6fwJQOfsorgHkoQGp4T3",
+      "type": "default"
+    },
+    {
+      "source": "-6fwJQOfsorgHkoQGp4T3",
+      "target": "CG01PTVgHtjfKvsJkJLGl",
+      "type": "default"
+    },
+    {
+      "source": "DHdNBP7_ixjr6h-dIQ7g6",
+      "target": "-6AOrbuOE7DJCmxlcgCay",
+      "type": "default"
+    },
+    {
+      "source": "-6AOrbuOE7DJCmxlcgCay",
+      "target": "fb3bnfKXjSIjPAk4b95lg",
+      "type": "default"
+    },
+    {
+      "source": "fb3bnfKXjSIjPAk4b95lg",
+      "target": "xjUaIp8gGxkN-cp8emJ2M",
+      "type": "default"
+    },
+    {
+      "source": "fb3bnfKXjSIjPAk4b95lg",
+      "target": "vvE1aUsWbF1OFcmMUHbJa",
+      "type": "default"
+    },
+    {
+      "source": "vvE1aUsWbF1OFcmMUHbJa",
+      "target": "Kb2Pbz0Sq7YlO1vCwYxnX",
+      "type": "default"
+    },
+    {
+      "source": "Kb2Pbz0Sq7YlO1vCwYxnX",
+      "target": "qmHs6_BzND_xpMmls5YUH",
+      "type": "default"
+    },
+    {
+      "source": "vvE1aUsWbF1OFcmMUHbJa",
+      "target": "T6rCTv9Dxkm-tEA-l9XEv",
+      "type": "default"
+    },
+    {
+      "source": "vvE1aUsWbF1OFcmMUHbJa",
+      "target": "R2-qWGUxsTOeSHRuUzhd2",
+      "type": "default"
+    },
+    {
+      "source": "qmHs6_BzND_xpMmls5YUH",
+      "target": "FTMHsUiE8isD_OVZr62Xc",
+      "type": "default"
+    },
+    {
+      "source": "FTMHsUiE8isD_OVZr62Xc",
+      "target": "DVckzBUMgk_lWThVkLyAT",
+      "type": "default"
+    },
+    {
+      "source": "FTMHsUiE8isD_OVZr62Xc",
+      "target": "hSG6Aux39X0cXi6ADy2al",
+      "type": "default"
+    },
+    {
+      "source": "FTMHsUiE8isD_OVZr62Xc",
+      "target": "jVXFCo6puMxJ_ifn_uwim",
+      "type": "default"
+    },
+    {
+      "source": "jVXFCo6puMxJ_ifn_uwim",
+      "target": "ysnXvSHGBMMozBJyXpHl5",
+      "type": "default"
+    },
+    {
+      "source": "jVXFCo6puMxJ_ifn_uwim",
+      "target": "h29eJG1hWHa7vMhSqtfV2",
+      "type": "default"
+    },
+    {
+      "source": "h29eJG1hWHa7vMhSqtfV2",
+      "target": "4kkX5g_-plX9zVqr0ZoiR",
+      "type": "default"
+    },
+    {
+      "source": "4kkX5g_-plX9zVqr0ZoiR",
+      "target": "5mNqH_AEiLxUmgurNW1Fq",
+      "type": "default"
+    },
+    {
+      "source": "4kkX5g_-plX9zVqr0ZoiR",
+      "target": "I1aDakZmYpe7pKczou0qC",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 86
+    },
+    {
+      "name": "programming-language",
+      "count": 17
+    },
+    {
+      "name": "topic",
+      "count": 16
+    },
+    {
+      "name": "vertical",
+      "count": 12
+    },
+    {
+      "name": "section",
+      "count": 7
+    },
+    {
+      "name": "data-science",
+      "count": 5
+    },
+    {
+      "name": "label",
+      "count": 4
+    },
+    {
+      "name": "horizontal",
+      "count": 3
+    },
+    {
+      "name": "framework",
+      "count": 3
+    },
+    {
+      "name": "database",
+      "count": 2
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "paragraph",
+      "count": 1
+    },
+    {
+      "name": "backend",
+      "count": 1
+    },
+    {
+      "name": "legend",
+      "count": 1
+    },
+    {
+      "name": "cloud",
+      "count": 1
+    },
+    {
+      "name": "mobile",
+      "count": 1
+    },
+    {
+      "name": "frontend",
+      "count": 1
+    },
+    {
+      "name": "testing",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "I1aDakZmYpe7pKczou0qC",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "i1adakzmype7pkczou0qc"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "iisl6B61awdQDJVGaBqtI",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "iisl6b61awdqdjvgabqti"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Tm2kjpCnwZhAw0vwqn_PK",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "tm2kjpcnwzhaw0vwqn_pk"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "3SsQBuq6ie73yAMvRcqtR",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "3ssqbuq6ie73yamvrcqtr"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "mnUWOqBFgcuNsXUr18fJI",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "mnuwoqbfgcunsxur18fji"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Diamond Inheritance",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "diamond",
+        "inheritance"
+      ]
+    },
+    {
+      "name": "Forward Declaration",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "forward",
+        "declaration"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "Qk3hqX1Wj68FD8jXHS5NU",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "qk3hqx1wj68fd8jxhs5nu"
+      ]
+    },
+    {
+      "name": "zybofouGIVxcKvr47F3Yy",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "zybofougivxckvr47f3yy"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "C++",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Keep learning with following relevant tracks",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "keep",
+        "learning",
+        "following",
+        "relevant",
+        "tracks"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Backend Roadmap",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "backend",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Introduction to Language",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction",
+        "language"
+      ]
+    },
+    {
+      "name": "q2z_1wnPUnWM7MYIIUyBg",
+      "category": "legend",
+      "difficulty": "beginner",
+      "keywords": [
+        "q2z_1wnpunwm7myiiuybg"
+      ]
+    },
+    {
+      "name": "What is C++?",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "what"
+      ]
+    },
+    {
+      "name": "Why use C++",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "why",
+        "use"
+      ]
+    },
+    {
+      "name": "C vs C++",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "Setting up your Environment",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "setting",
+        "your",
+        "environment"
+      ]
+    },
+    {
+      "name": "Installing C++",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "installing"
+      ]
+    },
+    {
+      "name": "Code Editors / IDEs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "code",
+        "editors",
+        "ides"
+      ]
+    },
+    {
+      "name": "Running your First Program",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "running",
+        "your",
+        "first",
+        "program"
+      ]
+    },
+    {
+      "name": "Basic Operations",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "basic",
+        "operations"
+      ]
+    },
+    {
+      "name": "Arithmetic Operators",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "arithmetic",
+        "operators"
+      ]
+    },
+    {
+      "name": "Logical Operators",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "logical",
+        "operators"
+      ]
+    },
+    {
+      "name": "Bitwise Operators",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "bitwise",
+        "operators"
+      ]
+    },
+    {
+      "name": "Control Flow & Statements",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "control",
+        "flow",
+        "statements"
+      ]
+    },
+    {
+      "name": "for / while / do while loops",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "while",
+        "loops"
+      ]
+    },
+    {
+      "name": "if else / switch / goto",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "else",
+        "switch",
+        "goto"
+      ]
+    },
+    {
+      "name": "Functions",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "functions"
+      ]
+    },
+    {
+      "name": "Static Polymorphism",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "static",
+        "polymorphism"
+      ]
+    },
+    {
+      "name": "Function Overloading",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "function",
+        "overloading"
+      ]
+    },
+    {
+      "name": "Operator Overloading",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "operator",
+        "overloading"
+      ]
+    },
+    {
+      "name": "Lambdas",
+      "category": "cloud",
+      "difficulty": "beginner",
+      "keywords": [
+        "lambdas"
+      ]
+    },
+    {
+      "name": "Data Types",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "data",
+        "types"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 164,
+    "totalEdges": 58,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:11:15.398Z",
+    "version": "2.0"
+  }
+}

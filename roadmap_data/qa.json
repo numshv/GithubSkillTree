@@ -1,0 +1,4754 @@
+{
+  "name": "qa",
+  "title": "Qa",
+  "nodes": [
+    {
+      "id": "fQgLrqsNM2VjFAvG7gBr3",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 482.91769176852483,
+        "y": 1977.847844776519
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 92
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "73vfm8H80tIkS01EusDQm",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 361.9013749499461,
+        "y": 1977.847844776519
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 92
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "z4mElENOZ5jkVmT3mN16F",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -33.24744704168165,
+        "y": 1939.347844776519
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 79
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZdQALkqTYkcakbSYAgx74",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 54.88420107682549,
+        "y": 1938.7825215468501
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 79
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dNQHx_CvhGZ74J4BajLfZ",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -131.35533602993797,
+        "y": 1939.347844776519
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 79
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BaZT3zWYcCna0q6yIb5W7",
+      "type": "section",
+      "label": "BaZT3zWYcCna0q6yIb5W7",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -137.2015334662633,
+        "y": 1423.7201965157678
+      },
+      "keywords": [
+        "bazt3zwyccna0q6yib5w7"
+      ],
+      "metadata": {
+        "style": {
+          "width": 312,
+          "height": 270
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QS42BFjasmipnjICdWiD5",
+      "type": "section",
+      "label": "QS42BFjasmipnjICdWiD5",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -505.71376826573646,
+        "y": 1368.6057696442801
+      },
+      "keywords": [
+        "qs42bfjasmipnjicdwid5"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 247
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a4N9onrJn6bey5bVwCRAO",
+      "type": "section",
+      "label": "a4N9onrJn6bey5bVwCRAO",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -213.3406102525649,
+        "y": 1136.7218327132534
+      },
+      "keywords": [
+        "a4n9onrjn6bey5bvwcrao"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 132
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RpbodhoQgDQmxhDk0mQ0A",
+      "type": "section",
+      "label": "RpbodhoQgDQmxhDk0mQ0A",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -503.08230823147517,
+        "y": 1151.754396169285
+      },
+      "keywords": [
+        "rpbodhoqgdqmxhdk0mq0a"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BZ44gKzp7E_D6G-cttPjc",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 197.41769176852483,
+        "y": 809.7101491462215
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 58
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "e14hEsz9ALXZ4SRPKg6U8",
+      "type": "section",
+      "label": "e14hEsz9ALXZ4SRPKg6U8",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -503.08230823147517,
+        "y": 809.7101491462215
+      },
+      "keywords": [
+        "e14hesz9alxz4srpkg6u8"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 304
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GHsa-i_yb_5sfRMxRgoIn",
+      "type": "section",
+      "label": "GHsa-i_yb_5sfRMxRgoIn",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 299.91769176852483,
+        "y": 867.7101491462215
+      },
+      "keywords": [
+        "ghsa",
+        "i_yb_5sfrmxrgoin"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 381
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JAor2U3xkOkddvwtcSJtm",
+      "type": "section",
+      "label": "JAor2U3xkOkddvwtcSJtm",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 44.91769176852483,
+        "y": 1243.7101491462215
+      },
+      "keywords": [
+        "jaor2u3xkokddvwtcsjtm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 505,
+          "height": 122
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qnp7hhbtBurqPvPP8l7W8",
+      "type": "section",
+      "label": "qnp7hhbtBurqPvPP8l7W8",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 44.41769176852483,
+        "y": 867.7101491462215
+      },
+      "keywords": [
+        "qnp7hhbtburqpvpp8l7w8"
+      ],
+      "metadata": {
+        "style": {
+          "width": 261,
+          "height": 381
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Sk0i3EqmWnBeDjc2cCjvC",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -170.74744704168165,
+        "y": 505.01014914622147
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 111
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yZsUC2z0bCecYc79HY60t",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -200.74744704168165,
+        "y": 221.51014914622147
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 96
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cm_QLy2OZsCFda57w7XFc",
+      "type": "section",
+      "label": "cm_QLy2OZsCFda57w7XFc",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -487.08230823147517,
+        "y": 327.7822726577531
+      },
+      "keywords": [
+        "cm_qly2ozscfda57w7xfc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 177,
+          "height": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xjYl8NgsDWZgq6uJDV2aG",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 99.75255295831835,
+        "y": -0.48985085377853466
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 98
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tBhZ20izKwpGnd4zmGpcm",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 175.9013749499461,
+        "y": 273.51014914622147
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 98
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pFZ1CtDOYKPRyXhHqEn35",
+      "type": "section",
+      "label": "pFZ1CtDOYKPRyXhHqEn35",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 73.90951598106369,
+        "y": 371.51014914622147
+      },
+      "keywords": [
+        "pfz1ctdoykpryxhhqen35"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 304
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PJfjZeTXO4DeTJ4it8Aho",
+      "type": "section",
+      "label": "PJfjZeTXO4DeTJ4it8Aho",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 320.41769176852483,
+        "y": 271.7101491462215
+      },
+      "keywords": [
+        "pjfjzetxo4detj4it8aho"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 405
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9qh4NcpSu9Pks1uIzVSAE",
+      "type": "section",
+      "label": "9qh4NcpSu9Pks1uIzVSAE",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 74.90951598106369,
+        "y": 92.01014914622147
+      },
+      "keywords": [
+        "9qh4ncpsu9pks1uizvsae"
+      ],
+      "metadata": {
+        "style": {
+          "width": 256,
+          "height": 144
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4o_rmbcOyV8F2wAcSylG8",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -417.58230823147517,
+        "y": 63.010149146221465
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 84
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FCN43i8o_9eY_Czo2bcLZ",
+      "type": "section",
+      "label": "FCN43i8o_9eY_Czo2bcLZ",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 325.91769176852483,
+        "y": 69.51014914622147
+      },
+      "keywords": [
+        "fcn43i8o_9ey_czo2bclz"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 166
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "type": "title",
+      "label": "QA Engineer",
+      "description": "",
+      "category": "title",
+      "position": {
+        "x": -104.24744704168165,
+        "y": -192.72152351445328
+      },
+      "keywords": [
+        "engineer"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LEijbLyxg4RyutKEM2Y5g",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -13.247447041681653,
+        "y": -273.7215235144533
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 81
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 194.9013749499461,
+        "y": -278.4898508537784
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 208.10474936274625,
+        "y": -196.5042874360331
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "X3IC3D4MqkxpS6s99vdj-",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -517.6856800135615,
+        "y": -278.4898508537784
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 261,
+          "height": 131
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m1wX27XBWKXZcTMH2U1xp",
+      "type": "topic",
+      "label": "Learn the Fundamentals",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -146.74744704168165,
+        "y": -23.489850853778535
+      },
+      "keywords": [
+        "learn",
+        "fundamentals"
+      ],
+      "metadata": {
+        "style": {
+          "width": 291,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Zja25damM2vXMOYCyRZiq",
+      "type": "subtopic",
+      "label": "Test Oracles",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 240.91769176852483,
+        "y": -49.489850853778535
+      },
+      "keywords": [
+        "test",
+        "oracles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1976f2-opqLqV4ImPJlt0",
+      "type": "subtopic",
+      "label": "Test Prioritization",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 240.91769176852483,
+        "y": 3.5101491462214653
+      },
+      "keywords": [
+        "test",
+        "prioritization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pH9h2tjO6raO_g4W8EgKq",
+      "type": "subtopic",
+      "label": "Manage your Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 326.91769176852483,
+        "y": 69.51014914622147
+      },
+      "keywords": [
+        "manage",
+        "your",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "FE_Wp2RPWFDHNaQIBLqH6",
+      "type": "subtopic",
+      "label": "qTest",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 338.91769176852483,
+        "y": 124.51014914622147
+      },
+      "keywords": [
+        "qtest"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5Tn6Wtw8QE56LZ9BlRAmW",
+      "type": "subtopic",
+      "label": "TestRail",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 442.91769176852483,
+        "y": 124.51014914622147
+      },
+      "keywords": [
+        "testrail"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "leiCCxLJgXCpk1a--mE83",
+      "type": "subtopic",
+      "label": "TestLink",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 338.91769176852483,
+        "y": 177.51014914622147
+      },
+      "keywords": [
+        "testlink"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aGvbxmZCHbbt9PgXL1ooJ",
+      "type": "subtopic",
+      "label": "Zephyr",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 442.91769176852483,
+        "y": 177.51014914622147
+      },
+      "keywords": [
+        "zephyr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JInFH3JRvAxjvpIFKjUiP",
+      "type": "subtopic",
+      "label": "What is Quality Assurance?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -503.08230823147517,
+        "y": -76.48985085377853
+      },
+      "keywords": [
+        "what",
+        "quality",
+        "assurance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vZv4Ow5bg_PbKoF557G9S",
+      "type": "subtopic",
+      "label": "QA Mindset",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -503.08230823147517,
+        "y": -23.489850853778535
+      },
+      "keywords": [
+        "mindset"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uFOVuenPyOKZGgoJXkwRZ",
+      "type": "subtopic",
+      "label": "Testing Approaches",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -503.08230823147517,
+        "y": 29.510149146221465
+      },
+      "keywords": [
+        "testing",
+        "approaches"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "y4QnZ2xQyc4x6Kr-eGBer",
+      "type": "subtopic",
+      "label": "White Box Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -503.08230823147517,
+        "y": 109.51014914622147
+      },
+      "keywords": [
+        "white",
+        "box",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 192,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "ZmWEG7Wu-h7bZe6pGxqDg",
+      "type": "subtopic",
+      "label": "Gray Box Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -503.08230823147517,
+        "y": 162.51014914622147
+      },
+      "keywords": [
+        "gray",
+        "box",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 192,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "2zfwE6uzGYc2qnvOZ47LB",
+      "type": "subtopic",
+      "label": "Black Box Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -503.08230823147517,
+        "y": 215.51014914622147
+      },
+      "keywords": [
+        "black",
+        "box",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 192,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "ZqgeqqZTGA-y7jVNyPCt4",
+      "type": "subtopic",
+      "label": "Project Management",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 73.90951598106369,
+        "y": 69.51014914622147
+      },
+      "keywords": [
+        "project",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wVqbs8Rh0WjLQqJZ0XiF0",
+      "type": "subtopic",
+      "label": "Atlassian",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 85.90951598106369,
+        "y": 124.51014914622147
+      },
+      "keywords": [
+        "atlassian"
+      ],
+      "metadata": {
+        "style": {
+          "width": 125,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xLPE9CqqiYz0miMFI3ThY",
+      "type": "subtopic",
+      "label": "Assembla",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 213.9095159810637,
+        "y": 124.51014914622147
+      },
+      "keywords": [
+        "assembla"
+      ],
+      "metadata": {
+        "style": {
+          "width": 107,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6bS1YjGJHARAUKTywYMU9",
+      "type": "subtopic",
+      "label": "YouTrack",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 85.90951598106369,
+        "y": 177.51014914622147
+      },
+      "keywords": [
+        "youtrack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dmfMp6ydjtHo6oKv97AzB",
+      "type": "subtopic",
+      "label": "Trello",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 215.9095159810637,
+        "y": 177.51014914622147
+      },
+      "keywords": [
+        "trello"
+      ],
+      "metadata": {
+        "style": {
+          "width": 105,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gQLbDFP00itL260i1BiDe",
+      "type": "subtopic",
+      "label": "Testing Techniques",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 73.90951598106369,
+        "y": 247.2101491462215
+      },
+      "keywords": [
+        "testing",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "wmMIL-0ytz7a3JygyB-wc",
+      "type": "subtopic",
+      "label": "Load Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 83.90951598106369,
+        "y": 404.01014914622147
+      },
+      "keywords": [
+        "load",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "bapKhjye4oWQxTEZ4fl_c",
+      "type": "subtopic",
+      "label": "Performance Testing",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 83.90951598106369,
+        "y": 457.01014914622147
+      },
+      "keywords": [
+        "performance",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "skrOrieK1T0hHj_mJBNsW",
+      "type": "subtopic",
+      "label": "Stress Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 83.90951598106369,
+        "y": 510.01014914622147
+      },
+      "keywords": [
+        "stress",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "MahtxMJD3ETHfgk_PQabQ",
+      "type": "subtopic",
+      "label": "Security Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 83.90951598106369,
+        "y": 563.0101491462215
+      },
+      "keywords": [
+        "security",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "zGzpjxz3nvVH9Eu3NOPbk",
+      "type": "subtopic",
+      "label": "Accessibility Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 83.90951598106369,
+        "y": 616.0101491462215
+      },
+      "keywords": [
+        "accessibility",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "vYIEsjTKoO1ciypGIDlil",
+      "type": "subtopic",
+      "label": "Non-Functional Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 73.90951598106369,
+        "y": 347.01014914622147
+      },
+      "keywords": [
+        "non",
+        "functional",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "o4xmFhw_ilWdhpCiEotck",
+      "type": "subtopic",
+      "label": "Functional Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 320.41769176852483,
+        "y": 247.2101491462215
+      },
+      "keywords": [
+        "functional",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "Ls_pezva7_ZW2HHn7RvO4",
+      "type": "subtopic",
+      "label": "UAT",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 328.41769176852483,
+        "y": 304.2101491462215
+      },
+      "keywords": [
+        "uat"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2h6mJeIFCU72J7aggTvnQ",
+      "type": "subtopic",
+      "label": "Exploratory Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 328.41769176852483,
+        "y": 357.2101491462215
+      },
+      "keywords": [
+        "exploratory",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "Lve3xpC1FU91TQqoDOYv7",
+      "type": "subtopic",
+      "label": "Sanity Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 328.41769176852483,
+        "y": 410.2101491462215
+      },
+      "keywords": [
+        "sanity",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "XCeXiKvBblmDArfbWjDvw",
+      "type": "subtopic",
+      "label": "Regression Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 328.41769176852483,
+        "y": 463.2101491462215
+      },
+      "keywords": [
+        "regression",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "MVShii4LZiWW_gPTJzkty",
+      "type": "subtopic",
+      "label": "Smoke Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 328.41769176852483,
+        "y": 516.2101491462215
+      },
+      "keywords": [
+        "smoke",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "PMO3M33U6RuvNdINvqIAA",
+      "type": "subtopic",
+      "label": "Unit Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 328.41769176852483,
+        "y": 569.2101491462215
+      },
+      "keywords": [
+        "unit",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "a_vwz-onn6QEoc27N6oBc",
+      "type": "subtopic",
+      "label": "Integration Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 328.41769176852483,
+        "y": 622.2101491462215
+      },
+      "keywords": [
+        "integration",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "Pb3QkhSCgRByJHuPxVAlU",
+      "type": "topic",
+      "label": "SDLC Delivery Model",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -222.10787795478728,
+        "y": 296.2101491462215
+      },
+      "keywords": [
+        "sdlc",
+        "delivery",
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zELjfWwfEYSc1YO8JLoJn",
+      "type": "subtopic",
+      "label": "V Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -245.74744704168165,
+        "y": 164.51014914622147
+      },
+      "keywords": [
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7h-Xfp2Foiyn7-pI0w7ft",
+      "type": "subtopic",
+      "label": "Waterfall",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -245.74744704168165,
+        "y": 217.51014914622147
+      },
+      "keywords": [
+        "waterfall"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "47NXgbc1OTGE06qXxlQoh",
+      "type": "subtopic",
+      "label": "Agile Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -487.08230823147517,
+        "y": 297.2822726577531
+      },
+      "keywords": [
+        "agile",
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 177,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cJyQx-LBcOL11nkK-P2JH",
+      "type": "subtopic",
+      "label": "Kanban",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -476.58230823147517,
+        "y": 354.2822726577531
+      },
+      "keywords": [
+        "kanban"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k3xPwDzA1WUEAwJ6-Q8PW",
+      "type": "subtopic",
+      "label": "Scrum",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -476.58230823147517,
+        "y": 407.2822726577531
+      },
+      "keywords": [
+        "scrum"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4SLrNPD_No05CKeAVDFn5",
+      "type": "subtopic",
+      "label": "XP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -476.58230823147517,
+        "y": 460.2822726577531
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 69,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Tdj051ANlwwpo03X1hjbF",
+      "type": "subtopic",
+      "label": "SAFe",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -402.58230823147517,
+        "y": 460.2822726577531
+      },
+      "keywords": [
+        "safe"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "daUEq4xlh4PIltSdiD4F2",
+      "type": "topic",
+      "label": "Manual Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -187.60787795478728,
+        "y": 599.2101491462215
+      },
+      "keywords": [
+        "manual",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 168,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "M78baCVYpsk7C6j-VPvPZ",
+      "type": "subtopic",
+      "label": "TDD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -195.74744704168165,
+        "y": 485.7004199847787
+      },
+      "keywords": [
+        "tdd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 71,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2U8WRKkuF-YCEWtpgTspF",
+      "type": "subtopic",
+      "label": "Test Planning",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -514.0823082314752,
+        "y": 704.2101491462215
+      },
+      "keywords": [
+        "test",
+        "planning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ELnCFVRkO_s5qI_3Yzf5U",
+      "type": "subtopic",
+      "label": "Test Cases and Scenarios",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -514.0823082314752,
+        "y": 545.2101491462215
+      },
+      "keywords": [
+        "test",
+        "cases",
+        "scenarios"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RD0vRC-OL2ReYLT1leJMs",
+      "type": "subtopic",
+      "label": "Compatibility",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -514.0823082314752,
+        "y": 598.2101491462215
+      },
+      "keywords": [
+        "compatibility"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vP76hqx-8Pri7sxdJDGV5",
+      "type": "subtopic",
+      "label": "Verification and Validation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -514.0823082314752,
+        "y": 651.2101491462215
+      },
+      "keywords": [
+        "verification",
+        "validation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pYkfl-4gMHRj9wIeH8RTP",
+      "type": "subtopic",
+      "label": "HTML, CSS, JavaScript",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 57.41769176852483,
+        "y": 974.2101491462215
+      },
+      "keywords": [
+        "html",
+        "css",
+        "javascript"
+      ],
+      "metadata": {
+        "style": {
+          "width": 238,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cHI05cf8fLh3XB1Bt6jNP",
+      "type": "subtopic",
+      "label": "Browser / Dev Tools",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 57.41769176852483,
+        "y": 921.2101491462215
+      },
+      "keywords": [
+        "browser",
+        "dev",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 238
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jn02FD5hjhZFVWaJjjNN3",
+      "type": "subtopic",
+      "label": "Ajax",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 57.41769176852483,
+        "y": 1027.2101491462215
+      },
+      "keywords": [
+        "ajax"
+      ],
+      "metadata": {
+        "style": {
+          "width": 104,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qvlA7iIOvoWMXm5MCAysZ",
+      "type": "subtopic",
+      "label": "Caching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 165.41769176852483,
+        "y": 1027.2101491462215
+      },
+      "keywords": [
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 130,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_2IwBNhB5SqbPRxGhZyhq",
+      "type": "subtopic",
+      "label": "SWAs, PWAs, JAMStack",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 57.41769176852483,
+        "y": 1080.2101491462215
+      },
+      "keywords": [
+        "swas",
+        "pwas",
+        "jamstack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 238
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-2RU50LUPwCQ8XRaMslY-",
+      "type": "subtopic",
+      "label": "CSR vs SSR",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 57.41769176852483,
+        "y": 1133.2101491462215
+      },
+      "keywords": [
+        "csr",
+        "ssr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 238
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6cGPxfJ9ipij40hnmckxV",
+      "type": "subtopic",
+      "label": "Responsive vs Adaptive",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 57.41769176852483,
+        "y": 1186.2101491462215
+      },
+      "keywords": [
+        "responsive",
+        "adaptive"
+      ],
+      "metadata": {
+        "style": {
+          "width": 238
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_3HfVT8IDlcgvUM4h6A0_",
+      "type": "subtopic",
+      "label": "Selenium IDE",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 56.41769176852483,
+        "y": 1303.7101491462215
+      },
+      "keywords": [
+        "selenium",
+        "ide"
+      ],
+      "metadata": {
+        "style": {
+          "width": 158,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mX7bNNP7WjFdlsRK6qIgy",
+      "type": "subtopic",
+      "label": "Ghost Inspector",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 217.41769176852483,
+        "y": 1303.7101491462215
+      },
+      "keywords": [
+        "ghost",
+        "inspector"
+      ],
+      "metadata": {
+        "style": {
+          "width": 173,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wUq-qEIh-tazYhgQQUqGG",
+      "type": "subtopic",
+      "label": "Bug Magnet",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 393.41769176852483,
+        "y": 1303.7101491462215
+      },
+      "keywords": [
+        "bug",
+        "magnet"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cFhOYHgq1_MUSXjDI_fFN",
+      "type": "subtopic",
+      "label": "Webdriver.io",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 308.91769176852483,
+        "y": 917.1101491462218
+      },
+      "keywords": [
+        "webdriver"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CHqfXjRRdS_c6XMnfVVx-",
+      "type": "subtopic",
+      "label": "Playwright",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 308.91769176852483,
+        "y": 970.1101491462218
+      },
+      "keywords": [
+        "playwright"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "414xO4PX9rU0f39aC7awu",
+      "type": "subtopic",
+      "label": "QA Wolf",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 308.91769176852483,
+        "y": 1023.1101491462218
+      },
+      "keywords": [
+        "wolf"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iQ7xwiA6xmbLyRIkI7tXM",
+      "type": "subtopic",
+      "label": "Cypress",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 427.41769176852483,
+        "y": 1076.1101491462218
+      },
+      "keywords": [
+        "cypress"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HP55XWH18THmCNjCq-gBl",
+      "type": "subtopic",
+      "label": "Jasmine",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 427.41769176852483,
+        "y": 970.1101491462218
+      },
+      "keywords": [
+        "jasmine"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ta1leBdu-Y9LryB-0U-CT",
+      "type": "subtopic",
+      "label": "Nightwatch",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 427.41769176852483,
+        "y": 1130.1101491462218
+      },
+      "keywords": [
+        "nightwatch"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nf76o_NYm0-pSIVBFm7IH",
+      "type": "subtopic",
+      "label": "Robot",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 427.41769176852483,
+        "y": 1023.1101491462218
+      },
+      "keywords": [
+        "robot"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s3HMrqNEVogftCIOZYO61",
+      "type": "subtopic",
+      "label": "Selenium",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 308.91769176852483,
+        "y": 1076.1101491462218
+      },
+      "keywords": [
+        "selenium"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZeJSeYs8fkZLQ-Pc3TqEM",
+      "type": "subtopic",
+      "label": "Jest",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 308.91769176852483,
+        "y": 1129.1101491462218
+      },
+      "keywords": [
+        "jest"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YKHlLKIlL-Y4ZtHTLfApu",
+      "type": "subtopic",
+      "label": "Puppeteer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 309.41769176852483,
+        "y": 1183.1101491462218
+      },
+      "keywords": [
+        "puppeteer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gxn-m-4pDAD2J6406pbs8",
+      "type": "paragraph",
+      "label": "Automated Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -210.60787795478728,
+        "y": 775.2101491462215
+      },
+      "keywords": [
+        "automated",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 67
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "hU5OCnEe3tG206xuGsVFd",
+      "type": "topic",
+      "label": "Frontend Automation",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 111.90951598106369,
+        "y": 785.2101491462215
+      },
+      "keywords": [
+        "frontend",
+        "automation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gYBdmaY94CHUADhn25QE-",
+      "type": "label",
+      "label": "Basic Introduction",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 96.41769176852483,
+        "y": 875.2101491462215
+      },
+      "keywords": [
+        "basic",
+        "introduction"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pbzOVldT99zH78Mrmrzeq",
+      "type": "label",
+      "label": "Browser Addons",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 195.91769176852483,
+        "y": 1259.2101491462215
+      },
+      "keywords": [
+        "browser",
+        "addons"
+      ],
+      "metadata": {
+        "style": {
+          "width": 202,
+          "height": 36
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PVWEnS6OECuqgCU8dmNV_",
+      "type": "label",
+      "label": "Automation Frameworks",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 323.91769176852483,
+        "y": 875.2101491462215
+      },
+      "keywords": [
+        "automation",
+        "frameworks"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "mPaMQ5h8ZcXKOfcuSwB2-",
+      "type": "topic",
+      "label": "Backend Automation",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -503.08230823147517,
+        "y": 785.2101491462215
+      },
+      "keywords": [
+        "backend",
+        "automation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5cMhZ-7YMQ6ccs-AaIi-0",
+      "type": "subtopic",
+      "label": "Cypress",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -495.08230823147517,
+        "y": 895.2101491462215
+      },
+      "keywords": [
+        "cypress"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZKOU7dWcrkKzTdt0wxwuO",
+      "type": "subtopic",
+      "label": "Playwright",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -401.08230823147517,
+        "y": 895.2101491462215
+      },
+      "keywords": [
+        "playwright"
+      ],
+      "metadata": {
+        "style": {
+          "width": 118,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eE9F3YviSpmgor6V5NMj5",
+      "type": "subtopic",
+      "label": "Soap UI",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -494.08230823147517,
+        "y": 948.2101491462215
+      },
+      "keywords": [
+        "soap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8zXn8R9OGWTmreBpstj03",
+      "type": "subtopic",
+      "label": "Karateframework",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -495.08230823147517,
+        "y": 842.2101491462215
+      },
+      "keywords": [
+        "karateframework"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "X_nLwzc1QmShivEjfy6v9",
+      "type": "subtopic",
+      "label": "Postman / Newman",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -494.08230823147517,
+        "y": 1001.2101491462215
+      },
+      "keywords": [
+        "postman",
+        "newman"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gECIgOii7C5MzilSbQP9t",
+      "type": "subtopic",
+      "label": "REST Assured",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -494.08230823147517,
+        "y": 1054.2101491462215
+      },
+      "keywords": [
+        "rest",
+        "assured"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ITtBvrJ8dsW-5LQV8tWgO",
+      "type": "topic",
+      "label": "Mobile Automation",
+      "description": "",
+      "category": "mobile",
+      "position": {
+        "x": -503.08230823147517,
+        "y": 1123.254396169285
+      },
+      "keywords": [
+        "mobile",
+        "automation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "stMeB1U3SfuefZ-yS8wGF",
+      "type": "subtopic",
+      "label": "Espresso",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -496.08230823147517,
+        "y": 1177.254396169285
+      },
+      "keywords": [
+        "espresso"
+      ],
+      "metadata": {
+        "style": {
+          "width": 93,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gZnNHDjFMI003Od7u2RNa",
+      "type": "subtopic",
+      "label": "Detox",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -399.08230823147517,
+        "y": 1177.254396169285
+      },
+      "keywords": [
+        "detox"
+      ],
+      "metadata": {
+        "style": {
+          "width": 117,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UIKUiCfSw5MkrRJZ3Ah3x",
+      "type": "subtopic",
+      "label": "Appium",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -496.08230823147517,
+        "y": 1230.254396169285
+      },
+      "keywords": [
+        "appium"
+      ],
+      "metadata": {
+        "style": {
+          "width": 93,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Q6eNkuRI6dPa9X44pwrea",
+      "type": "subtopic",
+      "label": "XCUITest",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -399.08230823147517,
+        "y": 1230.254396169285
+      },
+      "keywords": [
+        "xcuitest"
+      ],
+      "metadata": {
+        "style": {
+          "width": 117,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FV7PKwt5KWIdERpQFAi-2",
+      "type": "paragraph",
+      "label": "Non-Functional Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -230.60787795478728,
+        "y": 948.2101491462215
+      },
+      "keywords": [
+        "non",
+        "functional",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "mmDIqSD6MU3ZhWREGI5E2",
+      "type": "topic",
+      "label": "Accessibility Tests",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -214.44777428117885,
+        "y": 1096.905567793261
+      },
+      "keywords": [
+        "accessibility",
+        "tests"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Lb1ctvpMcKIvsC0WQ5q43",
+      "type": "subtopic",
+      "label": "Wave",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -201.35533602993797,
+        "y": 1152.8599844482862
+      },
+      "keywords": [
+        "wave"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_4jJ8YQeLcaT-z38kxRRR",
+      "type": "subtopic",
+      "label": "AXE",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -105.7576267064182,
+        "y": 1152.8599844482862
+      },
+      "keywords": [
+        "axe"
+      ],
+      "metadata": {
+        "style": {
+          "width": 98,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Xadg2WZTz6Cc_Ir9FsbgY",
+      "type": "subtopic",
+      "label": "Chrome DevTools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": -201.35533602993797,
+        "y": 1207.4481786188385
+      },
+      "keywords": [
+        "chrome",
+        "devtools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wTfvbS62eyitDT8pLsVhj",
+      "type": "topic",
+      "label": "Load & Performance Testing",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -505.71376826573646,
+        "y": 1334.501640919295
+      },
+      "keywords": [
+        "load",
+        "performance",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "fkUxhrP3LhtIVgIP9Dxar",
+      "type": "subtopic",
+      "label": "Lighthouse",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -494.43878210171886,
+        "y": 1393.525595967471
+      },
+      "keywords": [
+        "lighthouse"
+      ],
+      "metadata": {
+        "style": {
+          "width": 125,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "igbQfUpmMSKYyAOVkSCLM",
+      "type": "subtopic",
+      "label": "Webpage Test",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -493.43878210171886,
+        "y": 1446.525595967471
+      },
+      "keywords": [
+        "webpage",
+        "test"
+      ],
+      "metadata": {
+        "style": {
+          "width": 244,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "J1Yx1VcO20Lc3r3PdGpUW",
+      "type": "subtopic",
+      "label": "Gatling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -494.43878210171886,
+        "y": 1499.525595967471
+      },
+      "keywords": [
+        "gatling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 86,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Jcp29_ASj9QZ_DjDBIapJ",
+      "type": "subtopic",
+      "label": "K6",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -405.4387821017189,
+        "y": 1499.525595967471
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 51,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j1DYOQbIUT1tw_9WIPBkE",
+      "type": "subtopic",
+      "label": "Artillery",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -351.4387821017189,
+        "y": 1499.525595967471
+      },
+      "keywords": [
+        "artillery"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LGZlOPNYQp0O_vapnciEI",
+      "type": "subtopic",
+      "label": "Vegeta",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -494.43878210171886,
+        "y": 1553.525595967471
+      },
+      "keywords": [
+        "vegeta"
+      ],
+      "metadata": {
+        "style": {
+          "width": 86,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UeeDNUPZ61_HHgcaF9-__",
+      "type": "subtopic",
+      "label": "JMeter",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -405.4387821017189,
+        "y": 1553.525595967471
+      },
+      "keywords": [
+        "jmeter"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QjAJIfSQe7WjbyYdGWSP8",
+      "type": "subtopic",
+      "label": "Locust",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -365.4387821017189,
+        "y": 1393.525595967471
+      },
+      "keywords": [
+        "locust"
+      ],
+      "metadata": {
+        "style": {
+          "width": 118,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wsJXMvRbOTh_VXKhmhPmQ",
+      "type": "topic",
+      "label": "Security Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -139.00895941373415,
+        "y": 1415.9197056565222
+      },
+      "keywords": [
+        "security",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 316,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "75-XdVA4BL6UrcvpC9grx",
+      "type": "subtopic",
+      "label": "Authentication / Authorization",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -123.94122949123516,
+        "y": 1473.9197056565222
+      },
+      "keywords": [
+        "authentication",
+        "authorization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 289,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mKM27KrX1CEViOwz1EDtQ",
+      "type": "subtopic",
+      "label": "Vulnerability Scanning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -122.33733785759296,
+        "y": 1579.9197056565222
+      },
+      "keywords": [
+        "vulnerability",
+        "scanning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 287,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YV6ST78AH4J0i2Rw9zhZj",
+      "type": "subtopic",
+      "label": "Secrets Management",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -123.94122949123516,
+        "y": 1526.9197056565222
+      },
+      "keywords": [
+        "secrets",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 289,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JR-MkszNvv96-S3DpyLeX",
+      "type": "subtopic",
+      "label": "OWASP 10",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -122.33733785759296,
+        "y": 1632.9197056565222
+      },
+      "keywords": [
+        "owasp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "x3HEti8-xF9Mxe5ELBM9T",
+      "type": "subtopic",
+      "label": " Attack Vectors",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 9.80621755044649,
+        "y": 1632.9197056565222
+      },
+      "keywords": [
+        "attack",
+        "vectors"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G-F6jQTOAZ2kQ36F-VrBB",
+      "type": "topic",
+      "label": "Email Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 232.41769176852483,
+        "y": 1415.9197056565222
+      },
+      "keywords": [
+        "email",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 152,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "rFjtp3-cnaUmHiKfjPZBn",
+      "type": "subtopic",
+      "label": "Mailinator",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 408.0061566619204,
+        "y": 1508.9426124213242
+      },
+      "keywords": [
+        "mailinator"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mIM9ausl_tSUNPUerIfEr",
+      "type": "subtopic",
+      "label": "Gmail Tester",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 408.0061566619204,
+        "y": 1561.9426124213242
+      },
+      "keywords": [
+        "gmail",
+        "tester"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MyAAsHteSr4JCPEpqjsy9",
+      "type": "topic",
+      "label": "Reporting",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 245.91769176852483,
+        "y": 1717.447369469604
+      },
+      "keywords": [
+        "reporting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 125,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "o4nkmhEDGwi8yE6DSwZi5",
+      "type": "subtopic",
+      "label": "TestRail",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 442.4166283258302,
+        "y": 1663.1936617828844
+      },
+      "keywords": [
+        "testrail"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jaHOo-vZGjTnABxQKMT3_",
+      "type": "subtopic",
+      "label": "Allure",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 442.4166283258302,
+        "y": 1716.1936617828844
+      },
+      "keywords": [
+        "allure"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5bNdrymdzqL0VbTqWt8r2",
+      "type": "subtopic",
+      "label": "jUnit",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 442.4166283258302,
+        "y": 1769.1936617828844
+      },
+      "keywords": [
+        "junit"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pJvijtG-a0vOq16EFu3Gr",
+      "type": "topic",
+      "label": "Monitoring & Logs",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -164.0904840189363,
+        "y": 1717.447369469604
+      },
+      "keywords": [
+        "monitoring",
+        "logs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8CztIu0BOPZZRZsqR9asW",
+      "type": "subtopic",
+      "label": "Grafana",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -502.909753456685,
+        "y": 1910.7825215468501
+      },
+      "keywords": [
+        "grafana"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QnNUZQlQ2Jhv34daeIuW8",
+      "type": "subtopic",
+      "label": "New Relic",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -502.909753456685,
+        "y": 1645.7825215468501
+      },
+      "keywords": [
+        "new",
+        "relic"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iceaqeXRYXoGtagWn_B7b",
+      "type": "subtopic",
+      "label": "RunScope",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -502.909753456685,
+        "y": 1698.7825215468501
+      },
+      "keywords": [
+        "runscope"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "H-2wWlKxD_Q1xVv99GlBj",
+      "type": "subtopic",
+      "label": "Sentry",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -502.909753456685,
+        "y": 1963.7825215468501
+      },
+      "keywords": [
+        "sentry"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DCZyXcx8H2MTPcyKOhn2_",
+      "type": "subtopic",
+      "label": "Kibana",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -502.909753456685,
+        "y": 1751.7825215468501
+      },
+      "keywords": [
+        "kibana"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Y2I_dcVZb4xZremXoajjx",
+      "type": "subtopic",
+      "label": "Datadog",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -502.909753456685,
+        "y": 1804.7825215468501
+      },
+      "keywords": [
+        "datadog"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DJDegO78Elo83eHjq8IHN",
+      "type": "subtopic",
+      "label": "Pager Duty",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -502.909753456685,
+        "y": 1857.7825215468501
+      },
+      "keywords": [
+        "pager",
+        "duty"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s8o5fXu3XHrMduh8snLwu",
+      "type": "topic",
+      "label": "Version Control System",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -164.0904840189363,
+        "y": 1818.9961522452961
+      },
+      "keywords": [
+        "version",
+        "control",
+        "system"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WrqKdOTRUiOnc1aIhTZeB",
+      "type": "subtopic",
+      "label": "Git",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 166.9095159810637,
+        "y": 1818.1936617828844
+      },
+      "keywords": [
+        "git"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "M6v8VUpVtw5blU2gi4F2r",
+      "type": "topic",
+      "label": "Repo Hosting Services",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -164.0904840189363,
+        "y": 1928.847844776519
+      },
+      "keywords": [
+        "repo",
+        "hosting",
+        "services"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v4gjV1qolrFXdESrY9bzG",
+      "type": "subtopic",
+      "label": "GitHub",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": -163.1157989231745,
+        "y": 2012.57726857526
+      },
+      "keywords": [
+        "github"
+      ],
+      "metadata": {
+        "style": {
+          "width": 86,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4xlbvY7NS3cemSZsEQAkD",
+      "type": "subtopic",
+      "label": "Bitbucket",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -74.11579892317451,
+        "y": 2012.57726857526
+      },
+      "keywords": [
+        "bitbucket"
+      ],
+      "metadata": {
+        "style": {
+          "width": 96,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RfwyTgwfb_xu5H9N-8_s9",
+      "type": "subtopic",
+      "label": "GitLab",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 24.88420107682549,
+        "y": 2012.57726857526
+      },
+      "keywords": [
+        "gitlab"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-n2yAprKdWg3YVi2vp25d",
+      "type": "topic",
+      "label": "CI / CD",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 315.0061566619204,
+        "y": 2043.9753124532335
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "z1kZkWTL_RRPZY59aWylU",
+      "type": "subtopic",
+      "label": "Circle CI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 315.92934933147006,
+        "y": 1954.330437867074
+      },
+      "keywords": [
+        "circle"
+      ],
+      "metadata": {
+        "style": {
+          "width": 121,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3oDyxhhbCCqxuCh1sT9VC",
+      "type": "subtopic",
+      "label": "Drone",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 439.93981601559153,
+        "y": 1848.330437867074
+      },
+      "keywords": [
+        "drone"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3l2dkN1vBy9johFhAgZhT",
+      "type": "subtopic",
+      "label": "Jenkins",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 315.92934933147006,
+        "y": 1848.330437867074
+      },
+      "keywords": [
+        "jenkins"
+      ],
+      "metadata": {
+        "style": {
+          "width": 121,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Rz1E97EQCxESu44dTQd5t",
+      "type": "subtopic",
+      "label": "Travis CI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 439.93981601559153,
+        "y": 1954.330437867074
+      },
+      "keywords": [
+        "travis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iW3oaTl7c3a1kNlCKy-13",
+      "type": "subtopic",
+      "label": "GitLab CI",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 315.92934933147006,
+        "y": 1901.330437867074
+      },
+      "keywords": [
+        "gitlab"
+      ],
+      "metadata": {
+        "style": {
+          "width": 121,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j4J5OhHEf7t-LVNkNVW3M",
+      "type": "subtopic",
+      "label": "Bamboo",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 439.93981601559153,
+        "y": 1901.330437867074
+      },
+      "keywords": [
+        "bamboo"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k3TBVtepeQEGzKGceDkPJ",
+      "type": "subtopic",
+      "label": "TeamCity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 315.0061566619204,
+        "y": 2146.9753124532335
+      },
+      "keywords": [
+        "teamcity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "u0tKd7HZVN2gGv9Cz3jHz",
+      "type": "subtopic",
+      "label": "Azure DevOps Services",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 315.0061566619204,
+        "y": 2199.9753124532335
+      },
+      "keywords": [
+        "azure",
+        "devops",
+        "services"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Pm-Wx7Z3jCUFcafetsQYi",
+      "type": "topic",
+      "label": "Headless Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -166.74744704168165,
+        "y": 2171.3205500809636
+      },
+      "keywords": [
+        "headless",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "XoYsStVqfMeCHkGBlbRhD",
+      "type": "topic",
+      "label": "Repo Hosting Services",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -164.0904840189363,
+        "y": 1928.847844776519
+      },
+      "keywords": [
+        "repo",
+        "hosting",
+        "services"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m0gT774b59xsSJKrrjTxq",
+      "type": "subtopic",
+      "label": "Zombie.js",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -399.08230823147517,
+        "y": 2064.148531995819
+      },
+      "keywords": [
+        "zombie"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sHyFCf7XQKxGxchaYxp2B",
+      "type": "subtopic",
+      "label": "Puppeteer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -517.6856800135615,
+        "y": 2064.148531995819
+      },
+      "keywords": [
+        "puppeteer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0TUq4KRbWTLsLuYI9sgi0",
+      "type": "subtopic",
+      "label": "Playwright",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -519.0823082314752,
+        "y": 2117.148531995819
+      },
+      "keywords": [
+        "playwright"
+      ],
+      "metadata": {
+        "style": {
+          "width": 116,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D7zGshmgwqWluF-W7OTWe",
+      "type": "subtopic",
+      "label": "Cypress",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": -399.08230823147517,
+        "y": 2117.148531995819
+      },
+      "keywords": [
+        "cypress"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JO--NVMs3saUNjh3mcd7z",
+      "type": "subtopic",
+      "label": "Headless Chrome",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -517.6856800135615,
+        "y": 2171.3205500809636
+      },
+      "keywords": [
+        "headless",
+        "chrome"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ryoSezFNeiunCAZygCbaQ",
+      "type": "subtopic",
+      "label": "Headless Fox",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -517.6856800135615,
+        "y": 2224.3205500809636
+      },
+      "keywords": [
+        "headless",
+        "fox"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-Sf7DLr8Ywoorrmsx3bfd",
+      "type": "subtopic",
+      "label": "HTML Unit",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -517.6856800135615,
+        "y": 2277.3205500809636
+      },
+      "keywords": [
+        "html",
+        "unit"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xwpc_KxehAruFM0pCQnie",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -43.26518332909015,
+        "y": 2405.9205199730295
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 104
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "paragraph",
+      "label": "Visit the following relevant roadmaps",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -198.26518332909015,
+        "y": 2318.5644951976747
+      },
+      "keywords": [
+        "visit",
+        "following",
+        "relevant",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 334,
+          "height": 116
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dlGf3ZdFXYx0Z6Viu2x-l",
+      "type": "button",
+      "label": "Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -187.09789095083502,
+        "y": 2375.0342525701326
+      },
+      "keywords": [
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9LKa-YjOMtO1j62Ukt0q0",
+      "type": "button",
+      "label": "Full-stack",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": -33.09789095083502,
+        "y": 2375.0342525701326
+      },
+      "keywords": [
+        "full",
+        "stack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 158,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "Zja25damM2vXMOYCyRZiq",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "1976f2-opqLqV4ImPJlt0",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "JInFH3JRvAxjvpIFKjUiP",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "vZv4Ow5bg_PbKoF557G9S",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "uFOVuenPyOKZGgoJXkwRZ",
+      "type": "default"
+    },
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "m1wX27XBWKXZcTMH2U1xp",
+      "type": "default"
+    },
+    {
+      "source": "gQLbDFP00itL260i1BiDe",
+      "target": "o4xmFhw_ilWdhpCiEotck",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "Pb3QkhSCgRByJHuPxVAlU",
+      "type": "default"
+    },
+    {
+      "source": "Pb3QkhSCgRByJHuPxVAlU",
+      "target": "47NXgbc1OTGE06qXxlQoh",
+      "type": "default"
+    },
+    {
+      "source": "Pb3QkhSCgRByJHuPxVAlU",
+      "target": "daUEq4xlh4PIltSdiD4F2",
+      "type": "default"
+    },
+    {
+      "source": "daUEq4xlh4PIltSdiD4F2",
+      "target": "2U8WRKkuF-YCEWtpgTspF",
+      "type": "default"
+    },
+    {
+      "source": "daUEq4xlh4PIltSdiD4F2",
+      "target": "ELnCFVRkO_s5qI_3Yzf5U",
+      "type": "default"
+    },
+    {
+      "source": "daUEq4xlh4PIltSdiD4F2",
+      "target": "RD0vRC-OL2ReYLT1leJMs",
+      "type": "default"
+    },
+    {
+      "source": "daUEq4xlh4PIltSdiD4F2",
+      "target": "vP76hqx-8Pri7sxdJDGV5",
+      "type": "default"
+    },
+    {
+      "source": "daUEq4xlh4PIltSdiD4F2",
+      "target": "gxn-m-4pDAD2J6406pbs8",
+      "type": "default"
+    },
+    {
+      "source": "gxn-m-4pDAD2J6406pbs8",
+      "target": "hU5OCnEe3tG206xuGsVFd",
+      "type": "default"
+    },
+    {
+      "source": "gxn-m-4pDAD2J6406pbs8",
+      "target": "mPaMQ5h8ZcXKOfcuSwB2-",
+      "type": "default"
+    },
+    {
+      "source": "gxn-m-4pDAD2J6406pbs8",
+      "target": "FV7PKwt5KWIdERpQFAi-2",
+      "type": "default"
+    },
+    {
+      "source": "FV7PKwt5KWIdERpQFAi-2",
+      "target": "mmDIqSD6MU3ZhWREGI5E2",
+      "type": "default"
+    },
+    {
+      "source": "a4N9onrJn6bey5bVwCRAO",
+      "target": "wTfvbS62eyitDT8pLsVhj",
+      "type": "default"
+    },
+    {
+      "source": "wTfvbS62eyitDT8pLsVhj",
+      "target": "wsJXMvRbOTh_VXKhmhPmQ",
+      "type": "default"
+    },
+    {
+      "source": "wsJXMvRbOTh_VXKhmhPmQ",
+      "target": "G-F6jQTOAZ2kQ36F-VrBB",
+      "type": "default"
+    },
+    {
+      "source": "G-F6jQTOAZ2kQ36F-VrBB",
+      "target": "rFjtp3-cnaUmHiKfjPZBn",
+      "type": "default"
+    },
+    {
+      "source": "G-F6jQTOAZ2kQ36F-VrBB",
+      "target": "MyAAsHteSr4JCPEpqjsy9",
+      "type": "default"
+    },
+    {
+      "source": "MyAAsHteSr4JCPEpqjsy9",
+      "target": "jaHOo-vZGjTnABxQKMT3_",
+      "type": "default"
+    },
+    {
+      "source": "MyAAsHteSr4JCPEpqjsy9",
+      "target": "o4nkmhEDGwi8yE6DSwZi5",
+      "type": "default"
+    },
+    {
+      "source": "MyAAsHteSr4JCPEpqjsy9",
+      "target": "5bNdrymdzqL0VbTqWt8r2",
+      "type": "default"
+    },
+    {
+      "source": "MyAAsHteSr4JCPEpqjsy9",
+      "target": "pJvijtG-a0vOq16EFu3Gr",
+      "type": "default"
+    },
+    {
+      "source": "pJvijtG-a0vOq16EFu3Gr",
+      "target": "QnNUZQlQ2Jhv34daeIuW8",
+      "type": "default"
+    },
+    {
+      "source": "pJvijtG-a0vOq16EFu3Gr",
+      "target": "iceaqeXRYXoGtagWn_B7b",
+      "type": "default"
+    },
+    {
+      "source": "pJvijtG-a0vOq16EFu3Gr",
+      "target": "DCZyXcx8H2MTPcyKOhn2_",
+      "type": "default"
+    },
+    {
+      "source": "pJvijtG-a0vOq16EFu3Gr",
+      "target": "Y2I_dcVZb4xZremXoajjx",
+      "type": "default"
+    },
+    {
+      "source": "pJvijtG-a0vOq16EFu3Gr",
+      "target": "DJDegO78Elo83eHjq8IHN",
+      "type": "default"
+    },
+    {
+      "source": "pJvijtG-a0vOq16EFu3Gr",
+      "target": "8CztIu0BOPZZRZsqR9asW",
+      "type": "default"
+    },
+    {
+      "source": "pJvijtG-a0vOq16EFu3Gr",
+      "target": "H-2wWlKxD_Q1xVv99GlBj",
+      "type": "default"
+    },
+    {
+      "source": "pJvijtG-a0vOq16EFu3Gr",
+      "target": "s8o5fXu3XHrMduh8snLwu",
+      "type": "default"
+    },
+    {
+      "source": "s8o5fXu3XHrMduh8snLwu",
+      "target": "WrqKdOTRUiOnc1aIhTZeB",
+      "type": "default"
+    },
+    {
+      "source": "s8o5fXu3XHrMduh8snLwu",
+      "target": "M6v8VUpVtw5blU2gi4F2r",
+      "type": "default"
+    },
+    {
+      "source": "M6v8VUpVtw5blU2gi4F2r",
+      "target": "-n2yAprKdWg3YVi2vp25d",
+      "type": "default"
+    },
+    {
+      "source": "-n2yAprKdWg3YVi2vp25d",
+      "target": "k3TBVtepeQEGzKGceDkPJ",
+      "type": "default"
+    },
+    {
+      "source": "-n2yAprKdWg3YVi2vp25d",
+      "target": "Pm-Wx7Z3jCUFcafetsQYi",
+      "type": "default"
+    },
+    {
+      "source": "Pm-Wx7Z3jCUFcafetsQYi",
+      "target": "m0gT774b59xsSJKrrjTxq",
+      "type": "default"
+    },
+    {
+      "source": "Pm-Wx7Z3jCUFcafetsQYi",
+      "target": "D7zGshmgwqWluF-W7OTWe",
+      "type": "default"
+    },
+    {
+      "source": "Pm-Wx7Z3jCUFcafetsQYi",
+      "target": "JO--NVMs3saUNjh3mcd7z",
+      "type": "default"
+    },
+    {
+      "source": "Pm-Wx7Z3jCUFcafetsQYi",
+      "target": "ryoSezFNeiunCAZygCbaQ",
+      "type": "default"
+    },
+    {
+      "source": "Pm-Wx7Z3jCUFcafetsQYi",
+      "target": "-Sf7DLr8Ywoorrmsx3bfd",
+      "type": "default"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "smoothstep"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "source": "Pm-Wx7Z3jCUFcafetsQYi",
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 70
+    },
+    {
+      "name": "testing",
+      "count": 43
+    },
+    {
+      "name": "vertical",
+      "count": 13
+    },
+    {
+      "name": "section",
+      "count": 11
+    },
+    {
+      "name": "topic",
+      "count": 8
+    },
+    {
+      "name": "frontend",
+      "count": 6
+    },
+    {
+      "name": "tools",
+      "count": 4
+    },
+    {
+      "name": "backend",
+      "count": 3
+    },
+    {
+      "name": "devops",
+      "count": 3
+    },
+    {
+      "name": "programming-language",
+      "count": 2
+    },
+    {
+      "name": "data-science",
+      "count": 2
+    },
+    {
+      "name": "button",
+      "count": 2
+    },
+    {
+      "name": "database",
+      "count": 2
+    },
+    {
+      "name": "framework",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    },
+    {
+      "name": "label",
+      "count": 1
+    },
+    {
+      "name": "mobile",
+      "count": 1
+    },
+    {
+      "name": "security",
+      "count": 1
+    },
+    {
+      "name": "paragraph",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "BaZT3zWYcCna0q6yIb5W7",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "bazt3zwyccna0q6yib5w7"
+      ]
+    },
+    {
+      "name": "QS42BFjasmipnjICdWiD5",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "qs42bfjasmipnjicdwid5"
+      ]
+    },
+    {
+      "name": "a4N9onrJn6bey5bVwCRAO",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "a4n9onrjn6bey5bvwcrao"
+      ]
+    },
+    {
+      "name": "RpbodhoQgDQmxhDk0mQ0A",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "rpbodhoqgdqmxhdk0mq0a"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "e14hEsz9ALXZ4SRPKg6U8",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "e14hesz9alxz4srpkg6u8"
+      ]
+    },
+    {
+      "name": "GHsa-i_yb_5sfRMxRgoIn",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "ghsa",
+        "i_yb_5sfrmxrgoin"
+      ]
+    },
+    {
+      "name": "JAor2U3xkOkddvwtcSJtm",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "jaor2u3xkokddvwtcsjtm"
+      ]
+    },
+    {
+      "name": "qnp7hhbtBurqPvPP8l7W8",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "qnp7hhbtburqpvpp8l7w8"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "cm_QLy2OZsCFda57w7XFc",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "cm_qly2ozscfda57w7xfc"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "pFZ1CtDOYKPRyXhHqEn35",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "pfz1ctdoykpryxhhqen35"
+      ]
+    },
+    {
+      "name": "PJfjZeTXO4DeTJ4it8Aho",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "pjfjzetxo4detj4it8aho"
+      ]
+    },
+    {
+      "name": "9qh4NcpSu9Pks1uIzVSAE",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "9qh4ncpsu9pks1uizvsae"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "FCN43i8o_9eY_Czo2bcLZ",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "fcn43i8o_9ey_czo2bclz"
+      ]
+    },
+    {
+      "name": "QA Engineer",
+      "category": "title",
+      "difficulty": "beginner",
+      "keywords": [
+        "engineer"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Related Roadmaps",
+      "category": "linksgroup",
+      "difficulty": "beginner",
+      "keywords": [
+        "related",
+        "roadmaps"
+      ]
+    },
+    {
+      "name": "Learn the Fundamentals",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "learn",
+        "fundamentals"
+      ]
+    },
+    {
+      "name": "Test Oracles",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "test",
+        "oracles"
+      ]
+    },
+    {
+      "name": "Test Prioritization",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "test",
+        "prioritization"
+      ]
+    },
+    {
+      "name": "Manage your Testing",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "manage",
+        "your",
+        "testing"
+      ]
+    },
+    {
+      "name": "qTest",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "qtest"
+      ]
+    },
+    {
+      "name": "TestRail",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "testrail"
+      ]
+    },
+    {
+      "name": "TestLink",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "testlink"
+      ]
+    },
+    {
+      "name": "Zephyr",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "zephyr"
+      ]
+    },
+    {
+      "name": "What is Quality Assurance?",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "quality",
+        "assurance"
+      ]
+    },
+    {
+      "name": "QA Mindset",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "mindset"
+      ]
+    },
+    {
+      "name": "Testing Approaches",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "testing",
+        "approaches"
+      ]
+    },
+    {
+      "name": "White Box Testing",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "white",
+        "box",
+        "testing"
+      ]
+    },
+    {
+      "name": "Gray Box Testing",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "gray",
+        "box",
+        "testing"
+      ]
+    },
+    {
+      "name": "Black Box Testing",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "black",
+        "box",
+        "testing"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "project",
+        "management"
+      ]
+    },
+    {
+      "name": "Atlassian",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "atlassian"
+      ]
+    },
+    {
+      "name": "Assembla",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "assembla"
+      ]
+    },
+    {
+      "name": "YouTrack",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "youtrack"
+      ]
+    },
+    {
+      "name": "Trello",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "trello"
+      ]
+    },
+    {
+      "name": "Testing Techniques",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "testing",
+        "techniques"
+      ]
+    },
+    {
+      "name": "Load Testing",
+      "category": "testing",
+      "difficulty": "intermediate",
+      "keywords": [
+        "load",
+        "testing"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 177,
+    "totalEdges": 50,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:11.908Z",
+    "version": "2.0"
+  }
+}

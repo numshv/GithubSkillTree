@@ -1,0 +1,4582 @@
+{
+  "name": "devops",
+  "title": "Devops",
+  "nodes": [
+    {
+      "id": "iU2f2TbjbjrCSDoIQN75c",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1274.6452398367048,
+        "y": 2446.733953859971
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 56
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fL1LKBwDDxnzuUaxMxfMz",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1273.4080590588455,
+        "y": 2051.6937435857144
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 388
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bnHYl23RxloIt7dR5V7PF",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1859.1022029048668,
+        "y": 1789.2739894115864
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 377
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JizyX8jse920gpWcmoSED",
+      "type": "section",
+      "label": "JizyX8jse920gpWcmoSED",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 1992.153929822237,
+        "y": 1314.467983134743
+      },
+      "keywords": [
+        "jizyx8jse920gpwcmosed"
+      ],
+      "metadata": {
+        "style": {
+          "width": 229,
+          "height": 354
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SPXgDee7rpQAX3FfTdA3J",
+      "type": "section",
+      "label": "SPXgDee7rpQAX3FfTdA3J",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 1584.5509969897735,
+        "y": 1298.3406565459877
+      },
+      "keywords": [
+        "spxgdee7rpqax3fftda3j"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 375
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "45zz5L6lKJrF9JWgyj1Pz",
+      "type": "section",
+      "label": "45zz5L6lKJrF9JWgyj1Pz",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 1189.5750786843228,
+        "y": 1275.9816693737002
+      },
+      "keywords": [
+        "45zz5l6lkjrf9jwgyj1pz"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 336
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7crPw2SKw-TlsSe9kpZFQ",
+      "type": "section",
+      "label": "7crPw2SKw-TlsSe9kpZFQ",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 1189.5750786843228,
+        "y": 1041.0187194026719
+      },
+      "keywords": [
+        "7crpw2skw",
+        "tlsse9kpzfq"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 243
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "78fdvOJN2xs2co5L8Ldvf",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 2094.770175365231,
+        "y": 870.537249249727
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 52
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PsbYeHGMd9E1UNqcaFQOz",
+      "type": "section",
+      "label": "PsbYeHGMd9E1UNqcaFQOz",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 1977.602202904867,
+        "y": 1009.6753673258584
+      },
+      "keywords": [
+        "psbyehgmd9e1unqcafqoz"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 219
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2-SE-hXZHqrxxogHYfC9O",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1489.8528975202719,
+        "y": 742.537249249727
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 180
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Z9kbJS29EAsTKguLJlOiu",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1450.3113390834426,
+        "y": 399.0352879521563
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OY4ipeYrizxKKv9Z72iLR",
+      "type": "section",
+      "label": "OY4ipeYrizxKKv9Z72iLR",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 1191.5919421168855,
+        "y": 446.46233894852605
+      },
+      "keywords": [
+        "oy4ipeyrizxkkv9z72ilr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 356,
+          "height": 227
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fqBgeJj5fan4TT7K2E6c7",
+      "type": "title",
+      "label": "DevOps",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1678.7802652868972,
+        "y": 95.62780506297416
+      },
+      "keywords": [
+        "devops"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "J4hDw1hZqw6pI4iykkXXQ",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1739.2802652868972,
+        "y": 9.627805062974176
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 86
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v5FGKQc-_7NYEsWjmTEuq",
+      "type": "topic",
+      "label": "Learn a Programming Language",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 1602.7802652868972,
+        "y": 229.3007298193524
+      },
+      "keywords": [
+        "learn",
+        "programming",
+        "language"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TwVfCYMS9jSaJ6UyYmC-K",
+      "type": "subtopic",
+      "label": "Python",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 2039.941514522558,
+        "y": 176.3007298193524
+      },
+      "keywords": [
+        "python"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PuXAPYA0bsMgwcnlwJxQn",
+      "type": "subtopic",
+      "label": "Ruby",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 2152.597833816051,
+        "y": 176.3007298193524
+      },
+      "keywords": [
+        "ruby"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "npnMwSDEK2aLGgnuZZ4dO",
+      "type": "subtopic",
+      "label": "Go",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 2039.941514522558,
+        "y": 229.3007298193524
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eL62bKAoJCMsu7zPlgyhy",
+      "type": "subtopic",
+      "label": "Rust",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 2152.597833816051,
+        "y": 229.3007298193524
+      },
+      "keywords": [
+        "rust"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QCdemtWa2mE78poNXeqzr",
+      "type": "subtopic",
+      "label": "JavaScript / Node.js",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 2039.941514522558,
+        "y": 285.02996643945045
+      },
+      "keywords": [
+        "javascript",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 213,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LFXvvH86fAyJBtQVd7acq",
+      "type": "legend",
+      "label": "LFXvvH86fAyJBtQVd7acq",
+      "description": "",
+      "category": "legend",
+      "position": {
+        "x": 1195.6220092352162,
+        "y": -23.69562777188412
+      },
+      "keywords": [
+        "lfxvvh86fayjbtqvd7acq"
+      ],
+      "metadata": {
+        "style": {
+          "width": 404,
+          "height": 127
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qe84v529VbCyydl0BKFk2",
+      "type": "topic",
+      "label": "Operating System",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1353.3113390834426,
+        "y": 355.1966436651256
+      },
+      "keywords": [
+        "operating",
+        "system"
+      ],
+      "metadata": {
+        "style": {
+          "width": 195,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3A1SykJ5JxBFeVzSzDEWJ",
+      "type": "label",
+      "label": "Linux",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 1403.5509969897735,
+        "y": 457.64985874666695
+      },
+      "keywords": [
+        "linux"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8hSJLQBKu8ablW2Lwxknv",
+      "type": "label",
+      "label": "Unix",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 1244.050901958697,
+        "y": 459.72277607327175
+      },
+      "keywords": [
+        "unix"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cTqVab0VbVcn3W7i0wBrX",
+      "type": "subtopic",
+      "label": "Ubuntu / Debian",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1335.5509969897735,
+        "y": 504.9832131980173
+      },
+      "keywords": [
+        "ubuntu",
+        "debian"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zhNUK953p6tjREndk3yQZ",
+      "type": "subtopic",
+      "label": "SUSE Linux",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 1335.5509969897735,
+        "y": 557.9832131980173
+      },
+      "keywords": [
+        "suse",
+        "linux"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7mS6Y_BOAHNgM3OjyFtZ9",
+      "type": "subtopic",
+      "label": "RHEL / Derivatives",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1335.5509969897735,
+        "y": 610.9832131980173
+      },
+      "keywords": [
+        "rhel",
+        "derivatives"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PiPHFimToormOPl1EtEe8",
+      "type": "subtopic",
+      "label": "FreeBSD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1210.050901958697,
+        "y": 501.9832131980173
+      },
+      "keywords": [
+        "freebsd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 119,
+          "height": 51
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "97cJYKqv7CPPUXkKNwM4x",
+      "type": "subtopic",
+      "label": "OpenBSD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1210.050901958697,
+        "y": 556.9832131980173
+      },
+      "keywords": [
+        "openbsd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 119,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "haiYSwNt3rjiiwCDszPk1",
+      "type": "subtopic",
+      "label": "NetBSD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1210.050901958697,
+        "y": 609.9832131980173
+      },
+      "keywords": [
+        "netbsd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 119,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UOQimp7QkM3sxmFvk5d3i",
+      "type": "subtopic",
+      "label": "Windows",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1191.3528975202719,
+        "y": 355.1966436651256
+      },
+      "keywords": [
+        "windows"
+      ],
+      "metadata": {
+        "style": {
+          "width": 114,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wjJPzrFJBNYOD3SJLzW2M",
+      "type": "topic",
+      "label": "Terminal Knowledge",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1704.2802652868972,
+        "y": 536.1811226053657
+      },
+      "keywords": [
+        "terminal",
+        "knowledge"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "x-JWvG1iw86ULL9KrQmRu",
+      "type": "subtopic",
+      "label": "Process Monitoring",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2008.4055424608705,
+        "y": 458.18112260536566
+      },
+      "keywords": [
+        "process",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gIEQDgKOsoEnSv8mpEzGH",
+      "type": "subtopic",
+      "label": "Performance Monitoring",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 2008.4055424608705,
+        "y": 511.18112260536566
+      },
+      "keywords": [
+        "performance",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OaqKLZe-XnngcDhDzCtRt",
+      "type": "subtopic",
+      "label": "Networking Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 2008.4055424608705,
+        "y": 564.1811226053657
+      },
+      "keywords": [
+        "networking",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cUifrP7v55psTb20IZndf",
+      "type": "subtopic",
+      "label": "Text Manipulation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2008.4055424608705,
+        "y": 617.1811226053657
+      },
+      "keywords": [
+        "text",
+        "manipulation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "syBIAL1mHbJLnTBoSxXI7",
+      "type": "subtopic",
+      "label": "Bash",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1704.2802652868972,
+        "y": 387.7552314433875
+      },
+      "keywords": [
+        "bash"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "z6IBekR8Xl-6f8WEb05Nw",
+      "type": "subtopic",
+      "label": "Power Shell",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1704.2802652868972,
+        "y": 440.7552314433875
+      },
+      "keywords": [
+        "power",
+        "shell"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Jt8BmtLUH6fHT2pGKoJs3",
+      "type": "subtopic",
+      "label": "Vim / Nano /  Emacs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1704.2802652868972,
+        "y": 623.462338948526
+      },
+      "keywords": [
+        "vim",
+        "nano",
+        "emacs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZusrlGqCntlKDPOaTiWqI",
+      "type": "label",
+      "label": "Scripting",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 1762.6858674228688,
+        "y": 347
+      },
+      "keywords": [
+        "scripting"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LvhFmlxz5uIy7k_nzx2Bv",
+      "type": "topic",
+      "label": "Version Control Systems",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1347.5432844855075,
+        "y": 717.6852605686394
+      },
+      "keywords": [
+        "version",
+        "control",
+        "systems"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uyDm1SpOQdpHjq9zBAdck",
+      "type": "subtopic",
+      "label": "Git",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 1189.9080590588455,
+        "y": 717.6852605686394
+      },
+      "keywords": [
+        "git"
+      ],
+      "metadata": {
+        "style": {
+          "width": 119,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h10BH3OybHcIN2iDTSGkn",
+      "type": "topic",
+      "label": "VCS Hosting",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1410,
+        "y": 909.037249249727
+      },
+      "keywords": [
+        "vcs",
+        "hosting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 174,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ot9I_IHdnq2yAMffrSrbN",
+      "type": "subtopic",
+      "label": "GitHub",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 1186.9080590588455,
+        "y": 856.037249249727
+      },
+      "keywords": [
+        "github"
+      ],
+      "metadata": {
+        "style": {
+          "width": 119,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oQIB0KE0BibjIYmxrpPZS",
+      "type": "subtopic",
+      "label": "GitLab",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 1186.9080590588455,
+        "y": 909.037249249727
+      },
+      "keywords": [
+        "gitlab"
+      ],
+      "metadata": {
+        "style": {
+          "width": 119,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Z7SsBWgluZWr9iWb2e9XO",
+      "type": "subtopic",
+      "label": "Bitbucket",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1186.9080590588455,
+        "y": 962.037249249727
+      },
+      "keywords": [
+        "bitbucket"
+      ],
+      "metadata": {
+        "style": {
+          "width": 119,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jCWrnQNgjHKyhzd9dwOHz",
+      "type": "topic",
+      "label": "What is and how to setup X ?",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1976.1022029048668,
+        "y": 909.037249249727
+      },
+      "keywords": [
+        "what",
+        "how",
+        "setup"
+      ],
+      "metadata": {
+        "style": {
+          "width": 270,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "F93XnRj0BLswJkzyRggLS",
+      "type": "subtopic",
+      "label": "Forward Proxy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1923.2980619884293,
+        "y": 716.4440052182314
+      },
+      "keywords": [
+        "forward",
+        "proxy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 164,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f3tM2uo6LLSOmyeFfLc7h",
+      "type": "subtopic",
+      "label": "Firewall",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2091.2980619884293,
+        "y": 769.4440052182314
+      },
+      "keywords": [
+        "firewall"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ukOrSeyK1ElOt9tTjCkfO",
+      "type": "subtopic",
+      "label": "Nginx",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1996.770175365231,
+        "y": 1024.7608674321284
+      },
+      "keywords": [
+        "nginx"
+      ],
+      "metadata": {
+        "style": {
+          "width": 105,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dF3otkMMN09tgCzci8Jyv",
+      "type": "subtopic",
+      "label": "Tomcat",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1996.770175365231,
+        "y": 1077.7608674321284
+      },
+      "keywords": [
+        "tomcat"
+      ],
+      "metadata": {
+        "style": {
+          "width": 105,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0_GMTcMeZv3A8dYkHRoW7",
+      "type": "subtopic",
+      "label": "Apache",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2104.711689887789,
+        "y": 1077.7608674321284
+      },
+      "keywords": [
+        "apache"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "54UZNO2q8M5FiA_XbcU_D",
+      "type": "subtopic",
+      "label": "Caddy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2104.711689887789,
+        "y": 1024.7608674321284
+      },
+      "keywords": [
+        "caddy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5iJOE1QxMvf8BQ_8ssiI8",
+      "type": "subtopic",
+      "label": "IIS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1996.770175365231,
+        "y": 1131.7608674321284
+      },
+      "keywords": [
+        "iis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R4XSY4TSjU1M7cW66zUqJ",
+      "type": "subtopic",
+      "label": "Caching Server",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 1922.2980619884293,
+        "y": 769.4440052182314
+      },
+      "keywords": [
+        "caching",
+        "server"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "i8Sd9maB_BeFurULrHXNq",
+      "type": "subtopic",
+      "label": "Load Balancer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1918.5487566038344,
+        "y": 822.4440052182314
+      },
+      "keywords": [
+        "load",
+        "balancer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 328,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eGF7iyigl57myx2ejpmNC",
+      "type": "subtopic",
+      "label": "Reverse Proxy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2090.2980619884293,
+        "y": 716.4440052182314
+      },
+      "keywords": [
+        "reverse",
+        "proxy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 158,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CQhUflAcv1lhBnmDY0gaz",
+      "type": "topic",
+      "label": "Containers",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 1664.8844464722006,
+        "y": 909.037249249727
+      },
+      "keywords": [
+        "containers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 137,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "P0acFNZ413MSKElHqCxr3",
+      "type": "subtopic",
+      "label": "Docker",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1664.8844464722006,
+        "y": 772.1520720921645
+      },
+      "keywords": [
+        "docker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 137,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qYRJYIZsmf-inMqKECRkI",
+      "type": "subtopic",
+      "label": "LXC",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1664.8844464722006,
+        "y": 825.1520720921645
+      },
+      "keywords": [
+        "lxc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 137,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2Wd9SlWGg6QtxgiUVLyZL",
+      "type": "topic",
+      "label": "Cloud Providers",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 1584.5509969897735,
+        "y": 1280.9816693737002
+      },
+      "keywords": [
+        "cloud",
+        "providers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1ieK6B_oqW8qOC6bdmiJe",
+      "type": "subtopic",
+      "label": "AWS",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 1599.3528975202719,
+        "y": 1342
+      },
+      "keywords": [
+        "aws"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ctor79Vd7EXDMdrLyUcu_",
+      "type": "subtopic",
+      "label": "Azure",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 1714.1818168890086,
+        "y": 1342.307095657017
+      },
+      "keywords": [
+        "azure"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zYrOxFQkl3KSe67fh3smD",
+      "type": "subtopic",
+      "label": "Google Cloud",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 1599.3528975202719,
+        "y": 1395.307095657017
+      },
+      "keywords": [
+        "google",
+        "cloud"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-h-kNVDNzZYnQAR_4lfXc",
+      "type": "subtopic",
+      "label": "Digital Ocean",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 1599.3528975202719,
+        "y": 1448.307095657017
+      },
+      "keywords": [
+        "digital",
+        "ocean"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YUJf-6ccHvYjL_RzufQ-G",
+      "type": "subtopic",
+      "label": "Alibaba Cloud",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 1599.3528975202719,
+        "y": 1501.307095657017
+      },
+      "keywords": [
+        "alibaba",
+        "cloud"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I327qPYGMcdayRR5WT0Ek",
+      "type": "subtopic",
+      "label": "Hetzner",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1599.3528975202719,
+        "y": 1554.307095657017
+      },
+      "keywords": [
+        "hetzner"
+      ],
+      "metadata": {
+        "style": {
+          "width": 110,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FaPf567JGRAg1MBlFj9Tk",
+      "type": "subtopic",
+      "label": "Heroku ",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1599.3528975202719,
+        "y": 1607.307095657017
+      },
+      "keywords": [
+        "heroku"
+      ],
+      "metadata": {
+        "style": {
+          "width": 224,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eJZdjheptmiwKsVokt7Io",
+      "type": "subtopic",
+      "label": "Contabo",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1714.1818168890086,
+        "y": 1554.307095657017
+      },
+      "keywords": [
+        "contabo"
+      ],
+      "metadata": {
+        "style": {
+          "width": 110,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RDLmML_HS2c8J4D_U_KYe",
+      "type": "subtopic",
+      "label": "FTP / SFTP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1206.147298803803,
+        "y": 1057.495251276272
+      },
+      "keywords": [
+        "ftp",
+        "sftp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Vu955vdsYerCG8G6suqml",
+      "type": "subtopic",
+      "label": "DNS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1348.147298803803,
+        "y": 1057.495251276272
+      },
+      "keywords": [
+        "dns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 102,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ke-8MeuLx7AS2XjSsPhxe",
+      "type": "subtopic",
+      "label": "HTTP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1206.147298803803,
+        "y": 1110.495251276272
+      },
+      "keywords": [
+        "http"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AJO3jtHvIICj8YKaSXl0U",
+      "type": "subtopic",
+      "label": "HTTPS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1348.147298803803,
+        "y": 1110.495251276272
+      },
+      "keywords": [
+        "https"
+      ],
+      "metadata": {
+        "style": {
+          "width": 102,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0o6ejhfpmO4S8A6djVWva",
+      "type": "subtopic",
+      "label": "SSL / TLS",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 1207.2914695545712,
+        "y": 1163.495251276272
+      },
+      "keywords": [
+        "ssl",
+        "tls"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wcIRMLVm3SdEJWF9RPfn7",
+      "type": "subtopic",
+      "label": "SSH",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1349.2914695545712,
+        "y": 1163.495251276272
+      },
+      "keywords": [
+        "ssh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 102,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "E-lSLGzgOPrz-25ER2Hk7",
+      "type": "subtopic",
+      "label": "White / Grey Listing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1205.5374764166006,
+        "y": 1297.964929643881
+      },
+      "keywords": [
+        "white",
+        "grey",
+        "listing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zJy9dOynWgLTDKI1iBluG",
+      "type": "subtopic",
+      "label": "SMTP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1206.5374764166006,
+        "y": 1350.964929643881
+      },
+      "keywords": [
+        "smtp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 118,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5vUKHuItQfkarp7LtACvX",
+      "type": "subtopic",
+      "label": "DMARC",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1328.7306776209605,
+        "y": 1350.964929643881
+      },
+      "keywords": [
+        "dmarc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WMuXqa4b5wyRuYAQKQJRj",
+      "type": "subtopic",
+      "label": "IMAP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1206.5374764166006,
+        "y": 1403.964929643881
+      },
+      "keywords": [
+        "imap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 118,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ewcJfnDFKXN8I5TLpXEaB",
+      "type": "subtopic",
+      "label": "SPF",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1328.7306776209605,
+        "y": 1403.964929643881
+      },
+      "keywords": [
+        "spf"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fzO6xVTBxliu24f3W5zaU",
+      "type": "subtopic",
+      "label": "POP3S",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1205.5374764166006,
+        "y": 1456.964929643881
+      },
+      "keywords": [
+        "pop3s"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RYCD78msIR2BPJoIP71aj",
+      "type": "subtopic",
+      "label": "Domain Keys",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 1205.5374764166006,
+        "y": 1510.964929643881
+      },
+      "keywords": [
+        "domain",
+        "keys"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "n-pIspYFAk0vpHNbLbbLz",
+      "type": "label",
+      "label": "Email Protocols",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 1274.6452398367048,
+        "y": 1565.4144228217488
+      },
+      "keywords": [
+        "email",
+        "protocols"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QZ7bkY-MaEgxYoPDP3nma",
+      "type": "subtopic",
+      "label": "OSI Model",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1205.5374764166006,
+        "y": 1219.740182887247
+      },
+      "keywords": [
+        "osi",
+        "model"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w5d24Sf8GDkLDLGUPxzS9",
+      "type": "topic",
+      "label": "Networking & Protocols",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1583.0509969897735,
+        "y": 1138.0187194026719
+      },
+      "keywords": [
+        "networking",
+        "protocols"
+      ],
+      "metadata": {
+        "style": {
+          "width": 255,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9p_ufPj6QH9gHbWBQUmGw",
+      "type": "topic",
+      "label": "Serverless",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 1992.153929822237,
+        "y": 1280.9816693737002
+      },
+      "keywords": [
+        "serverless"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LZDRgDxEZ3klp2PrrJFBX",
+      "type": "subtopic",
+      "label": "Vercel",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2010.6022029048672,
+        "y": 1500
+      },
+      "keywords": [
+        "vercel"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l8VAewSEXzoyqYFhoplJj",
+      "type": "subtopic",
+      "label": "Cloudflare",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 2010.6022029048672,
+        "y": 1394
+      },
+      "keywords": [
+        "cloudflare"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mlrlf2McMI7IBhyEdq0Nf",
+      "type": "subtopic",
+      "label": "Azure Functions",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 2010.6022029048672,
+        "y": 1447
+      },
+      "keywords": [
+        "azure",
+        "functions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UfQrIJ-uMNJt9H_VM_Q5q",
+      "type": "subtopic",
+      "label": "AWS Lambda",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 2010.6022029048672,
+        "y": 1341
+      },
+      "keywords": [
+        "aws",
+        "lambda"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hCKODV2b_l2uPit0YeP1M",
+      "type": "subtopic",
+      "label": "Netlify",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2010.6022029048672,
+        "y": 1553
+      },
+      "keywords": [
+        "netlify"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1oYvpFG8LKT1JD6a_9J0m",
+      "type": "topic",
+      "label": "Provisioning",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 2022.153929822237,
+        "y": 1749.6366924943281
+      },
+      "keywords": [
+        "provisioning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XA__697KgofsH28coQ-ma",
+      "type": "subtopic",
+      "label": "AWS CDK",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 2023.153929822237,
+        "y": 1837.2739894115864
+      },
+      "keywords": [
+        "aws",
+        "cdk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 168,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TgBb4aL_9UkyU36CN4qvS",
+      "type": "subtopic",
+      "label": "CloudFormation",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 2023.153929822237,
+        "y": 1890.2739894115864
+      },
+      "keywords": [
+        "cloudformation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 168,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O0xZ3dy2zIDbOetVrgna6",
+      "type": "subtopic",
+      "label": "Pulumi",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2023.153929822237,
+        "y": 1943.2739894115864
+      },
+      "keywords": [
+        "pulumi"
+      ],
+      "metadata": {
+        "style": {
+          "width": 168,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nUBGf1rp9GK_pbagWCP9g",
+      "type": "subtopic",
+      "label": "Terraform",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 2023.153929822237,
+        "y": 1997.2739894115864
+      },
+      "keywords": [
+        "terraform"
+      ],
+      "metadata": {
+        "style": {
+          "width": 168,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V9sOxlNOyRp0Mghl7zudv",
+      "type": "topic",
+      "label": "Configuration Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1696.6885970352912,
+        "y": 1749.6366924943281
+      },
+      "keywords": [
+        "configuration",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 258,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h9vVPOmdUSeEGVQQaSTH5",
+      "type": "subtopic",
+      "label": "Ansible",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1491.7647088844683,
+        "y": 1696.8759112425278
+      },
+      "keywords": [
+        "ansible"
+      ],
+      "metadata": {
+        "style": {
+          "width": 121,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kv508kxzUj_CjZRb-TeRv",
+      "type": "subtopic",
+      "label": "Chef",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1491.7647088844683,
+        "y": 1749.8759112425278
+      },
+      "keywords": [
+        "chef"
+      ],
+      "metadata": {
+        "style": {
+          "width": 121,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yP1y8U3eblpzbaLiCGliU",
+      "type": "subtopic",
+      "label": "Puppet",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1491.7647088844683,
+        "y": 1802.8759112425278
+      },
+      "keywords": [
+        "puppet"
+      ],
+      "metadata": {
+        "style": {
+          "width": 121,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aQJaouIaxIJChM-40M3HQ",
+      "type": "topic",
+      "label": "CI / CD Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 1800.8844464722006,
+        "y": 1971.2739894115864
+      },
+      "keywords": [
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JnWVCS1HbAyfCJzGt-WOH",
+      "type": "subtopic",
+      "label": "GitHub Actions",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1439,
+        "y": 2055.6937435857144
+      },
+      "keywords": [
+        "github",
+        "actions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2KjSLLVTvl2G2KValw7S7",
+      "type": "subtopic",
+      "label": "GitLab CI",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1439,
+        "y": 2002.6937435857144
+      },
+      "keywords": [
+        "gitlab"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dUapFp3f0Rum-rf_Vk_b-",
+      "type": "subtopic",
+      "label": "Jenkins",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1566.894041311382,
+        "y": 1896.6937435857144
+      },
+      "keywords": [
+        "jenkins"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-pGF3soruWWxwE4LxE5Vk",
+      "type": "subtopic",
+      "label": "Travis CI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1439,
+        "y": 1949.6937435857144
+      },
+      "keywords": [
+        "travis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1-JneOQeGhox-CKrdiquq",
+      "type": "subtopic",
+      "label": "Circle CI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1566.894041311382,
+        "y": 1949.6937435857144
+      },
+      "keywords": [
+        "circle"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TsXFx1wWikVBVoFUUDAMx",
+      "type": "subtopic",
+      "label": "Drone",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1566.894041311382,
+        "y": 2002.6937435857144
+      },
+      "keywords": [
+        "drone"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "L000AbzF3oLcn4B1eUIYX",
+      "type": "subtopic",
+      "label": "TeamCity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1439,
+        "y": 1896.6937435857144
+      },
+      "keywords": [
+        "teamcity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hcrPpjFxPi_iLiMdLKJrO",
+      "type": "topic",
+      "label": "Secret Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1749.6885970352912,
+        "y": 2135.6542746452424
+      },
+      "keywords": [
+        "secret",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZWq23Q9ZNxLNti68oltxA",
+      "type": "subtopic",
+      "label": "Sealed Secrets",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2020.6275872741135,
+        "y": 2081.6542746452424
+      },
+      "keywords": [
+        "sealed",
+        "secrets"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yQ4d2uiROZYr950cjYnQE",
+      "type": "subtopic",
+      "label": "Cloud Specific Tools",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 2020.6275872741135,
+        "y": 2189.6542746452424
+      },
+      "keywords": [
+        "cloud",
+        "specific",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 230,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tZzvs80KzqT8aDvEyjack",
+      "type": "subtopic",
+      "label": "Vault",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2020.6275872741135,
+        "y": 2135.6542746452424
+      },
+      "keywords": [
+        "vault"
+      ],
+      "metadata": {
+        "style": {
+          "width": 120,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GHQWHLxsO40kJ6z_YCinJ",
+      "type": "subtopic",
+      "label": "SOPs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 2146.6275872741135,
+        "y": 2135.6542746452424
+      },
+      "keywords": [
+        "sops"
+      ],
+      "metadata": {
+        "style": {
+          "width": 104,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qqRLeTpuoW64H9LvY0U_w",
+      "type": "topic",
+      "label": "Infrastructure Monitoring",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1437.7647088844683,
+        "y": 2135.6542746452424
+      },
+      "keywords": [
+        "infrastructure",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "W9sKEoDlR8LzocQkqSv82",
+      "type": "subtopic",
+      "label": "Zabbix",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1443.6500824678124,
+        "y": 2329.3422065391833
+      },
+      "keywords": [
+        "zabbix"
+      ],
+      "metadata": {
+        "style": {
+          "width": 117,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NiVvRbCOCDpVvif48poCo",
+      "type": "subtopic",
+      "label": "Prometheus",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1442.5,
+        "y": 2222.3422065391833
+      },
+      "keywords": [
+        "prometheus"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bujq_C-ejtpmk-ICALByy",
+      "type": "subtopic",
+      "label": "Datadog",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1563.6500824678124,
+        "y": 2329.3422065391833
+      },
+      "keywords": [
+        "datadog"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "niA_96yR7uQ0sc6S_OStf",
+      "type": "subtopic",
+      "label": "Grafana",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1442.5,
+        "y": 2275.3422065391833
+      },
+      "keywords": [
+        "grafana"
+      ],
+      "metadata": {
+        "style": {
+          "width": 229,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gaoZjOYmU0J5aM6vtLNvN",
+      "type": "topic",
+      "label": "Logs Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1186.9080590588455,
+        "y": 2009.6937435857144
+      },
+      "keywords": [
+        "logs",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K_qLhK2kKN_uCq7iVjqph",
+      "type": "subtopic",
+      "label": "Elastic Stack",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1206.9080590588455,
+        "y": 1847.867646144425
+      },
+      "keywords": [
+        "elastic",
+        "stack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s_kss4FJ2KyZRdcKNHK2v",
+      "type": "subtopic",
+      "label": "Graylog",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1206.9080590588455,
+        "y": 1900.867646144425
+      },
+      "keywords": [
+        "graylog"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dZID_Y_uRTF8JlfDCqeqs",
+      "type": "subtopic",
+      "label": "Splunk",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1206.9080590588455,
+        "y": 1740.867646144425
+      },
+      "keywords": [
+        "splunk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cjjMZdyLgakyVkImVQTza",
+      "type": "subtopic",
+      "label": "Papertrail",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 1206.9080590588455,
+        "y": 1687.867646144425
+      },
+      "keywords": [
+        "papertrail"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Yq8kVoRf20aL_o4VZU5--",
+      "type": "topic",
+      "label": "Container Orchestration",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 1191.5919421168855,
+        "y": 2415.411508945109
+      },
+      "keywords": [
+        "container",
+        "orchestration"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XbrWlTyH4z8crSHkki2lp",
+      "type": "subtopic",
+      "label": "GKE / EKS / AKS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1191.5919421168855,
+        "y": 2503.733953859971
+      },
+      "keywords": [
+        "gke",
+        "eks",
+        "aks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FE2h-uQy6qli3rKERci1j",
+      "type": "subtopic",
+      "label": "AWS ECS / Fargate",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 1191.5919421168855,
+        "y": 2556.733953859971
+      },
+      "keywords": [
+        "aws",
+        "ecs",
+        "fargate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VD24HC9qJOC42lbpJ-swC",
+      "type": "subtopic",
+      "label": "Docker Swarm",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1191.5919421168855,
+        "y": 2609.733953859971
+      },
+      "keywords": [
+        "docker",
+        "swarm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zuBAjrqQPjj-0DHGjCaqT",
+      "type": "topic",
+      "label": "Artifact Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1775.6994137533861,
+        "y": 2415.411508945109
+      },
+      "keywords": [
+        "artifact",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C_sFyIsIIpriZlovvcbSE",
+      "type": "subtopic",
+      "label": "Artifactory",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1804.1994137533861,
+        "y": 2223.2681164764685
+      },
+      "keywords": [
+        "artifactory"
+      ],
+      "metadata": {
+        "style": {
+          "width": 157,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ootuLJfRXarVvm3J1Ir11",
+      "type": "subtopic",
+      "label": "Nexus",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1805.1994137533861,
+        "y": 2275.2681164764685
+      },
+      "keywords": [
+        "nexus"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vsmE6EpCc2DFGk1YTbkHS",
+      "type": "subtopic",
+      "label": "Cloud Smith",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 1805.6994137533861,
+        "y": 2327.2681164764685
+      },
+      "keywords": [
+        "cloud",
+        "smith"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-INN1qTMLimrZgaSPCcHj",
+      "type": "topic",
+      "label": "GitOps",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 2039.880090807097,
+        "y": 2415.411508945109
+      },
+      "keywords": [
+        "gitops"
+      ],
+      "metadata": {
+        "style": {
+          "width": 172,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "i-DLwNXdCUUug6lfjkPSy",
+      "type": "subtopic",
+      "label": "ArgoCD",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 2039.880090807097,
+        "y": 2275.2924702992086
+      },
+      "keywords": [
+        "argocd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 172,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6gVV_JUgKgwJb4C8tHZn7",
+      "type": "subtopic",
+      "label": "FluxCD",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 2039.880090807097,
+        "y": 2328.2924702992086
+      },
+      "keywords": [
+        "fluxcd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 172,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EeWsihH9ehbFKebYoB5i9",
+      "type": "topic",
+      "label": "Service Mesh",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 2039.941514522558,
+        "y": 2603.211912357967
+      },
+      "keywords": [
+        "service",
+        "mesh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 172,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XsSnqW6k2IzvmrMmJeU6a",
+      "type": "subtopic",
+      "label": "Istio",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1829.5489126426492,
+        "y": 2526.211912357967
+      },
+      "keywords": [
+        "istio"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OXOTm3nz6o44p50qd0brN",
+      "type": "subtopic",
+      "label": "Consul",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1829.5489126426492,
+        "y": 2579.211912357967
+      },
+      "keywords": [
+        "consul"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hhoSe4q1u850PgK62Ubau",
+      "type": "subtopic",
+      "label": "Linkerd",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1829.5489126426492,
+        "y": 2632.211912357967
+      },
+      "keywords": [
+        "linkerd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "epLLYArR16HlhAS4c33b4",
+      "type": "subtopic",
+      "label": "Envoy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1829.5489126426492,
+        "y": 2685.211912357967
+      },
+      "keywords": [
+        "envoy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "type": "topic",
+      "label": "Cloud Design Patterns",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 1584.5509969897735,
+        "y": 2850.227757915361
+      },
+      "keywords": [
+        "cloud",
+        "design",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JCe3fcOf-sokTJURyX1oI",
+      "type": "subtopic",
+      "label": "Availability",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 1193,
+        "y": 2770
+      },
+      "keywords": [
+        "availability"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5FN7iva4DW_lv-r1tijd8",
+      "type": "subtopic",
+      "label": "Data Management",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1193,
+        "y": 2822
+      },
+      "keywords": [
+        "data",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1_NRXjckZ0F8EtEmgixqz",
+      "type": "subtopic",
+      "label": "Design and Implementation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1193,
+        "y": 2874
+      },
+      "keywords": [
+        "design",
+        "implementation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8kby89epyullS9W7uKDrs",
+      "type": "subtopic",
+      "label": "Management and Monitoring",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1193,
+        "y": 2926
+      },
+      "keywords": [
+        "management",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 269,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ju00mr0KLGN2BV6yEQGPt",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 1690.6885970352912,
+        "y": 3106.039131203956
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 104
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "paragraph",
+      "label": "Have a look at the following relevant roadmaps",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 1435.6885970352912,
+        "y": 3022.016439761934
+      },
+      "keywords": [
+        "look",
+        "following",
+        "relevant",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 531,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wKYrZhmdNsv1Dw74-oAjR",
+      "type": "button",
+      "label": "Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 1448.1022029048668,
+        "y": 3078.486197134392
+      },
+      "keywords": [
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IjRWRJtJqhSsf67kh5YE6",
+      "type": "button",
+      "label": "Docker",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1583.1022029048668,
+        "y": 3078.486197134392
+      },
+      "keywords": [
+        "docker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0iBhYESSf5f6WHvs_QqC5",
+      "type": "button",
+      "label": "Kubernetes",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1718.1022029048668,
+        "y": 3078.486197134392
+      },
+      "keywords": [
+        "kubernetes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "uSLzfLPXxS5-P7ozscvjZ",
+      "type": "button",
+      "label": "Linux",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 1853.1022029048668,
+        "y": 3078.486197134392
+      },
+      "keywords": [
+        "linux"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 1896.1056670245057,
+        "y": -26.06796103280476
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 1909.309041437306,
+        "y": 55.91760238494052
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MfErpYwkJ0wiWJZEUVfrb",
+      "type": "button",
+      "label": "Visit the Beginner Version",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 1195.6220092352162,
+        "y": 115.7961259304779
+      },
+      "keywords": [
+        "visit",
+        "beginner",
+        "version"
+      ],
+      "metadata": {
+        "style": {
+          "width": 404,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w2eCgBC-ydMHSxh7LMti8",
+      "type": "subtopic",
+      "label": "Loki",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1206.9080590588455,
+        "y": 1794.867646144425
+      },
+      "keywords": [
+        "loki"
+      ],
+      "metadata": {
+        "style": {
+          "width": 154,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hIBeTUiAI3zwUY6NgAO-A",
+      "type": "subtopic",
+      "label": "Kubernetes",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 1191.5919421168855,
+        "y": 2662.733953859971
+      },
+      "keywords": [
+        "kubernetes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "z7rDVZZVr1C2ZoOHGxDQ_",
+      "type": "label",
+      "label": "Web Server",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 2056.211689887789,
+        "y": 1182.7608674321284
+      },
+      "keywords": [
+        "web",
+        "server"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5zUf-LBQ0ByeP2hnAf9x1",
+      "type": "label",
+      "label": "Editors",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 1769.6858674228688,
+        "y": 676.1476021125169
+      },
+      "keywords": [
+        "editors"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JXsctlXUUS1ie8nNEgIk9",
+      "type": "subtopic",
+      "label": "GCP Functions",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 2010.6022029048672,
+        "y": 1606
+      },
+      "keywords": [
+        "gcp",
+        "functions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 194,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wNguM6-YEznduz3MgBCYo",
+      "type": "topic",
+      "label": "Application Monitoring",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1491.8528975202719,
+        "y": 2415.411508945109
+      },
+      "keywords": [
+        "application",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8rd7T5ahK2I_zh5co-IF-",
+      "type": "subtopic",
+      "label": "Jaeger",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1510.8528975202719,
+        "y": 2502.733953859971
+      },
+      "keywords": [
+        "jaeger"
+      ],
+      "metadata": {
+        "style": {
+          "width": 180,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pk76Us6z8LoX3f0mhnCyR",
+      "type": "subtopic",
+      "label": "New Relic",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1510.8528975202719,
+        "y": 2555.733953859971
+      },
+      "keywords": [
+        "new",
+        "relic"
+      ],
+      "metadata": {
+        "style": {
+          "width": 180,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BHny2Emf96suhAlltiEro",
+      "type": "subtopic",
+      "label": "Datadog",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1510.8528975202719,
+        "y": 2608.733953859971
+      },
+      "keywords": [
+        "datadog"
+      ],
+      "metadata": {
+        "style": {
+          "width": 180,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eOyu4wmKOrcMlhD8pUGGh",
+      "type": "subtopic",
+      "label": "Prometheus",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1510.8528975202719,
+        "y": 2661.733953859971
+      },
+      "keywords": [
+        "prometheus"
+      ],
+      "metadata": {
+        "style": {
+          "width": 180,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K81bmtgnB1gfhYdi3TB5a",
+      "type": "subtopic",
+      "label": "OpenTelemetry",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1510.8528975202719,
+        "y": 2714.733953859971
+      },
+      "keywords": [
+        "opentelemetry"
+      ],
+      "metadata": {
+        "style": {
+          "width": 180,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "_hYN0gEi9BL24nptEtXWU",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "idLHBxhvcIqZTqmh_E8Az",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "os3Pa6W9SSNEzgmlBbglQ",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "3oInpqvTSSC5_K6i7j8N7",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "YKhuRbcUFzo0hTvuTq-Yl",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "hWA7RtuqltMTmHdcCnmES",
+      "type": "default"
+    },
+    {
+      "target": "NMznG9mo2wzNFnjhg990f",
+      "type": "default"
+    },
+    {
+      "target": "gc_7cuIO2_joKlQRAPDfX",
+      "type": "default"
+    },
+    {
+      "source": "rrrvATyhXqRgJGWI3z0WF",
+      "target": "AvbMQ5vY3ip1oX_6Yq4ie",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "1AJv95mTLpR7L8KBoGym8",
+      "type": "default"
+    },
+    {
+      "source": "hWA7RtuqltMTmHdcCnmES",
+      "target": "0etAs56EeBfh_0IlAaSra",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "h6ceO0kiBIxNRkPzN3hBY",
+      "type": "default"
+    },
+    {
+      "source": "jZ67HhVRelJaxjsCckSSI",
+      "target": "_JlT9oKQ6Yu4UX6l19G8P",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "jZ67HhVRelJaxjsCckSSI",
+      "type": "default"
+    },
+    {
+      "source": "fqBgeJj5fan4TT7K2E6c7",
+      "target": "v5FGKQc-_7NYEsWjmTEuq",
+      "type": "default"
+    },
+    {
+      "source": "v5FGKQc-_7NYEsWjmTEuq",
+      "target": "npnMwSDEK2aLGgnuZZ4dO",
+      "type": "default"
+    },
+    {
+      "source": "v5FGKQc-_7NYEsWjmTEuq",
+      "target": "TwVfCYMS9jSaJ6UyYmC-K",
+      "type": "default"
+    },
+    {
+      "source": "v5FGKQc-_7NYEsWjmTEuq",
+      "target": "QCdemtWa2mE78poNXeqzr",
+      "type": "default"
+    },
+    {
+      "source": "v5FGKQc-_7NYEsWjmTEuq",
+      "target": "qe84v529VbCyydl0BKFk2",
+      "type": "default"
+    },
+    {
+      "source": "qe84v529VbCyydl0BKFk2",
+      "target": "UOQimp7QkM3sxmFvk5d3i",
+      "type": "default"
+    },
+    {
+      "source": "LvhFmlxz5uIy7k_nzx2Bv",
+      "target": "uyDm1SpOQdpHjq9zBAdck",
+      "type": "default"
+    },
+    {
+      "target": "ot9I_IHdnq2yAMffrSrbN",
+      "type": "default"
+    },
+    {
+      "target": "h9vVPOmdUSeEGVQQaSTH5",
+      "type": "default"
+    },
+    {
+      "target": "kv508kxzUj_CjZRb-TeRv",
+      "type": "default"
+    },
+    {
+      "target": "yP1y8U3eblpzbaLiCGliU",
+      "type": "default"
+    },
+    {
+      "source": "qqRLeTpuoW64H9LvY0U_w",
+      "target": "NiVvRbCOCDpVvif48poCo",
+      "type": "default"
+    },
+    {
+      "target": "i-DLwNXdCUUug6lfjkPSy",
+      "type": "default"
+    },
+    {
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "smoothstep"
+    },
+    {
+      "source": "STQQbPa7PE3gbjMdL6P-t",
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "default"
+    },
+    {
+      "source": "qe84v529VbCyydl0BKFk2",
+      "target": "wjJPzrFJBNYOD3SJLzW2M",
+      "type": "default"
+    },
+    {
+      "source": "wjJPzrFJBNYOD3SJLzW2M",
+      "target": "5wtPMLYSddAJiqMU41_XT",
+      "type": "default"
+    },
+    {
+      "source": "wjJPzrFJBNYOD3SJLzW2M",
+      "target": "LvhFmlxz5uIy7k_nzx2Bv",
+      "type": "default"
+    },
+    {
+      "source": "wjJPzrFJBNYOD3SJLzW2M",
+      "target": "Jt8BmtLUH6fHT2pGKoJs3",
+      "type": "default"
+    },
+    {
+      "source": "wjJPzrFJBNYOD3SJLzW2M",
+      "target": "z6IBekR8Xl-6f8WEb05Nw",
+      "type": "default"
+    },
+    {
+      "source": "wjJPzrFJBNYOD3SJLzW2M",
+      "target": "x-JWvG1iw86ULL9KrQmRu",
+      "type": "default"
+    },
+    {
+      "source": "wjJPzrFJBNYOD3SJLzW2M",
+      "target": "gIEQDgKOsoEnSv8mpEzGH",
+      "type": "default"
+    },
+    {
+      "source": "wjJPzrFJBNYOD3SJLzW2M",
+      "target": "OaqKLZe-XnngcDhDzCtRt",
+      "type": "default"
+    },
+    {
+      "source": "wjJPzrFJBNYOD3SJLzW2M",
+      "target": "cUifrP7v55psTb20IZndf",
+      "type": "default"
+    },
+    {
+      "source": "h10BH3OybHcIN2iDTSGkn",
+      "target": "ot9I_IHdnq2yAMffrSrbN",
+      "type": "default"
+    },
+    {
+      "source": "h10BH3OybHcIN2iDTSGkn",
+      "target": "oQIB0KE0BibjIYmxrpPZS",
+      "type": "default"
+    },
+    {
+      "source": "h10BH3OybHcIN2iDTSGkn",
+      "target": "Z7SsBWgluZWr9iWb2e9XO",
+      "type": "default"
+    },
+    {
+      "source": "h10BH3OybHcIN2iDTSGkn",
+      "target": "CQhUflAcv1lhBnmDY0gaz",
+      "type": "default"
+    },
+    {
+      "source": "CQhUflAcv1lhBnmDY0gaz",
+      "target": "qYRJYIZsmf-inMqKECRkI",
+      "type": "default"
+    },
+    {
+      "source": "CQhUflAcv1lhBnmDY0gaz",
+      "target": "jCWrnQNgjHKyhzd9dwOHz",
+      "type": "default"
+    },
+    {
+      "source": "jCWrnQNgjHKyhzd9dwOHz",
+      "target": "PsbYeHGMd9E1UNqcaFQOz",
+      "type": "default"
+    },
+    {
+      "source": "jCWrnQNgjHKyhzd9dwOHz",
+      "target": "w5d24Sf8GDkLDLGUPxzS9",
+      "type": "default"
+    },
+    {
+      "source": "w5d24Sf8GDkLDLGUPxzS9",
+      "target": "7crPw2SKw-TlsSe9kpZFQ",
+      "type": "default"
+    },
+    {
+      "source": "w5d24Sf8GDkLDLGUPxzS9",
+      "target": "2Wd9SlWGg6QtxgiUVLyZL",
+      "type": "default"
+    },
+    {
+      "source": "2Wd9SlWGg6QtxgiUVLyZL",
+      "target": "9p_ufPj6QH9gHbWBQUmGw",
+      "type": "default"
+    },
+    {
+      "source": "JizyX8jse920gpWcmoSED",
+      "target": "1oYvpFG8LKT1JD6a_9J0m",
+      "type": "default"
+    },
+    {
+      "source": "1oYvpFG8LKT1JD6a_9J0m",
+      "target": "XA__697KgofsH28coQ-ma",
+      "type": "default"
+    },
+    {
+      "source": "1oYvpFG8LKT1JD6a_9J0m",
+      "target": "V9sOxlNOyRp0Mghl7zudv",
+      "type": "default"
+    },
+    {
+      "source": "V9sOxlNOyRp0Mghl7zudv",
+      "target": "kv508kxzUj_CjZRb-TeRv",
+      "type": "default"
+    },
+    {
+      "source": "V9sOxlNOyRp0Mghl7zudv",
+      "target": "yP1y8U3eblpzbaLiCGliU",
+      "type": "default"
+    },
+    {
+      "source": "V9sOxlNOyRp0Mghl7zudv",
+      "target": "h9vVPOmdUSeEGVQQaSTH5",
+      "type": "default"
+    },
+    {
+      "source": "aQJaouIaxIJChM-40M3HQ",
+      "target": "dUapFp3f0Rum-rf_Vk_b-",
+      "type": "default"
+    },
+    {
+      "source": "aQJaouIaxIJChM-40M3HQ",
+      "target": "1-JneOQeGhox-CKrdiquq",
+      "type": "default"
+    },
+    {
+      "source": "aQJaouIaxIJChM-40M3HQ",
+      "target": "TsXFx1wWikVBVoFUUDAMx",
+      "type": "default"
+    },
+    {
+      "source": "aQJaouIaxIJChM-40M3HQ",
+      "target": "JnWVCS1HbAyfCJzGt-WOH",
+      "type": "default"
+    },
+    {
+      "source": "hcrPpjFxPi_iLiMdLKJrO",
+      "target": "ZWq23Q9ZNxLNti68oltxA",
+      "type": "default"
+    },
+    {
+      "source": "hcrPpjFxPi_iLiMdLKJrO",
+      "target": "tZzvs80KzqT8aDvEyjack",
+      "type": "default"
+    },
+    {
+      "source": "hcrPpjFxPi_iLiMdLKJrO",
+      "target": "yQ4d2uiROZYr950cjYnQE",
+      "type": "default"
+    },
+    {
+      "source": "hcrPpjFxPi_iLiMdLKJrO",
+      "target": "qqRLeTpuoW64H9LvY0U_w",
+      "type": "default"
+    },
+    {
+      "source": "qqRLeTpuoW64H9LvY0U_w",
+      "target": "gaoZjOYmU0J5aM6vtLNvN",
+      "type": "default"
+    },
+    {
+      "source": "gaoZjOYmU0J5aM6vtLNvN",
+      "target": "s_kss4FJ2KyZRdcKNHK2v",
+      "type": "default"
+    },
+    {
+      "source": "zuBAjrqQPjj-0DHGjCaqT",
+      "target": "vsmE6EpCc2DFGk1YTbkHS",
+      "type": "default"
+    },
+    {
+      "source": "-INN1qTMLimrZgaSPCcHj",
+      "target": "6gVV_JUgKgwJb4C8tHZn7",
+      "type": "default"
+    },
+    {
+      "source": "zuBAjrqQPjj-0DHGjCaqT",
+      "target": "-INN1qTMLimrZgaSPCcHj",
+      "type": "default"
+    },
+    {
+      "source": "-INN1qTMLimrZgaSPCcHj",
+      "target": "EeWsihH9ehbFKebYoB5i9",
+      "type": "default"
+    },
+    {
+      "source": "EeWsihH9ehbFKebYoB5i9",
+      "target": "XsSnqW6k2IzvmrMmJeU6a",
+      "type": "default"
+    },
+    {
+      "source": "EeWsihH9ehbFKebYoB5i9",
+      "target": "hhoSe4q1u850PgK62Ubau",
+      "type": "default"
+    },
+    {
+      "source": "EeWsihH9ehbFKebYoB5i9",
+      "target": "epLLYArR16HlhAS4c33b4",
+      "type": "default"
+    },
+    {
+      "source": "EeWsihH9ehbFKebYoB5i9",
+      "target": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "type": "smoothstep"
+    },
+    {
+      "source": "EeWsihH9ehbFKebYoB5i9",
+      "target": "OXOTm3nz6o44p50qd0brN",
+      "type": "default"
+    },
+    {
+      "source": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "default"
+    },
+    {
+      "source": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "target": "JCe3fcOf-sokTJURyX1oI",
+      "type": "default"
+    },
+    {
+      "source": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "target": "5FN7iva4DW_lv-r1tijd8",
+      "type": "default"
+    },
+    {
+      "source": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "target": "1_NRXjckZ0F8EtEmgixqz",
+      "type": "default"
+    },
+    {
+      "source": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "target": "8kby89epyullS9W7uKDrs",
+      "type": "default"
+    },
+    {
+      "source": "Yq8kVoRf20aL_o4VZU5--",
+      "target": "wNguM6-YEznduz3MgBCYo",
+      "type": "default"
+    },
+    {
+      "source": "wNguM6-YEznduz3MgBCYo",
+      "target": "zuBAjrqQPjj-0DHGjCaqT",
+      "type": "default"
+    },
+    {
+      "source": "wNguM6-YEznduz3MgBCYo",
+      "target": "8rd7T5ahK2I_zh5co-IF-",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 73
+    },
+    {
+      "name": "topic",
+      "count": 14
+    },
+    {
+      "name": "cloud",
+      "count": 14
+    },
+    {
+      "name": "devops",
+      "count": 9
+    },
+    {
+      "name": "vertical",
+      "count": 8
+    },
+    {
+      "name": "programming-language",
+      "count": 8
+    },
+    {
+      "name": "tools",
+      "count": 7
+    },
+    {
+      "name": "data-science",
+      "count": 6
+    },
+    {
+      "name": "section",
+      "count": 5
+    },
+    {
+      "name": "frontend",
+      "count": 5
+    },
+    {
+      "name": "label",
+      "count": 3
+    },
+    {
+      "name": "database",
+      "count": 3
+    },
+    {
+      "name": "backend",
+      "count": 3
+    },
+    {
+      "name": "security",
+      "count": 2
+    },
+    {
+      "name": "button",
+      "count": 2
+    },
+    {
+      "name": "legend",
+      "count": 1
+    },
+    {
+      "name": "paragraph",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "JizyX8jse920gpWcmoSED",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "jizyx8jse920gpwcmosed"
+      ]
+    },
+    {
+      "name": "SPXgDee7rpQAX3FfTdA3J",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "spxgdee7rpqax3fftda3j"
+      ]
+    },
+    {
+      "name": "45zz5L6lKJrF9JWgyj1Pz",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "45zz5l6lkjrf9jwgyj1pz"
+      ]
+    },
+    {
+      "name": "7crPw2SKw-TlsSe9kpZFQ",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "7crpw2skw",
+        "tlsse9kpzfq"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "PsbYeHGMd9E1UNqcaFQOz",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "psbyehgmd9e1unqcafqoz"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "OY4ipeYrizxKKv9Z72iLR",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "oy4ipeyrizxkkv9z72ilr"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "category": "devops",
+      "difficulty": "beginner",
+      "keywords": [
+        "devops"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Learn a Programming Language",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "learn",
+        "programming",
+        "language"
+      ]
+    },
+    {
+      "name": "Python",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "python"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "ruby"
+      ]
+    },
+    {
+      "name": "Go",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "Rust",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "rust"
+      ]
+    },
+    {
+      "name": "JavaScript / Node.js",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "javascript",
+        "node"
+      ]
+    },
+    {
+      "name": "LFXvvH86fAyJBtQVd7acq",
+      "category": "legend",
+      "difficulty": "beginner",
+      "keywords": [
+        "lfxvvh86fayjbtqvd7acq"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "operating",
+        "system"
+      ]
+    },
+    {
+      "name": "Linux",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "linux"
+      ]
+    },
+    {
+      "name": "Unix",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "unix"
+      ]
+    },
+    {
+      "name": "Ubuntu / Debian",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "ubuntu",
+        "debian"
+      ]
+    },
+    {
+      "name": "SUSE Linux",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "suse",
+        "linux"
+      ]
+    },
+    {
+      "name": "RHEL / Derivatives",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "rhel",
+        "derivatives"
+      ]
+    },
+    {
+      "name": "FreeBSD",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "freebsd"
+      ]
+    },
+    {
+      "name": "OpenBSD",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "openbsd"
+      ]
+    },
+    {
+      "name": "NetBSD",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "netbsd"
+      ]
+    },
+    {
+      "name": "Windows",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "windows"
+      ]
+    },
+    {
+      "name": "Terminal Knowledge",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "terminal",
+        "knowledge"
+      ]
+    },
+    {
+      "name": "Process Monitoring",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "process",
+        "monitoring"
+      ]
+    },
+    {
+      "name": "Performance Monitoring",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "performance",
+        "monitoring"
+      ]
+    },
+    {
+      "name": "Networking Tools",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "networking",
+        "tools"
+      ]
+    },
+    {
+      "name": "Text Manipulation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "text",
+        "manipulation"
+      ]
+    },
+    {
+      "name": "Bash",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "bash"
+      ]
+    },
+    {
+      "name": "Power Shell",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "power",
+        "shell"
+      ]
+    },
+    {
+      "name": "Vim / Nano /  Emacs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "vim",
+        "nano",
+        "emacs"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "scripting"
+      ]
+    },
+    {
+      "name": "Version Control Systems",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "version",
+        "control",
+        "systems"
+      ]
+    },
+    {
+      "name": "Git",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "git"
+      ]
+    },
+    {
+      "name": "VCS Hosting",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "vcs",
+        "hosting"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "github"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "gitlab"
+      ]
+    },
+    {
+      "name": "Bitbucket",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "bitbucket"
+      ]
+    },
+    {
+      "name": "What is and how to setup X ?",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "how",
+        "setup"
+      ]
+    },
+    {
+      "name": "Forward Proxy",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "forward",
+        "proxy"
+      ]
+    },
+    {
+      "name": "Firewall",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "firewall"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "nginx"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 164,
+    "totalEdges": 82,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:11:02.037Z",
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,4704 @@
+{
+  "name": "ai-engineer",
+  "title": "Ai Engineer",
+  "nodes": [
+    {
+      "id": "xgDW3VKPFxsHzV37ZEBtt",
+      "type": "paragraph",
+      "label": "Pre-requisites (One of these)",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 61.5,
+        "y": -100.15106699547101
+      },
+      "keywords": [
+        "pre",
+        "requisites",
+        "one",
+        "these"
+      ],
+      "metadata": {
+        "style": {
+          "width": 389,
+          "height": 124
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2d12fAvrDGrpBHvIbT2c0",
+      "type": "paragraph",
+      "label": "Scrimba is offering 20% off to roadmap users on their AI Engineer course that covers this roadmap in depth. Check them out!",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 60.5,
+        "y": 40.33286386694641
+      },
+      "keywords": [
+        "scrimba",
+        "offering",
+        "off",
+        "roadmap",
+        "users",
+        "their",
+        "engineer",
+        "course",
+        "covers",
+        "depth",
+        "check",
+        "them",
+        "out"
+      ],
+      "metadata": {
+        "style": {
+          "width": 389,
+          "height": 166
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f7f_Pt8Ymq65FYDn0RTx0",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 567.6567530029688,
+        "y": 3212.4007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 98
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cWm7uchA7HllHWHMET2Qy",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 730,
+        "y": 2957.9007482223487
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mag6fPpJF15RiIN9eAlE9",
+      "type": "section",
+      "label": "mag6fPpJF15RiIN9eAlE9",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 837.4985923959754,
+        "y": 2922.9007482223487
+      },
+      "keywords": [
+        "mag6fppjf15riin9eale9"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 376
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "P2fcMXV6vhm6MMMiBmy3r",
+      "type": "section",
+      "label": "P2fcMXV6vhm6MMMiBmy3r",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 64.99859239597538,
+        "y": 2997.4007482223487
+      },
+      "keywords": [
+        "p2fcmxv6vhm6mmmibmy3r"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 376
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k8QYMT_d6EQWDqDgnPYsT",
+      "type": "section",
+      "label": "k8QYMT_d6EQWDqDgnPYsT",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 840.3202732289765,
+        "y": 2655.9840127727616
+      },
+      "keywords": [
+        "k8qymt_d6eqwdqdgnpyst"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297,
+          "height": 216
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Lk-hBhJoaDCs6Dzq0d0I2",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 570,
+        "y": 2652.7263937544244
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 117
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1_t82YAvkh8SCiyU_Otp8",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 677,
+        "y": 2288.715898273103
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 1110
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RSb6002qr_JXVKuIq40z2",
+      "type": "section",
+      "label": "RSb6002qr_JXVKuIq40z2",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 838.3356614935651,
+        "y": 2442.7243958663935
+      },
+      "keywords": [
+        "rsb6002qr_jxvkuiq40z2"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297,
+          "height": 186
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zK_H4vmJXmyLYu1gVfhYK",
+      "type": "section",
+      "label": "zK_H4vmJXmyLYu1gVfhYK",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 838.7247553252009,
+        "y": 2126.715898273103
+      },
+      "keywords": [
+        "zk_h4vmjxmylyu1gvfhyk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297,
+          "height": 331
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "P7hG9GgyNRlmofosVs3ky",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 88.5,
+        "y": 2319.227661473262
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 60
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1C4ZyHDYbp-ykYMBgGCgJ",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 256.93627316762456,
+        "y": 2145.4100232103433
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 104
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hHhz7UIZIFgubv6pn5iKn",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 88.5,
+        "y": 2008.0927158417944
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 226
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qrUpems5ggl3QG6PU5B9R",
+      "type": "section",
+      "label": "qrUpems5ggl3QG6PU5B9R",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 63.77391817001211,
+        "y": 2735.4283305550825
+      },
+      "keywords": [
+        "qrupems5ggl3qg6pu5b9r"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 164
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UtzHMjmoyxrD9wHWWyfKI",
+      "type": "section",
+      "label": "UtzHMjmoyxrD9wHWWyfKI",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 63.77391817001211,
+        "y": 2412.7263937544244
+      },
+      "keywords": [
+        "utzhmjmoyxrd9whwwyfki"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 331
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4P2Sbyy2cVjOrXH75Hc2b",
+      "type": "section",
+      "label": "4P2Sbyy2cVjOrXH75Hc2b",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 487.3795624782034,
+        "y": 1896.0927158417944
+      },
+      "keywords": [
+        "4p2sbyy2cvjorxh75hc2b"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 272
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OFEVSFDYuVn912lbBFEGV",
+      "type": "section",
+      "label": "OFEVSFDYuVn912lbBFEGV",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 841.6087863651624,
+        "y": 1830.4687120415522
+      },
+      "keywords": [
+        "ofevsfdyuvn912lbbfegv"
+      ],
+      "metadata": {
+        "style": {
+          "width": 296,
+          "height": 150
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LVQKjfoO_nwMlmudTR5xf",
+      "type": "section",
+      "label": "LVQKjfoO_nwMlmudTR5xf",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 841.6087863651624,
+        "y": 1426.9424648726686
+      },
+      "keywords": [
+        "lvqkjfoo_nwmlmudtr5xf"
+      ],
+      "metadata": {
+        "style": {
+          "width": 296,
+          "height": 372
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Xj67gyzaoFU0809zao-Co",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 394.4565453870415,
+        "y": 1222.1146370882086
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 140,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s9fTyULS5azkrxwnXF3ZM",
+      "type": "section",
+      "label": "s9fTyULS5azkrxwnXF3ZM",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 65.4565453870415,
+        "y": 1189.060087180349
+      },
+      "keywords": [
+        "s9ftyuls5azkrxwnxf3zm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 599
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eilmLpxqlfX17bCbDDt5A",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 676.5,
+        "y": 1001.400748222349
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 183,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QLCmjm7FEloKbKgZd69mp",
+      "type": "section",
+      "label": "QLCmjm7FEloKbKgZd69mp",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 902.900748222349
+      },
+      "keywords": [
+        "qlcmjm7felokbkgzd69mp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 217
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Nr60kOmUmudHb1H_ktoQh",
+      "type": "section",
+      "label": "Nr60kOmUmudHb1H_ktoQh",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 65.4565453870415,
+        "y": 784.900748222349
+      },
+      "keywords": [
+        "nr60komumudhb1h_ktoqh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 378
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CVA5JJQfQbLhUpq98LxxZ",
+      "type": "section",
+      "label": "CVA5JJQfQbLhUpq98LxxZ",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 65.4565453870415,
+        "y": 590.900748222349
+      },
+      "keywords": [
+        "cva5jjqfqblhupq98lxxz"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BO_Wx-cxY7Cr4U-9x-fpD",
+      "type": "section",
+      "label": "BO_Wx-cxY7Cr4U-9x-fpD",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 334.40074822234897
+      },
+      "keywords": [
+        "bo_wx",
+        "cxy7cr4u",
+        "fpd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 430
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "type": "title",
+      "label": "AI Engineer",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 526.5,
+        "y": -9.599251777651034
+      },
+      "keywords": [
+        "engineer"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_hYN0gEi9BL24nptEtXWU",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 520,
+        "y": 253.37833957831333
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 203,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GN6SnI7RXIeW8JeD-qORW",
+      "type": "subtopic",
+      "label": "What is an AI Engineer?",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 226.40074822234897
+      },
+      "keywords": [
+        "what",
+        "engineer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jSZ1LhPdhlkW-9QJhIvFs",
+      "type": "subtopic",
+      "label": "AI Engineer vs ML Engineer",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 279.40074822234897
+      },
+      "keywords": [
+        "engineer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wf2BSyUekr1S1q6l8kyq6",
+      "type": "subtopic",
+      "label": "LLMs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1011.8618127280065,
+        "y": 342.90074822234897
+      },
+      "keywords": [
+        "llms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 120,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KWjD4xEPhOOYS51dvRLd2",
+      "type": "subtopic",
+      "label": "Inference",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 396.40074822234897
+      },
+      "keywords": [
+        "inference"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xostGgoaYkqMO28iN2gx8",
+      "type": "subtopic",
+      "label": "Training",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 448.90074822234897
+      },
+      "keywords": [
+        "training"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XyEp6jnBSpCxMGwALnYfT",
+      "type": "subtopic",
+      "label": "Embeddings",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 501.40074822234897
+      },
+      "keywords": [
+        "embeddings"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LnQ2AatMWpExUHcZhDIPd",
+      "type": "subtopic",
+      "label": "Vector Databases",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 553.900748222349
+      },
+      "keywords": [
+        "vector",
+        "databases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "9JwWIK0Z2MK8-6EQQJsCO",
+      "type": "subtopic",
+      "label": "RAG",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1011.8618127280065,
+        "y": 605.900748222349
+      },
+      "keywords": [
+        "rag"
+      ],
+      "metadata": {
+        "style": {
+          "width": 120,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Dc15ayFlzqMF24RqIF_-X",
+      "type": "subtopic",
+      "label": "Prompt Engineering",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 658.900748222349
+      },
+      "keywords": [
+        "prompt",
+        "engineering"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9XCxilAQ7FRet7lHQr1gE",
+      "type": "subtopic",
+      "label": "AI Agents",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 606.400748222349
+      },
+      "keywords": [
+        "agents"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5QdihE1lLpMc3DFrGy46M",
+      "type": "subtopic",
+      "label": "AI vs AGI",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 342.90074822234897
+      },
+      "keywords": [
+        "agi"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yd1VRnSOeOzXF8fgl7CW4",
+      "type": "label",
+      "label": "Common Terminology",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 911.3618127280066,
+        "y": 717.400748222349
+      },
+      "keywords": [
+        "common",
+        "terminology"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 808.4971847919508,
+        "y": -105.15106699547101
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 821.7005592047509,
+        "y": -23.165503577725815
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5Irad96FtU3TkNZRK7x_8",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 610.3795624782034,
+        "y": -116.59925177765109
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 101
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MJvTQei3yqAMdLf5dACls",
+      "type": "button",
+      "label": "Frontend",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 71.5,
+        "y": -44.62166042168667
+      },
+      "keywords": [
+        "frontend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9Vh9mUCXrYpTqEZexLW1L",
+      "type": "button",
+      "label": "Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 203,
+        "y": -44.62166042168667
+      },
+      "keywords": [
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "259d3vMaiFwnLF6ZecFyP",
+      "type": "button",
+      "label": "Full-Stack",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 317.5,
+        "y": -44.62166042168667
+      },
+      "keywords": [
+        "full",
+        "stack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 123,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qJVgKe9uBvXc-YPfvX_Y7",
+      "type": "subtopic",
+      "label": "Impact on Product Development",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 79.37833957831333
+      },
+      "keywords": [
+        "impact",
+        "product",
+        "development"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K9EiuFgPBFgeRxY4wxAmb",
+      "type": "subtopic",
+      "label": "Roles and Responsiblities",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 132.37833957831333
+      },
+      "keywords": [
+        "roles",
+        "responsiblities"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wt_3LocKHpvsnsQdDI7LK",
+      "type": "paragraph",
+      "label": "Using Pre-trained Models",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 452.5,
+        "y": 378.40074822234897
+      },
+      "keywords": [
+        "using",
+        "pre",
+        "trained",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 338,
+          "height": 67
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "d7fzv_ft12EopsQdmEsel",
+      "type": "topic",
+      "label": "Pre-trained Models",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 497,
+        "y": 510.40074822234897
+      },
+      "keywords": [
+        "pre",
+        "trained",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1Ga6DbOPc6Crz7ilsZMYy",
+      "type": "subtopic",
+      "label": "Benefits of Pre-trained Models",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 65.4565453870415,
+        "y": 458.40074822234897
+      },
+      "keywords": [
+        "benefits",
+        "pre",
+        "trained",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MXqbQGhNM3xpXlMC2ib_6",
+      "type": "subtopic",
+      "label": "Limitations and Considerations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 65.4565453870415,
+        "y": 511.40074822234897
+      },
+      "keywords": [
+        "limitations",
+        "considerations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ytU145_ip3ePMRKaroV-Z",
+      "type": "label",
+      "label": "Popular AI Models",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 154,
+        "y": 791.900748222349
+      },
+      "keywords": [
+        "popular",
+        "models"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2WbVpRLqwi3Oeqk1JPui4",
+      "type": "subtopic",
+      "label": "Open AI Models",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 78.5,
+        "y": 623.400748222349
+      },
+      "keywords": [
+        "open",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vvpYkmycH0_W030E-L12f",
+      "type": "subtopic",
+      "label": "Capabilities / Context Length",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 78.5,
+        "y": 676.400748222349
+      },
+      "keywords": [
+        "capabilities",
+        "context",
+        "length"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LbB2PeytxRSuU07Bk0KlJ",
+      "type": "subtopic",
+      "label": "Cut-off Dates / Knowledge",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 78.5,
+        "y": 729.400748222349
+      },
+      "keywords": [
+        "cut",
+        "off",
+        "dates",
+        "knowledge"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hy6EyKiNxk1x84J63dhez",
+      "type": "subtopic",
+      "label": "Anthropic's Claude",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 78.5,
+        "y": 832.900748222349
+      },
+      "keywords": [
+        "anthropic",
+        "claude"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oe8E6ZIQWuYvHVbYJHUc1",
+      "type": "subtopic",
+      "label": "Google's Gemini",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 78.5,
+        "y": 885.900748222349
+      },
+      "keywords": [
+        "google",
+        "gemini"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3PQVZbcr4neNMRr6CuNzS",
+      "type": "subtopic",
+      "label": "Azure AI",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 78.5,
+        "y": 938.900748222349
+      },
+      "keywords": [
+        "azure"
+      ],
+      "metadata": {
+        "style": {
+          "width": 114,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OkYO-aSPiuVYuLXHswBCn",
+      "type": "subtopic",
+      "label": "AWS Sagemaker",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 194.47059387846707,
+        "y": 938.900748222349
+      },
+      "keywords": [
+        "aws",
+        "sagemaker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 190,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8XjkRqHOdyH-DbXHYiBEt",
+      "type": "subtopic",
+      "label": "Hugging Face Models",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 78.5,
+        "y": 992.8781089665497
+      },
+      "keywords": [
+        "hugging",
+        "face",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "n-Ud2dXkqIzK37jlKItN4",
+      "type": "subtopic",
+      "label": "Mistral AI",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 79.5,
+        "y": 1044.8781089665497
+      },
+      "keywords": [
+        "mistral"
+      ],
+      "metadata": {
+        "style": {
+          "width": 159,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a7qsvoauFe5u953I699ps",
+      "type": "subtopic",
+      "label": "Cohere",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 240.5,
+        "y": 1044.8781089665497
+      },
+      "keywords": [
+        "cohere"
+      ],
+      "metadata": {
+        "style": {
+          "width": 143,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5ShWZl1QUqPwO-NRGN85V",
+      "type": "subtopic",
+      "label": "OpenAI Models",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 65.4565453870415,
+        "y": 566.400748222349
+      },
+      "keywords": [
+        "openai",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wr2_2ADvySOUZxzEo1Uw1",
+      "type": "paragraph",
+      "label": "Open AI Platform",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 507,
+        "y": 707.900748222349
+      },
+      "keywords": [
+        "open",
+        "platform"
+      ],
+      "metadata": {
+        "style": {
+          "width": 229,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zdeuA4GbdBl2DwKgiOA4G",
+      "type": "topic",
+      "label": "OpenAI API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 528,
+        "y": 986.900748222349
+      },
+      "keywords": [
+        "openai",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 187,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "_bPTciEA1GT1JwfXim19z",
+      "type": "subtopic",
+      "label": "Chat Completions API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 795.900748222349
+      },
+      "keywords": [
+        "chat",
+        "completions",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "9-5DYeOnKJq9XvEMWP45A",
+      "type": "subtopic",
+      "label": "Writing Prompts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 848.900748222349
+      },
+      "keywords": [
+        "writing",
+        "prompts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nyBgEHvUhwF-NANMwkRJW",
+      "type": "subtopic",
+      "label": "Open AI Playground",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 1126.900748222349
+      },
+      "keywords": [
+        "open",
+        "playground"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "15XOFdVp0IC-kLYPXUJWh",
+      "type": "subtopic",
+      "label": "Fine-tuning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 1179.900748222349
+      },
+      "keywords": [
+        "fine",
+        "tuning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "93tz7xYnToF3AMd_JKkNu",
+      "type": "label",
+      "label": "Managing Tokens",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 920,
+        "y": 1070.900748222349
+      },
+      "keywords": [
+        "managing",
+        "tokens"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qzvp6YxWDiGakA2mtspfh",
+      "type": "subtopic",
+      "label": "Maximum Tokens",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 910.900748222349
+      },
+      "keywords": [
+        "maximum",
+        "tokens"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FjV3oD7G2Ocq5HhUC17iH",
+      "type": "subtopic",
+      "label": "Token Counting",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 963.900748222349
+      },
+      "keywords": [
+        "token",
+        "counting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DZPM9zjCbYYWBPLmQImxQ",
+      "type": "subtopic",
+      "label": "Pricing Considerations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.8618127280066,
+        "y": 1016.900748222349
+      },
+      "keywords": [
+        "pricing",
+        "considerations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 280,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nXsjZiJGgFyOO8b0J-E2V",
+      "type": "button",
+      "label": "Prompt Engineering Roadmap",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 842.3618127280065,
+        "y": 1233.900748222349
+      },
+      "keywords": [
+        "prompt",
+        "engineering",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8ndKHDJgL_gYwaXC7XMer",
+      "type": "topic",
+      "label": "AI Safety and Ethics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 522.5,
+        "y": 1207.6146370882086
+      },
+      "keywords": [
+        "safety",
+        "ethics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 198,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r3lmdGQuphdbxA3Zd3e8x",
+      "type": "label",
+      "label": "Understanding AI Safety Issues",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 102.47059387846707,
+        "y": 1365.6030951949779
+      },
+      "keywords": [
+        "understanding",
+        "safety",
+        "issues"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cUyLT6ctYQ1pgmodCKREq",
+      "type": "subtopic",
+      "label": "Prompt Injection Attacks",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1199.5015627391044
+      },
+      "keywords": [
+        "prompt",
+        "injection",
+        "attacks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lhIU0ulpvDAn1Xc3ooYz_",
+      "type": "subtopic",
+      "label": "Bias and Fairness",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1305.5015627391044
+      },
+      "keywords": [
+        "bias",
+        "fairness"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sWBT-j2cRuFqRFYtV_5TK",
+      "type": "subtopic",
+      "label": "Security and Privacy Concerns",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1252.5015627391044
+      },
+      "keywords": [
+        "security",
+        "privacy",
+        "concerns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Pt-AJmSJrOxKvolb5_HEv",
+      "type": "subtopic",
+      "label": "Conducting adversarial testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1520.7260836911958
+      },
+      "keywords": [
+        "conducting",
+        "adversarial",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "ljZLa3yjQpegiZWwtnn_q",
+      "type": "subtopic",
+      "label": "OpenAI Moderation API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1414.7260836911958
+      },
+      "keywords": [
+        "openai",
+        "moderation",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "4Q5x2VCXedAWISBXUIyin",
+      "type": "subtopic",
+      "label": "Adding end-user IDs in prompts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1467.7260836911958
+      },
+      "keywords": [
+        "adding",
+        "end",
+        "user",
+        "ids",
+        "prompts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qmx6OHqx4_0JXVIv8dASp",
+      "type": "subtopic",
+      "label": "Robust prompt engineering",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1573.7260836911958
+      },
+      "keywords": [
+        "robust",
+        "prompt",
+        "engineering"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "t1SObMWkDZ1cKqNNlcd9L",
+      "type": "subtopic",
+      "label": "Know your Customers / Usecases",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1626.7260836911958
+      },
+      "keywords": [
+        "know",
+        "your",
+        "customers",
+        "usecases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ONLDyczNacGVZGojYyJrU",
+      "type": "subtopic",
+      "label": "Constraining outputs and inputs",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 76.47059387846707,
+        "y": 1679.7260836911958
+      },
+      "keywords": [
+        "constraining",
+        "outputs",
+        "inputs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_G2yiGWt55mSuqhfEL_vt",
+      "type": "label",
+      "label": "Safety Best Practices",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 140.47059387846707,
+        "y": 1740.701849711868
+      },
+      "keywords": [
+        "safety",
+        "best",
+        "practices"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a_3SabylVqzzOyw3tZN5f",
+      "type": "topic",
+      "label": "OpenSource AI",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 522.5,
+        "y": 1372.7838848882502
+      },
+      "keywords": [
+        "opensource"
+      ],
+      "metadata": {
+        "style": {
+          "width": 198,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RBwGsq9DngUsl8PrrCbqx",
+      "type": "subtopic",
+      "label": "Open vs Closed Source Models",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 841.1539837884804,
+        "y": 1318.7838848882502
+      },
+      "keywords": [
+        "open",
+        "closed",
+        "source",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "97eu-XxYUH9pYbD_KjAtA",
+      "type": "subtopic",
+      "label": "Popular Open Source Models",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 841.1539837884804,
+        "y": 1372.7838848882502
+      },
+      "keywords": [
+        "popular",
+        "open",
+        "source",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v99C5Bml2a6148LCJ9gy9",
+      "type": "topic",
+      "label": "Hugging Face",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 841.6087863651624,
+        "y": 1426.9424648726686
+      },
+      "keywords": [
+        "hugging",
+        "face"
+      ],
+      "metadata": {
+        "style": {
+          "width": 296,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YLOdOvLXa5Fa7_mmuvKEi",
+      "type": "subtopic",
+      "label": "Hugging Face Hub",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.6087863651624,
+        "y": 1580.9265129447253
+      },
+      "keywords": [
+        "hugging",
+        "face",
+        "hub"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YKIPOiSj_FNtg0h8uaSMq",
+      "type": "subtopic",
+      "label": "Hugging Face Tasks",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.6087863651624,
+        "y": 1527.9265129447253
+      },
+      "keywords": [
+        "hugging",
+        "face",
+        "tasks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nDVgsa7xov1RjEMJeFAE9",
+      "type": "label",
+      "label": "Finding Open Source Models",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 869.6087863651624,
+        "y": 1486.6598997473122
+      },
+      "keywords": [
+        "finding",
+        "open",
+        "source",
+        "models"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dDYwvkBj-voqoFCqSBfVr",
+      "type": "label",
+      "label": "Using Open Source Models",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 875.6087863651624,
+        "y": 1641.8285839892083
+      },
+      "keywords": [
+        "using",
+        "open",
+        "source",
+        "models"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3kRTzlLNBnXdTsAEXVu_M",
+      "type": "subtopic",
+      "label": "Inference SDK",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.6087863651624,
+        "y": 1682.8285839892083
+      },
+      "keywords": [
+        "inference",
+        "sdk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bGLrbpxKgENe2xS1eQtdh",
+      "type": "subtopic",
+      "label": "Transformers.js",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 851.6087863651624,
+        "y": 1735.8285839892083
+      },
+      "keywords": [
+        "transformers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rTT2UnvqFO3GH6ThPLEjO",
+      "type": "topic",
+      "label": "Ollama",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 841.6087863651624,
+        "y": 1805.9687120415522
+      },
+      "keywords": [
+        "ollama"
+      ],
+      "metadata": {
+        "style": {
+          "width": 296,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ro3vY_sp6xMQ-hfzO-rc1",
+      "type": "subtopic",
+      "label": "Ollama Models",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.6087863651624,
+        "y": 1862.9687120415522
+      },
+      "keywords": [
+        "ollama",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TsG_I7FL-cOCSw8gvZH3r",
+      "type": "subtopic",
+      "label": "Ollama SDK",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.6087863651624,
+        "y": 1916.9687120415522
+      },
+      "keywords": [
+        "ollama",
+        "sdk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "--ig0Ume_BnXb9K2U7HJN",
+      "type": "topic",
+      "label": "What are Embeddings",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 487.3795624782034,
+        "y": 1814.9687120415522
+      },
+      "keywords": [
+        "what",
+        "embeddings"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eMfcyBxnMY_l_5-8eg6sD",
+      "type": "subtopic",
+      "label": "Semantic Search",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 497.90686980833937,
+        "y": 1906.0927158417944
+      },
+      "keywords": [
+        "semantic",
+        "search"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HQe9GKy3p0kTUPxojIfSF",
+      "type": "subtopic",
+      "label": "Recommendation Systems",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 497.90686980833937,
+        "y": 2012.0927158417944
+      },
+      "keywords": [
+        "recommendation",
+        "systems"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AglWJ7gb9rTT2rMkstxtk",
+      "type": "subtopic",
+      "label": "Anomaly Detection",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 497.90686980833937,
+        "y": 2065.0927158417944
+      },
+      "keywords": [
+        "anomaly",
+        "detection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "06Xta-OqSci05nV2QMFdF",
+      "type": "subtopic",
+      "label": "Data Classification",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 497.90686980833937,
+        "y": 1959.0927158417944
+      },
+      "keywords": [
+        "data",
+        "classification"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OZvk1d0XxXwJwbEUYqnFq",
+      "type": "paragraph",
+      "label": "Embeddings & Vector Databases",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 450.8795624782034,
+        "y": 1573.7260836911958
+      },
+      "keywords": [
+        "embeddings",
+        "vector",
+        "databases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 340,
+          "height": 64
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "S4LeKcmhmhOxGmDXWrYSW",
+      "type": "label",
+      "label": "Use Cases for Embeddings",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 509.90686980833937,
+        "y": 2125.0927158417944
+      },
+      "keywords": [
+        "use",
+        "cases",
+        "embeddings"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l6priWeJhbdUD5tJ7uHyG",
+      "type": "topic",
+      "label": "Open AI Embeddings API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 62.71396345748872,
+        "y": 1980.4687120415522
+      },
+      "keywords": [
+        "open",
+        "embeddings",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "y0qD5Kb4Pf-ymIwW-tvhX",
+      "type": "subtopic",
+      "label": "Open AI Embedding Models",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 62.71396345748872,
+        "y": 1830.6426346064957
+      },
+      "keywords": [
+        "open",
+        "embedding",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4GArjDYipit4SLqKZAWDf",
+      "type": "subtopic",
+      "label": "Pricing Considerations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 62.71396345748872,
+        "y": 1883.6426346064957
+      },
+      "keywords": [
+        "pricing",
+        "considerations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "apVYIV4EyejPft25oAvdI",
+      "type": "topic",
+      "label": "Open-Source Embeddings",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 62.5,
+        "y": 2216.727661473262
+      },
+      "keywords": [
+        "open",
+        "source",
+        "embeddings"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZV_V6sqOnRodgaw4mzokC",
+      "type": "subtopic",
+      "label": "Sentence Transformers",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 134.93627316762456,
+        "y": 2063.3782051585886
+      },
+      "keywords": [
+        "sentence",
+        "transformers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dLEg4IA3F5jgc44Bst9if",
+      "type": "subtopic",
+      "label": "Models on Hugging Face",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 134.93627316762456,
+        "y": 2116.3782051585886
+      },
+      "keywords": [
+        "models",
+        "hugging",
+        "face"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tt9u3oFlsjEMfPyojuqpc",
+      "type": "topic",
+      "label": "Vector Databases",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 62.5,
+        "y": 2268.2838160405004
+      },
+      "keywords": [
+        "vector",
+        "databases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "WcjX6p-V-Rdd77EL8Ega9",
+      "type": "subtopic",
+      "label": "Purpose and Functionality",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 62.5,
+        "y": 2358.7263937544244
+      },
+      "keywords": [
+        "purpose",
+        "functionality"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dSd2C9lNl-ymmCRT9_ZC3",
+      "type": "subtopic",
+      "label": "Chroma",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 73.27752658021024,
+        "y": 2464.8371549138815
+      },
+      "keywords": [
+        "chroma"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_Cf7S1DCvX7p1_3-tP3C3",
+      "type": "subtopic",
+      "label": "Pinecone",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 204.27752658021024,
+        "y": 2464.8371549138815
+      },
+      "keywords": [
+        "pinecone"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VgUnrZGKVjAAO4n_llq5-",
+      "type": "subtopic",
+      "label": "Weaviate",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 73.27752658021024,
+        "y": 2517.8371549138815
+      },
+      "keywords": [
+        "weaviate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JurLbOO1Z8r6C3yUqRNwf",
+      "type": "subtopic",
+      "label": "FAISS",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 204.27752658021024,
+        "y": 2517.8371549138815
+      },
+      "keywords": [
+        "faiss"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rjaCNT3Li45kwu2gXckke",
+      "type": "subtopic",
+      "label": "LanceDB",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 73.27752658021024,
+        "y": 2570.8371549138815
+      },
+      "keywords": [
+        "lancedb"
+      ],
+      "metadata": {
+        "style": {
+          "width": 128,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DwOAL5mOBgBiw-EQpAzQl",
+      "type": "subtopic",
+      "label": "Qdrant",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 204.27752658021024,
+        "y": 2570.8371549138815
+      },
+      "keywords": [
+        "qdrant"
+      ],
+      "metadata": {
+        "style": {
+          "width": 131,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9kT7EEQsbeD2WDdN9ADx7",
+      "type": "subtopic",
+      "label": "Supabase",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 73.27752658021024,
+        "y": 2624.8371549138815
+      },
+      "keywords": [
+        "supabase"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j6bkm0VUgLkHdMDDJFiMC",
+      "type": "subtopic",
+      "label": "MongoDB Atlas",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 73.27752658021024,
+        "y": 2677.8371549138815
+      },
+      "keywords": [
+        "mongodb",
+        "atlas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HCuwQPBl48sRzdbxdf_E5",
+      "type": "label",
+      "label": "Popular Vector DBs (pick one)",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 79.27391817001211,
+        "y": 2423.8371549138815
+      },
+      "keywords": [
+        "popular",
+        "vector",
+        "dbs",
+        "pick",
+        "one"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5TQnO9B4_LTHwqjI7iHB1",
+      "type": "subtopic",
+      "label": "Indexing Embeddings",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 72.71593368999282,
+        "y": 2787.1963926350054
+      },
+      "keywords": [
+        "indexing",
+        "embeddings"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZcbRPtgaptqKqWBgRrEBU",
+      "type": "subtopic",
+      "label": "Performing Similarity Search",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 73.21593368999282,
+        "y": 2840.1963926350054
+      },
+      "keywords": [
+        "performing",
+        "similarity",
+        "search"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xsvdnT7BIbR_jAajTYDWw",
+      "type": "label",
+      "label": "Implementing Vector Search",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 86.27391817001211,
+        "y": 2743.7263937544244
+      },
+      "keywords": [
+        "implementing",
+        "vector",
+        "search"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lVhWhZGR558O-ljHobxIi",
+      "type": "topic",
+      "label": "RAG & Implementation",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 520,
+        "y": 2268.2838160405004
+      },
+      "keywords": [
+        "rag",
+        "implementation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GCn4LGNEtPI0NWYAZCRE-",
+      "type": "subtopic",
+      "label": "RAG Usecases",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 839.7247553252009,
+        "y": 2018.167205684323
+      },
+      "keywords": [
+        "rag",
+        "usecases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 296,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qlBEXrbV88e_wAGRwO9hW",
+      "type": "subtopic",
+      "label": "RAG vs Fine-tuning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 839.7247553252009,
+        "y": 2071.167205684323
+      },
+      "keywords": [
+        "rag",
+        "fine",
+        "tuning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 296,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mX987wiZF7p3V_gExrPeX",
+      "type": "subtopic",
+      "label": "Chunking",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.4069839913399,
+        "y": 2177.715898273103
+      },
+      "keywords": [
+        "chunking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "grTcbzT7jKk_sIUwOTZTD",
+      "type": "subtopic",
+      "label": "Embedding",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.4069839913398,
+        "y": 2230.715898273103
+      },
+      "keywords": [
+        "embedding"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zZA1FBhf1y4kCoUZ-hM4H",
+      "type": "subtopic",
+      "label": "Vector Database",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 851.4069839913398,
+        "y": 2283.715898273103
+      },
+      "keywords": [
+        "vector",
+        "database"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "OCGCzHQM2LQyUWmiqe6E0",
+      "type": "subtopic",
+      "label": "Retrieval Process",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.4069839913398,
+        "y": 2336.715898273103
+      },
+      "keywords": [
+        "retrieval",
+        "process"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2jJnS9vRYhaS69d6OxrMh",
+      "type": "subtopic",
+      "label": "Generation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 851.4069839913398,
+        "y": 2389.715898273103
+      },
+      "keywords": [
+        "generation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Bt536neIoWehPSHUB6l_n",
+      "type": "label",
+      "label": "Implementing RAG",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 906.2247553252009,
+        "y": 2137.0058206731997
+      },
+      "keywords": [
+        "implementing",
+        "rag"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v9whDFmN8Wf3oKlaOtHMD",
+      "type": "label",
+      "label": "Ways of Implementing RAG",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 874.3356614935651,
+        "y": 2468.2465978906853
+      },
+      "keywords": [
+        "ways",
+        "implementing",
+        "rag"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WZVW8FQu6LyspSKm1C_sl",
+      "type": "subtopic",
+      "label": "Using SDKs Directly",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 847.8356614935651,
+        "y": 2514.3420928710716
+      },
+      "keywords": [
+        "using",
+        "sdks",
+        "directly"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ebXXEhNRROjbbof-Gym4p",
+      "type": "subtopic",
+      "label": "Langchain",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 847.8356614935651,
+        "y": 2567.3420928710716
+      },
+      "keywords": [
+        "langchain"
+      ],
+      "metadata": {
+        "style": {
+          "width": 133,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "d0ontCII8KI8wfP-8Y45R",
+      "type": "subtopic",
+      "label": "Llama Index",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 984.8356614935651,
+        "y": 2567.3420928710716
+      },
+      "keywords": [
+        "llama",
+        "index"
+      ],
+      "metadata": {
+        "style": {
+          "width": 142,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eOqCBgBTKM8CmY3nsWjre",
+      "type": "topic",
+      "label": "Open AI Assistant API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 520,
+        "y": 2393.7243958663935
+      },
+      "keywords": [
+        "open",
+        "assistant",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "c0RPhpD00VIUgF4HJgN2T",
+      "type": "subtopic",
+      "label": "Replicate",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 78.5,
+        "y": 1098.8781089665497
+      },
+      "keywords": [
+        "replicate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AeHkNU-uJ_gBdo5-xdpEu",
+      "type": "topic",
+      "label": "AI Agents",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 533.3795624782034,
+        "y": 2739.3420928710716
+      },
+      "keywords": [
+        "agents"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pqnC9N-AUKg0vjKzuCNqd",
+      "type": "label",
+      "label": "RAG Alternative",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 516.5,
+        "y": 2354.715898273103
+      },
+      "keywords": [
+        "rag",
+        "alternative"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "778HsQzTuJ_3c9OSn5DmH",
+      "type": "subtopic",
+      "label": "Agents Usecases",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 405.1180805793284,
+        "y": 2527.2038885388165
+      },
+      "keywords": [
+        "agents",
+        "usecases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BRdKYsyWaHg6kJA62mLNO",
+      "type": "button",
+      "label": "Prompt Engineering",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 405.1180805793284,
+        "y": 2580.2038885388165
+      },
+      "keywords": [
+        "prompt",
+        "engineering"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "voDKcKvXtyLzeZdx2g3Qn",
+      "type": "subtopic",
+      "label": "ReAct Prompting",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 405.1180805793284,
+        "y": 2633.2038885388165
+      },
+      "keywords": [
+        "react",
+        "prompting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6xaRB34_g0HGt-y1dGYXR",
+      "type": "subtopic",
+      "label": "Manual Implementation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 848.3202732289765,
+        "y": 2706.1704183412
+      },
+      "keywords": [
+        "manual",
+        "implementation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Sm0Ne5Nx72hcZCdAcC0C2",
+      "type": "subtopic",
+      "label": "OpenAI Functions / Tools",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 848.3202732289765,
+        "y": 2759.1704183412
+      },
+      "keywords": [
+        "openai",
+        "functions",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mbp2NoL-VZ5hZIIblNBXt",
+      "type": "subtopic",
+      "label": "OpenAI Assistant API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 848.3202732289765,
+        "y": 2812.1704183412
+      },
+      "keywords": [
+        "openai",
+        "assistant",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 281,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "8DMSxbdBT5el9ECZE2EGx",
+      "type": "label",
+      "label": "Building AI Agents",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 910.3202732289765,
+        "y": 2666.47564929518
+      },
+      "keywords": [
+        "building",
+        "agents"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "W7cKPt_UxcUgwp8J6hS4p",
+      "type": "topic",
+      "label": "Multimodal AI",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 533.3795624782034,
+        "y": 2942.715898273103
+      },
+      "keywords": [
+        "multimodal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sGR9qcro68KrzM8qWxcH8",
+      "type": "subtopic",
+      "label": "Multimodal AI Usecases",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 65.4565453870415,
+        "y": 2942.715898273103
+      },
+      "keywords": [
+        "multimodal",
+        "usecases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fzVq4hGoa2gdbIzoyY1Zp",
+      "type": "subtopic",
+      "label": "Image Understanding",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 72.99859239597538,
+        "y": 3005.4007482223487
+      },
+      "keywords": [
+        "image",
+        "understanding"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "49BWxYVFpIgZCCqsikH7l",
+      "type": "subtopic",
+      "label": "Image Generation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 72.99859239597538,
+        "y": 3058.4007482223487
+      },
+      "keywords": [
+        "image",
+        "generation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TxaZCtTCTUfwCxAJ2pmND",
+      "type": "subtopic",
+      "label": "Video Understanding",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 72.99859239597538,
+        "y": 3111.4007482223487
+      },
+      "keywords": [
+        "video",
+        "understanding"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mxQYB820447DC6kogyZIL",
+      "type": "subtopic",
+      "label": "Audio Processing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 72.99859239597538,
+        "y": 3164.4007482223487
+      },
+      "keywords": [
+        "audio",
+        "processing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GCERpLz5BcRtWPpv-asUz",
+      "type": "subtopic",
+      "label": "Text-to-Speech",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 72.99859239597538,
+        "y": 3217.4007482223487
+      },
+      "keywords": [
+        "text",
+        "speech"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jQX10XKd_QM5wdQweEkVJ",
+      "type": "subtopic",
+      "label": "Speech-to-Text",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 72.99859239597538,
+        "y": 3270.4007482223487
+      },
+      "keywords": [
+        "speech",
+        "text"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "chm2xTFPJKW0dubKGjq-2",
+      "type": "label",
+      "label": "Multimodal AI Tasks",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 119.99859239597538,
+        "y": 3330.4007482223487
+      },
+      "keywords": [
+        "multimodal",
+        "tasks"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CRrqa-dBw1LlOwVbrZhjK",
+      "type": "subtopic",
+      "label": "OpenAI Vision API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 845.4985923959754,
+        "y": 2930.9007482223487
+      },
+      "keywords": [
+        "openai",
+        "vision",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 292,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "LKFwwjtcawJ4Z12X102Cb",
+      "type": "subtopic",
+      "label": "DALL-E API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 845.4985923959754,
+        "y": 2983.9007482223487
+      },
+      "keywords": [
+        "dall",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 292,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "OTBd6cPUayKaAM-fLWdSt",
+      "type": "subtopic",
+      "label": "Whisper API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 845.4985923959754,
+        "y": 3036.9007482223487
+      },
+      "keywords": [
+        "whisper",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 292,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "EIDbwbdolR_qsNKVDla6V",
+      "type": "subtopic",
+      "label": "Hugging Face Models",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 845.4985923959754,
+        "y": 3089.9007482223487
+      },
+      "keywords": [
+        "hugging",
+        "face",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 292,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j9zD3pHysB1CBhLfLjhpD",
+      "type": "subtopic",
+      "label": "LangChain for Multimodal Apps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 845.4985923959754,
+        "y": 3142.9007482223487
+      },
+      "keywords": [
+        "langchain",
+        "multimodal",
+        "apps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 292,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "akQTCKuPRRelj2GORqvsh",
+      "type": "subtopic",
+      "label": "LlamaIndex for Multimodal Apps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 845.4985923959754,
+        "y": 3195.9007482223487
+      },
+      "keywords": [
+        "llamaindex",
+        "multimodal",
+        "apps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 292,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5hCv_2FQNIgQC4XLW4AYs",
+      "type": "label",
+      "label": "Implementing Multimodal AI",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 875.9985923959754,
+        "y": 3255.9007482223487
+      },
+      "keywords": [
+        "implementing",
+        "multimodal"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "paragraph",
+      "label": "Continue learning with following relevant tracks",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 452.1429505186827,
+        "y": 3390.969159826914
+      },
+      "keywords": [
+        "continue",
+        "learning",
+        "following",
+        "relevant",
+        "tracks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 460,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OIcmPSbdsuWapb6HZ4BEi",
+      "type": "button",
+      "label": "AI & Data Scientist",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 466.1567530029688,
+        "y": 3445.1148172600238
+      },
+      "keywords": [
+        "data",
+        "scientist"
+      ],
+      "metadata": {
+        "style": {
+          "width": 229,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RLtk1C3gofHnLJ17x3o5b",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 671.6429505186827,
+        "y": 3513.969159826914
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 85
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-sFboM4eFUMVq1tlPl-fV",
+      "type": "button",
+      "label": "Prompt Engineering",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 699.9869736111889,
+        "y": 3445.1148172600238
+      },
+      "keywords": [
+        "prompt",
+        "engineering"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NYge7PNtfI-y6QWefXJ4d",
+      "type": "topic",
+      "label": "Development Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 533.3795624782034,
+        "y": 3281.4007482223487
+      },
+      "keywords": [
+        "development",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XcKeQfpTA5ITgdX51I4y-",
+      "type": "subtopic",
+      "label": "AI Code Editors",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 423.1375395659161,
+        "y": 3135.6475050579174
+      },
+      "keywords": [
+        "code",
+        "editors"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TifVhqFm1zXNssA8QR3SM",
+      "type": "subtopic",
+      "label": "Code Completion Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 423.1375395659161,
+        "y": 3189.6475050579174
+      },
+      "keywords": [
+        "code",
+        "completion",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8tcMfca2q2_6M-KmzmaT1",
+      "type": "button",
+      "label": "Scrimba - AI Engineer Path",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 72.27752658021029,
+        "y": 142.3328638669464
+      },
+      "keywords": [
+        "scrimba",
+        "engineer",
+        "path"
+      ],
+      "metadata": {
+        "style": {
+          "width": 361,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NxOYVBCLCLZ1wtGAGEn5W",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": 62.71396345748872,
+        "y": 225.90074822234897
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 389,
+          "height": 160
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "_hYN0gEi9BL24nptEtXWU",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "GN6SnI7RXIeW8JeD-qORW",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "jSZ1LhPdhlkW-9QJhIvFs",
+      "type": "default"
+    },
+    {
+      "source": "GN6SnI7RXIeW8JeD-qORW",
+      "target": "K9EiuFgPBFgeRxY4wxAmb",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "wt_3LocKHpvsnsQdDI7LK",
+      "type": "default"
+    },
+    {
+      "source": "wt_3LocKHpvsnsQdDI7LK",
+      "target": "d7fzv_ft12EopsQdmEsel",
+      "type": "default"
+    },
+    {
+      "source": "d7fzv_ft12EopsQdmEsel",
+      "target": "MXqbQGhNM3xpXlMC2ib_6",
+      "type": "default"
+    },
+    {
+      "source": "d7fzv_ft12EopsQdmEsel",
+      "target": "1Ga6DbOPc6Crz7ilsZMYy",
+      "type": "default"
+    },
+    {
+      "source": "d7fzv_ft12EopsQdmEsel",
+      "target": "5ShWZl1QUqPwO-NRGN85V",
+      "type": "default"
+    },
+    {
+      "source": "d7fzv_ft12EopsQdmEsel",
+      "target": "wr2_2ADvySOUZxzEo1Uw1",
+      "type": "default"
+    },
+    {
+      "source": "wr2_2ADvySOUZxzEo1Uw1",
+      "target": "zdeuA4GbdBl2DwKgiOA4G",
+      "type": "default"
+    },
+    {
+      "source": "zdeuA4GbdBl2DwKgiOA4G",
+      "target": "_bPTciEA1GT1JwfXim19z",
+      "type": "default"
+    },
+    {
+      "source": "zdeuA4GbdBl2DwKgiOA4G",
+      "target": "9-5DYeOnKJq9XvEMWP45A",
+      "type": "default"
+    },
+    {
+      "source": "zdeuA4GbdBl2DwKgiOA4G",
+      "target": "nyBgEHvUhwF-NANMwkRJW",
+      "type": "default"
+    },
+    {
+      "source": "zdeuA4GbdBl2DwKgiOA4G",
+      "target": "nXsjZiJGgFyOO8b0J-E2V",
+      "type": "default"
+    },
+    {
+      "source": "zdeuA4GbdBl2DwKgiOA4G",
+      "target": "8ndKHDJgL_gYwaXC7XMer",
+      "type": "default"
+    },
+    {
+      "source": "8ndKHDJgL_gYwaXC7XMer",
+      "target": "a_3SabylVqzzOyw3tZN5f",
+      "type": "default"
+    },
+    {
+      "source": "a_3SabylVqzzOyw3tZN5f",
+      "target": "RBwGsq9DngUsl8PrrCbqx",
+      "type": "default"
+    },
+    {
+      "source": "a_3SabylVqzzOyw3tZN5f",
+      "target": "97eu-XxYUH9pYbD_KjAtA",
+      "type": "default"
+    },
+    {
+      "source": "a_3SabylVqzzOyw3tZN5f",
+      "target": "OZvk1d0XxXwJwbEUYqnFq",
+      "type": "default"
+    },
+    {
+      "source": "OZvk1d0XxXwJwbEUYqnFq",
+      "target": "--ig0Ume_BnXb9K2U7HJN",
+      "type": "default"
+    },
+    {
+      "source": "--ig0Ume_BnXb9K2U7HJN",
+      "target": "4P2Sbyy2cVjOrXH75Hc2b",
+      "type": "default"
+    },
+    {
+      "source": "--ig0Ume_BnXb9K2U7HJN",
+      "target": "l6priWeJhbdUD5tJ7uHyG",
+      "type": "default"
+    },
+    {
+      "source": "l6priWeJhbdUD5tJ7uHyG",
+      "target": "4GArjDYipit4SLqKZAWDf",
+      "type": "default"
+    },
+    {
+      "source": "lVhWhZGR558O-ljHobxIi",
+      "target": "zK_H4vmJXmyLYu1gVfhYK",
+      "type": "default"
+    },
+    {
+      "source": "tt9u3oFlsjEMfPyojuqpc",
+      "target": "lVhWhZGR558O-ljHobxIi",
+      "type": "default"
+    },
+    {
+      "source": "AeHkNU-uJ_gBdo5-xdpEu",
+      "target": "k8QYMT_d6EQWDqDgnPYsT",
+      "type": "default"
+    },
+    {
+      "source": "W7cKPt_UxcUgwp8J6hS4p",
+      "target": "sGR9qcro68KrzM8qWxcH8",
+      "type": "default"
+    },
+    {
+      "source": "KMA7NkxFbPoUDtFnGBFnj",
+      "target": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "simplebezier"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 60
+    },
+    {
+      "name": "data-science",
+      "count": 36
+    },
+    {
+      "name": "section",
+      "count": 13
+    },
+    {
+      "name": "database",
+      "count": 10
+    },
+    {
+      "name": "label",
+      "count": 10
+    },
+    {
+      "name": "backend",
+      "count": 10
+    },
+    {
+      "name": "vertical",
+      "count": 8
+    },
+    {
+      "name": "topic",
+      "count": 6
+    },
+    {
+      "name": "button",
+      "count": 5
+    },
+    {
+      "name": "frontend",
+      "count": 4
+    },
+    {
+      "name": "horizontal",
+      "count": 3
+    },
+    {
+      "name": "programming-language",
+      "count": 2
+    },
+    {
+      "name": "cloud",
+      "count": 2
+    },
+    {
+      "name": "tools",
+      "count": 2
+    },
+    {
+      "name": "security",
+      "count": 1
+    },
+    {
+      "name": "testing",
+      "count": 1
+    },
+    {
+      "name": "framework",
+      "count": 1
+    },
+    {
+      "name": "paragraph",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "Pre-requisites (One of these)",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "pre",
+        "requisites",
+        "one",
+        "these"
+      ]
+    },
+    {
+      "name": "Scrimba is offering 20% off to roadmap users on their AI Engineer course that covers this roadmap in depth. Check them out!",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "scrimba",
+        "offering",
+        "off",
+        "roadmap",
+        "users"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "mag6fPpJF15RiIN9eAlE9",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "mag6fppjf15riin9eale9"
+      ]
+    },
+    {
+      "name": "P2fcMXV6vhm6MMMiBmy3r",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "p2fcmxv6vhm6mmmibmy3r"
+      ]
+    },
+    {
+      "name": "k8QYMT_d6EQWDqDgnPYsT",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "k8qymt_d6eqwdqdgnpyst"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "RSb6002qr_JXVKuIq40z2",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "rsb6002qr_jxvkuiq40z2"
+      ]
+    },
+    {
+      "name": "zK_H4vmJXmyLYu1gVfhYK",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "zk_h4vmjxmylyu1gvfhyk"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "qrUpems5ggl3QG6PU5B9R",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "qrupems5ggl3qg6pu5b9r"
+      ]
+    },
+    {
+      "name": "UtzHMjmoyxrD9wHWWyfKI",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "utzhmjmoyxrd9whwwyfki"
+      ]
+    },
+    {
+      "name": "4P2Sbyy2cVjOrXH75Hc2b",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "4p2sbyy2cvjorxh75hc2b"
+      ]
+    },
+    {
+      "name": "OFEVSFDYuVn912lbBFEGV",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ofevsfdyuvn912lbbfegv"
+      ]
+    },
+    {
+      "name": "LVQKjfoO_nwMlmudTR5xf",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "lvqkjfoo_nwmlmudtr5xf"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "s9fTyULS5azkrxwnXF3ZM",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "s9ftyuls5azkrxwnxf3zm"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "QLCmjm7FEloKbKgZd69mp",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "qlcmjm7felokbkgzd69mp"
+      ]
+    },
+    {
+      "name": "Nr60kOmUmudHb1H_ktoQh",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "nr60komumudhb1h_ktoqh"
+      ]
+    },
+    {
+      "name": "CVA5JJQfQbLhUpq98LxxZ",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "cva5jjqfqblhupq98lxxz"
+      ]
+    },
+    {
+      "name": "BO_Wx-cxY7Cr4U-9x-fpD",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "bo_wx",
+        "cxy7cr4u",
+        "fpd"
+      ]
+    },
+    {
+      "name": "AI Engineer",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "engineer"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "What is an AI Engineer?",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "engineer"
+      ]
+    },
+    {
+      "name": "AI Engineer vs ML Engineer",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "engineer"
+      ]
+    },
+    {
+      "name": "LLMs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "llms"
+      ]
+    },
+    {
+      "name": "Inference",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "inference"
+      ]
+    },
+    {
+      "name": "Training",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "training"
+      ]
+    },
+    {
+      "name": "Embeddings",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "embeddings"
+      ]
+    },
+    {
+      "name": "Vector Databases",
+      "category": "database",
+      "difficulty": "intermediate",
+      "keywords": [
+        "vector",
+        "databases"
+      ]
+    },
+    {
+      "name": "RAG",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "rag"
+      ]
+    },
+    {
+      "name": "Prompt Engineering",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "prompt",
+        "engineering"
+      ]
+    },
+    {
+      "name": "AI Agents",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "agents"
+      ]
+    },
+    {
+      "name": "AI vs AGI",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "agi"
+      ]
+    },
+    {
+      "name": "Common Terminology",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "common",
+        "terminology"
+      ]
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "frontend"
+      ]
+    },
+    {
+      "name": "Backend",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "backend"
+      ]
+    },
+    {
+      "name": "Full-Stack",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "full",
+        "stack"
+      ]
+    },
+    {
+      "name": "Impact on Product Development",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "impact",
+        "product",
+        "development"
+      ]
+    },
+    {
+      "name": "Roles and Responsiblities",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "roles",
+        "responsiblities"
+      ]
+    },
+    {
+      "name": "Using Pre-trained Models",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "using",
+        "pre",
+        "trained",
+        "models"
+      ]
+    },
+    {
+      "name": "Pre-trained Models",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "pre",
+        "trained",
+        "models"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 176,
+    "totalEdges": 29,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:11.937Z",
+    "version": "2.0"
+  }
+}

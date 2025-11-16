@@ -1,0 +1,2548 @@
+{
+  "name": "kubernetes",
+  "title": "Kubernetes",
+  "nodes": [
+    {
+      "id": "ef-jFKMs8jw3Ti94jem96",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -206.97152060532687,
+        "y": 2002.6547713337786
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 74
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k_AR2YBSv077a6RwpCpZT",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -205.1381872719935,
+        "y": 1819.400748222349
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "p9_mj6m2RpT7Uqa1I1YjI",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -206.47152060532687,
+        "y": 1696.400748222349
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FtrR19NFsdQoYcZzWtj5k",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -589.6381872719935,
+        "y": 1408.400748222349
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nnN56cWEfaCaQNN_dD6tE",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -434.1381872719935,
+        "y": 1169.400748222349
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ta1gWy3SFfNu_oM2FplxU",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -589.6381872719935,
+        "y": 1164.400748222349
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3r36j_pf19jd_cr4oFE5m",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -589.6381872719935,
+        "y": 840.900748222349
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HU7wZWiES3m3xl1-NYP6F",
+      "type": "title",
+      "label": "Kubernetes",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -288.1381872719935,
+        "y": -43.599251777651034
+      },
+      "keywords": [
+        "kubernetes"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "uqyE79OItPOX33E5FoGel",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -205.1381872719935,
+        "y": -134.0992517776511
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y7KjVfSI6CAduyHd4mBFT",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -315.1381872719935,
+        "y": 119.40074822234897
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qLeEEwBvlGt1fP5Qcreah",
+      "type": "subtopic",
+      "label": "Overview of Kubernetes",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 41.8618127280065,
+        "y": 50.40074822234891
+      },
+      "keywords": [
+        "overview",
+        "kubernetes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "q-Ky0ietZGpyUcBQfh-BJ",
+      "type": "subtopic",
+      "label": "Why use Kubernetes?",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 41.8618127280065,
+        "y": 103.40074822234891
+      },
+      "keywords": [
+        "why",
+        "use",
+        "kubernetes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "9oo2fxTM2_p0VYPBroqxa",
+      "type": "subtopic",
+      "label": "Key Concepts and Terminologies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 41.8618127280065,
+        "y": 156.4007482223489
+      },
+      "keywords": [
+        "key",
+        "concepts",
+        "terminologies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3fzuXKH7az_LVnmnoXB1p",
+      "type": "subtopic",
+      "label": "Kubernetes Alternatives",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 41.8618127280065,
+        "y": 209.4007482223489
+      },
+      "keywords": [
+        "kubernetes",
+        "alternatives"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "HGmeYvRf7_XusZl_K4x9k",
+      "type": "topic",
+      "label": "Containers",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -315.1381872719935,
+        "y": 172.40074822234897
+      },
+      "keywords": [
+        "containers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3OpGaQhyNtk1n1MLp-tlb",
+      "type": "topic",
+      "label": "Setting up Kubernetes",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -315.1381872719935,
+        "y": 225.4007482223489
+      },
+      "keywords": [
+        "setting",
+        "kubernetes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "zrbSJa3k7a3TE0aYbWi9c",
+      "type": "subtopic",
+      "label": "Deploying your First Application",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 174.4007482223489
+      },
+      "keywords": [
+        "deploying",
+        "your",
+        "first",
+        "application"
+      ],
+      "metadata": {
+        "style": {
+          "width": 293
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qSatCdBTDXPu-IFWzUI99",
+      "type": "subtopic",
+      "label": "Choosing a Managed Provider",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 227.4007482223489
+      },
+      "keywords": [
+        "choosing",
+        "managed",
+        "provider"
+      ],
+      "metadata": {
+        "style": {
+          "width": 293
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YaIs8lquWIe1D7RCUBZmC",
+      "type": "subtopic",
+      "label": "Installing a Local Cluster",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 280.4007482223489
+      },
+      "keywords": [
+        "installing",
+        "local",
+        "cluster"
+      ],
+      "metadata": {
+        "style": {
+          "width": 293
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1MdrzhktCWjpmxiYYBdz7",
+      "type": "topic",
+      "label": "Running Applications",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -315.1381872719935,
+        "y": 384.9007482223489
+      },
+      "keywords": [
+        "running",
+        "applications"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-d2PIXm0V_Iehe8cws8zK",
+      "type": "subtopic",
+      "label": "Pods",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 332.9007482223489
+      },
+      "keywords": [
+        "pods"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IF09l0-pryGpMbDt__ocr",
+      "type": "subtopic",
+      "label": "ReplicaSets",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 191.8618127280065,
+        "y": 332.9007482223489
+      },
+      "keywords": [
+        "replicasets"
+      ],
+      "metadata": {
+        "style": {
+          "width": 146
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TUGQX7y1gs-aKPge2F1NU",
+      "type": "subtopic",
+      "label": "Deployments",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 385.9007482223489
+      },
+      "keywords": [
+        "deployments"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AJiRBEaKU8qYEm0fqN389",
+      "type": "subtopic",
+      "label": "StatefulSets",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 191.8618127280065,
+        "y": 385.9007482223489
+      },
+      "keywords": [
+        "statefulsets"
+      ],
+      "metadata": {
+        "style": {
+          "width": 146
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r3fzAN5DzratAKnnT8hzb",
+      "type": "subtopic",
+      "label": "Jobs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 439.9007482223489
+      },
+      "keywords": [
+        "jobs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aUJ_w2L8nxNq3DfAW97Gd",
+      "type": "topic",
+      "label": "Services and Networking",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -315.1381872719935,
+        "y": 535.900748222349
+      },
+      "keywords": [
+        "services",
+        "networking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jUOlITLqnIvSu97I_3nBz",
+      "type": "subtopic",
+      "label": "External Access to Services",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -377.1381872719935,
+        "y": 619.900748222349
+      },
+      "keywords": [
+        "external",
+        "access",
+        "services"
+      ],
+      "metadata": {
+        "style": {
+          "width": 278
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Qelo1YvAcUoX5PA-RYbNp",
+      "type": "subtopic",
+      "label": "Load Balancing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -377.1381872719935,
+        "y": 672.900748222349
+      },
+      "keywords": [
+        "load",
+        "balancing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 278
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "44rhdieUCWsGFC_1__9kk",
+      "type": "subtopic",
+      "label": "Networking & Pod-to-Pod Communication",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -377.1381872719935,
+        "y": 725.900748222349
+      },
+      "keywords": [
+        "networking",
+        "pod",
+        "communication"
+      ],
+      "metadata": {
+        "style": {
+          "width": 278
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dj7Tb2XTX4kxRUYiTjlhM",
+      "type": "topic",
+      "label": "Configuration Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -710.1381872719935,
+        "y": 535.900748222349
+      },
+      "keywords": [
+        "configuration",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "u24UlZKI86vaguj_VpMv1",
+      "type": "subtopic",
+      "label": "Injecting Pod Config with ConfigMaps",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 391.9007482223489
+      },
+      "keywords": [
+        "injecting",
+        "pod",
+        "config",
+        "configmaps"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "S0CwGC2gMG-SqnLNldqBD",
+      "type": "subtopic",
+      "label": "Using Secrets for Sensitive Data",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 444.9007482223489
+      },
+      "keywords": [
+        "using",
+        "secrets",
+        "sensitive",
+        "data"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eWKkdiBhD5x2sGYajmHEs",
+      "type": "topic",
+      "label": "Resource Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -710.1381872719935,
+        "y": 825.900748222349
+      },
+      "keywords": [
+        "resource",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8RLR6gRjIyTn6GCugEfgk",
+      "type": "subtopic",
+      "label": "Setting Resource Requests and Limits",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 923.900748222349
+      },
+      "keywords": [
+        "setting",
+        "resource",
+        "requests",
+        "limits"
+      ],
+      "metadata": {
+        "style": {
+          "width": 362
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OHz4QMmA3lqL_C7aWL8Ga",
+      "type": "subtopic",
+      "label": "Assigning Quotas to Namespaces",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 976.900748222349
+      },
+      "keywords": [
+        "assigning",
+        "quotas",
+        "namespaces"
+      ],
+      "metadata": {
+        "style": {
+          "width": 362
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PP4ld_vvjpY3QltBBsXKD",
+      "type": "subtopic",
+      "label": "Monitoring & Optimizing Resource Usage",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1030.900748222349
+      },
+      "keywords": [
+        "monitoring",
+        "optimizing",
+        "resource",
+        "usage"
+      ],
+      "metadata": {
+        "style": {
+          "width": 362
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SG3wtV2rt9nmLEkgrp_zP",
+      "type": "topic",
+      "label": "Security",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 81.8618127280065,
+        "y": 825.900748222349
+      },
+      "keywords": [
+        "security"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jOq0WwLrq8tlmOgo64QDc",
+      "type": "subtopic",
+      "label": "Role Based Access Control (RBAC)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 564.900748222349
+      },
+      "keywords": [
+        "role",
+        "based",
+        "access",
+        "control",
+        "rbac"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s0gHg8CqwrSylpSPu8arA",
+      "type": "subtopic",
+      "label": "Network Security",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 617.900748222349
+      },
+      "keywords": [
+        "network",
+        "security"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Nja7IFWcFTLsPcqbvRNm9",
+      "type": "subtopic",
+      "label": "Container and Pod Security",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 670.900748222349
+      },
+      "keywords": [
+        "container",
+        "pod",
+        "security"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "i7qxaFhFHPfe3fGEgsbcE",
+      "type": "subtopic",
+      "label": "Container and Pod Security",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 723.900748222349
+      },
+      "keywords": [
+        "container",
+        "pod",
+        "security"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AgsQnQjyTLUFhFpRdcE13",
+      "type": "topic",
+      "label": "Monitoring and Logging",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 81.8618127280065,
+        "y": 977.400748222349
+      },
+      "keywords": [
+        "monitoring",
+        "logging"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-XxQtiLDAkXs7IFM_Ddw6",
+      "type": "subtopic",
+      "label": "Logs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -299.1381872719935,
+        "y": 924.400748222349
+      },
+      "keywords": [
+        "logs"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nqUBHBFUYFdYqCKZvfXBR",
+      "type": "subtopic",
+      "label": "Metrics",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -205.1381872719935,
+        "y": 924.400748222349
+      },
+      "keywords": [
+        "metrics"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ldYTEPt_hI4PXxr3tgJi5",
+      "type": "subtopic",
+      "label": "Traces",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -111.1381872719935,
+        "y": 924.400748222349
+      },
+      "keywords": [
+        "traces"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pDjNsK5vI9FmKZbQm0lDP",
+      "type": "subtopic",
+      "label": "Resource Health",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -299.1381872719935,
+        "y": 977.400748222349
+      },
+      "keywords": [
+        "resource",
+        "health"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FANswgUhUb5Iuah2fni3L",
+      "type": "subtopic",
+      "label": "Observability Engines",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -299.1381872719935,
+        "y": 1030.400748222349
+      },
+      "keywords": [
+        "observability",
+        "engines"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "03mGA5AyL7mpF6y3EMW7A",
+      "type": "topic",
+      "label": "Autoscaling",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 81.8618127280065,
+        "y": 1132.400748222349
+      },
+      "keywords": [
+        "autoscaling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "044IUUCgZP4oQ9UxUG2iy",
+      "type": "subtopic",
+      "label": "Horizontal Pod Autoscaler (HPA)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 52.3618127280065,
+        "y": 1222.900748222349
+      },
+      "keywords": [
+        "horizontal",
+        "pod",
+        "autoscaler",
+        "hpa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "c1KVczGRjh9bhMpbPP6sA",
+      "type": "subtopic",
+      "label": "Vertical Pod Autoscaler (VPA)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 52.3618127280065,
+        "y": 1275.900748222349
+      },
+      "keywords": [
+        "vertical",
+        "pod",
+        "autoscaler",
+        "vpa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RC5MoYtG2rom-d4FW5qD2",
+      "type": "subtopic",
+      "label": "Cluster Autoscaling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 52.3618127280065,
+        "y": 1328.900748222349
+      },
+      "keywords": [
+        "cluster",
+        "autoscaling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 297
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xZDXM_8qb4VL15tNGG0ws",
+      "type": "topic",
+      "label": "Scheduling",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -224.6381872719935,
+        "y": 1132.400748222349
+      },
+      "keywords": [
+        "scheduling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "70lTSIVh0AD6M8fMMuWzY",
+      "type": "subtopic",
+      "label": "Basics",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -284.1381872719935,
+        "y": 1224.400748222349
+      },
+      "keywords": [
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zXUsHAI1HFhcY2BFAcypv",
+      "type": "subtopic",
+      "label": "Taints and Tolerations",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -284.1381872719935,
+        "y": 1277.400748222349
+      },
+      "keywords": [
+        "taints",
+        "tolerations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CL0hKTcml40InmyVUXpY2",
+      "type": "subtopic",
+      "label": "Topology Spread Constraints",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -284.1381872719935,
+        "y": 1330.400748222349
+      },
+      "keywords": [
+        "topology",
+        "spread",
+        "constraints"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_Gva1eGcYqpmZNPyV03lt",
+      "type": "subtopic",
+      "label": "Pod Priorities",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -284.1381872719935,
+        "y": 1383.400748222349
+      },
+      "keywords": [
+        "pod",
+        "priorities"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TRKzlDW2PQN9bWTyz3NWL",
+      "type": "subtopic",
+      "label": "Evictions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -128.1381872719935,
+        "y": 1383.400748222349
+      },
+      "keywords": [
+        "evictions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "URnYf9jMprFz-o26fbU2P",
+      "type": "topic",
+      "label": "Storage and Volumes",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -627.1381872719935,
+        "y": 1132.400748222349
+      },
+      "keywords": [
+        "storage",
+        "volumes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "55RV9psPCmcg8G_P_zQo9",
+      "type": "subtopic",
+      "label": "CSI Drivers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1217.900748222349
+      },
+      "keywords": [
+        "csi",
+        "drivers"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LJUJ1NIUsajb1AUdvJjqW",
+      "type": "subtopic",
+      "label": "Stateful Applications",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1270.900748222349
+      },
+      "keywords": [
+        "stateful",
+        "applications"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0l0xpsabglvs_t6oAP-XG",
+      "type": "topic",
+      "label": "Deployment Patterns",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -627.1381872719935,
+        "y": 1383.400748222349
+      },
+      "keywords": [
+        "deployment",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Pymc9H-lRHVPy7M9eSaPD",
+      "type": "subtopic",
+      "label": "CI / CD Integration",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1472.900748222349
+      },
+      "keywords": [
+        "integration"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dATdEyNWlpDNKjedCXLyb",
+      "type": "subtopic",
+      "label": "GitOps",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1525.900748222349
+      },
+      "keywords": [
+        "gitops"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FAEFOhLdp7xrmctHFxiOM",
+      "type": "subtopic",
+      "label": "Helm Charts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1578.900748222349
+      },
+      "keywords": [
+        "helm",
+        "charts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "88IGeC3dAopHLGtLozxdY",
+      "type": "subtopic",
+      "label": "Canary Deployments",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1631.900748222349
+      },
+      "keywords": [
+        "canary",
+        "deployments"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yMSXdwDO36CLtp2TBC7aB",
+      "type": "subtopic",
+      "label": "Rolling Updates / Rollbacks",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1737.900748222349
+      },
+      "keywords": [
+        "rolling",
+        "updates",
+        "rollbacks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vdbcHzRz-_WnvhOemTw3R",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -425.1381872719935,
+        "y": 1799.400748222349
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "t8SJbGVXsUDECxePLDk_w",
+      "type": "topic",
+      "label": "Advanced Topics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -288.9715206053269,
+        "y": 1784.900748222349
+      },
+      "keywords": [
+        "advanced",
+        "topics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "L9rVPEEXFwisQOwT_LQ4v",
+      "type": "subtopic",
+      "label": "Creating Custom Controllers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -364.4715206053269,
+        "y": 1471.400748222349
+      },
+      "keywords": [
+        "creating",
+        "custom",
+        "controllers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 315
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1-Nb8rCMJEZrYm20sEcRJ",
+      "type": "subtopic",
+      "label": "Custom Schedulers and Extenders",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -364.4715206053269,
+        "y": 1524.400748222349
+      },
+      "keywords": [
+        "custom",
+        "schedulers",
+        "extenders"
+      ],
+      "metadata": {
+        "style": {
+          "width": 315
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9P7l-RBOkUxs3Z_UpKQO-",
+      "type": "subtopic",
+      "label": "Custom Resource Definitions (CRDs)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -364.4715206053269,
+        "y": 1577.400748222349
+      },
+      "keywords": [
+        "custom",
+        "resource",
+        "definitions",
+        "crds"
+      ],
+      "metadata": {
+        "style": {
+          "width": 315
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UeJcKv3jhenjNzHM-0R86",
+      "type": "subtopic",
+      "label": "Kubernetes Extensions and APIs",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -364.4715206053269,
+        "y": 1631.400748222349
+      },
+      "keywords": [
+        "kubernetes",
+        "extensions",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 315
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "ZrVhYTw63aVVIFAEJDG5r",
+      "type": "subtopic",
+      "label": "Should you manage your own Cluster?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -15.804853938660187,
+        "y": 1470.0674148890157
+      },
+      "keywords": [
+        "you",
+        "manage",
+        "your",
+        "own",
+        "cluster"
+      ],
+      "metadata": {
+        "style": {
+          "width": 336
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "M-iTb_7EWZIJ3JpdViICx",
+      "type": "subtopic",
+      "label": "Installing the Control Plane",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -15.804853938660187,
+        "y": 1523.0674148890157
+      },
+      "keywords": [
+        "installing",
+        "control",
+        "plane"
+      ],
+      "metadata": {
+        "style": {
+          "width": 336
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2cQKTxln3dIk5IjX2UZdM",
+      "type": "subtopic",
+      "label": "Adding and Managing Worker Nodes",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -15.804853938660187,
+        "y": 1576.0674148890157
+      },
+      "keywords": [
+        "adding",
+        "managing",
+        "worker",
+        "nodes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 336
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "auZgEQ6FC3nUjuyx0zANh",
+      "type": "subtopic",
+      "label": "Multi-Cluster Management",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -17.138187271993502,
+        "y": 1629.0674148890157
+      },
+      "keywords": [
+        "multi",
+        "cluster",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 336
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-M6ZVzI35DVZwl9hGpYFQ",
+      "type": "label",
+      "label": "Cluster Operations",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -13.138187271993502,
+        "y": 1700.5674148890157
+      },
+      "keywords": [
+        "cluster",
+        "operations"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "A3PLMcJN35yJJUuZJbRMx",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -364.4715206053269,
+        "y": 1684.900748222349
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "paragraph",
+      "label": "Continue learning with following roadmaps",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -445.74416945365664,
+        "y": 1899.509113900669
+      },
+      "keywords": [
+        "continue",
+        "learning",
+        "following",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 410,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UloavCkIvZnD1XMFohYVT",
+      "type": "button",
+      "label": "DevOps",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -430.74416945365664,
+        "y": 1953.6547713337786
+      },
+      "keywords": [
+        "devops"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "StxLh1r3qXqyRSqfJGird",
+      "type": "button",
+      "label": "Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -115.1381872719935,
+        "y": 1953.6547713337786
+      },
+      "keywords": [
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OIcmPSbdsuWapb6HZ4BEi",
+      "type": "button",
+      "label": "Docker",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -289.1381872719935,
+        "y": 1953.6547713337786
+      },
+      "keywords": [
+        "docker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wx-CpX3NJtKrdr_dQHZi9",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -745.1381872719935,
+        "y": -123.59925177765109
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kpF15oUmlUmk1qVGEBB7Y",
+      "type": "paragraph",
+      "label": "Find the interactive version of this roadmap and more roadmaps at",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 40.99419451849974,
+        "y": -139.2948532825934
+      },
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "if9eTna5NRTMStVwpSwDP",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 55.99419451849974,
+        "y": -53.09925177765109
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9-oaTlzKmcxTfaRycz1w3",
+      "type": "subtopic",
+      "label": "Blue-Green Deployments",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -745.1381872719935,
+        "y": 1684.900748222349
+      },
+      "keywords": [
+        "blue",
+        "green",
+        "deployments"
+      ],
+      "metadata": {
+        "style": {
+          "width": 264
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "HU7wZWiES3m3xl1-NYP6F",
+      "target": "y7KjVfSI6CAduyHd4mBFT",
+      "type": "default"
+    },
+    {
+      "source": "y7KjVfSI6CAduyHd4mBFT",
+      "target": "qLeEEwBvlGt1fP5Qcreah",
+      "type": "default"
+    },
+    {
+      "source": "y7KjVfSI6CAduyHd4mBFT",
+      "target": "q-Ky0ietZGpyUcBQfh-BJ",
+      "type": "default"
+    },
+    {
+      "source": "y7KjVfSI6CAduyHd4mBFT",
+      "target": "9oo2fxTM2_p0VYPBroqxa",
+      "type": "default"
+    },
+    {
+      "source": "y7KjVfSI6CAduyHd4mBFT",
+      "target": "3fzuXKH7az_LVnmnoXB1p",
+      "type": "default"
+    },
+    {
+      "source": "3OpGaQhyNtk1n1MLp-tlb",
+      "target": "zrbSJa3k7a3TE0aYbWi9c",
+      "type": "default"
+    },
+    {
+      "source": "3OpGaQhyNtk1n1MLp-tlb",
+      "target": "qSatCdBTDXPu-IFWzUI99",
+      "type": "default"
+    },
+    {
+      "source": "3OpGaQhyNtk1n1MLp-tlb",
+      "target": "YaIs8lquWIe1D7RCUBZmC",
+      "type": "default"
+    },
+    {
+      "source": "3OpGaQhyNtk1n1MLp-tlb",
+      "target": "1MdrzhktCWjpmxiYYBdz7",
+      "type": "default"
+    },
+    {
+      "source": "1MdrzhktCWjpmxiYYBdz7",
+      "target": "TUGQX7y1gs-aKPge2F1NU",
+      "type": "default"
+    },
+    {
+      "source": "1MdrzhktCWjpmxiYYBdz7",
+      "target": "-d2PIXm0V_Iehe8cws8zK",
+      "type": "default"
+    },
+    {
+      "source": "1MdrzhktCWjpmxiYYBdz7",
+      "target": "r3fzAN5DzratAKnnT8hzb",
+      "type": "default"
+    },
+    {
+      "source": "1MdrzhktCWjpmxiYYBdz7",
+      "target": "aUJ_w2L8nxNq3DfAW97Gd",
+      "type": "default"
+    },
+    {
+      "source": "aUJ_w2L8nxNq3DfAW97Gd",
+      "target": "jUOlITLqnIvSu97I_3nBz",
+      "type": "default"
+    },
+    {
+      "source": "aUJ_w2L8nxNq3DfAW97Gd",
+      "target": "dj7Tb2XTX4kxRUYiTjlhM",
+      "type": "default"
+    },
+    {
+      "source": "dj7Tb2XTX4kxRUYiTjlhM",
+      "target": "S0CwGC2gMG-SqnLNldqBD",
+      "type": "default"
+    },
+    {
+      "source": "dj7Tb2XTX4kxRUYiTjlhM",
+      "target": "eWKkdiBhD5x2sGYajmHEs",
+      "type": "default"
+    },
+    {
+      "source": "eWKkdiBhD5x2sGYajmHEs",
+      "target": "SG3wtV2rt9nmLEkgrp_zP",
+      "type": "default"
+    },
+    {
+      "source": "SG3wtV2rt9nmLEkgrp_zP",
+      "target": "i7qxaFhFHPfe3fGEgsbcE",
+      "type": "default"
+    },
+    {
+      "source": "SG3wtV2rt9nmLEkgrp_zP",
+      "target": "AgsQnQjyTLUFhFpRdcE13",
+      "type": "default"
+    },
+    {
+      "source": "AgsQnQjyTLUFhFpRdcE13",
+      "target": "pDjNsK5vI9FmKZbQm0lDP",
+      "type": "default"
+    },
+    {
+      "source": "AgsQnQjyTLUFhFpRdcE13",
+      "target": "ldYTEPt_hI4PXxr3tgJi5",
+      "type": "default"
+    },
+    {
+      "source": "AgsQnQjyTLUFhFpRdcE13",
+      "target": "FANswgUhUb5Iuah2fni3L",
+      "type": "default"
+    },
+    {
+      "source": "AgsQnQjyTLUFhFpRdcE13",
+      "target": "03mGA5AyL7mpF6y3EMW7A",
+      "type": "default"
+    },
+    {
+      "source": "03mGA5AyL7mpF6y3EMW7A",
+      "target": "044IUUCgZP4oQ9UxUG2iy",
+      "type": "default"
+    },
+    {
+      "source": "03mGA5AyL7mpF6y3EMW7A",
+      "target": "xZDXM_8qb4VL15tNGG0ws",
+      "type": "default"
+    },
+    {
+      "source": "xZDXM_8qb4VL15tNGG0ws",
+      "target": "70lTSIVh0AD6M8fMMuWzY",
+      "type": "default"
+    },
+    {
+      "source": "xZDXM_8qb4VL15tNGG0ws",
+      "target": "URnYf9jMprFz-o26fbU2P",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 40
+    },
+    {
+      "name": "devops",
+      "count": 12
+    },
+    {
+      "name": "topic",
+      "count": 10
+    },
+    {
+      "name": "vertical",
+      "count": 8
+    },
+    {
+      "name": "security",
+      "count": 4
+    },
+    {
+      "name": "data-science",
+      "count": 3
+    },
+    {
+      "name": "horizontal",
+      "count": 2
+    },
+    {
+      "name": "paragraph",
+      "count": 2
+    },
+    {
+      "name": "tools",
+      "count": 1
+    },
+    {
+      "name": "label",
+      "count": 1
+    },
+    {
+      "name": "backend",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    },
+    {
+      "name": "button",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "category": "devops",
+      "difficulty": "advanced",
+      "keywords": [
+        "kubernetes"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "Overview of Kubernetes",
+      "category": "devops",
+      "difficulty": "advanced",
+      "keywords": [
+        "overview",
+        "kubernetes"
+      ]
+    },
+    {
+      "name": "Why use Kubernetes?",
+      "category": "devops",
+      "difficulty": "advanced",
+      "keywords": [
+        "why",
+        "use",
+        "kubernetes"
+      ]
+    },
+    {
+      "name": "Key Concepts and Terminologies",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "key",
+        "concepts",
+        "terminologies"
+      ]
+    },
+    {
+      "name": "Kubernetes Alternatives",
+      "category": "devops",
+      "difficulty": "advanced",
+      "keywords": [
+        "kubernetes",
+        "alternatives"
+      ]
+    },
+    {
+      "name": "Containers",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "containers"
+      ]
+    },
+    {
+      "name": "Setting up Kubernetes",
+      "category": "devops",
+      "difficulty": "advanced",
+      "keywords": [
+        "setting",
+        "kubernetes"
+      ]
+    },
+    {
+      "name": "Deploying your First Application",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "deploying",
+        "your",
+        "first",
+        "application"
+      ]
+    },
+    {
+      "name": "Choosing a Managed Provider",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "choosing",
+        "managed",
+        "provider"
+      ]
+    },
+    {
+      "name": "Installing a Local Cluster",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "installing",
+        "local",
+        "cluster"
+      ]
+    },
+    {
+      "name": "Running Applications",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "running",
+        "applications"
+      ]
+    },
+    {
+      "name": "Pods",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "pods"
+      ]
+    },
+    {
+      "name": "ReplicaSets",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "replicasets"
+      ]
+    },
+    {
+      "name": "Deployments",
+      "category": "devops",
+      "difficulty": "beginner",
+      "keywords": [
+        "deployments"
+      ]
+    },
+    {
+      "name": "StatefulSets",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "statefulsets"
+      ]
+    },
+    {
+      "name": "Jobs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "jobs"
+      ]
+    },
+    {
+      "name": "Services and Networking",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "services",
+        "networking"
+      ]
+    },
+    {
+      "name": "External Access to Services",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "external",
+        "access",
+        "services"
+      ]
+    },
+    {
+      "name": "Load Balancing",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "load",
+        "balancing"
+      ]
+    },
+    {
+      "name": "Networking & Pod-to-Pod Communication",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "networking",
+        "pod",
+        "communication"
+      ]
+    },
+    {
+      "name": "Configuration Management",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "configuration",
+        "management"
+      ]
+    },
+    {
+      "name": "Injecting Pod Config with ConfigMaps",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "injecting",
+        "pod",
+        "config",
+        "configmaps"
+      ]
+    },
+    {
+      "name": "Using Secrets for Sensitive Data",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "using",
+        "secrets",
+        "sensitive",
+        "data"
+      ]
+    },
+    {
+      "name": "Resource Management",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "resource",
+        "management"
+      ]
+    },
+    {
+      "name": "Setting Resource Requests and Limits",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "setting",
+        "resource",
+        "requests",
+        "limits"
+      ]
+    },
+    {
+      "name": "Assigning Quotas to Namespaces",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "assigning",
+        "quotas",
+        "namespaces"
+      ]
+    },
+    {
+      "name": "Monitoring & Optimizing Resource Usage",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "monitoring",
+        "optimizing",
+        "resource",
+        "usage"
+      ]
+    },
+    {
+      "name": "Security",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "name": "Role Based Access Control (RBAC)",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "role",
+        "based",
+        "access",
+        "control",
+        "rbac"
+      ]
+    },
+    {
+      "name": "Network Security",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "network",
+        "security"
+      ]
+    },
+    {
+      "name": "Container and Pod Security",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "container",
+        "pod",
+        "security"
+      ]
+    },
+    {
+      "name": "Container and Pod Security",
+      "category": "security",
+      "difficulty": "beginner",
+      "keywords": [
+        "container",
+        "pod",
+        "security"
+      ]
+    },
+    {
+      "name": "Monitoring and Logging",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "monitoring",
+        "logging"
+      ]
+    },
+    {
+      "name": "Logs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "logs"
+      ]
+    },
+    {
+      "name": "Metrics",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "metrics"
+      ]
+    },
+    {
+      "name": "Traces",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "traces"
+      ]
+    },
+    {
+      "name": "Resource Health",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "resource",
+        "health"
+      ]
+    },
+    {
+      "name": "Observability Engines",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "observability",
+        "engines"
+      ]
+    },
+    {
+      "name": "Autoscaling",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "autoscaling"
+      ]
+    },
+    {
+      "name": "Horizontal Pod Autoscaler (HPA)",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "pod",
+        "autoscaler",
+        "hpa"
+      ]
+    },
+    {
+      "name": "Vertical Pod Autoscaler (VPA)",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "pod",
+        "autoscaler",
+        "vpa"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 86,
+    "totalEdges": 28,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:11:53.711Z",
+    "version": "2.0"
+  }
+}

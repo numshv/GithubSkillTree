@@ -1,0 +1,3481 @@
+{
+  "name": "software-design-architecture",
+  "title": "Software Design Architecture",
+  "nodes": [
+    {
+      "id": "P72dYqoD4ySm0uRaUOJ5v",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -182.82822136329878,
+        "y": 1487.9007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qA_Y7AgD-Z6is-1hqOqzH",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -408.6381872719935,
+        "y": 1568.1208448974862
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3DjhvOMcTs6HwQkmnJyqS",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 240.3618127280065,
+        "y": 1487.9007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6Bx4SL1VB3tkS38lGpiaQ",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 141.3618127280065,
+        "y": 1058.7051467174065
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VbFXAyIhGjJtHs_L0bXk3",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 235.3618127280065,
+        "y": 1045.9007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "efjRPzVNm00Fe6CC3LT1N",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -168.6381872719935,
+        "y": 1051.7051467174065
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SgOLJllVsYIWZZmHzJUK7",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -168.6381872719935,
+        "y": 691.400748222349
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-yVW4ejTnj5vN8y0s_qTa",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -92.1381872719935,
+        "y": 955.9007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UJ14WYeOlnd8vkKhwqTjP",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -252.1381872719935,
+        "y": 955.9007482223487
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sqpYr4D6lzaJsphbPVfit",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -413.1381872719935,
+        "y": 680.7051467174066
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JyEXyTp5_UxhyRY3ZULZG",
+      "type": "section",
+      "label": "JyEXyTp5_UxhyRY3ZULZG",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 1105.9007482223487
+      },
+      "keywords": [
+        "jyexytp5_uxhyry3zulzg"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 301.5
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VThkejHxNxNQgqjwDN67c",
+      "type": "section",
+      "label": "VThkejHxNxNQgqjwDN67c",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 816.7051467174065
+      },
+      "keywords": [
+        "vthkejhxnxnqgqjwdn67c"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kLnJC5PdxpgmRU2X57V64",
+      "type": "section",
+      "label": "kLnJC5PdxpgmRU2X57V64",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 650.2051467174066
+      },
+      "keywords": [
+        "klnjc5pdxpgmru2x57v64"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JwkzZU185OsVZ5VSUjC0f",
+      "type": "section",
+      "label": "JwkzZU185OsVZ5VSUjC0f",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 94.8618127280065,
+        "y": 205.7051467174066
+      },
+      "keywords": [
+        "jwkzzu185osvz5vsujc0f"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HU7wZWiES3m3xl1-NYP6F",
+      "type": "title",
+      "label": "Software Design & Architecture",
+      "description": "",
+      "category": "title",
+      "position": {
+        "x": -375.6381872719935,
+        "y": -47.09925177765109
+      },
+      "keywords": [
+        "software",
+        "design",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "uqyE79OItPOX33E5FoGel",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -168.6381872719935,
+        "y": -133.0992517776511
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CCmziWV0VnzZxVbjVF_br",
+      "type": "paragraph",
+      "label": "Find the interactive version of this roadmap and more roadmaps at",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 94.8618127280065,
+        "y": -148.2948532825934
+      },
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "if9eTna5NRTMStVwpSwDP",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 109.8618127280065,
+        "y": -62.09925177765109
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TJZgsxpfOmltUUChMzlEM",
+      "type": "subtopic",
+      "label": "Clean Code",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": -98.59925177765109
+      },
+      "keywords": [
+        "clean",
+        "code"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RgYq3YOJhPGSf5in1Rcdp",
+      "type": "subtopic",
+      "label": "Programming Paradigms",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": -45.59925177765109
+      },
+      "keywords": [
+        "programming",
+        "paradigms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qZQDOe2MHBh8wNcmvkLQm",
+      "type": "subtopic",
+      "label": "Object Oriented Programming",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 7.400748222348909
+      },
+      "keywords": [
+        "object",
+        "oriented",
+        "programming"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "p96fNXv0Z4rEEXJR9hAYX",
+      "type": "subtopic",
+      "label": "Design Principles",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 60.40074822234891
+      },
+      "keywords": [
+        "design",
+        "principles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gyQw885dvupmkohzJPg3a",
+      "type": "subtopic",
+      "label": "Design Patterns",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 113.40074822234891
+      },
+      "keywords": [
+        "design",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XBCxWdpvQyK2iIG2eEA1K",
+      "type": "subtopic",
+      "label": "Architectural Principles",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 166.4007482223489
+      },
+      "keywords": [
+        "architectural",
+        "principles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "En_hvwRvY6k_itsNCQBYE",
+      "type": "subtopic",
+      "label": "Architectural Styles",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 219.4007482223489
+      },
+      "keywords": [
+        "architectural",
+        "styles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jq916t7svaMw5sFOcqZSi",
+      "type": "subtopic",
+      "label": "Architectural Patterns",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 272.4007482223489
+      },
+      "keywords": [
+        "architectural",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WrzsvLgo7cf2KjvJhtJEC",
+      "type": "subtopic",
+      "label": "Enterprise Patterns",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 325.4007482223489
+      },
+      "keywords": [
+        "enterprise",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uLYSP9v3y51h8Ttdt5ije",
+      "type": "label",
+      "label": "Minimap of Topics",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -643.6381872719935,
+        "y": -146.5992517776511
+      },
+      "keywords": [
+        "minimap",
+        "topics"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pd0_ffU8fTHcg_nLPae6W",
+      "type": "button",
+      "label": "Backend Developer Roadmap",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -298.1381872719935,
+        "y": 134.4007482223489
+      },
+      "keywords": [
+        "backend",
+        "developer",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kpF15oUmlUmk1qVGEBB7Y",
+      "type": "paragraph",
+      "label": "Also visit Khalil's guide covering how to learn Software Design & Architecture",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 94.8618127280065,
+        "y": 20.90074822234891
+      },
+      "keywords": [
+        "also",
+        "visit",
+        "khalil",
+        "guide",
+        "covering",
+        "how",
+        "learn",
+        "software",
+        "design",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "JS5a5FraWCwfgwt8GAyc7",
+      "type": "button",
+      "label": "Software Design and Architecture",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 109.8618127280065,
+        "y": 104.40074822234891
+      },
+      "keywords": [
+        "software",
+        "design",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "08qKtgnhJ3tlb5JKfTDf5",
+      "type": "topic",
+      "label": "Clean Code Principles",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -298.1381872719935,
+        "y": 307.4007482223489
+      },
+      "keywords": [
+        "clean",
+        "code",
+        "principles"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2SOZvuEcy8Cy8ymN7x4L-",
+      "type": "subtopic",
+      "label": "Be consistent",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 218.4007482223489
+      },
+      "keywords": [
+        "consistent"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6Cd1BbGsmPJs_5jKhumyV",
+      "type": "subtopic",
+      "label": "Meaningful names over comments",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 271.4007482223489
+      },
+      "keywords": [
+        "meaningful",
+        "names",
+        "over",
+        "comments"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "81WOL1nxb56ZbAOvxJ7NK",
+      "type": "subtopic",
+      "label": "Indentation and Code Style",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 324.4007482223489
+      },
+      "keywords": [
+        "indentation",
+        "code",
+        "style"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XEwC6Fyf2DNNHQsoGTrQj",
+      "type": "subtopic",
+      "label": "Keep methods / classes / files small",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 377.4007482223489
+      },
+      "keywords": [
+        "keep",
+        "methods",
+        "classes",
+        "files",
+        "small"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5S5A5wCJUCNPLlHJ5fRjU",
+      "type": "subtopic",
+      "label": "Pure functions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 430.4007482223489
+      },
+      "keywords": [
+        "pure",
+        "functions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qZzl0hAD2LkShsPql1IlZ",
+      "type": "subtopic",
+      "label": "Minimize cyclomatic complexity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 483.40074822234897
+      },
+      "keywords": [
+        "minimize",
+        "cyclomatic",
+        "complexity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yyKvmutbxu3iVHTuqr5q4",
+      "type": "subtopic",
+      "label": "Avoid passing nulls, booleans",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 536.400748222349
+      },
+      "keywords": [
+        "avoid",
+        "passing",
+        "nulls",
+        "booleans"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OoCCy-3W5y7bUcKz_iyBw",
+      "type": "subtopic",
+      "label": "Keep framework code distant",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 589.400748222349
+      },
+      "keywords": [
+        "keep",
+        "framework",
+        "code",
+        "distant"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "S1m7ty7Qrzu1rr4Jl-WgM",
+      "type": "subtopic",
+      "label": "Use correct constructs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 642.400748222349
+      },
+      "keywords": [
+        "use",
+        "correct",
+        "constructs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mzt7fvx6ab3tmG1R1NcLO",
+      "type": "subtopic",
+      "label": "Tests should be fast and independent",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 695.400748222349
+      },
+      "keywords": [
+        "tests",
+        "fast",
+        "independent"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JKK6bli3P_cqJ128wPnot",
+      "type": "subtopic",
+      "label": "Use meaningful names",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 748.400748222349
+      },
+      "keywords": [
+        "use",
+        "meaningful",
+        "names"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kp86Vc3uue3IxTN9B9p59",
+      "type": "subtopic",
+      "label": "Organize code by actor it belongs to",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 801.400748222349
+      },
+      "keywords": [
+        "organize",
+        "code",
+        "actor",
+        "belongs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tLbckKmfVxgn59j_dlh8b",
+      "type": "subtopic",
+      "label": "Command query separation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 854.400748222349
+      },
+      "keywords": [
+        "command",
+        "query",
+        "separation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9naCfoHF1LW1OEsVZGi8v",
+      "type": "subtopic",
+      "label": "Keep it simple and refactor often",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.99419451849974,
+        "y": 907.400748222349
+      },
+      "keywords": [
+        "keep",
+        "simple",
+        "refactor",
+        "often"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "isbQTvteWitvwVwBtwAr3",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -20.138187271993502,
+        "y": 321.9007482223489
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TDhTYdEyBuOnDKcQJzTAk",
+      "type": "topic",
+      "label": "Programming Paradigms",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -298.1381872719935,
+        "y": 452.2051467174066
+      },
+      "keywords": [
+        "programming",
+        "paradigms"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VhSEH_RoWFt1z2lial7xZ",
+      "type": "subtopic",
+      "label": "Structured Programming",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 453.52104026608447
+      },
+      "keywords": [
+        "structured",
+        "programming"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YswaOqZNYcmDwly2IXrTT",
+      "type": "subtopic",
+      "label": "Functional Programming",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 506.52104026608447
+      },
+      "keywords": [
+        "functional",
+        "programming"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VZrERRRYhmqDx4slnZtdc",
+      "type": "subtopic",
+      "label": "Object Oriented Programming",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.6381872719935,
+        "y": 559.5210402660845
+      },
+      "keywords": [
+        "object",
+        "oriented",
+        "programming"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HhYdURE4X-a9GVwJhAyE0",
+      "type": "topic",
+      "label": "Object Oriented Programming",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -299.1381872719935,
+        "y": 666.2051467174066
+      },
+      "keywords": [
+        "object",
+        "oriented",
+        "programming"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0VO_-1g-TS29y0Ji2yCjc",
+      "type": "topic",
+      "label": "Model-Driven Design",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 1081.4007482223487
+      },
+      "keywords": [
+        "model",
+        "driven",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I25ghe8xYWpZ-9pRcHfOh",
+      "type": "subtopic",
+      "label": "Domain Models",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 1138.4007482223487
+      },
+      "keywords": [
+        "domain",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "c6n-wOHylTbzpxqgoXtdw",
+      "type": "subtopic",
+      "label": "Class Variants",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 1297.4007482223487
+      },
+      "keywords": [
+        "class",
+        "variants"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HN160YgryBBtVGjnWxNie",
+      "type": "subtopic",
+      "label": "Layered Architectures",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 1350.4007482223487
+      },
+      "keywords": [
+        "layered",
+        "architectures"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "kWNQd3paQrhMHMJzM35w8",
+      "type": "subtopic",
+      "label": "Domain Language",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 1244.4007482223487
+      },
+      "keywords": [
+        "domain",
+        "language"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nVaoI4IDPVEsdtFcjGNRw",
+      "type": "subtopic",
+      "label": "Anemic Models",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 1191.4007482223487
+      },
+      "keywords": [
+        "anemic",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RMkEE7c0jdVFqZ4fmjL6Y",
+      "type": "subtopic",
+      "label": "Abstract Classes",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 864.7051467174065
+      },
+      "keywords": [
+        "abstract",
+        "classes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hd6GJ-H4p9I4aaiRTni57",
+      "type": "subtopic",
+      "label": "Concrete Classes",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 917.7051467174065
+      },
+      "keywords": [
+        "concrete",
+        "classes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "b-YIbw-r-nESVt_PUFQeq",
+      "type": "subtopic",
+      "label": "Scope / Visibility",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 970.7051467174065
+      },
+      "keywords": [
+        "scope",
+        "visibility"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SrcPhS4F7aT80qNjbv54f",
+      "type": "subtopic",
+      "label": "Interfaces",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -692.6381872719935,
+        "y": 1023.7051467174065
+      },
+      "keywords": [
+        "interfaces"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Dj36yLBShoazj7SAw6a_A",
+      "type": "subtopic",
+      "label": "Inheritance",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -691.1381872719935,
+        "y": 701.7051467174066
+      },
+      "keywords": [
+        "inheritance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 125
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4DVW4teisMz8-58XttMGt",
+      "type": "subtopic",
+      "label": "Polymorphism",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -561.6381872719935,
+        "y": 700.2051467174066
+      },
+      "keywords": [
+        "polymorphism"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VA8FMrhF4non9x-J3urY8",
+      "type": "subtopic",
+      "label": "Abstraction",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -691.1381872719935,
+        "y": 754.7051467174066
+      },
+      "keywords": [
+        "abstraction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 125
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GJxfVjhiLuuc36hatx9dP",
+      "type": "subtopic",
+      "label": "Encapsulation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -561.6381872719935,
+        "y": 753.2051467174066
+      },
+      "keywords": [
+        "encapsulation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9dMbo4Q1_Sd9wW6-HSCA9",
+      "type": "topic",
+      "label": "Design Principles",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -318.1381872719935,
+        "y": 1019.7051467174065
+      },
+      "keywords": [
+        "design",
+        "principles"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Izno7xX7wDvwPEg7f_d1Y",
+      "type": "subtopic",
+      "label": "Composition over Inheritance",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -319.1381872719935,
+        "y": 1119.400748222349
+      },
+      "keywords": [
+        "composition",
+        "over",
+        "inheritance"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3eWirbQGbJZd4g7CS1xk_",
+      "type": "label",
+      "label": "Primary Principles",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -636.1381872719935,
+        "y": 661.2051467174066
+      },
+      "keywords": [
+        "primary",
+        "principles"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9slZPeVCSqU5-5PqaNJOh",
+      "type": "label",
+      "label": "Paradigm Features",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -650.6381872719935,
+        "y": 824.400748222349
+      },
+      "keywords": [
+        "paradigm",
+        "features"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DlefJ9JuJ1LdQYC4WSx6y",
+      "type": "subtopic",
+      "label": "Encapsulate what varies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -319.1381872719935,
+        "y": 1172.7051467174065
+      },
+      "keywords": [
+        "encapsulate",
+        "what",
+        "varies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UZeY36dABmULhsHPhlzn_",
+      "type": "subtopic",
+      "label": "Program against abstractions",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -319.1381872719935,
+        "y": 1225.7051467174065
+      },
+      "keywords": [
+        "program",
+        "against",
+        "abstractions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 279
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WzUhKlmFB9alTlAyV-MWJ",
+      "type": "subtopic",
+      "label": "Hollywood Principle",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -126.6381872719935,
+        "y": 926.400748222349
+      },
+      "keywords": [
+        "hollywood",
+        "principle"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vnLhItObDgp_XaDmplBsJ",
+      "type": "subtopic",
+      "label": "Law of Demeter",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -126.6381872719935,
+        "y": 820.400748222349
+      },
+      "keywords": [
+        "law",
+        "demeter"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0rGdh72HjqPZa2bCbY9Gz",
+      "type": "subtopic",
+      "label": "Tell, don't ask",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -126.6381872719935,
+        "y": 873.400748222349
+      },
+      "keywords": [
+        "tell",
+        "don",
+        "ask"
+      ],
+      "metadata": {
+        "style": {
+          "width": 196
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3XckqZA--knUb8IYKOeVy",
+      "type": "subtopic",
+      "label": "SOLID",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -318.1381872719935,
+        "y": 824.7051467174066
+      },
+      "keywords": [
+        "solid"
+      ],
+      "metadata": {
+        "style": {
+          "width": 129
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ltBnVWZ3UMAuUvDkU6o4P",
+      "type": "subtopic",
+      "label": "DRY",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -318.1381872719935,
+        "y": 877.7051467174066
+      },
+      "keywords": [
+        "dry"
+      ],
+      "metadata": {
+        "style": {
+          "width": 129
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eEO-WeNIyjErBE53n8JsD",
+      "type": "subtopic",
+      "label": "YAGNI",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -318.1381872719935,
+        "y": 930.7051467174066
+      },
+      "keywords": [
+        "yagni"
+      ],
+      "metadata": {
+        "style": {
+          "width": 129
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Jd79KXxZavpnp3mtE1q0n",
+      "type": "topic",
+      "label": "Design Patterns",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 94.8618127280065,
+        "y": 1019.7051467174065
+      },
+      "keywords": [
+        "design",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hlHl00ELlK9YdnzHDGnEW",
+      "type": "subtopic",
+      "label": "GoF Design Patterns",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 188.8618127280065,
+        "y": 1111.4007482223487
+      },
+      "keywords": [
+        "gof",
+        "design",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6VoDGFOPHj5p_gvaZ8kTt",
+      "type": "subtopic",
+      "label": "PoSA Patterns",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 188.8618127280065,
+        "y": 1164.4007482223487
+      },
+      "keywords": [
+        "posa",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 218
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dBq7ni-of5v1kxpdmh227",
+      "type": "topic",
+      "label": "Architectural Principles",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 94.8618127280065,
+        "y": 1553.9007482223487
+      },
+      "keywords": [
+        "architectural",
+        "principles"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8Bm0sRhUg6wZtnvtTmpgY",
+      "type": "subtopic",
+      "label": "Component Principles",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 189.88625207048023,
+        "y": 1289.610395110492
+      },
+      "keywords": [
+        "component",
+        "principles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "b_PvjjL2ZpEKETa5_bd0v",
+      "type": "subtopic",
+      "label": "Policy vs Detail",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 189.88625207048023,
+        "y": 1342.610395110492
+      },
+      "keywords": [
+        "policy",
+        "detail"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TXus3R5vVQDBeBag6B5qs",
+      "type": "subtopic",
+      "label": "Coupling and Cohesion",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 189.88625207048023,
+        "y": 1395.610395110492
+      },
+      "keywords": [
+        "coupling",
+        "cohesion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-Kw8hJhgQH2qInUFj2TUe",
+      "type": "subtopic",
+      "label": "Boundaries",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 188.8618127280065,
+        "y": 1448.610395110492
+      },
+      "keywords": [
+        "boundaries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "37xWxG2D9lVuDsHUgLfzP",
+      "type": "topic",
+      "label": "Architectural Styles",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -289.3282213632988,
+        "y": 1553.6208448974862
+      },
+      "keywords": [
+        "architectural",
+        "styles"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j9j45Auf60kIskyEMUGE3",
+      "type": "topic",
+      "label": "Messaging",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.3282213632988,
+        "y": 1426.0405202008678
+      },
+      "keywords": [
+        "messaging"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KtzcJBb6-EcIoXnwYvE7a",
+      "type": "subtopic",
+      "label": "Event-Driven",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -329.3282213632988,
+        "y": 1320.0405202008678
+      },
+      "keywords": [
+        "event",
+        "driven"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SX4vOVJY9slOXGwX_q1au",
+      "type": "subtopic",
+      "label": "Publish-Subscribe",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -329.3282213632988,
+        "y": 1373.0405202008678
+      },
+      "keywords": [
+        "publish",
+        "subscribe"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3V74lLPlcOXFB-QRTUA5j",
+      "type": "topic",
+      "label": "Distributed",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -123.39712154422624,
+        "y": 1426.0405202008678
+      },
+      "keywords": [
+        "distributed"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZGIMUaNfBwE5b6O1yexSz",
+      "type": "subtopic",
+      "label": "Client-Server",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -123.37268220175247,
+        "y": 1317.5497203099687
+      },
+      "keywords": [
+        "client",
+        "server"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Cf9Z2wxBcbnNg_q9PA6xA",
+      "type": "subtopic",
+      "label": "Peer-to-Peer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -122.37268220175247,
+        "y": 1370.5497203099687
+      },
+      "keywords": [
+        "peer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "86Jw9kMBD7YP5nTV5jTz-",
+      "type": "topic",
+      "label": "Structural",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -691.6137479295197,
+        "y": 1558.6208448974862
+      },
+      "keywords": [
+        "structural"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a0geFJWl-vi3mYytTjYdb",
+      "type": "subtopic",
+      "label": "Component-Based",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -691.6137479295197,
+        "y": 1451.6208448974862
+      },
+      "keywords": [
+        "component",
+        "based"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xYPR_X1KhBwdpqYzNJiuT",
+      "type": "subtopic",
+      "label": "Monolithic",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -691.6137479295197,
+        "y": 1504.6208448974862
+      },
+      "keywords": [
+        "monolithic"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IELEJcKYdZ6VN-UIq-Wln",
+      "type": "subtopic",
+      "label": "Layered",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -565.6137479295197,
+        "y": 1504.6208448974862
+      },
+      "keywords": [
+        "layered"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WdXJlH985x9GhAQfif26x",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -325.1381872719935,
+        "y": 1477.9007482223487
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2uTlVYj9CvYcqtv9TN_8K",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -419.6137479295197,
+        "y": 1451.6208448974862
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gJYff_qD6XS3dg3I-jJFK",
+      "type": "topic",
+      "label": "Architectural Patterns",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -289.3282213632988,
+        "y": 1841.7672657344651
+      },
+      "keywords": [
+        "architectural",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CD20zA6k9FxUpMgHnNYRJ",
+      "type": "subtopic",
+      "label": "Domain-Driven Design",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 1682.7672657344651
+      },
+      "keywords": [
+        "domain",
+        "driven",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-arChRC9zG2DBmuSTHW0J",
+      "type": "subtopic",
+      "label": "Model-View Controller",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 1735.7672657344651
+      },
+      "keywords": [
+        "model",
+        "view",
+        "controller"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eJsCCURZAURCKnOK-XeQe",
+      "type": "subtopic",
+      "label": "Microservices",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 1788.7672657344651
+      },
+      "keywords": [
+        "microservices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "Kk7u2B67Fdg2sU8E_PGqr",
+      "type": "subtopic",
+      "label": "Blackboard Pattern",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 1841.7672657344651
+      },
+      "keywords": [
+        "blackboard",
+        "pattern"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r-Yeca-gpdFM8iq7f0lYQ",
+      "type": "subtopic",
+      "label": "Microkernel",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 1894.7672657344651
+      },
+      "keywords": [
+        "microkernel"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5WSvAA3h3lmelL53UJSMy",
+      "type": "subtopic",
+      "label": "Serverless Architecture",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 1947.7672657344651
+      },
+      "keywords": [
+        "serverless",
+        "architecture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "GAs6NHBkUgxan3hyPvVs7",
+      "type": "subtopic",
+      "label": "Message Queues / Streams",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 2000.7672657344651
+      },
+      "keywords": [
+        "message",
+        "queues",
+        "streams"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K8X_-bsiy7gboInPzbiEb",
+      "type": "subtopic",
+      "label": "Event Sourcing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 2053.767265734465
+      },
+      "keywords": [
+        "event",
+        "sourcing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FysFru2FJN4d4gj11gv--",
+      "type": "subtopic",
+      "label": "SOA",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -705.1381872719935,
+        "y": 2106.767265734465
+      },
+      "keywords": [
+        "soa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IU86cGkLPMXUJKvTBywPu",
+      "type": "subtopic",
+      "label": "CQRS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -562.1381872719935,
+        "y": 2106.767265734465
+      },
+      "keywords": [
+        "cqrs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h0aeBhQRkDxNeFwDxT4Tf",
+      "type": "topic",
+      "label": "Enterprise Patterns",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -289.3282213632988,
+        "y": 1975.839200216446
+      },
+      "keywords": [
+        "enterprise",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y_Qj7KITSB8aUWHwiZ2It",
+      "type": "subtopic",
+      "label": "DTOs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 1711.8012136557593
+      },
+      "keywords": [
+        "dtos"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tb0X1HtuiGwz7YhQ5xPsV",
+      "type": "subtopic",
+      "label": "Identity Maps",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 1764.8012136557593
+      },
+      "keywords": [
+        "identity",
+        "maps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gQ7Xj8tsl6IlCcyJgSz46",
+      "type": "subtopic",
+      "label": "Usecases",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 1817.8012136557593
+      },
+      "keywords": [
+        "usecases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8y0ot5sbplUIUyXe9gvc8",
+      "type": "subtopic",
+      "label": "Repositories",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 1870.8012136557593
+      },
+      "keywords": [
+        "repositories"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ndUTgl2YBzOdu1MQKJocu",
+      "type": "subtopic",
+      "label": "Mappers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 1923.8012136557593
+      },
+      "keywords": [
+        "mappers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tyReIY4iO8kmyc_LPafp1",
+      "type": "subtopic",
+      "label": "Transaction Script",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 1976.8012136557593
+      },
+      "keywords": [
+        "transaction",
+        "script"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j_SUD3SxpKYZstN9LSP82",
+      "type": "subtopic",
+      "label": "Commands / Queries",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 2029.8012136557593
+      },
+      "keywords": [
+        "commands",
+        "queries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ks6njbfxOHiZ_TrJDnVtk",
+      "type": "subtopic",
+      "label": "Value Objects",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 2082.8012136557595
+      },
+      "keywords": [
+        "value",
+        "objects"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NpSfbzYtGebmfrifkKsUf",
+      "type": "subtopic",
+      "label": "Domain Models",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 2135.8012136557595
+      },
+      "keywords": [
+        "domain",
+        "models"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VnW_7dl5G0IFL9W3YF_W3",
+      "type": "subtopic",
+      "label": "Entities",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 2188.8012136557595
+      },
+      "keywords": [
+        "entities"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SYYulHfDceIyDkDT5fcqj",
+      "type": "subtopic",
+      "label": "ORMs",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 99.23920485686646,
+        "y": 2241.8012136557595
+      },
+      "keywords": [
+        "orms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 240
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k_AR2YBSv077a6RwpCpZT",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -182.82822136329878,
+        "y": 2024.839200216446
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ef-jFKMs8jw3Ti94jem96",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -183.82822136329878,
+        "y": 2362.6547713337786
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 74
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "paragraph",
+      "label": "Continue learning with following roadmaps",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -493.74416945365664,
+        "y": 2259.509113900669
+      },
+      "keywords": [
+        "continue",
+        "learning",
+        "following",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 410,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "StxLh1r3qXqyRSqfJGird",
+      "type": "button",
+      "label": "Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -482.1381872719935,
+        "y": 2313.6547713337786
+      },
+      "keywords": [
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OIcmPSbdsuWapb6HZ4BEi",
+      "type": "button",
+      "label": "System Design",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": -246.1381872719935,
+        "y": 2313.6547713337786
+      },
+      "keywords": [
+        "system",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "HU7wZWiES3m3xl1-NYP6F",
+      "target": "pd0_ffU8fTHcg_nLPae6W",
+      "type": "default"
+    },
+    {
+      "source": "pd0_ffU8fTHcg_nLPae6W",
+      "target": "08qKtgnhJ3tlb5JKfTDf5",
+      "type": "default"
+    },
+    {
+      "source": "08qKtgnhJ3tlb5JKfTDf5",
+      "target": "TDhTYdEyBuOnDKcQJzTAk",
+      "type": "default"
+    },
+    {
+      "source": "TDhTYdEyBuOnDKcQJzTAk",
+      "target": "VhSEH_RoWFt1z2lial7xZ",
+      "type": "default"
+    },
+    {
+      "source": "TDhTYdEyBuOnDKcQJzTAk",
+      "target": "YswaOqZNYcmDwly2IXrTT",
+      "type": "default"
+    },
+    {
+      "source": "TDhTYdEyBuOnDKcQJzTAk",
+      "target": "VZrERRRYhmqDx4slnZtdc",
+      "type": "default"
+    },
+    {
+      "source": "TDhTYdEyBuOnDKcQJzTAk",
+      "target": "HhYdURE4X-a9GVwJhAyE0",
+      "type": "default"
+    },
+    {
+      "source": "9dMbo4Q1_Sd9wW6-HSCA9",
+      "target": "Jd79KXxZavpnp3mtE1q0n",
+      "type": "default"
+    },
+    {
+      "source": "37xWxG2D9lVuDsHUgLfzP",
+      "target": "dBq7ni-of5v1kxpdmh227",
+      "type": "default"
+    },
+    {
+      "source": "37xWxG2D9lVuDsHUgLfzP",
+      "target": "gJYff_qD6XS3dg3I-jJFK",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "Kk7u2B67Fdg2sU8E_PGqr",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "eJsCCURZAURCKnOK-XeQe",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "-arChRC9zG2DBmuSTHW0J",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "CD20zA6k9FxUpMgHnNYRJ",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "r-Yeca-gpdFM8iq7f0lYQ",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "5WSvAA3h3lmelL53UJSMy",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "GAs6NHBkUgxan3hyPvVs7",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "K8X_-bsiy7gboInPzbiEb",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "IU86cGkLPMXUJKvTBywPu",
+      "type": "default"
+    },
+    {
+      "source": "gJYff_qD6XS3dg3I-jJFK",
+      "target": "h0aeBhQRkDxNeFwDxT4Tf",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "tyReIY4iO8kmyc_LPafp1",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "ndUTgl2YBzOdu1MQKJocu",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "8y0ot5sbplUIUyXe9gvc8",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "gQ7Xj8tsl6IlCcyJgSz46",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "tb0X1HtuiGwz7YhQ5xPsV",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "y_Qj7KITSB8aUWHwiZ2It",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "j_SUD3SxpKYZstN9LSP82",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "Ks6njbfxOHiZ_TrJDnVtk",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "NpSfbzYtGebmfrifkKsUf",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "VnW_7dl5G0IFL9W3YF_W3",
+      "type": "default"
+    },
+    {
+      "source": "h0aeBhQRkDxNeFwDxT4Tf",
+      "target": "SYYulHfDceIyDkDT5fcqj",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 69
+    },
+    {
+      "name": "topic",
+      "count": 13
+    },
+    {
+      "name": "vertical",
+      "count": 12
+    },
+    {
+      "name": "frontend",
+      "count": 5
+    },
+    {
+      "name": "horizontal",
+      "count": 4
+    },
+    {
+      "name": "backend",
+      "count": 4
+    },
+    {
+      "name": "section",
+      "count": 3
+    },
+    {
+      "name": "button",
+      "count": 3
+    },
+    {
+      "name": "label",
+      "count": 3
+    },
+    {
+      "name": "paragraph",
+      "count": 2
+    },
+    {
+      "name": "programming-language",
+      "count": 2
+    },
+    {
+      "name": "data-science",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "count": 1
+    },
+    {
+      "name": "framework",
+      "count": 1
+    },
+    {
+      "name": "testing",
+      "count": 1
+    },
+    {
+      "name": "cloud",
+      "count": 1
+    },
+    {
+      "name": "database",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "JyEXyTp5_UxhyRY3ZULZG",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "jyexytp5_uxhyry3zulzg"
+      ]
+    },
+    {
+      "name": "VThkejHxNxNQgqjwDN67c",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "vthkejhxnxnqgqjwdn67c"
+      ]
+    },
+    {
+      "name": "kLnJC5PdxpgmRU2X57V64",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "klnjc5pdxpgmru2x57v64"
+      ]
+    },
+    {
+      "name": "JwkzZU185OsVZ5VSUjC0f",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "jwkzzu185osvz5vsujc0f"
+      ]
+    },
+    {
+      "name": "Software Design & Architecture",
+      "category": "title",
+      "difficulty": "advanced",
+      "keywords": [
+        "software",
+        "design",
+        "architecture"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the interactive version of this roadmap and more roadmaps at",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Clean Code",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "clean",
+        "code"
+      ]
+    },
+    {
+      "name": "Programming Paradigms",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "programming",
+        "paradigms"
+      ]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "object",
+        "oriented",
+        "programming"
+      ]
+    },
+    {
+      "name": "Design Principles",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "design",
+        "principles"
+      ]
+    },
+    {
+      "name": "Design Patterns",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "design",
+        "patterns"
+      ]
+    },
+    {
+      "name": "Architectural Principles",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "architectural",
+        "principles"
+      ]
+    },
+    {
+      "name": "Architectural Styles",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "architectural",
+        "styles"
+      ]
+    },
+    {
+      "name": "Architectural Patterns",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "architectural",
+        "patterns"
+      ]
+    },
+    {
+      "name": "Enterprise Patterns",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "enterprise",
+        "patterns"
+      ]
+    },
+    {
+      "name": "Minimap of Topics",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "minimap",
+        "topics"
+      ]
+    },
+    {
+      "name": "Backend Developer Roadmap",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "backend",
+        "developer",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Also visit Khalil's guide covering how to learn Software Design & Architecture",
+      "category": "frontend",
+      "difficulty": "advanced",
+      "keywords": [
+        "also",
+        "visit",
+        "khalil",
+        "guide",
+        "covering"
+      ]
+    },
+    {
+      "name": "Software Design and Architecture",
+      "category": "button",
+      "difficulty": "advanced",
+      "keywords": [
+        "software",
+        "design",
+        "architecture"
+      ]
+    },
+    {
+      "name": "Clean Code Principles",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "clean",
+        "code",
+        "principles"
+      ]
+    },
+    {
+      "name": "Be consistent",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "consistent"
+      ]
+    },
+    {
+      "name": "Meaningful names over comments",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "meaningful",
+        "names",
+        "over",
+        "comments"
+      ]
+    },
+    {
+      "name": "Indentation and Code Style",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "indentation",
+        "code",
+        "style"
+      ]
+    },
+    {
+      "name": "Keep methods / classes / files small",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "keep",
+        "methods",
+        "classes",
+        "files",
+        "small"
+      ]
+    },
+    {
+      "name": "Pure functions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "pure",
+        "functions"
+      ]
+    },
+    {
+      "name": "Minimize cyclomatic complexity",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "minimize",
+        "cyclomatic",
+        "complexity"
+      ]
+    },
+    {
+      "name": "Avoid passing nulls, booleans",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "avoid",
+        "passing",
+        "nulls",
+        "booleans"
+      ]
+    },
+    {
+      "name": "Keep framework code distant",
+      "category": "framework",
+      "difficulty": "intermediate",
+      "keywords": [
+        "keep",
+        "framework",
+        "code",
+        "distant"
+      ]
+    },
+    {
+      "name": "Use correct constructs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "use",
+        "correct",
+        "constructs"
+      ]
+    },
+    {
+      "name": "Tests should be fast and independent",
+      "category": "testing",
+      "difficulty": "beginner",
+      "keywords": [
+        "tests",
+        "fast",
+        "independent"
+      ]
+    },
+    {
+      "name": "Use meaningful names",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "use",
+        "meaningful",
+        "names"
+      ]
+    },
+    {
+      "name": "Organize code by actor it belongs to",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "organize",
+        "code",
+        "actor",
+        "belongs"
+      ]
+    },
+    {
+      "name": "Command query separation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "command",
+        "query",
+        "separation"
+      ]
+    },
+    {
+      "name": "Keep it simple and refactor often",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "keep",
+        "simple",
+        "refactor",
+        "often"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "Programming Paradigms",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "programming",
+        "paradigms"
+      ]
+    },
+    {
+      "name": "Structured Programming",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "structured",
+        "programming"
+      ]
+    },
+    {
+      "name": "Functional Programming",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "functional",
+        "programming"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 127,
+    "totalEdges": 31,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:11:03.986Z",
+    "version": "2.0"
+  }
+}

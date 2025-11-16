@@ -1,0 +1,5898 @@
+{
+  "name": "product-manager",
+  "title": "Product Manager",
+  "nodes": [
+    {
+      "id": "dHtY_ibI0uJBL2Jknbczr",
+      "type": "section",
+      "label": "dHtY_ibI0uJBL2Jknbczr",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 961.518950580724,
+        "y": 3842.5172575257884
+      },
+      "keywords": [
+        "dhty_ibi0ujbl2jknbczr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 238,
+          "height": 149
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a9Q5Dbr58rhyVublQ1a58",
+      "type": "section",
+      "label": "a9Q5Dbr58rhyVublQ1a58",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 147.182471482702,
+        "y": 3792.5172575257884
+      },
+      "keywords": [
+        "a9q5dbr58rhyvublq1a58"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303,
+          "height": 248
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "i288W9vF02QOKgPxjDqQh",
+      "type": "section",
+      "label": "i288W9vF02QOKgPxjDqQh",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 900.1156736983723,
+        "y": 3193.340301108624
+      },
+      "keywords": [
+        "i288w9vf02qokgpxjdqqh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313,
+          "height": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "X-Done4_JD3ZuwWr6nCVY",
+      "type": "section",
+      "label": "X-Done4_JD3ZuwWr6nCVY",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 132.51741093297437,
+        "y": 1805.4929335835232
+      },
+      "keywords": [
+        "done4_jd3zuwwr6ncvy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 158
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NG6ks4yOlokMVJ38DyaUP",
+      "type": "section",
+      "label": "NG6ks4yOlokMVJ38DyaUP",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 994.6413211402974,
+        "y": 1804.2988636529176
+      },
+      "keywords": [
+        "ng6ks4yolokmvj38dyaup"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 280
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MeiyH5JgagSgP24QNKmbK",
+      "type": "section",
+      "label": "MeiyH5JgagSgP24QNKmbK",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 126.58858034166008,
+        "y": 338.9173334255838
+      },
+      "keywords": [
+        "meiyh5jgagsgp24qnkmbk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 232
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l6NjkNch2LH4BDhxXUoDK",
+      "type": "section",
+      "label": "l6NjkNch2LH4BDhxXUoDK",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 900.025172777855,
+        "y": 66.3113337289081
+      },
+      "keywords": [
+        "l6njknch2lh4bdhxxuodk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 285,
+          "height": 288
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jIsN1OBs039cLtxTqyptd",
+      "type": "title",
+      "label": "Product Manager",
+      "description": "",
+      "category": "title",
+      "position": {
+        "x": 512.22181463284,
+        "y": -1.688666271091904
+      },
+      "keywords": [
+        "product",
+        "manager"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "luk1vnpy0duneVjen8WzO",
+      "type": "subtopic",
+      "label": "What is Product Management?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 121.47769562456426,
+        "y": 101.42893853043915
+      },
+      "keywords": [
+        "what",
+        "product",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 309,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V-IeFB9S2tToxANHIzpMs",
+      "type": "subtopic",
+      "label": "Product vs Project Management",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 121.47769562456426,
+        "y": 154.42893853043915
+      },
+      "keywords": [
+        "product",
+        "project",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 309,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Dx6ee8P_Agpw1MLKlAPGI",
+      "type": "subtopic",
+      "label": "Roles and Responsibilities",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 121.47769562456426,
+        "y": 207.42893853043915
+      },
+      "keywords": [
+        "roles",
+        "responsibilities"
+      ],
+      "metadata": {
+        "style": {
+          "width": 309,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5W-3jh1-4qSU5kagrWv9z",
+      "type": "subtopic",
+      "label": "Key Skills",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 121.47769562456426,
+        "y": 260.42893853043915
+      },
+      "keywords": [
+        "key",
+        "skills"
+      ],
+      "metadata": {
+        "style": {
+          "width": 309,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Bukgs2nDydajjwj7WwzIT",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 632.22181463284,
+        "y": -110.95856567057746
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 102
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kB8e26BUm8BpTY1_O3N3_",
+      "type": "subtopic",
+      "label": "Product Development Lifecycle",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 900.025172777855,
+        "y": 26.31064830374146
+      },
+      "keywords": [
+        "product",
+        "development",
+        "lifecycle"
+      ],
+      "metadata": {
+        "style": {
+          "width": 285,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5okUFVMuG6mjRki4fyCcF",
+      "type": "subtopic",
+      "label": "Development",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 910.025172777855,
+        "y": 82.6923580770437
+      },
+      "keywords": [
+        "development"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GoYEAU_lZ186M3IJY48O6",
+      "type": "subtopic",
+      "label": "Introduction",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 910.025172777855,
+        "y": 135.6923580770437
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ke5vl9p3ouupjVmgU5IKw",
+      "type": "subtopic",
+      "label": "Growth",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 910.025172777855,
+        "y": 188.6923580770437
+      },
+      "keywords": [
+        "growth"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aUJTPvO9Eb1UOD0MIY4Mf",
+      "type": "subtopic",
+      "label": "Maturity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 910.025172777855,
+        "y": 241.6923580770437
+      },
+      "keywords": [
+        "maturity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yOve7g_05UMpXHcGpdZcW",
+      "type": "subtopic",
+      "label": "Decline",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 910.025172777855,
+        "y": 294.6923580770437
+      },
+      "keywords": [
+        "decline"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 833.2357162642066,
+        "y": -167.8282364125966
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 846.4390906770068,
+        "y": -85.84267299485134
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Hk61DnFkfaeuxO2LSupMS",
+      "type": "paragraph",
+      "label": "Idea Generation",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 543.72181463284,
+        "y": 421.9173334255838
+      },
+      "keywords": [
+        "idea",
+        "generation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 198,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "beca7sTxYY06RwNn5jpZM",
+      "type": "subtopic",
+      "label": "Mind Mapping",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 137.61723142037033,
+        "y": 351.4755158284552
+      },
+      "keywords": [
+        "mind",
+        "mapping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0emyqhl028_M6tdilfFC3",
+      "type": "subtopic",
+      "label": "Brainwriting",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 137.61723142037033,
+        "y": 405.4755158284552
+      },
+      "keywords": [
+        "brainwriting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uLSPKcypF06AhzoeNVtDk",
+      "type": "subtopic",
+      "label": "SCAMPER",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 137.61723142037033,
+        "y": 459.4755158284552
+      },
+      "keywords": [
+        "scamper"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "69IgqluiW9cVfezSIKInD",
+      "type": "subtopic",
+      "label": "Brainstorming Techniques",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 127.11723142037033,
+        "y": 521.9173334255838
+      },
+      "keywords": [
+        "brainstorming",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8epVLkRSIDKt3_NxK0sZ7",
+      "type": "section",
+      "label": "8epVLkRSIDKt3_NxK0sZ7",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 123.47240182924656,
+        "y": 619.5104193872304
+      },
+      "keywords": [
+        "8epvlkrsidkt3_nxk0sz7"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 230
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vP4tfzP-hOiAsv4K4RsQy",
+      "type": "subtopic",
+      "label": "Discovery",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 133.0359368569084,
+        "y": 677.0686017901018
+      },
+      "keywords": [
+        "discovery"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "toc34xxsB_tnHtekk1UmN",
+      "type": "subtopic",
+      "label": "Selection",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 259.4724018292467,
+        "y": 676.3825573306648
+      },
+      "keywords": [
+        "selection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 106,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fK3ZaX7Amna1oa_T5axVk",
+      "type": "subtopic",
+      "label": "Validation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 133.0359368569084,
+        "y": 731.0686017901018
+      },
+      "keywords": [
+        "validation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 233,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1HytzY1KRYIQWoQa5FMwY",
+      "type": "subtopic",
+      "label": "Iterative Process",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 123.47240182924656,
+        "y": 618.3088910112663
+      },
+      "keywords": [
+        "iterative",
+        "process"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LhNgyNDeqCAD--dAzf6u8",
+      "type": "subtopic",
+      "label": "Execution",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 133.0359368569084,
+        "y": 785.0686017901018
+      },
+      "keywords": [
+        "execution"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gjdCSm_jZmG_q6YjG_8Qu",
+      "type": "subtopic",
+      "label": "Blue Ocean Strategy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 454.22181463284005,
+        "y": 664.5104193872304
+      },
+      "keywords": [
+        "blue",
+        "ocean",
+        "strategy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 377,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DEwte-c-jxAFpiaBXAPSO",
+      "type": "subtopic",
+      "label": "TRIZ (Theory of Inventive Problem Solving)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 454.22181463284005,
+        "y": 718.5104193872304
+      },
+      "keywords": [
+        "triz",
+        "theory",
+        "inventive",
+        "problem",
+        "solving"
+      ],
+      "metadata": {
+        "style": {
+          "width": 377,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aBJUQvgXmvpLPOhpDTn7l",
+      "type": "subtopic",
+      "label": "Problem Framing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 454.22181463284005,
+        "y": 772.5104193872304
+      },
+      "keywords": [
+        "problem",
+        "framing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 377,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fmpJB_14CYn7PVuoGZdoz",
+      "type": "topic",
+      "label": "Product Identification",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 495.72181463284005,
+        "y": 565.9173334255838
+      },
+      "keywords": [
+        "product",
+        "identification"
+      ],
+      "metadata": {
+        "style": {
+          "width": 294,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Eusp5p6gNIxtU_yVvOkmu",
+      "type": "topic",
+      "label": "Market Analysis",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 925.9592791031062,
+        "y": 864.4453536260916
+      },
+      "keywords": [
+        "market",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8LAy6uBfrdtrjF8ygAGoo",
+      "type": "topic",
+      "label": "User Research",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 582.0510680012198,
+        "y": 1077.9722000809688
+      },
+      "keywords": [
+        "user",
+        "research"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YPqdrZguH0ArEFSe-VwKS",
+      "type": "topic",
+      "label": "Positioning",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 583.0510680012198,
+        "y": 1197.0269048371872
+      },
+      "keywords": [
+        "positioning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 252,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LkDLk6DsEvbFXZPGOhD0C",
+      "type": "subtopic",
+      "label": "Identifying Market Needs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 583.0510680012198,
+        "y": 864.4453536260916
+      },
+      "keywords": [
+        "identifying",
+        "market",
+        "needs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PBDlYIyS8LAyPE6tV-kU7",
+      "type": "subtopic",
+      "label": "Competitive Analysis",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 583.0510680012198,
+        "y": 918.4453536260916
+      },
+      "keywords": [
+        "competitive",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aDhSpLRZ6Sd8SnkcwtyLf",
+      "type": "subtopic",
+      "label": "Emerging Market Trends",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 583.0510680012198,
+        "y": 972.4453536260916
+      },
+      "keywords": [
+        "emerging",
+        "market",
+        "trends"
+      ],
+      "metadata": {
+        "style": {
+          "width": 250,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0y8F9x6MhApQkS1VhS8Dx",
+      "type": "subtopic",
+      "label": "User Personas",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 122.682471482702,
+        "y": 911.9747629227817
+      },
+      "keywords": [
+        "user",
+        "personas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5kt8AkCsdAdlBmsKOkKFH",
+      "type": "subtopic",
+      "label": "User Interviews",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 122.682471482702,
+        "y": 965.9747629227818
+      },
+      "keywords": [
+        "user",
+        "interviews"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a_5AyOKAgcg0rArZfapA_",
+      "type": "subtopic",
+      "label": "Surveys and Questionnaires",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 122.682471482702,
+        "y": 1019.9747629227816
+      },
+      "keywords": [
+        "surveys",
+        "questionnaires"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VwI7plziVzwkp3KZd4466",
+      "type": "subtopic",
+      "label": "Ethnographic Research",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 122.682471482702,
+        "y": 1073.9747629227816
+      },
+      "keywords": [
+        "ethnographic",
+        "research"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tKDlfVvNym_OIqkommiJ8",
+      "type": "subtopic",
+      "label": "USP (Unique Selling Point)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 123.47240182924656,
+        "y": 1197.9722000809688
+      },
+      "keywords": [
+        "usp",
+        "unique",
+        "selling",
+        "point"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5QiNA05z4vz42CjV-UpPX",
+      "type": "label",
+      "label": "Defining & Communicating",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 140.11723142037033,
+        "y": 1156.9722000809688
+      },
+      "keywords": [
+        "defining",
+        "communicating"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3MYjrnd6h2ZlcfaXjUbkC",
+      "type": "subtopic",
+      "label": "Market Segmentation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 123.47240182924656,
+        "y": 1251.9722000809688
+      },
+      "keywords": [
+        "market",
+        "segmentation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JhhjMPTNb646aQKlS_cji",
+      "type": "subtopic",
+      "label": "Case Studies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 122.682471482702,
+        "y": 1305.9722000809688
+      },
+      "keywords": [
+        "case",
+        "studies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KnAlfSHDjLnQ7CMv5W-Ee",
+      "type": "paragraph",
+      "label": "Market and User Research",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 916.4592791031062,
+        "y": 636.3511874141951
+      },
+      "keywords": [
+        "market",
+        "user",
+        "research"
+      ],
+      "metadata": {
+        "style": {
+          "width": 290,
+          "height": 67
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WbrOaEjm9pVz9U0sq1Sw0",
+      "type": "paragraph",
+      "label": "Product Strategy",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 1008.6413211402974,
+        "y": 1188.9722000809688
+      },
+      "keywords": [
+        "product",
+        "strategy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 197,
+          "height": 67
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l-KrmCOKEfpLHq4j-9SoY",
+      "type": "topic",
+      "label": "Vision & Mission",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 994.9592791031062,
+        "y": 1458.462524711317
+      },
+      "keywords": [
+        "vision",
+        "mission"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DnKHDm0TZ7QQUyrhPdqkV",
+      "type": "subtopic",
+      "label": "Statement",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 575.9408118709459,
+        "y": 1296.462524711317
+      },
+      "keywords": [
+        "statement"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZCTSbMHAMSaOxlqaJImzr",
+      "type": "subtopic",
+      "label": "Proposition",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 575.9408118709459,
+        "y": 1350.462524711317
+      },
+      "keywords": [
+        "proposition"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8srsCEv55zh1y4gsp-rCO",
+      "type": "subtopic",
+      "label": "Capabilities",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 575.9408118709459,
+        "y": 1404.462524711317
+      },
+      "keywords": [
+        "capabilities"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eKJ2XfDxu0NAKA932tbzy",
+      "type": "subtopic",
+      "label": "Solved Constraints",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 575.9408118709459,
+        "y": 1458.462524711317
+      },
+      "keywords": [
+        "solved",
+        "constraints"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wuqZntn1ivkr9AV_09zYX",
+      "type": "subtopic",
+      "label": "Future Constraints",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 575.9408118709459,
+        "y": 1512.462524711317
+      },
+      "keywords": [
+        "future",
+        "constraints"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uXseNTJlteD6Fgi1bzQB4",
+      "type": "subtopic",
+      "label": "Reference Materials",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 575.9408118709459,
+        "y": 1566.462524711317
+      },
+      "keywords": [
+        "reference",
+        "materials"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zS_CjYSTOIkJZn-oUEvgh",
+      "type": "subtopic",
+      "label": "Narrative",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 575.9408118709459,
+        "y": 1620.462524711317
+      },
+      "keywords": [
+        "narrative"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "n2AYdM2dlJfuZ97jXY49U",
+      "type": "topic",
+      "label": "Defining Goals",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 994.6413211402974,
+        "y": 1702.8534450923025
+      },
+      "keywords": [
+        "defining",
+        "goals"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tmlFCmEuYpcUnt8VvVP9R",
+      "type": "subtopic",
+      "label": "Target",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1004.1413211402974,
+        "y": 1857.559158455468
+      },
+      "keywords": [
+        "target"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GPRqshiha8Pi4a4ImW8-5",
+      "type": "subtopic",
+      "label": "Baseline",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1004.1413211402974,
+        "y": 1912.559158455468
+      },
+      "keywords": [
+        "baseline"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "s8mK1llA32B69_rzOwcwN",
+      "type": "subtopic",
+      "label": "Trend",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1004.1413211402974,
+        "y": 1967.559158455468
+      },
+      "keywords": [
+        "trend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "E1yPzEhssJWMDLeSiL4cj",
+      "type": "subtopic",
+      "label": "Timeframe",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1004.1413211402974,
+        "y": 2022.559158455468
+      },
+      "keywords": [
+        "timeframe"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3ySjcqHVSNctc5KsdwYWm",
+      "type": "label",
+      "label": "Goal Types",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 1056.1413211402974,
+        "y": 1816.559158455468
+      },
+      "keywords": [
+        "goal",
+        "types"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6OjKcLbUZVJdUDC7if0Uy",
+      "type": "topic",
+      "label": "Value Proposition",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 581.1025368302788,
+        "y": 1702.028074458766
+      },
+      "keywords": [
+        "value",
+        "proposition"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1j2ZSo7UGnBgoLpYzsA5t",
+      "type": "subtopic",
+      "label": "Defining Value Proposition",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 581.1025368302788,
+        "y": 1807.5206281723918
+      },
+      "keywords": [
+        "defining",
+        "value",
+        "proposition"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kjKUrKdtCM95VinlluKDS",
+      "type": "subtopic",
+      "label": "Value Proposition Canvas",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 581.1025368302788,
+        "y": 1861.5206281723918
+      },
+      "keywords": [
+        "value",
+        "proposition",
+        "canvas"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0AQj2F1n8VKHBwuF4ywrp",
+      "type": "topic",
+      "label": "Value vs Features",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 132.51741093297437,
+        "y": 1561.4453076687587
+      },
+      "keywords": [
+        "value",
+        "features"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xu8A_QKs6lXzKPMiifNF_",
+      "type": "subtopic",
+      "label": "Finding Balance",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 132.51741093297437,
+        "y": 1477.462524711317
+      },
+      "keywords": [
+        "finding",
+        "balance"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GbFbURxIRD76kyR9vKfdg",
+      "type": "subtopic",
+      "label": "Feature Creep",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 132.51741093297437,
+        "y": 1423.462524711317
+      },
+      "keywords": [
+        "feature",
+        "creep"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m46lX4dUHik_BSHQwaU2l",
+      "type": "topic",
+      "label": "Strategic Thinking",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 132.51741093297437,
+        "y": 1669.462524711317
+      },
+      "keywords": [
+        "strategic",
+        "thinking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qy_IXzenBOEVBMvVlXPaY",
+      "type": "subtopic",
+      "label": "Competitive Strategy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 132.51741093297437,
+        "y": 1769.8049609279972
+      },
+      "keywords": [
+        "competitive",
+        "strategy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8CW_clQsc6SC4piQ3__0I",
+      "type": "subtopic",
+      "label": "Five Forces Analysis",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 145.51741093297437,
+        "y": 1830.7355829479723
+      },
+      "keywords": [
+        "five",
+        "forces",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tTUp4GQHvjLZYkySasQFE",
+      "type": "subtopic",
+      "label": "Competetive Advantage",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 144.51741093297437,
+        "y": 1884.735582947972
+      },
+      "keywords": [
+        "competetive",
+        "advantage"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0MnqK2-pI7EkwsGy1j1sh",
+      "type": "section",
+      "label": "0MnqK2-pI7EkwsGy1j1sh",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 132.51741093297437,
+        "y": 1980.4660066929098
+      },
+      "keywords": [
+        "0mnqk2",
+        "pi7ekwsgy1j1sh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 141
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jWU_odHoQYk3GKCPoRV2n",
+      "type": "subtopic",
+      "label": "Strategic Partners",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 132.51741093297437,
+        "y": 1944.7780340373838
+      },
+      "keywords": [
+        "strategic",
+        "partners"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1M6WpW1wbJcXMb3nf10U2",
+      "type": "subtopic",
+      "label": "Identify Partners",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 145.51741093297437,
+        "y": 2005.708656057359
+      },
+      "keywords": [
+        "identify",
+        "partners"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vXnf1AcMidLww5EypChWk",
+      "type": "subtopic",
+      "label": "Managing Partnerships",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 144.51741093297437,
+        "y": 2059.708656057359
+      },
+      "keywords": [
+        "managing",
+        "partnerships"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DoJCeL_vEXv3aVrLt7P_R",
+      "type": "paragraph",
+      "label": "Product Planning",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 551.6347432337445,
+        "y": 2017.559158455468
+      },
+      "keywords": [
+        "product",
+        "planning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 65
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0tJ7zlgOIaioCMmVavfqz",
+      "type": "topic",
+      "label": "Product Requirements",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 543.1347432337445,
+        "y": 2226.905290594668
+      },
+      "keywords": [
+        "product",
+        "requirements"
+      ],
+      "metadata": {
+        "style": {
+          "width": 222,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0FqpBfvnkGN_oE2KSC-_8",
+      "type": "subtopic",
+      "label": "Writing PRDs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 173.70417400548126,
+        "y": 2172.905290594668
+      },
+      "keywords": [
+        "writing",
+        "prds"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kN-UfAbQ8j7g0jDdqWK55",
+      "type": "subtopic",
+      "label": "User Stories",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 173.18564808154724,
+        "y": 2226.905290594668
+      },
+      "keywords": [
+        "user",
+        "stories"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "B9fgJmzVViaq7dvSuEglb",
+      "type": "subtopic",
+      "label": "Job Stories",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 173.18564808154724,
+        "y": 2280.905290594668
+      },
+      "keywords": [
+        "job",
+        "stories"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gS3ofDrqDRKbecIskIyGi",
+      "type": "topic",
+      "label": "Product Roadmap",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 953.9191777644862,
+        "y": 2466.1792252714604
+      },
+      "keywords": [
+        "product",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 256,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eiqV86PWizZPWsyqoBU5k",
+      "type": "subtopic",
+      "label": "Creating a Roadmap",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 943.4191777644862,
+        "y": 2134.035382041372
+      },
+      "keywords": [
+        "creating",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k7Zv7IS9y-jkI_zGrBQG3",
+      "type": "subtopic",
+      "label": "Prioritising Features",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 943.4191777644862,
+        "y": 2188.035382041372
+      },
+      "keywords": [
+        "prioritising",
+        "features"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qGvHqOSTPyVKll4mMVk7i",
+      "type": "subtopic",
+      "label": "Continuous Roadmapping",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 943.4191777644862,
+        "y": 2242.035382041372
+      },
+      "keywords": [
+        "continuous",
+        "roadmapping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1uAfy3ISLKGmLirvIfzfE",
+      "type": "subtopic",
+      "label": "Outcome-Based Roadmaps",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 943.4191777644862,
+        "y": 2296.035382041372
+      },
+      "keywords": [
+        "outcome",
+        "based",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NjLt_B_kV7FdnkOomqayx",
+      "type": "subtopic",
+      "label": "Communicating the Roadmap",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 943.4191777644862,
+        "y": 2350.035382041372
+      },
+      "keywords": [
+        "communicating",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lq5Hl1ZXBQRRI_4ywn7yA",
+      "type": "topic",
+      "label": "Backlog Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 541.1347432337445,
+        "y": 2566.587814003239
+      },
+      "keywords": [
+        "backlog",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 256,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Slb0P_LVdl7-GzUqbO33c",
+      "type": "subtopic",
+      "label": "Prioritization Techniques",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 541.8808752158963,
+        "y": 2353.7969860949165
+      },
+      "keywords": [
+        "prioritization",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sqxgqfxWMluhWtCWN8spG",
+      "type": "subtopic",
+      "label": "Grooming Sessions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 541.8808752158963,
+        "y": 2407.7969860949165
+      },
+      "keywords": [
+        "grooming",
+        "sessions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3JY85Tu40ABy9XfoliaqE",
+      "type": "subtopic",
+      "label": "User Story Mapping",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 543.1347432337445,
+        "y": 2461.7969860949165
+      },
+      "keywords": [
+        "user",
+        "story",
+        "mapping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "74FApE4fYNihBkOfl3w3p",
+      "type": "paragraph",
+      "label": "Product Design",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 169.182471482702,
+        "y": 2393.7969860949165
+      },
+      "keywords": [
+        "product",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 189,
+          "height": 63
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-lFYy5W1YqWuTiM3QRF4k",
+      "type": "topic",
+      "label": "UX / UI Design",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 136.682471482702,
+        "y": 2709.8118279313
+      },
+      "keywords": [
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TwL-EqDorSgUpBYr4O4rf",
+      "type": "subtopic",
+      "label": "Principles of UX Design",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 535.9118193586824,
+        "y": 2655.8118279313
+      },
+      "keywords": [
+        "principles",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zwrmh-djneZ8HIqbaBOkN",
+      "type": "subtopic",
+      "label": "Wireframing and Prototyping",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 535.9118193586824,
+        "y": 2709.8118279313
+      },
+      "keywords": [
+        "wireframing",
+        "prototyping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yPtxGBDEJkFBhF8ZgQUVH",
+      "type": "subtopic",
+      "label": "Design Thinking",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 535.9118193586824,
+        "y": 2763.8118279313
+      },
+      "keywords": [
+        "design",
+        "thinking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lxU25qxxgxnNF3c3kdZxz",
+      "type": "topic",
+      "label": "Service Design",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 136.682471482702,
+        "y": 2795.1121121633273
+      },
+      "keywords": [
+        "service",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "S_-9msr3vGZgOQ36zErnf",
+      "type": "topic",
+      "label": "Interaction Design",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 136.682471482702,
+        "y": 2866.6198481990236
+      },
+      "keywords": [
+        "interaction",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v3hKowLMBVq9eCXkUhrDZ",
+      "type": "topic",
+      "label": "User Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 136.682471482702,
+        "y": 2953.1740004488997
+      },
+      "keywords": [
+        "user",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 254,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "1uXjKKvOKqpO50m1pM627",
+      "type": "subtopic",
+      "label": "Usability Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 535.8808752158961,
+        "y": 2840.084010340816
+      },
+      "keywords": [
+        "usability",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "Ws7IFrHQNoBjLE2Td2xIZ",
+      "type": "subtopic",
+      "label": "A/B Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 535.8808752158961,
+        "y": 2894.084010340816
+      },
+      "keywords": [
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "5fze1aw1in3Gp3K31bvin",
+      "type": "subtopic",
+      "label": "Remote User Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 535.8808752158961,
+        "y": 2948.084010340816
+      },
+      "keywords": [
+        "remote",
+        "user",
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "hLy9kA3yEyDQ32XTq6I8b",
+      "type": "paragraph",
+      "label": "Development and Launch",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 122.182471482702,
+        "y": 3153.8997324497136
+      },
+      "keywords": [
+        "development",
+        "launch"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sAu4Gr1hg8S4jAV0bOSdY",
+      "type": "topic",
+      "label": "Agile Methodology",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 535.8808752158961,
+        "y": 3163.322416884947
+      },
+      "keywords": [
+        "agile",
+        "methodology"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2r-NPGcROFmw-pd4rvsAJ",
+      "type": "topic",
+      "label": "Working with Engineering Teams",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 900.1156736983723,
+        "y": 3161.135217903116
+      },
+      "keywords": [
+        "working",
+        "engineering",
+        "teams"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WNCVmFrpHW7rMaIzlLaXl",
+      "type": "subtopic",
+      "label": "Scrum Basics",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 535.8808752158961,
+        "y": 3020.621546837995
+      },
+      "keywords": [
+        "scrum",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kJ2HQFEsnc5yISU8d9Lla",
+      "type": "subtopic",
+      "label": "Kanban Basics",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 535.8808752158961,
+        "y": 3075.8710730345524
+      },
+      "keywords": [
+        "kanban",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 265,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bu-xm-L1XJgIPAFs2PieE",
+      "type": "subtopic",
+      "label": "Sprint Planning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 3219.8997324497136
+      },
+      "keywords": [
+        "sprint",
+        "planning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BzgGJbXIwQb0yR2ZMCmul",
+      "type": "subtopic",
+      "label": "Daily Standups",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 3273.8997324497136
+      },
+      "keywords": [
+        "daily",
+        "standups"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AkKl7PrIPrIqXnss88v18",
+      "type": "subtopic",
+      "label": "Retrospectives",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 3327.8997324497136
+      },
+      "keywords": [
+        "retrospectives"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mm5yvAaROsbwDgQUfnqyl",
+      "type": "subtopic",
+      "label": "Minimum Viable Product (MVP)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 3381.8997324497136
+      },
+      "keywords": [
+        "minimum",
+        "viable",
+        "product",
+        "mvp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Y5p9Vi4tGPw4aDEJy8xXM",
+      "type": "section",
+      "label": "Y5p9Vi4tGPw4aDEJy8xXM",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 900.1156736983723,
+        "y": 2912.5250001583418
+      },
+      "keywords": [
+        "y5p9vi4tgpw4adejy8xxm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313,
+          "height": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "53XS2zKdK6IDdOP07yiT7",
+      "type": "topic",
+      "label": "Go-to-Market Strategy",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 900.1156736983723,
+        "y": 2880.319916952834
+      },
+      "keywords": [
+        "market",
+        "strategy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PbhuFKsVNO6xGJHqXCwFl",
+      "type": "subtopic",
+      "label": "Launch Planning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 2939.0844314994315
+      },
+      "keywords": [
+        "launch",
+        "planning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YYo_7lmTw7h74Y4J5pp-_",
+      "type": "subtopic",
+      "label": "Marketing Strategies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 2993.0844314994315
+      },
+      "keywords": [
+        "marketing",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wWWcIfPDGB92ed-1kV-uj",
+      "type": "subtopic",
+      "label": "Growth Hacking",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 3047.0844314994315
+      },
+      "keywords": [
+        "growth",
+        "hacking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JrcZ404QjGsPn-VW1ktrh",
+      "type": "section",
+      "label": "JrcZ404QjGsPn-VW1ktrh",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 900.1156736983723,
+        "y": 2641.778830620622
+      },
+      "keywords": [
+        "jrcz404qjgspn",
+        "vw1ktrh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313,
+          "height": 197
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VqNK1rNAnr_yvi_a0YZEs",
+      "type": "topic",
+      "label": "Release Strategies",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 900.1156736983723,
+        "y": 2609.573747415114
+      },
+      "keywords": [
+        "release",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 313,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7BCnM9A9PwYqsLmcNVfvt",
+      "type": "subtopic",
+      "label": "Feature Toggles",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 2668.338261961712
+      },
+      "keywords": [
+        "feature",
+        "toggles"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8_VCWpSZkRWmsD1_thMYS",
+      "type": "subtopic",
+      "label": "Phased Rollouts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 2722.338261961712
+      },
+      "keywords": [
+        "phased",
+        "rollouts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aCoVHIAZllwKckkkwExR7",
+      "type": "subtopic",
+      "label": "Dark Launches",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 912.6156736983723,
+        "y": 2776.338261961712
+      },
+      "keywords": [
+        "dark",
+        "launches"
+      ],
+      "metadata": {
+        "style": {
+          "width": 288,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h10DphS6mi7ZwbyHppPsb",
+      "type": "paragraph",
+      "label": "Product Metrics",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 633.0510680012198,
+        "y": 3284.840301108624
+      },
+      "keywords": [
+        "product",
+        "metrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 187,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RfllpwFxWBeHF29oUwGo_",
+      "type": "topic",
+      "label": "Key Product Metrics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 589.0510680012198,
+        "y": 3449.935079738451
+      },
+      "keywords": [
+        "key",
+        "product",
+        "metrics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 275,
+          "height": 51
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "g2EgVtqwQxLfjBjomUqcU",
+      "type": "subtopic",
+      "label": "DAU (Daily Active Users)",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 140.35637591632076,
+        "y": 3288.935079738451
+      },
+      "keywords": [
+        "dau",
+        "daily",
+        "active",
+        "users"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Sbi5Y72nU_B1Jk6xNp17u",
+      "type": "subtopic",
+      "label": "MAU (Monthly Active Users)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 140.35637591632076,
+        "y": 3342.935079738451
+      },
+      "keywords": [
+        "mau",
+        "monthly",
+        "active",
+        "users"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "avkgeNNVQOCE7dvEKFVZv",
+      "type": "subtopic",
+      "label": "Conversion Rate",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 140.35637591632076,
+        "y": 3396.935079738451
+      },
+      "keywords": [
+        "conversion",
+        "rate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mfG1UheUwzO8dbS4oglgo",
+      "type": "subtopic",
+      "label": "Retention Rate",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 140.35637591632076,
+        "y": 3450.935079738451
+      },
+      "keywords": [
+        "retention",
+        "rate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jRWVaNpTfBXVjpi4WNT7H",
+      "type": "subtopic",
+      "label": "Churn Rate",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 140.35637591632076,
+        "y": 3504.935079738451
+      },
+      "keywords": [
+        "churn",
+        "rate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DB-dN0bfG29Xv_a8iV8Yg",
+      "type": "subtopic",
+      "label": "LTV (Lifetime Value)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 140.35637591632076,
+        "y": 3558.935079738451
+      },
+      "keywords": [
+        "ltv",
+        "lifetime",
+        "value"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kVd36zDyjLvVG2Nw9gsXi",
+      "type": "subtopic",
+      "label": "CAC (Customer Acquisition Cost)",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 140.35637591632076,
+        "y": 3612.935079738451
+      },
+      "keywords": [
+        "cac",
+        "customer",
+        "acquisition",
+        "cost"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MYKZIDHSIXr-69BdtFcNR",
+      "type": "subtopic",
+      "label": "North Star Metric",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 140.35637591632076,
+        "y": 3666.935079738451
+      },
+      "keywords": [
+        "north",
+        "star",
+        "metric"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eO7glnL0HixQYnoF3uvSW",
+      "type": "topic",
+      "label": "Data-Driven Decision Making",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 590.5510680012198,
+        "y": 3555.3041842208895
+      },
+      "keywords": [
+        "data",
+        "driven",
+        "decision",
+        "making"
+      ],
+      "metadata": {
+        "style": {
+          "width": 272,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V3yGVN7z_ihLkScO0_92_",
+      "type": "subtopic",
+      "label": "A/B Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 979.3947749668702,
+        "y": 3500.6292317423076
+      },
+      "keywords": [
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "APdoU9kzHEqpUgKGKfyp9",
+      "type": "subtopic",
+      "label": "Cohort Analysis",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 979.3947749668702,
+        "y": 3555.6292317423076
+      },
+      "keywords": [
+        "cohort",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YsDt5I0prvYeaFfn4_lpx",
+      "type": "subtopic",
+      "label": "Predictive Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 979.3947749668702,
+        "y": 3609.6292317423076
+      },
+      "keywords": [
+        "predictive",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kirIe5QsxruRUbWGfQtbD",
+      "type": "topic",
+      "label": "Feedback Loops",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 590.5510680012198,
+        "y": 3666.935079738451
+      },
+      "keywords": [
+        "feedback",
+        "loops"
+      ],
+      "metadata": {
+        "style": {
+          "width": 272,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "q-D_wIIv24wQyX1wqYi2R",
+      "type": "paragraph",
+      "label": "Stakeholder Management",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 585.0510680012198,
+        "y": 3776.5172575257884
+      },
+      "keywords": [
+        "stakeholder",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5-4MXlRjH-4PlF2giZpVL",
+      "type": "topic",
+      "label": "Communication Skills",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 590.5510680012198,
+        "y": 3892.0172575257884
+      },
+      "keywords": [
+        "communication",
+        "skills"
+      ],
+      "metadata": {
+        "style": {
+          "width": 272,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O5Ipa7PHeXUNEjQ6Mla7Y",
+      "type": "subtopic",
+      "label": "Interpersonal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 146.682471482702,
+        "y": 3757.394236056515
+      },
+      "keywords": [
+        "interpersonal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LPiCtvd00hWsCAefTIUxy",
+      "type": "subtopic",
+      "label": "Business",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 961.518950580724,
+        "y": 3808.72549793687
+      },
+      "keywords": [
+        "business"
+      ],
+      "metadata": {
+        "style": {
+          "width": 238,
+          "height": 51
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XGnJUxZu7_WnPkklvROon",
+      "type": "subtopic",
+      "label": "Communication Techniques",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 160.182471482702,
+        "y": 3816.1461206309586
+      },
+      "keywords": [
+        "communication",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iWCcvEEllfACoaXm5Ul5D",
+      "type": "subtopic",
+      "label": "Difficult Conversations",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 160.182471482702,
+        "y": 3870.1461206309586
+      },
+      "keywords": [
+        "difficult",
+        "conversations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FwYc1942Z0_KYih0BQ1CL",
+      "type": "subtopic",
+      "label": "Active Listening",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 160.182471482702,
+        "y": 3924.1461206309586
+      },
+      "keywords": [
+        "active",
+        "listening"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sQvkXvluZHgTIGS7W3Fj4",
+      "type": "subtopic",
+      "label": "Conflict Resolution",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 160.182471482702,
+        "y": 3978.1461206309586
+      },
+      "keywords": [
+        "conflict",
+        "resolution"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D5GXDeApGwjmLG2-KF2pr",
+      "type": "subtopic",
+      "label": "Alignment & Buy-In",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 975.018950580724,
+        "y": 3872.72549793687
+      },
+      "keywords": [
+        "alignment",
+        "buy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 213,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XxeB3t8MjTbUzZj2hdKF3",
+      "type": "subtopic",
+      "label": "Showing Impact",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 975.018950580724,
+        "y": 3926.72549793687
+      },
+      "keywords": [
+        "showing",
+        "impact"
+      ],
+      "metadata": {
+        "style": {
+          "width": 212,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "X-2mVBut_pn4o_fEGVrib",
+      "type": "topic",
+      "label": "Managing Stakeholders",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 941.3646725978947,
+        "y": 4101.67667410703
+      },
+      "keywords": [
+        "managing",
+        "stakeholders"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Cryuk9pCI3y78HDGv6TMK",
+      "type": "subtopic",
+      "label": "Identifying Stakeholders",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 941.3646725978947,
+        "y": 4184.249358231347
+      },
+      "keywords": [
+        "identifying",
+        "stakeholders"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bHA-9gQhvjh40Cy8jbI9u",
+      "type": "subtopic",
+      "label": "Stakeholder Mapping",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 941.3646725978947,
+        "y": 4238.249358231347
+      },
+      "keywords": [
+        "stakeholder",
+        "mapping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rvqZRvbt73BY5X98dA3Sq",
+      "type": "subtopic",
+      "label": "Stakeholder Engagement",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 941.3646725978947,
+        "y": 4292.249358231347
+      },
+      "keywords": [
+        "stakeholder",
+        "engagement"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QGAb7dQM052XPA0Ll-R1P",
+      "type": "subtopic",
+      "label": "Remote Stakeholders",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 941.3646725978947,
+        "y": 4346.249358231347
+      },
+      "keywords": [
+        "remote",
+        "stakeholders"
+      ],
+      "metadata": {
+        "style": {
+          "width": 268,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xbtAfWUo8V5JqW7f3103x",
+      "type": "paragraph",
+      "label": "Product Management Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 457.63474323374453,
+        "y": 4092.6766741070296
+      },
+      "keywords": [
+        "product",
+        "management",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 299,
+          "height": 67
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XG-QBb--HXL-1r-jInYDN",
+      "type": "topic",
+      "label": "Roadmapping Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 469.13474323374453,
+        "y": 4263.108556253108
+      },
+      "keywords": [
+        "roadmapping",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Yjxk2gUi5jQONeLzBaeJz",
+      "type": "topic",
+      "label": "Project Management Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 469.13474323374453,
+        "y": 4379.6637665665
+      },
+      "keywords": [
+        "project",
+        "management",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lJ_7-oYaFWST8aBd5lIgM",
+      "type": "topic",
+      "label": "Analytics Tools",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 469.13474323374453,
+        "y": 4497.307369026167
+      },
+      "keywords": [
+        "analytics",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IAta7OX7pAxUzkFdHibY9",
+      "type": "topic",
+      "label": "Communication Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 469.13474323374453,
+        "y": 4651.981352837288
+      },
+      "keywords": [
+        "communication",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 276,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "70yvt_oKcadnjZgg8FtAh",
+      "type": "subtopic",
+      "label": "Product Board",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 150.84810242287926,
+        "y": 4155.04743827882
+      },
+      "keywords": [
+        "product",
+        "board"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dr5BLjsZXk50R7vp3cMsu",
+      "type": "subtopic",
+      "label": "Aha",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 150.84810242287926,
+        "y": 4209.04743827882
+      },
+      "keywords": [
+        "aha"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dk1YzX84UUe_es1x-dfp2",
+      "type": "subtopic",
+      "label": "Notion",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 150.84810242287926,
+        "y": 4263.04743827882
+      },
+      "keywords": [
+        "notion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EPQ4-cKr-RqJ457XniP6w",
+      "type": "subtopic",
+      "label": "Jira",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 149.75660309713658,
+        "y": 4325.6637665665
+      },
+      "keywords": [
+        "jira"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PIIGfDN6t8H6tXZuKuE04",
+      "type": "subtopic",
+      "label": "Linear",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 149.75660309713658,
+        "y": 4379.6637665665
+      },
+      "keywords": [
+        "linear"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SD98_s1ET_j2eIIKmcKRc",
+      "type": "subtopic",
+      "label": "Trello",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 149.75660309713658,
+        "y": 4433.6637665665
+      },
+      "keywords": [
+        "trello"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Z5oorppEJ0ydvwMXSlk1J",
+      "type": "subtopic",
+      "label": "Amplitude",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 865.1063743363796,
+        "y": 4440.924588934162
+      },
+      "keywords": [
+        "amplitude"
+      ],
+      "metadata": {
+        "style": {
+          "width": 175,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xas-t2sAKmJNfb0-Zcpwy",
+      "type": "subtopic",
+      "label": "Heap",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 865.1063743363796,
+        "y": 4494.924588934162
+      },
+      "keywords": [
+        "heap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 175,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y8Ys_WfPXLVfJngOLryGR",
+      "type": "subtopic",
+      "label": "Looker",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 865.1063743363796,
+        "y": 4548.924588934162
+      },
+      "keywords": [
+        "looker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 175,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UdOJDzkDP_R3E5f_IltYh",
+      "type": "subtopic",
+      "label": "Slack",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 148.33073471157127,
+        "y": 4543.981352837288
+      },
+      "keywords": [
+        "slack"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "z72akk5E5XjEuLraS9Gug",
+      "type": "subtopic",
+      "label": "Teams",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 148.33073471157127,
+        "y": 4597.981352837288
+      },
+      "keywords": [
+        "teams"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "e6gO1twjter9xWm14g9S9",
+      "type": "subtopic",
+      "label": "Discord",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 148.33073471157127,
+        "y": 4651.981352837288
+      },
+      "keywords": [
+        "discord"
+      ],
+      "metadata": {
+        "style": {
+          "width": 201,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5KH5gd8l8ZcXb3hrbXVGv",
+      "type": "paragraph",
+      "label": "Risk Management",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 987.6156736983723,
+        "y": 4643.481352837288
+      },
+      "keywords": [
+        "risk",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 213,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oO-ujKApmpoQdkPEkOQG7",
+      "type": "topic",
+      "label": "Identifying Risks",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 976.4592791031062,
+        "y": 4815.41682098549
+      },
+      "keywords": [
+        "identifying",
+        "risks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0zRGIArMUe9xVDSKfnoHZ",
+      "type": "subtopic",
+      "label": "Risk Identification Techniques",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 579.1835171085152,
+        "y": 4759.104480406178
+      },
+      "keywords": [
+        "risk",
+        "identification",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WBnLicFo9p2zm57pyXciI",
+      "type": "subtopic",
+      "label": "Risk Register",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 579.1835171085152,
+        "y": 4815.41682098549
+      },
+      "keywords": [
+        "risk",
+        "register"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0uRTNYMwTU9JzvIWSvDSm",
+      "type": "topic",
+      "label": "Risk Assessment",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 659.2535468243088,
+        "y": 4982.262343397685
+      },
+      "keywords": [
+        "risk",
+        "assessment"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KXadmIkKJM0XLV4Qz0Stj",
+      "type": "subtopic",
+      "label": "Qualitative Risk Assessment",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 658.8533196405465,
+        "y": 5066.388578146042
+      },
+      "keywords": [
+        "qualitative",
+        "risk",
+        "assessment"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "g0sBLcG8kEfeHHtsJSb4i",
+      "type": "subtopic",
+      "label": "Quantitative Risk Assessment",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 658.8533196405465,
+        "y": 5120.388578146042
+      },
+      "keywords": [
+        "quantitative",
+        "risk",
+        "assessment"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "A-srndVB0olGq0qkApnwi",
+      "type": "topic",
+      "label": "Risk Mitigation",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 158.7376817960943,
+        "y": 4982.262343397685
+      },
+      "keywords": [
+        "risk",
+        "mitigation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4gV80Qrd08_Y8oZB_hahV",
+      "type": "subtopic",
+      "label": "Mitigation Strategies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 159.7376817960943,
+        "y": 4837.584005515403
+      },
+      "keywords": [
+        "mitigation",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ybq-zRDLvtTTl8X8GnRNf",
+      "type": "subtopic",
+      "label": "Contingency Planning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 158.7376817960943,
+        "y": 4891.584005515403
+      },
+      "keywords": [
+        "contingency",
+        "planning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zJGg20NPStLPkeL5LKoGm",
+      "type": "topic",
+      "label": "Monitoring and Controlling Risks",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 159.7376817960943,
+        "y": 5093.674587429487
+      },
+      "keywords": [
+        "monitoring",
+        "controlling",
+        "risks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "S2w72SRx-9QvRO7RNBlKZ",
+      "type": "subtopic",
+      "label": "Risk Monitoring Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": 208.2376817960943,
+        "y": 5181.925823963954
+      },
+      "keywords": [
+        "risk",
+        "monitoring",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ao2uUq_UZWtB-LRKH1x40",
+      "type": "subtopic",
+      "label": "Risk Audits",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.2376817960943,
+        "y": 5235.925823963954
+      },
+      "keywords": [
+        "risk",
+        "audits"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nrGUiI55jBUgegvRGGe7P",
+      "type": "paragraph",
+      "label": "Advanced Topics",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 655.9408118709459,
+        "y": 5241.925823963954
+      },
+      "keywords": [
+        "advanced",
+        "topics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 198,
+          "height": 67
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "4i_kX9oZunMBFYevu7lyi",
+      "type": "topic",
+      "label": "Scaling Products",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 1022.4458398969023,
+        "y": 5250.925823963954
+      },
+      "keywords": [
+        "scaling",
+        "products"
+      ],
+      "metadata": {
+        "style": {
+          "width": 189,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4-w4BpDh4dpmnU9qfjqbU",
+      "type": "subtopic",
+      "label": "Growth Strategies",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1022.4458398969023,
+        "y": 5048.736154485648
+      },
+      "keywords": [
+        "growth",
+        "strategies"
+      ],
+      "metadata": {
+        "style": {
+          "width": 189,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lIdogd1DAzCo1ct7cdvYD",
+      "type": "subtopic",
+      "label": "Internationalization",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 1022.4458398969023,
+        "y": 5102.736154485648
+      },
+      "keywords": [
+        "internationalization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 189,
+          "height": 51
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EEi56Ww04QbuF2I7B7xW8",
+      "type": "subtopic",
+      "label": "Platform Thinking",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 1022.4458398969023,
+        "y": 5158.736154485648
+      },
+      "keywords": [
+        "platform",
+        "thinking"
+      ],
+      "metadata": {
+        "style": {
+          "width": 189,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BGtxI9CHtJfhRMdUEIfWa",
+      "type": "topic",
+      "label": "Portfolio Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 764.1347432337445,
+        "y": 5380.449722722674
+      },
+      "keywords": [
+        "portfolio",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9y_I41kJhkmyBJjiTw8Xd",
+      "type": "topic",
+      "label": "Advanced Analysis",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 454.22181463284005,
+        "y": 5379.350856221659
+      },
+      "keywords": [
+        "advanced",
+        "analysis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 191,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "h5N51_YgjaTHhPUHxkqQR",
+      "type": "subtopic",
+      "label": "Predictive Analytics",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 119.18959246620761,
+        "y": 5325.350856221659
+      },
+      "keywords": [
+        "predictive",
+        "analytics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rzrxYqFENQ3d0WpZv9-0Q",
+      "type": "subtopic",
+      "label": "ML in Product Mgmt.",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 119.18959246620761,
+        "y": 5379.350856221659
+      },
+      "keywords": [
+        "product",
+        "mgmt"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "H7sf23kwv73XjnFCdKHPi",
+      "type": "subtopic",
+      "label": "AI in Product Mgmt.",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 119.18959246620761,
+        "y": 5433.350856221659
+      },
+      "keywords": [
+        "product",
+        "mgmt"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WyKJxhfnbz6jx-Tvg40_j",
+      "type": "topic",
+      "label": "Leadership and Influence",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 619.22181463284,
+        "y": 5536.76201575575
+      },
+      "keywords": [
+        "leadership",
+        "influence"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MP-jZtofXCufnvtSldxqU",
+      "type": "subtopic",
+      "label": "Building and Leading Teams",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 949.9896265395387,
+        "y": 5482.76201575575
+      },
+      "keywords": [
+        "building",
+        "leading",
+        "teams"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CMge123Tm9DrZ31LvipLD",
+      "type": "subtopic",
+      "label": "Influencing without Authority",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 949.9896265395387,
+        "y": 5536.76201575575
+      },
+      "keywords": [
+        "influencing",
+        "without",
+        "authority"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gyNOziqf1VsfI2j-FaNZ_",
+      "type": "subtopic",
+      "label": "Emotional Intelligence",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 949.9896265395387,
+        "y": 5590.76201575575
+      },
+      "keywords": [
+        "emotional",
+        "intelligence"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kYr7vgV-9US2x5HFYZGwq",
+      "type": "paragraph",
+      "label": "Keep Learning",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 638.72181463284,
+        "y": 5723.671763587403
+      },
+      "keywords": [
+        "keep",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 207,
+          "height": 73
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5080vx0T3tVIb-SYuyl13",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 731.72181463284,
+        "y": 5820.057665539548
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 81
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9vy4uIoykk2zSSyIok4_S",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 559.22181463284,
+        "y": 185.8113337289081
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 167,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PstbOGqR_4C2WWV8CWXes",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": 121.47769562456426,
+        "y": -164.6886662710919
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 163
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "KYkZX-u-Pfsjxa6fKUaSH",
+      "target": "luk1vnpy0duneVjen8WzO",
+      "type": "default"
+    },
+    {
+      "source": "KYkZX-u-Pfsjxa6fKUaSH",
+      "target": "V-IeFB9S2tToxANHIzpMs",
+      "type": "default"
+    },
+    {
+      "source": "KYkZX-u-Pfsjxa6fKUaSH",
+      "target": "Dx6ee8P_Agpw1MLKlAPGI",
+      "type": "default"
+    },
+    {
+      "source": "KYkZX-u-Pfsjxa6fKUaSH",
+      "target": "5W-3jh1-4qSU5kagrWv9z",
+      "type": "default"
+    },
+    {
+      "source": "jIsN1OBs039cLtxTqyptd",
+      "target": "KYkZX-u-Pfsjxa6fKUaSH",
+      "type": "default"
+    },
+    {
+      "source": "KYkZX-u-Pfsjxa6fKUaSH",
+      "target": "l6NjkNch2LH4BDhxXUoDK",
+      "type": "default"
+    },
+    {
+      "target": "1HytzY1KRYIQWoQa5FMwY",
+      "type": "default"
+    },
+    {
+      "source": "Hk61DnFkfaeuxO2LSupMS",
+      "target": "AGBawBPz_1Y9LnBgStGG_",
+      "type": "default"
+    },
+    {
+      "source": "AGBawBPz_1Y9LnBgStGG_",
+      "target": "MeiyH5JgagSgP24QNKmbK",
+      "type": "default"
+    },
+    {
+      "source": "KYkZX-u-Pfsjxa6fKUaSH",
+      "target": "Hk61DnFkfaeuxO2LSupMS",
+      "type": "default"
+    },
+    {
+      "source": "fmpJB_14CYn7PVuoGZdoz",
+      "target": "69IgqluiW9cVfezSIKInD",
+      "type": "default"
+    },
+    {
+      "source": "fmpJB_14CYn7PVuoGZdoz",
+      "target": "1HytzY1KRYIQWoQa5FMwY",
+      "type": "default"
+    },
+    {
+      "source": "fmpJB_14CYn7PVuoGZdoz",
+      "target": "gjdCSm_jZmG_q6YjG_8Qu",
+      "type": "default"
+    },
+    {
+      "source": "Eusp5p6gNIxtU_yVvOkmu",
+      "target": "LkDLk6DsEvbFXZPGOhD0C",
+      "type": "default"
+    },
+    {
+      "source": "Eusp5p6gNIxtU_yVvOkmu",
+      "target": "PBDlYIyS8LAyPE6tV-kU7",
+      "type": "default"
+    },
+    {
+      "source": "Eusp5p6gNIxtU_yVvOkmu",
+      "target": "aDhSpLRZ6Sd8SnkcwtyLf",
+      "type": "default"
+    },
+    {
+      "source": "Eusp5p6gNIxtU_yVvOkmu",
+      "target": "8LAy6uBfrdtrjF8ygAGoo",
+      "type": "default"
+    },
+    {
+      "source": "8LAy6uBfrdtrjF8ygAGoo",
+      "target": "0y8F9x6MhApQkS1VhS8Dx",
+      "type": "default"
+    },
+    {
+      "source": "8LAy6uBfrdtrjF8ygAGoo",
+      "target": "5kt8AkCsdAdlBmsKOkKFH",
+      "type": "default"
+    },
+    {
+      "source": "8LAy6uBfrdtrjF8ygAGoo",
+      "target": "a_5AyOKAgcg0rArZfapA_",
+      "type": "default"
+    },
+    {
+      "source": "8LAy6uBfrdtrjF8ygAGoo",
+      "target": "VwI7plziVzwkp3KZd4466",
+      "type": "default"
+    },
+    {
+      "source": "8LAy6uBfrdtrjF8ygAGoo",
+      "target": "YPqdrZguH0ArEFSe-VwKS",
+      "type": "default"
+    },
+    {
+      "source": "YPqdrZguH0ArEFSe-VwKS",
+      "target": "tKDlfVvNym_OIqkommiJ8",
+      "type": "default"
+    },
+    {
+      "source": "YPqdrZguH0ArEFSe-VwKS",
+      "target": "3MYjrnd6h2ZlcfaXjUbkC",
+      "type": "default"
+    },
+    {
+      "source": "YPqdrZguH0ArEFSe-VwKS",
+      "target": "JhhjMPTNb646aQKlS_cji",
+      "type": "default"
+    },
+    {
+      "source": "KnAlfSHDjLnQ7CMv5W-Ee",
+      "target": "Eusp5p6gNIxtU_yVvOkmu",
+      "type": "default"
+    },
+    {
+      "source": "Hk61DnFkfaeuxO2LSupMS",
+      "target": "KnAlfSHDjLnQ7CMv5W-Ee",
+      "type": "default"
+    },
+    {
+      "source": "YPqdrZguH0ArEFSe-VwKS",
+      "target": "WbrOaEjm9pVz9U0sq1Sw0",
+      "type": "default"
+    },
+    {
+      "source": "WbrOaEjm9pVz9U0sq1Sw0",
+      "target": "l-KrmCOKEfpLHq4j-9SoY",
+      "type": "default"
+    },
+    {
+      "source": "l-KrmCOKEfpLHq4j-9SoY",
+      "target": "DnKHDm0TZ7QQUyrhPdqkV",
+      "type": "default"
+    },
+    {
+      "source": "l-KrmCOKEfpLHq4j-9SoY",
+      "target": "ZCTSbMHAMSaOxlqaJImzr",
+      "type": "default"
+    },
+    {
+      "source": "l-KrmCOKEfpLHq4j-9SoY",
+      "target": "8srsCEv55zh1y4gsp-rCO",
+      "type": "default"
+    },
+    {
+      "source": "l-KrmCOKEfpLHq4j-9SoY",
+      "target": "eKJ2XfDxu0NAKA932tbzy",
+      "type": "default"
+    },
+    {
+      "source": "l-KrmCOKEfpLHq4j-9SoY",
+      "target": "wuqZntn1ivkr9AV_09zYX",
+      "type": "default"
+    },
+    {
+      "source": "l-KrmCOKEfpLHq4j-9SoY",
+      "target": "uXseNTJlteD6Fgi1bzQB4",
+      "type": "default"
+    },
+    {
+      "source": "l-KrmCOKEfpLHq4j-9SoY",
+      "target": "zS_CjYSTOIkJZn-oUEvgh",
+      "type": "default"
+    },
+    {
+      "source": "l-KrmCOKEfpLHq4j-9SoY",
+      "target": "n2AYdM2dlJfuZ97jXY49U",
+      "type": "default"
+    },
+    {
+      "source": "n2AYdM2dlJfuZ97jXY49U",
+      "target": "NG6ks4yOlokMVJ38DyaUP",
+      "type": "default"
+    },
+    {
+      "source": "n2AYdM2dlJfuZ97jXY49U",
+      "target": "6OjKcLbUZVJdUDC7if0Uy",
+      "type": "default"
+    },
+    {
+      "source": "6OjKcLbUZVJdUDC7if0Uy",
+      "target": "1j2ZSo7UGnBgoLpYzsA5t",
+      "type": "default"
+    },
+    {
+      "source": "0AQj2F1n8VKHBwuF4ywrp",
+      "target": "xu8A_QKs6lXzKPMiifNF_",
+      "type": "default"
+    },
+    {
+      "source": "6OjKcLbUZVJdUDC7if0Uy",
+      "target": "0AQj2F1n8VKHBwuF4ywrp",
+      "type": "default"
+    },
+    {
+      "source": "0AQj2F1n8VKHBwuF4ywrp",
+      "target": "m46lX4dUHik_BSHQwaU2l",
+      "type": "default"
+    },
+    {
+      "source": "m46lX4dUHik_BSHQwaU2l",
+      "target": "qy_IXzenBOEVBMvVlXPaY",
+      "type": "default"
+    },
+    {
+      "source": "0MnqK2-pI7EkwsGy1j1sh",
+      "target": "DoJCeL_vEXv3aVrLt7P_R",
+      "type": "default"
+    },
+    {
+      "source": "DoJCeL_vEXv3aVrLt7P_R",
+      "target": "0tJ7zlgOIaioCMmVavfqz",
+      "type": "default"
+    },
+    {
+      "source": "0tJ7zlgOIaioCMmVavfqz",
+      "target": "0FqpBfvnkGN_oE2KSC-_8",
+      "type": "default"
+    },
+    {
+      "source": "0tJ7zlgOIaioCMmVavfqz",
+      "target": "kN-UfAbQ8j7g0jDdqWK55",
+      "type": "default"
+    },
+    {
+      "source": "0tJ7zlgOIaioCMmVavfqz",
+      "target": "B9fgJmzVViaq7dvSuEglb",
+      "type": "default"
+    },
+    {
+      "source": "0tJ7zlgOIaioCMmVavfqz",
+      "target": "gS3ofDrqDRKbecIskIyGi",
+      "type": "default"
+    },
+    {
+      "source": "gS3ofDrqDRKbecIskIyGi",
+      "target": "NjLt_B_kV7FdnkOomqayx",
+      "type": "default"
+    },
+    {
+      "source": "lq5Hl1ZXBQRRI_4ywn7yA",
+      "target": "3JY85Tu40ABy9XfoliaqE",
+      "type": "default"
+    },
+    {
+      "source": "gS3ofDrqDRKbecIskIyGi",
+      "target": "lq5Hl1ZXBQRRI_4ywn7yA",
+      "type": "default"
+    },
+    {
+      "source": "lq5Hl1ZXBQRRI_4ywn7yA",
+      "target": "74FApE4fYNihBkOfl3w3p",
+      "type": "default"
+    },
+    {
+      "source": "74FApE4fYNihBkOfl3w3p",
+      "target": "-lFYy5W1YqWuTiM3QRF4k",
+      "type": "default"
+    },
+    {
+      "source": "-lFYy5W1YqWuTiM3QRF4k",
+      "target": "TwL-EqDorSgUpBYr4O4rf",
+      "type": "default"
+    },
+    {
+      "source": "-lFYy5W1YqWuTiM3QRF4k",
+      "target": "zwrmh-djneZ8HIqbaBOkN",
+      "type": "default"
+    },
+    {
+      "source": "-lFYy5W1YqWuTiM3QRF4k",
+      "target": "yPtxGBDEJkFBhF8ZgQUVH",
+      "type": "default"
+    },
+    {
+      "source": "-lFYy5W1YqWuTiM3QRF4k",
+      "target": "lxU25qxxgxnNF3c3kdZxz",
+      "type": "default"
+    },
+    {
+      "source": "lxU25qxxgxnNF3c3kdZxz",
+      "target": "S_-9msr3vGZgOQ36zErnf",
+      "type": "default"
+    },
+    {
+      "source": "S_-9msr3vGZgOQ36zErnf",
+      "target": "v3hKowLMBVq9eCXkUhrDZ",
+      "type": "default"
+    },
+    {
+      "target": "1uXjKKvOKqpO50m1pM627",
+      "type": "default"
+    },
+    {
+      "target": "Ws7IFrHQNoBjLE2Td2xIZ",
+      "type": "default"
+    },
+    {
+      "target": "5fze1aw1in3Gp3K31bvin",
+      "type": "default"
+    },
+    {
+      "source": "v3hKowLMBVq9eCXkUhrDZ",
+      "target": "5fze1aw1in3Gp3K31bvin",
+      "type": "default"
+    },
+    {
+      "source": "v3hKowLMBVq9eCXkUhrDZ",
+      "target": "Ws7IFrHQNoBjLE2Td2xIZ",
+      "type": "default"
+    },
+    {
+      "source": "v3hKowLMBVq9eCXkUhrDZ",
+      "target": "1uXjKKvOKqpO50m1pM627",
+      "type": "default"
+    },
+    {
+      "source": "hLy9kA3yEyDQ32XTq6I8b",
+      "target": "sAu4Gr1hg8S4jAV0bOSdY",
+      "type": "default"
+    },
+    {
+      "source": "sAu4Gr1hg8S4jAV0bOSdY",
+      "target": "2r-NPGcROFmw-pd4rvsAJ",
+      "type": "default"
+    },
+    {
+      "source": "v3hKowLMBVq9eCXkUhrDZ",
+      "target": "hLy9kA3yEyDQ32XTq6I8b",
+      "type": "default"
+    },
+    {
+      "target": "53XS2zKdK6IDdOP07yiT7",
+      "type": "default"
+    },
+    {
+      "source": "2r-NPGcROFmw-pd4rvsAJ",
+      "target": "Y5p9Vi4tGPw4aDEJy8xXM",
+      "type": "default"
+    },
+    {
+      "target": "VqNK1rNAnr_yvi_a0YZEs",
+      "type": "default"
+    },
+    {
+      "target": "JrcZ404QjGsPn-VW1ktrh",
+      "type": "default"
+    },
+    {
+      "source": "53XS2zKdK6IDdOP07yiT7",
+      "target": "JrcZ404QjGsPn-VW1ktrh",
+      "type": "default"
+    },
+    {
+      "source": "sAu4Gr1hg8S4jAV0bOSdY",
+      "target": "kJ2HQFEsnc5yISU8d9Lla",
+      "type": "default"
+    },
+    {
+      "source": "i288W9vF02QOKgPxjDqQh",
+      "target": "h10DphS6mi7ZwbyHppPsb",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "g2EgVtqwQxLfjBjomUqcU",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "Sbi5Y72nU_B1Jk6xNp17u",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "avkgeNNVQOCE7dvEKFVZv",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "mfG1UheUwzO8dbS4oglgo",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "jRWVaNpTfBXVjpi4WNT7H",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "DB-dN0bfG29Xv_a8iV8Yg",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "kVd36zDyjLvVG2Nw9gsXi",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "MYKZIDHSIXr-69BdtFcNR",
+      "type": "default"
+    },
+    {
+      "source": "h10DphS6mi7ZwbyHppPsb",
+      "target": "RfllpwFxWBeHF29oUwGo_",
+      "type": "default"
+    },
+    {
+      "source": "RfllpwFxWBeHF29oUwGo_",
+      "target": "eO7glnL0HixQYnoF3uvSW",
+      "type": "default"
+    },
+    {
+      "source": "eO7glnL0HixQYnoF3uvSW",
+      "target": "V3yGVN7z_ihLkScO0_92_",
+      "type": "default"
+    },
+    {
+      "source": "eO7glnL0HixQYnoF3uvSW",
+      "target": "APdoU9kzHEqpUgKGKfyp9",
+      "type": "default"
+    },
+    {
+      "source": "eO7glnL0HixQYnoF3uvSW",
+      "target": "YsDt5I0prvYeaFfn4_lpx",
+      "type": "default"
+    },
+    {
+      "source": "eO7glnL0HixQYnoF3uvSW",
+      "target": "kirIe5QsxruRUbWGfQtbD",
+      "type": "default"
+    },
+    {
+      "source": "kirIe5QsxruRUbWGfQtbD",
+      "target": "q-D_wIIv24wQyX1wqYi2R",
+      "type": "default"
+    },
+    {
+      "source": "q-D_wIIv24wQyX1wqYi2R",
+      "target": "5-4MXlRjH-4PlF2giZpVL",
+      "type": "default"
+    },
+    {
+      "source": "5-4MXlRjH-4PlF2giZpVL",
+      "target": "a9Q5Dbr58rhyVublQ1a58",
+      "type": "default"
+    },
+    {
+      "source": "5-4MXlRjH-4PlF2giZpVL",
+      "target": "dHtY_ibI0uJBL2Jknbczr",
+      "type": "default"
+    },
+    {
+      "source": "X-2mVBut_pn4o_fEGVrib",
+      "target": "Cryuk9pCI3y78HDGv6TMK",
+      "type": "default"
+    },
+    {
+      "source": "5-4MXlRjH-4PlF2giZpVL",
+      "target": "X-2mVBut_pn4o_fEGVrib",
+      "type": "default"
+    },
+    {
+      "source": "X-2mVBut_pn4o_fEGVrib",
+      "target": "xbtAfWUo8V5JqW7f3103x",
+      "type": "default"
+    },
+    {
+      "source": "xbtAfWUo8V5JqW7f3103x",
+      "target": "XG-QBb--HXL-1r-jInYDN",
+      "type": "default"
+    },
+    {
+      "source": "XG-QBb--HXL-1r-jInYDN",
+      "target": "dk1YzX84UUe_es1x-dfp2",
+      "type": "default"
+    },
+    {
+      "source": "XG-QBb--HXL-1r-jInYDN",
+      "target": "dr5BLjsZXk50R7vp3cMsu",
+      "type": "default"
+    },
+    {
+      "source": "XG-QBb--HXL-1r-jInYDN",
+      "target": "70yvt_oKcadnjZgg8FtAh",
+      "type": "default"
+    },
+    {
+      "source": "XG-QBb--HXL-1r-jInYDN",
+      "target": "Yjxk2gUi5jQONeLzBaeJz",
+      "type": "default"
+    },
+    {
+      "source": "Yjxk2gUi5jQONeLzBaeJz",
+      "target": "EPQ4-cKr-RqJ457XniP6w",
+      "type": "default"
+    },
+    {
+      "source": "Yjxk2gUi5jQONeLzBaeJz",
+      "target": "PIIGfDN6t8H6tXZuKuE04",
+      "type": "default"
+    },
+    {
+      "source": "Yjxk2gUi5jQONeLzBaeJz",
+      "target": "SD98_s1ET_j2eIIKmcKRc",
+      "type": "default"
+    },
+    {
+      "source": "Yjxk2gUi5jQONeLzBaeJz",
+      "target": "lJ_7-oYaFWST8aBd5lIgM",
+      "type": "default"
+    },
+    {
+      "source": "lJ_7-oYaFWST8aBd5lIgM",
+      "target": "Z5oorppEJ0ydvwMXSlk1J",
+      "type": "default"
+    },
+    {
+      "source": "lJ_7-oYaFWST8aBd5lIgM",
+      "target": "xas-t2sAKmJNfb0-Zcpwy",
+      "type": "default"
+    },
+    {
+      "source": "lJ_7-oYaFWST8aBd5lIgM",
+      "target": "y8Ys_WfPXLVfJngOLryGR",
+      "type": "default"
+    },
+    {
+      "source": "lJ_7-oYaFWST8aBd5lIgM",
+      "target": "IAta7OX7pAxUzkFdHibY9",
+      "type": "default"
+    },
+    {
+      "source": "IAta7OX7pAxUzkFdHibY9",
+      "target": "e6gO1twjter9xWm14g9S9",
+      "type": "default"
+    },
+    {
+      "source": "IAta7OX7pAxUzkFdHibY9",
+      "target": "z72akk5E5XjEuLraS9Gug",
+      "type": "default"
+    },
+    {
+      "source": "IAta7OX7pAxUzkFdHibY9",
+      "target": "UdOJDzkDP_R3E5f_IltYh",
+      "type": "default"
+    },
+    {
+      "source": "IAta7OX7pAxUzkFdHibY9",
+      "target": "5KH5gd8l8ZcXb3hrbXVGv",
+      "type": "default"
+    },
+    {
+      "source": "5KH5gd8l8ZcXb3hrbXVGv",
+      "target": "oO-ujKApmpoQdkPEkOQG7",
+      "type": "default"
+    },
+    {
+      "source": "oO-ujKApmpoQdkPEkOQG7",
+      "target": "WBnLicFo9p2zm57pyXciI",
+      "type": "default"
+    },
+    {
+      "source": "oO-ujKApmpoQdkPEkOQG7",
+      "target": "0zRGIArMUe9xVDSKfnoHZ",
+      "type": "default"
+    },
+    {
+      "source": "oO-ujKApmpoQdkPEkOQG7",
+      "target": "0uRTNYMwTU9JzvIWSvDSm",
+      "type": "default"
+    },
+    {
+      "source": "0uRTNYMwTU9JzvIWSvDSm",
+      "target": "KXadmIkKJM0XLV4Qz0Stj",
+      "type": "default"
+    },
+    {
+      "source": "A-srndVB0olGq0qkApnwi",
+      "target": "ybq-zRDLvtTTl8X8GnRNf",
+      "type": "default"
+    },
+    {
+      "source": "0uRTNYMwTU9JzvIWSvDSm",
+      "target": "A-srndVB0olGq0qkApnwi",
+      "type": "default"
+    },
+    {
+      "source": "A-srndVB0olGq0qkApnwi",
+      "target": "zJGg20NPStLPkeL5LKoGm",
+      "type": "default"
+    },
+    {
+      "source": "zJGg20NPStLPkeL5LKoGm",
+      "target": "S2w72SRx-9QvRO7RNBlKZ",
+      "type": "default"
+    },
+    {
+      "source": "zJGg20NPStLPkeL5LKoGm",
+      "target": "nrGUiI55jBUgegvRGGe7P",
+      "type": "default"
+    },
+    {
+      "source": "nrGUiI55jBUgegvRGGe7P",
+      "target": "4i_kX9oZunMBFYevu7lyi",
+      "type": "default"
+    },
+    {
+      "source": "4i_kX9oZunMBFYevu7lyi",
+      "target": "EEi56Ww04QbuF2I7B7xW8",
+      "type": "default"
+    },
+    {
+      "source": "4i_kX9oZunMBFYevu7lyi",
+      "target": "BGtxI9CHtJfhRMdUEIfWa",
+      "type": "default"
+    },
+    {
+      "source": "BGtxI9CHtJfhRMdUEIfWa",
+      "target": "9y_I41kJhkmyBJjiTw8Xd",
+      "type": "default"
+    },
+    {
+      "source": "9y_I41kJhkmyBJjiTw8Xd",
+      "target": "h5N51_YgjaTHhPUHxkqQR",
+      "type": "default"
+    },
+    {
+      "source": "9y_I41kJhkmyBJjiTw8Xd",
+      "target": "rzrxYqFENQ3d0WpZv9-0Q",
+      "type": "default"
+    },
+    {
+      "source": "9y_I41kJhkmyBJjiTw8Xd",
+      "target": "H7sf23kwv73XjnFCdKHPi",
+      "type": "default"
+    },
+    {
+      "source": "9y_I41kJhkmyBJjiTw8Xd",
+      "target": "WyKJxhfnbz6jx-Tvg40_j",
+      "type": "default"
+    },
+    {
+      "source": "WyKJxhfnbz6jx-Tvg40_j",
+      "target": "MP-jZtofXCufnvtSldxqU",
+      "type": "default"
+    },
+    {
+      "source": "WyKJxhfnbz6jx-Tvg40_j",
+      "target": "CMge123Tm9DrZ31LvipLD",
+      "type": "default"
+    },
+    {
+      "source": "WyKJxhfnbz6jx-Tvg40_j",
+      "target": "gyNOziqf1VsfI2j-FaNZ_",
+      "type": "default"
+    },
+    {
+      "source": "WyKJxhfnbz6jx-Tvg40_j",
+      "target": "kYr7vgV-9US2x5HFYZGwq",
+      "type": "default"
+    },
+    {
+      "source": "jIsN1OBs039cLtxTqyptd",
+      "target": "9vy4uIoykk2zSSyIok4_S",
+      "type": "default"
+    },
+    {
+      "source": "9vy4uIoykk2zSSyIok4_S",
+      "target": "Hk61DnFkfaeuxO2LSupMS",
+      "type": "default"
+    },
+    {
+      "source": "Hk61DnFkfaeuxO2LSupMS",
+      "target": "fmpJB_14CYn7PVuoGZdoz",
+      "type": "default"
+    },
+    {
+      "source": "9vy4uIoykk2zSSyIok4_S",
+      "target": "l6NjkNch2LH4BDhxXUoDK",
+      "type": "default"
+    },
+    {
+      "source": "9vy4uIoykk2zSSyIok4_S",
+      "target": "luk1vnpy0duneVjen8WzO",
+      "type": "default"
+    },
+    {
+      "source": "9vy4uIoykk2zSSyIok4_S",
+      "target": "V-IeFB9S2tToxANHIzpMs",
+      "type": "default"
+    },
+    {
+      "source": "9vy4uIoykk2zSSyIok4_S",
+      "target": "Dx6ee8P_Agpw1MLKlAPGI",
+      "type": "default"
+    },
+    {
+      "source": "9vy4uIoykk2zSSyIok4_S",
+      "target": "5W-3jh1-4qSU5kagrWv9z",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 114
+    },
+    {
+      "name": "topic",
+      "count": 28
+    },
+    {
+      "name": "data-science",
+      "count": 12
+    },
+    {
+      "name": "paragraph",
+      "count": 11
+    },
+    {
+      "name": "section",
+      "count": 10
+    },
+    {
+      "name": "frontend",
+      "count": 5
+    },
+    {
+      "name": "testing",
+      "count": 5
+    },
+    {
+      "name": "tools",
+      "count": 5
+    },
+    {
+      "name": "database",
+      "count": 4
+    },
+    {
+      "name": "programming-language",
+      "count": 3
+    },
+    {
+      "name": "vertical",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "count": 1
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "label",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "dHtY_ibI0uJBL2Jknbczr",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "dhty_ibi0ujbl2jknbczr"
+      ]
+    },
+    {
+      "name": "a9Q5Dbr58rhyVublQ1a58",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "a9q5dbr58rhyvublq1a58"
+      ]
+    },
+    {
+      "name": "i288W9vF02QOKgPxjDqQh",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "i288w9vf02qokgpxjdqqh"
+      ]
+    },
+    {
+      "name": "X-Done4_JD3ZuwWr6nCVY",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "done4_jd3zuwwr6ncvy"
+      ]
+    },
+    {
+      "name": "NG6ks4yOlokMVJ38DyaUP",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ng6ks4yolokmvj38dyaup"
+      ]
+    },
+    {
+      "name": "MeiyH5JgagSgP24QNKmbK",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "meiyh5jgagsgp24qnkmbk"
+      ]
+    },
+    {
+      "name": "l6NjkNch2LH4BDhxXUoDK",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "l6njknch2lh4bdhxxuodk"
+      ]
+    },
+    {
+      "name": "Product Manager",
+      "category": "title",
+      "difficulty": "beginner",
+      "keywords": [
+        "product",
+        "manager"
+      ]
+    },
+    {
+      "name": "What is Product Management?",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "product",
+        "management"
+      ]
+    },
+    {
+      "name": "Product vs Project Management",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "product",
+        "project",
+        "management"
+      ]
+    },
+    {
+      "name": "Roles and Responsibilities",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "roles",
+        "responsibilities"
+      ]
+    },
+    {
+      "name": "Key Skills",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "key",
+        "skills"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Product Development Lifecycle",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "product",
+        "development",
+        "lifecycle"
+      ]
+    },
+    {
+      "name": "Development",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "development"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "Growth",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "growth"
+      ]
+    },
+    {
+      "name": "Maturity",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "maturity"
+      ]
+    },
+    {
+      "name": "Decline",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "decline"
+      ]
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Idea Generation",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "idea",
+        "generation"
+      ]
+    },
+    {
+      "name": "Mind Mapping",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "mind",
+        "mapping"
+      ]
+    },
+    {
+      "name": "Brainwriting",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "brainwriting"
+      ]
+    },
+    {
+      "name": "SCAMPER",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "scamper"
+      ]
+    },
+    {
+      "name": "Brainstorming Techniques",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "brainstorming",
+        "techniques"
+      ]
+    },
+    {
+      "name": "8epVLkRSIDKt3_NxK0sZ7",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "8epvlkrsidkt3_nxk0sz7"
+      ]
+    },
+    {
+      "name": "Discovery",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "discovery"
+      ]
+    },
+    {
+      "name": "Selection",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "selection"
+      ]
+    },
+    {
+      "name": "Validation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "validation"
+      ]
+    },
+    {
+      "name": "Iterative Process",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "iterative",
+        "process"
+      ]
+    },
+    {
+      "name": "Execution",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "execution"
+      ]
+    },
+    {
+      "name": "Blue Ocean Strategy",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "blue",
+        "ocean",
+        "strategy"
+      ]
+    },
+    {
+      "name": "TRIZ (Theory of Inventive Problem Solving)",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "triz",
+        "theory",
+        "inventive",
+        "problem",
+        "solving"
+      ]
+    },
+    {
+      "name": "Problem Framing",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "problem",
+        "framing"
+      ]
+    },
+    {
+      "name": "Product Identification",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "product",
+        "identification"
+      ]
+    },
+    {
+      "name": "Market Analysis",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "market",
+        "analysis"
+      ]
+    },
+    {
+      "name": "User Research",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "user",
+        "research"
+      ]
+    },
+    {
+      "name": "Positioning",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "positioning"
+      ]
+    },
+    {
+      "name": "Identifying Market Needs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "identifying",
+        "market",
+        "needs"
+      ]
+    },
+    {
+      "name": "Competitive Analysis",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "competitive",
+        "analysis"
+      ]
+    },
+    {
+      "name": "Emerging Market Trends",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "emerging",
+        "market",
+        "trends"
+      ]
+    },
+    {
+      "name": "User Personas",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "user",
+        "personas"
+      ]
+    },
+    {
+      "name": "User Interviews",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "user",
+        "interviews"
+      ]
+    },
+    {
+      "name": "Surveys and Questionnaires",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "surveys",
+        "questionnaires"
+      ]
+    },
+    {
+      "name": "Ethnographic Research",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "ethnographic",
+        "research"
+      ]
+    },
+    {
+      "name": "USP (Unique Selling Point)",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "usp",
+        "unique",
+        "selling",
+        "point"
+      ]
+    },
+    {
+      "name": "Defining & Communicating",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "defining",
+        "communicating"
+      ]
+    },
+    {
+      "name": "Market Segmentation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "market",
+        "segmentation"
+      ]
+    },
+    {
+      "name": "Case Studies",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "case",
+        "studies"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 203,
+    "totalEdges": 145,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:21.658Z",
+    "version": "2.0"
+  }
+}

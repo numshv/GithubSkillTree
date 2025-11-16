@@ -1,0 +1,2816 @@
+{
+  "name": "graphql",
+  "title": "Graphql",
+  "nodes": [
+    {
+      "id": "SFhbL3KKBd053kCVToTm1",
+      "type": "section",
+      "label": "SFhbL3KKBd053kCVToTm1",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 64.95192794899594,
+        "y": 1634.7051467174065
+      },
+      "keywords": [
+        "sfhbl3kkbd053kcvtotm1"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BVXPP2J15hss2hF85urjN",
+      "type": "section",
+      "label": "BVXPP2J15hss2hF85urjN",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -709.9579568300146,
+        "y": 1331.2051467174065
+      },
+      "keywords": [
+        "bvxpp2j15hss2hf85urjn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0YJo_ti1JDu1GRmdC2WzA",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -103.1381872719935,
+        "y": 1129.355064975886
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QGWApwm1h5K_n0M81b9DH",
+      "type": "section",
+      "label": "QGWApwm1h5K_n0M81b9DH",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 976.1275563289466
+      },
+      "keywords": [
+        "qgwapwm1h5k_n0m81b9dh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D0RHwVcuH4qus_oiCbDo0",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -459.6381872719935,
+        "y": 989.4675181201998
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "C2zefkHdFZjID3CdqXmAy",
+      "type": "section",
+      "label": "C2zefkHdFZjID3CdqXmAy",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -710.9579568300146,
+        "y": 880.5474215299696
+      },
+      "keywords": [
+        "c2zefkhdfzjid3cdqxmay"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zQpkRd7jNV509JOpL6VxX",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -148.1381872719935,
+        "y": 750.3550649758861
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "icm7gi90MRG4vn9KUUaqR",
+      "type": "paragraph",
+      "label": "Int, Float, String, Boolean, ID",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 645.5973159217342
+      },
+      "keywords": [
+        "int",
+        "float",
+        "string",
+        "boolean"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4qvR1QQzrmoVIVCAsp92H",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -215.3175069304428,
+        "y": 2156.2541881503926
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HU7wZWiES3m3xl1-NYP6F",
+      "type": "title",
+      "label": "GraphQL",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -283.3175069304428,
+        "y": -38.879087788307686
+      },
+      "keywords": [
+        "graphql"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uqyE79OItPOX33E5FoGel",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -215.3175069304428,
+        "y": -133.0992517776511
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CCmziWV0VnzZxVbjVF_br",
+      "type": "paragraph",
+      "label": "Find the interactive version of this roadmap and more roadmaps at",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -15.138187271993502,
+        "y": -148.2948532825934
+      },
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "if9eTna5NRTMStVwpSwDP",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": -0.13818727199350178,
+        "y": -62.09925177765109
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JfXwzkN29UGz17FYHHE3A",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 152.4393516042962
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cMfsRtvzvDZZJ0TqeUOxm",
+      "type": "subtopic",
+      "label": "What is GraphQL",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 46.439351604296206
+      },
+      "keywords": [
+        "what",
+        "graphql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2rlmLn_yQQV-7DpX1qT98",
+      "type": "subtopic",
+      "label": "Problems GraphQL Solves",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 99.4393516042962
+      },
+      "keywords": [
+        "problems",
+        "graphql",
+        "solves"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w_rUaBorHFOY74S0JiEwM",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -710.4579568300146,
+        "y": -148.2948532825934
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "J5mU0v491qrm-mr1W3Msd",
+      "type": "subtopic",
+      "label": "Thinking in Graphs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 152.4393516042962
+      },
+      "keywords": [
+        "thinking",
+        "graphs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "W_Lg8086ZhrIqtck1sgnb",
+      "type": "topic",
+      "label": "GraphQL Queries",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 260.43935160429623
+      },
+      "keywords": [
+        "graphql",
+        "queries"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O5dely89N5UCMBeUfh8ud",
+      "type": "paragraph",
+      "label": "For ecosystem and more, check these other tracks involving GraphQL",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -334.6381872719935,
+        "y": 2034.2541881503926
+      },
+      "keywords": [
+        "ecosystem",
+        "more",
+        "check",
+        "these",
+        "other",
+        "tracks",
+        "involving",
+        "graphql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 410,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6AIUtChWC_gK8Ax0UuBjd",
+      "type": "button",
+      "label": "Frontend Roadmap",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -320.62298223659093,
+        "y": 2088.899845583502
+      },
+      "keywords": [
+        "frontend",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6r9XbwlBtHmJrhviG2cTD",
+      "type": "subtopic",
+      "label": "GraphQL on Frontend",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 205.4393516042962
+      },
+      "keywords": [
+        "graphql",
+        "frontend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ODQ8zrHc2rsc8PN-APKvz",
+      "type": "subtopic",
+      "label": "GraphQL on Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 258.43935160429623
+      },
+      "keywords": [
+        "graphql",
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 303
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2SU4dcaz7zwGsF7g8FjmI",
+      "type": "subtopic",
+      "label": "What are Queries?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.4579568300146,
+        "y": 101.4393516042962
+      },
+      "keywords": [
+        "what",
+        "queries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Pc9H7AcoqJQkWnuhbytyD",
+      "type": "subtopic",
+      "label": "Fields",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.4579568300146,
+        "y": 154.4393516042962
+      },
+      "keywords": [
+        "fields"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "B77yLU4SuRChSjEbmYwc-",
+      "type": "subtopic",
+      "label": "Aliases",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.4579568300146,
+        "y": 260.43935160429623
+      },
+      "keywords": [
+        "aliases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hrpb108R8Gyu3hhzkMYzL",
+      "type": "subtopic",
+      "label": "Arguments",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.4579568300146,
+        "y": 313.43935160429623
+      },
+      "keywords": [
+        "arguments"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MnmwccPahqPCzOhqjfbsY",
+      "type": "subtopic",
+      "label": "Directives",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.4579568300146,
+        "y": 366.43935160429623
+      },
+      "keywords": [
+        "directives"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YZaFEK547FYricfOuANvH",
+      "type": "subtopic",
+      "label": "Variables",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.4579568300146,
+        "y": 207.43935160429623
+      },
+      "keywords": [
+        "variables"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CehwjrCG_wbUU-TFNCuJn",
+      "type": "subtopic",
+      "label": "Fragments",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.4579568300146,
+        "y": 419.43935160429623
+      },
+      "keywords": [
+        "fragments"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jy_91mhFWbpR6sYVbuX1x",
+      "type": "topic",
+      "label": "Mutations",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 396.6629724396304
+      },
+      "keywords": [
+        "mutations"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9Q2pGidY-rfkltHq3vChp",
+      "type": "subtopic",
+      "label": "What are Mutations?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 343.6629724396304
+      },
+      "keywords": [
+        "what",
+        "mutations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AySlY8AyI6jE-cy-qKKOU",
+      "type": "subtopic",
+      "label": "Multiple Fields in Mutation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 396.6629724396304
+      },
+      "keywords": [
+        "multiple",
+        "fields",
+        "mutation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "q9TYEygvUyHourdZIvk8G",
+      "type": "subtopic",
+      "label": "Operation Name",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 40.8618127280065,
+        "y": 449.6629724396304
+      },
+      "keywords": [
+        "operation",
+        "name"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IbEqXlGjsyNLKE9dZrPPk",
+      "type": "topic",
+      "label": "Subscriptions",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 604.2881469175232
+      },
+      "keywords": [
+        "subscriptions"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RlBc-hWEUOPaEQLTgJa-K",
+      "type": "subtopic",
+      "label": "What are Subscriptions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -710.4579568300146,
+        "y": 547.2881469175232
+      },
+      "keywords": [
+        "what",
+        "subscriptions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kJMyRhasBKfBypent3GxK",
+      "type": "subtopic",
+      "label": "Event Based Subscriptions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -710.4579568300146,
+        "y": 604.2881469175232
+      },
+      "keywords": [
+        "event",
+        "based",
+        "subscriptions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CHdzww8_TNfeM6Bp1oTPI",
+      "type": "subtopic",
+      "label": "Live Queries",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -710.4579568300146,
+        "y": 657.2881469175232
+      },
+      "keywords": [
+        "live",
+        "queries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "t6XxFB_lx27kS4FE2_GMH",
+      "type": "subtopic",
+      "label": "@defer / @stream directives",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -710.4579568300146,
+        "y": 710.2881469175232
+      },
+      "keywords": [
+        "defer",
+        "stream",
+        "directives"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lj1WEh4WbfBsoZFYsi1Yz",
+      "type": "topic",
+      "label": "Schema",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 735.8550649758861
+      },
+      "keywords": [
+        "schema"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jpu0_FAlxtD-H80mPcod5",
+      "type": "subtopic",
+      "label": "Type System",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 537.9979529933375
+      },
+      "keywords": [
+        "type",
+        "system"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HPdntdgTar1T34CZX8Y6y",
+      "type": "subtopic",
+      "label": "Fields",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 590.9979529933375
+      },
+      "keywords": [
+        "fields"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "U-tLelmNQtR-pUq-sxU_2",
+      "type": "subtopic",
+      "label": "Scalars",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 81.3770177634091,
+        "y": 707.608352612866
+      },
+      "keywords": [
+        "scalars"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wfOsfb0zSAIdNkwFHfBcw",
+      "type": "subtopic",
+      "label": "Enums",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 776.5973159217342
+      },
+      "keywords": [
+        "enums"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tc_rjJZrr2x3bp8mcoQ0F",
+      "type": "subtopic",
+      "label": "Interfaces",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 211.8618127280065,
+        "y": 829.5973159217342
+      },
+      "keywords": [
+        "interfaces"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "d2ikbo4sZq7PmaCi5znkd",
+      "type": "subtopic",
+      "label": "Lists",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 829.5973159217342
+      },
+      "keywords": [
+        "lists"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LX9vZpx7yKlf0iR6AtBWz",
+      "type": "subtopic",
+      "label": "Objects",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 211.8618127280065,
+        "y": 776.5973159217342
+      },
+      "keywords": [
+        "objects"
+      ],
+      "metadata": {
+        "style": {
+          "width": 156
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "59COH3rerJJzKr6vrj4bF",
+      "type": "subtopic",
+      "label": "Unions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 881.5973159217342
+      },
+      "keywords": [
+        "unions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "A54vi3Ao7fBHyTuqoH_it",
+      "type": "subtopic",
+      "label": "Arguments",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 211.8618127280065,
+        "y": 881.5973159217342
+      },
+      "keywords": [
+        "arguments"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2q3TO7k_byrLI7LkcCplG",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 37.678457293951865,
+        "y": 540.4979529933375
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iYkHCKTsjtvo40f3eZoet",
+      "type": "topic",
+      "label": "Validation",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 855.4546928118529
+      },
+      "keywords": [
+        "validation"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "72wGg6yP8WnEdmkeKL9vh",
+      "type": "topic",
+      "label": "Execution",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 974.9675181201998
+      },
+      "keywords": [
+        "execution"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AlJlHZD3_SPoLNaqdM-pB",
+      "type": "subtopic",
+      "label": "Root Fields",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -710.4579568300146,
+        "y": 806.4546928118529
+      },
+      "keywords": [
+        "root",
+        "fields"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VDur5xYBC0LJtQgDrSEyj",
+      "type": "subtopic",
+      "label": "Resolvers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -710.4579568300146,
+        "y": 859.4546928118529
+      },
+      "keywords": [
+        "resolvers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uPpsj2kCdgKsJpmTaw86u",
+      "type": "subtopic",
+      "label": "Synchronous",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 917.4883475571679
+      },
+      "keywords": [
+        "synchronous"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tbDvQBtLRAcD-xYX9V7Va",
+      "type": "subtopic",
+      "label": "Asynchronous",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 970.4883475571679
+      },
+      "keywords": [
+        "asynchronous"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QFUOmJlPkkjpcl1vJxg9h",
+      "type": "subtopic",
+      "label": "Scalar Coercion",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 1023.4883475571679
+      },
+      "keywords": [
+        "scalar",
+        "coercion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sJ1_c3e08aehiqNMbIEEP",
+      "type": "subtopic",
+      "label": "Lists",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 1076.488347557168
+      },
+      "keywords": [
+        "lists"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I4wNBXV4xEZ0LWBhv5FwF",
+      "type": "subtopic",
+      "label": "Validation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -710.9579568300146,
+        "y": 1144.5474215299696
+      },
+      "keywords": [
+        "validation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zQHifboRreE4OgJ7GnUlp",
+      "type": "subtopic",
+      "label": "Producing the Result",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -710.9579568300146,
+        "y": 1198.5474215299696
+      },
+      "keywords": [
+        "producing",
+        "result"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jk64WxDch-mqf3_8SdY-D",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -468.4579568300146,
+        "y": 803.9546928118529
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "inhjhH-7xJyX8o4DQqErF",
+      "type": "topic",
+      "label": "Serving over Internet",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 1114.371143674773
+      },
+      "keywords": [
+        "serving",
+        "over",
+        "internet"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ya0ORdmEHEPpp1GAzMLVT",
+      "type": "label",
+      "label": "GraphQL Over HTTP",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 117.2572052308409,
+        "y": 987.3919731117412
+      },
+      "keywords": [
+        "graphql",
+        "over",
+        "http"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V3bgswBFr1xames3F8S_V",
+      "type": "subtopic",
+      "label": "GraphQL Over HTTP Spec",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 80.7572052308409,
+        "y": 1034.3919731117412
+      },
+      "keywords": [
+        "graphql",
+        "over",
+        "http",
+        "spec"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UYwuUVTeurwODV4_Kdt_W",
+      "type": "subtopic",
+      "label": "Caching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 80.7572052308409,
+        "y": 1087.3919731117412
+      },
+      "keywords": [
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v9gVexHfDkpG9z3NL5S-9",
+      "type": "subtopic",
+      "label": "Batching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 194.7572052308409,
+        "y": 1087.3919731117412
+      },
+      "keywords": [
+        "batching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "i-zcfN6RNXhA_sb7DcIon",
+      "type": "subtopic",
+      "label": "Authorization",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 80.7572052308409,
+        "y": 1139.5474215299696
+      },
+      "keywords": [
+        "authorization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ud-BWNe_McqpZXHtlXPyr",
+      "type": "section",
+      "label": "ud-BWNe_McqpZXHtlXPyr",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 1200.1275563289466
+      },
+      "keywords": [
+        "bwne_mcqpzxhtlxpyr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "st02HY5-DEab1pYXkBc3S",
+      "type": "label",
+      "label": "GraphQL Over WebSockets",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 92.7572052308409,
+        "y": 1211.3919731117412
+      },
+      "keywords": [
+        "graphql",
+        "over",
+        "websockets"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "A-PQ3_FVuCK3Eud75hsdj",
+      "type": "subtopic",
+      "label": "Specification",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 80.7572052308409,
+        "y": 1258.3919731117412
+      },
+      "keywords": [
+        "specification"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2YLm_S1j_832pb1OGSNaM",
+      "type": "subtopic",
+      "label": "Realtime",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 80.7572052308409,
+        "y": 1311.3919731117412
+      },
+      "keywords": [
+        "realtime"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GzwPvLybxTJM96fUhQUOi",
+      "type": "subtopic",
+      "label": "Authorization",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 192.7572052308409,
+        "y": 1311.3919731117412
+      },
+      "keywords": [
+        "authorization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cH2FSWgKxQbBoI0tI-QNH",
+      "type": "section",
+      "label": "cH2FSWgKxQbBoI0tI-QNH",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 68.2572052308409,
+        "y": 1373.1275563289466
+      },
+      "keywords": [
+        "ch2fswgkxqbboi0ti",
+        "qnh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "F4nR2VZ4k1uekWXINoMKH",
+      "type": "label",
+      "label": "GraphQL Over SSE",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 92.7572052308409,
+        "y": 1384.3919731117412
+      },
+      "keywords": [
+        "graphql",
+        "over",
+        "sse"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O8k-m6s9B_uXkLsXKVFnL",
+      "type": "subtopic",
+      "label": "Specification",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 81.7572052308409,
+        "y": 1431.3919731117412
+      },
+      "keywords": [
+        "specification"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G50ZMlmP7Ru5LcFne5Rhu",
+      "type": "subtopic",
+      "label": "Authorization",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 81.7572052308409,
+        "y": 1484.3919731117412
+      },
+      "keywords": [
+        "authorization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 245
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1mBWGT53bwy8JHSnf_6lr",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 37.678457293951865,
+        "y": 979.4979529933375
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Uf8XxJPs7RzKVhlxiQdbB",
+      "type": "topic",
+      "label": "Pagination",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -329.8175069304428,
+        "y": 1262.3919731117412
+      },
+      "keywords": [
+        "pagination"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Qab1pyIZiJ3Z9q8CuEsc-",
+      "type": "paragraph",
+      "label": "Implementations",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -305.3175069304428,
+        "y": 1469.2051467174065
+      },
+      "keywords": [
+        "implementations"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jCzrMElTo-c9xGcpPOOPl",
+      "type": "subtopic",
+      "label": "GraphQL.js",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 1502.7051467174065
+      },
+      "keywords": [
+        "graphql"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9nVo95gRNGHGIbaJQPH1x",
+      "type": "subtopic",
+      "label": "GraphQL Go",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 1392.3919731117412
+      },
+      "keywords": [
+        "graphql"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1q77xUifPS5sLx5tktXxF",
+      "type": "label",
+      "label": "Go Implementation",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 1350.3919731117412
+      },
+      "keywords": [
+        "implementation"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qmlQ3184CZ9HgvRHVcPT6",
+      "type": "label",
+      "label": "JavaScript Implementation",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 1460.7051467174065
+      },
+      "keywords": [
+        "javascript",
+        "implementation"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7szipojhVb2VoL3VcS619",
+      "type": "subtopic",
+      "label": "GraphQL Java",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 1606.589806690877
+      },
+      "keywords": [
+        "graphql",
+        "java"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-STVQpKbY5I9eTExdJ6mc",
+      "type": "label",
+      "label": "Java Implementation",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -690.9579568300146,
+        "y": 1563.589806690877
+      },
+      "keywords": [
+        "java",
+        "implementation"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XD0hNlAu05_ZYgv8JvEp1",
+      "type": "paragraph",
+      "label": "Servers",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -305.3175069304428,
+        "y": 1641.2051467174065
+      },
+      "keywords": [
+        "servers"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_8RiK9B8endMNBjiKsazU",
+      "type": "label",
+      "label": "JavaScript",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 87.7572052308409,
+        "y": 1649.2051467174065
+      },
+      "keywords": [
+        "javascript"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "N-vsu-wvOikuoTbzdgX3X",
+      "type": "subtopic",
+      "label": "graphql-http",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 87.7572052308409,
+        "y": 1694.2051467174065
+      },
+      "keywords": [
+        "graphql",
+        "http"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Gotb1xtxySCVC5MrnkPSs",
+      "type": "subtopic",
+      "label": "GraphQL Yoga",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 87.7572052308409,
+        "y": 1747.2051467174065
+      },
+      "keywords": [
+        "graphql",
+        "yoga"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "o_VkyoN6DmUUkfl0u0cro",
+      "type": "subtopic",
+      "label": "Apollo Server",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 87.7572052308409,
+        "y": 1800.2051467174065
+      },
+      "keywords": [
+        "apollo",
+        "server"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iTV2H8clmRTOksul4v38p",
+      "type": "subtopic",
+      "label": "mercurius",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 87.7572052308409,
+        "y": 1853.2051467174065
+      },
+      "keywords": [
+        "mercurius"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lUOOZDUJOgktHf07nGzCJ",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -127.31750693044279,
+        "y": 1665.7051467174065
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WFO_AwmbUJPAFj0tFClJg",
+      "type": "paragraph",
+      "label": "Clients",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -305.3175069304428,
+        "y": 1796.2051467174065
+      },
+      "keywords": [
+        "clients"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4IugiCX3rnKv5ak50sqGm",
+      "type": "section",
+      "label": "4IugiCX3rnKv5ak50sqGm",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -707.048072051004,
+        "y": 1755.7051467174065
+      },
+      "keywords": [
+        "4iugicx3rnkv5ak50sqgm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 100
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3lQ4cxevkw0p8v7fHm4I7",
+      "type": "label",
+      "label": "JavaScript",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -686.2427947691591,
+        "y": 1770.2051467174065
+      },
+      "keywords": [
+        "javascript"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "datKo3vPDwXoyVskcrdkc",
+      "type": "subtopic",
+      "label": "graphql-http",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -686.2427947691591,
+        "y": 1815.2051467174065
+      },
+      "keywords": [
+        "graphql",
+        "http"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ab_ngkf6bmejvcp9okuw6",
+      "type": "subtopic",
+      "label": "Relay",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -686.2427947691591,
+        "y": 1868.2051467174065
+      },
+      "keywords": [
+        "relay"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D5O7ky5eXwm_Ys1IcFNaq",
+      "type": "subtopic",
+      "label": "Apollo Client",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -686.2427947691591,
+        "y": 1921.2051467174065
+      },
+      "keywords": [
+        "apollo",
+        "client"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WP0Oo_YMfLBlXqDQQtKes",
+      "type": "subtopic",
+      "label": "Urql",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -686.2427947691591,
+        "y": 1974.2051467174065
+      },
+      "keywords": [
+        "urql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BjJfMCOatN2_3TVt-6GnG",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -452.3175069304428,
+        "y": 1820.7051467174065
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "f5WRewBlpeYMf71cPcXs-",
+      "type": "button",
+      "label": "Backend Roadmap",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -34.742794769159104,
+        "y": 2088.899845583502
+      },
+      "keywords": [
+        "backend",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UOQYh4L1q1XAl7EuxlQ3m",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -215.3175069304428,
+        "y": 1874.2541881503926
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "HU7wZWiES3m3xl1-NYP6F",
+      "target": "JfXwzkN29UGz17FYHHE3A",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "2rlmLn_yQQV-7DpX1qT98",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "cMfsRtvzvDZZJ0TqeUOxm",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "J5mU0v491qrm-mr1W3Msd",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "6r9XbwlBtHmJrhviG2cTD",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "ODQ8zrHc2rsc8PN-APKvz",
+      "type": "default"
+    },
+    {
+      "source": "W_Lg8086ZhrIqtck1sgnb",
+      "target": "YZaFEK547FYricfOuANvH",
+      "type": "default"
+    },
+    {
+      "source": "W_Lg8086ZhrIqtck1sgnb",
+      "target": "B77yLU4SuRChSjEbmYwc-",
+      "type": "default"
+    },
+    {
+      "source": "W_Lg8086ZhrIqtck1sgnb",
+      "target": "hrpb108R8Gyu3hhzkMYzL",
+      "type": "default"
+    },
+    {
+      "source": "W_Lg8086ZhrIqtck1sgnb",
+      "target": "MnmwccPahqPCzOhqjfbsY",
+      "type": "default"
+    },
+    {
+      "source": "W_Lg8086ZhrIqtck1sgnb",
+      "target": "CehwjrCG_wbUU-TFNCuJn",
+      "type": "default"
+    },
+    {
+      "source": "W_Lg8086ZhrIqtck1sgnb",
+      "target": "Pc9H7AcoqJQkWnuhbytyD",
+      "type": "default"
+    },
+    {
+      "source": "W_Lg8086ZhrIqtck1sgnb",
+      "target": "2SU4dcaz7zwGsF7g8FjmI",
+      "type": "default"
+    },
+    {
+      "source": "W_Lg8086ZhrIqtck1sgnb",
+      "target": "jy_91mhFWbpR6sYVbuX1x",
+      "type": "default"
+    },
+    {
+      "source": "jy_91mhFWbpR6sYVbuX1x",
+      "target": "AySlY8AyI6jE-cy-qKKOU",
+      "type": "default"
+    },
+    {
+      "source": "jy_91mhFWbpR6sYVbuX1x",
+      "target": "q9TYEygvUyHourdZIvk8G",
+      "type": "default"
+    },
+    {
+      "source": "jy_91mhFWbpR6sYVbuX1x",
+      "target": "9Q2pGidY-rfkltHq3vChp",
+      "type": "default"
+    },
+    {
+      "source": "jy_91mhFWbpR6sYVbuX1x",
+      "target": "IbEqXlGjsyNLKE9dZrPPk",
+      "type": "default"
+    },
+    {
+      "source": "IbEqXlGjsyNLKE9dZrPPk",
+      "target": "RlBc-hWEUOPaEQLTgJa-K",
+      "type": "default"
+    },
+    {
+      "source": "IbEqXlGjsyNLKE9dZrPPk",
+      "target": "kJMyRhasBKfBypent3GxK",
+      "type": "default"
+    },
+    {
+      "source": "IbEqXlGjsyNLKE9dZrPPk",
+      "target": "CHdzww8_TNfeM6Bp1oTPI",
+      "type": "default"
+    },
+    {
+      "source": "IbEqXlGjsyNLKE9dZrPPk",
+      "target": "t6XxFB_lx27kS4FE2_GMH",
+      "type": "default"
+    },
+    {
+      "source": "IbEqXlGjsyNLKE9dZrPPk",
+      "target": "lj1WEh4WbfBsoZFYsi1Yz",
+      "type": "default"
+    },
+    {
+      "source": "lj1WEh4WbfBsoZFYsi1Yz",
+      "target": "iYkHCKTsjtvo40f3eZoet",
+      "type": "default"
+    },
+    {
+      "source": "iYkHCKTsjtvo40f3eZoet",
+      "target": "72wGg6yP8WnEdmkeKL9vh",
+      "type": "default"
+    },
+    {
+      "source": "72wGg6yP8WnEdmkeKL9vh",
+      "target": "inhjhH-7xJyX8o4DQqErF",
+      "type": "default"
+    },
+    {
+      "source": "inhjhH-7xJyX8o4DQqErF",
+      "target": "Uf8XxJPs7RzKVhlxiQdbB",
+      "type": "default"
+    },
+    {
+      "source": "JfXwzkN29UGz17FYHHE3A",
+      "target": "W_Lg8086ZhrIqtck1sgnb",
+      "type": "default"
+    },
+    {
+      "source": "Uf8XxJPs7RzKVhlxiQdbB",
+      "target": "Qab1pyIZiJ3Z9q8CuEsc-",
+      "type": "default"
+    },
+    {
+      "source": "BVXPP2J15hss2hF85urjN",
+      "target": "Qab1pyIZiJ3Z9q8CuEsc-",
+      "type": "default"
+    },
+    {
+      "source": "Qab1pyIZiJ3Z9q8CuEsc-",
+      "target": "XD0hNlAu05_ZYgv8JvEp1",
+      "type": "default"
+    },
+    {
+      "source": "XD0hNlAu05_ZYgv8JvEp1",
+      "target": "WFO_AwmbUJPAFj0tFClJg",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 39
+    },
+    {
+      "name": "backend",
+      "count": 17
+    },
+    {
+      "name": "programming-language",
+      "count": 9
+    },
+    {
+      "name": "topic",
+      "count": 8
+    },
+    {
+      "name": "section",
+      "count": 7
+    },
+    {
+      "name": "vertical",
+      "count": 6
+    },
+    {
+      "name": "horizontal",
+      "count": 5
+    },
+    {
+      "name": "paragraph",
+      "count": 4
+    },
+    {
+      "name": "security",
+      "count": 3
+    },
+    {
+      "name": "frontend",
+      "count": 2
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "SFhbL3KKBd053kCVToTm1",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "sfhbl3kkbd053kcvtotm1"
+      ]
+    },
+    {
+      "name": "BVXPP2J15hss2hF85urjN",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "bvxpp2j15hss2hf85urjn"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "QGWApwm1h5K_n0M81b9DH",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "qgwapwm1h5k_n0m81b9dh"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "C2zefkHdFZjID3CdqXmAy",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "c2zefkhdfzjid3cdqxmay"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "Int, Float, String, Boolean, ID",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "int",
+        "float",
+        "string",
+        "boolean"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "graphql"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the interactive version of this roadmap and more roadmaps at",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "What is GraphQL",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "graphql"
+      ]
+    },
+    {
+      "name": "Problems GraphQL Solves",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "problems",
+        "graphql",
+        "solves"
+      ]
+    },
+    {
+      "name": "Related Roadmaps",
+      "category": "linksgroup",
+      "difficulty": "beginner",
+      "keywords": [
+        "related",
+        "roadmaps"
+      ]
+    },
+    {
+      "name": "Thinking in Graphs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "thinking",
+        "graphs"
+      ]
+    },
+    {
+      "name": "GraphQL Queries",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "graphql",
+        "queries"
+      ]
+    },
+    {
+      "name": "For ecosystem and more, check these other tracks involving GraphQL",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "ecosystem",
+        "more",
+        "check",
+        "these",
+        "other"
+      ]
+    },
+    {
+      "name": "Frontend Roadmap",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "frontend",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "GraphQL on Frontend",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "graphql",
+        "frontend"
+      ]
+    },
+    {
+      "name": "GraphQL on Backend",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "graphql",
+        "backend"
+      ]
+    },
+    {
+      "name": "What are Queries?",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "queries"
+      ]
+    },
+    {
+      "name": "Fields",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "fields"
+      ]
+    },
+    {
+      "name": "Aliases",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "aliases"
+      ]
+    },
+    {
+      "name": "Arguments",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "arguments"
+      ]
+    },
+    {
+      "name": "Directives",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "directives"
+      ]
+    },
+    {
+      "name": "Variables",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "variables"
+      ]
+    },
+    {
+      "name": "Fragments",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "fragments"
+      ]
+    },
+    {
+      "name": "Mutations",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "mutations"
+      ]
+    },
+    {
+      "name": "What are Mutations?",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "mutations"
+      ]
+    },
+    {
+      "name": "Multiple Fields in Mutation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "multiple",
+        "fields",
+        "mutation"
+      ]
+    },
+    {
+      "name": "Operation Name",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "operation",
+        "name"
+      ]
+    },
+    {
+      "name": "Subscriptions",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "subscriptions"
+      ]
+    },
+    {
+      "name": "What are Subscriptions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "subscriptions"
+      ]
+    },
+    {
+      "name": "Event Based Subscriptions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "event",
+        "based",
+        "subscriptions"
+      ]
+    },
+    {
+      "name": "Live Queries",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "live",
+        "queries"
+      ]
+    },
+    {
+      "name": "@defer / @stream directives",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "defer",
+        "stream",
+        "directives"
+      ]
+    },
+    {
+      "name": "Schema",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "schema"
+      ]
+    },
+    {
+      "name": "Type System",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "type",
+        "system"
+      ]
+    },
+    {
+      "name": "Fields",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "fields"
+      ]
+    },
+    {
+      "name": "Scalars",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "scalars"
+      ]
+    },
+    {
+      "name": "Enums",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "enums"
+      ]
+    },
+    {
+      "name": "Interfaces",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "interfaces"
+      ]
+    },
+    {
+      "name": "Lists",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "lists"
+      ]
+    },
+    {
+      "name": "Objects",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "objects"
+      ]
+    },
+    {
+      "name": "Unions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "unions"
+      ]
+    },
+    {
+      "name": "Arguments",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "arguments"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 102,
+    "totalEdges": 32,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:26.555Z",
+    "version": "2.0"
+  }
+}

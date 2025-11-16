@@ -1,0 +1,3589 @@
+{
+  "name": "datastructures-and-algorithms",
+  "title": "Datastructures And Algorithms",
+  "nodes": [
+    {
+      "id": "Adh6y93w3eE11SlvPXlcL",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 215.75475775437354,
+        "y": 2256.769352765344
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LgULG5TqiDk5b0yvg8DDK",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 39.62817877189195,
+        "y": 1873.6520523420259
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G1Z11sOSf6LagVI-B6km7",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 119.62817877189195,
+        "y": 1194.8297498253157
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wGQDKIEu-q3Xa9QDjoVbw",
+      "type": "section",
+      "label": "wGQDKIEu-q3Xa9QDjoVbw",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -122.75937095351239,
+        "y": 1251.7591775424928
+      },
+      "keywords": [
+        "wgqdkieu",
+        "q3xa9qdjovbw"
+      ],
+      "metadata": {
+        "style": {
+          "width": 221,
+          "height": 224
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3EDlCW_qIgvDcnBZSmVNI",
+      "type": "section",
+      "label": "3EDlCW_qIgvDcnBZSmVNI",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 101.75475775437354,
+        "y": 1250.7275486887602
+      },
+      "keywords": [
+        "3edlcw_qigvdcnbzsmvni"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 171
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_1nO8vYWRbEMhR5XNGSLl",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 249.02847939467313,
+        "y": 910.5108704739819
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ASVby3HvidfWQE0mYRZv5",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 119.62817877189195,
+        "y": 863.2947698407204
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KySPNk-SJntN5A8Tzg9gf",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -34.37182122810804,
+        "y": 851.9149257985019
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OQv5yn-SsqkJuTZyCSfMm",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -104.95158226769425,
+        "y": 864.2947698407204
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7dB8kHEIyNqES2oYiNHFT",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -264.9515822676942,
+        "y": 863.2947698407204
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YgaMB-Qp40-_ruI58lpsT",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -72.5482627301021,
+        "y": 702.900748222349
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5KDw-OrEYfaUPGyuE00IC",
+      "type": "section",
+      "label": "5KDw-OrEYfaUPGyuE00IC",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -708.8399839574668,
+        "y": 749.9149257985019
+      },
+      "keywords": [
+        "5kdw",
+        "oreyfaupgyue00ic"
+      ],
+      "metadata": {
+        "style": {
+          "width": 208,
+          "height": 224
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wX2--f8Tqcj-MIrMC32yD",
+      "type": "section",
+      "label": "wX2--f8Tqcj-MIrMC32yD",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 101.8618127280065,
+        "y": 419.23924063046
+      },
+      "keywords": [
+        "wx2",
+        "f8tqcj",
+        "mirmc32yd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 209,
+          "height": 383
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5jNTeoLONIHWlT68poo7b",
+      "type": "title",
+      "label": "Data Structures & Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -382.1381872719935,
+        "y": -47.59925177765109
+      },
+      "keywords": [
+        "data",
+        "structures",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "axi0SOAM1z4ZXqojfqphC",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -189.6381872719935,
+        "y": -124.59925177765109
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Z4uVzAoNzcAkyjd-lp3_M",
+      "type": "topic",
+      "label": "Pick a Language",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 157.4007482223489
+      },
+      "keywords": [
+        "pick",
+        "language"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HVD9G3JlLBsAg111vQILj",
+      "type": "subtopic",
+      "label": "JavaScript",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -578.1381872719935,
+        "y": 81.40074822234891
+      },
+      "keywords": [
+        "javascript"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gjZZOwmYkXQHPfg9Ynz80",
+      "type": "subtopic",
+      "label": "Java",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -578.1381872719935,
+        "y": 134.4007482223489
+      },
+      "keywords": [
+        "java"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OkdM_PJge70j5tsjT2Esl",
+      "type": "subtopic",
+      "label": "Go",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -578.1381872719935,
+        "y": 187.4007482223489
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BZvNEZjCNuHPg5SkX90bt",
+      "type": "subtopic",
+      "label": "C#",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -711.1381872719935,
+        "y": 82.40074822234891
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IWmq4UFB5j6O3UJfarh1u",
+      "type": "subtopic",
+      "label": "C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -711.1381872719935,
+        "y": 135.4007482223489
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XyRCXhZjQFcDNaUSNNQV-",
+      "type": "subtopic",
+      "label": "Python",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -711.1381872719935,
+        "y": 188.4007482223489
+      },
+      "keywords": [
+        "python"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "acgRMEuL4ZGGRHpZ7kXSo",
+      "type": "subtopic",
+      "label": "Rust",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -711.1381872719935,
+        "y": 241.4007482223489
+      },
+      "keywords": [
+        "rust"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9h1mz0xAUvPrnRm9VndJF",
+      "type": "subtopic",
+      "label": "Ruby",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -578.1381872719935,
+        "y": 240.4007482223489
+      },
+      "keywords": [
+        "ruby"
+      ],
+      "metadata": {
+        "style": {
+          "width": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ebQdTOAOV54WBToHmFtBk",
+      "type": "topic",
+      "label": "Programming Fundamentals",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 210.4007482223489
+      },
+      "keywords": [
+        "programming",
+        "fundamentals"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kE6qddRhO8C5ur3JbeuhF",
+      "type": "subtopic",
+      "label": "Language Syntax",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 83.99419451849974,
+        "y": 102.97918552903897
+      },
+      "keywords": [
+        "language",
+        "syntax"
+      ],
+      "metadata": {
+        "style": {
+          "width": 241
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G74Xp8_EMZO2oEzNTRAli",
+      "type": "subtopic",
+      "label": "Control Structures",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 83.99419451849974,
+        "y": 155.97918552903897
+      },
+      "keywords": [
+        "control",
+        "structures"
+      ],
+      "metadata": {
+        "style": {
+          "width": 241
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Cu08m5JOfvrPUDGony144",
+      "type": "subtopic",
+      "label": "Functions",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 83.99419451849974,
+        "y": 261.979185529039
+      },
+      "keywords": [
+        "functions"
+      ],
+      "metadata": {
+        "style": {
+          "width": 241
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QFR1FMOf2OV3n3jcDnOCP",
+      "type": "subtopic",
+      "label": "OOP Basics",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 83.99419451849974,
+        "y": 314.979185529039
+      },
+      "keywords": [
+        "oop",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 241
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tvy3Vic8Vp-Ie2x_OyZ5b",
+      "type": "subtopic",
+      "label": "Pseudo Code",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 83.99419451849974,
+        "y": 208.97918552903897
+      },
+      "keywords": [
+        "pseudo",
+        "code"
+      ],
+      "metadata": {
+        "style": {
+          "width": 241
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jvWuYXWRtt_ePawc4q1Tg",
+      "type": "topic",
+      "label": "What are Data Structures?",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 375.4007482223489
+      },
+      "keywords": [
+        "what",
+        "data",
+        "structures"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8_GkF9zhRL8tvT2qu-bGj",
+      "type": "topic",
+      "label": "Why are Data Structures Important?",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 428.4007482223489
+      },
+      "keywords": [
+        "why",
+        "data",
+        "structures",
+        "important"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iTlpa9A7h33FkUAv0UaVZ",
+      "type": "topic",
+      "label": "Basic Data Structures",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 482.4007482223489
+      },
+      "keywords": [
+        "basic",
+        "data",
+        "structures"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lxY3ErxJ_D3zkSAXIBUpv",
+      "type": "subtopic",
+      "label": "Array",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -708.1381872719935,
+        "y": 428.4007482223489
+      },
+      "keywords": [
+        "array"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bRu9u8pEAQ1TmKygjIjyI",
+      "type": "subtopic",
+      "label": "Linked Lists",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -571.1381872719935,
+        "y": 428.4007482223489
+      },
+      "keywords": [
+        "linked",
+        "lists"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jvKRykGNy140FlquF2fcK",
+      "type": "subtopic",
+      "label": "Stacks",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -571.1381872719935,
+        "y": 482.40074822234897
+      },
+      "keywords": [
+        "stacks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v0phjC75jhmE1z-f9ZMck",
+      "type": "subtopic",
+      "label": "Queues",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -707.1381872719935,
+        "y": 482.40074822234897
+      },
+      "keywords": [
+        "queues"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kSy-8ubESdmIX4Fyl8TSu",
+      "type": "subtopic",
+      "label": "Hash Tables",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -708.1381872719935,
+        "y": 535.400748222349
+      },
+      "keywords": [
+        "hash",
+        "tables"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VotdHk0_bI3CeoIf-KoKu",
+      "type": "topic",
+      "label": "Algorithmic Complexity",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 687.900748222349
+      },
+      "keywords": [
+        "algorithmic",
+        "complexity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "unaYmPzK761Eh_iZMLeRC",
+      "type": "subtopic",
+      "label": "Time vs Space Complexity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -711.1381872719935,
+        "y": 630.400748222349
+      },
+      "keywords": [
+        "time",
+        "space",
+        "complexity"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HosRc0hczubBHrWxCzEJj",
+      "type": "subtopic",
+      "label": "How to Calculate Complexity?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -711.1381872719935,
+        "y": 688.400748222349
+      },
+      "keywords": [
+        "how",
+        "calculate",
+        "complexity"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nqnO1Wz3gYIMR98_BnF2V",
+      "type": "subtopic",
+      "label": "Common Runtimes",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 101.8618127280065,
+        "y": 419.23924063046
+      },
+      "keywords": [
+        "common",
+        "runtimes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_bpV8MkVOY8ZatTXYaEE4",
+      "type": "subtopic",
+      "label": "Constant",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 111.8618127280065,
+        "y": 480.23924063046
+      },
+      "keywords": [
+        "constant"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Cnceet0yroFHzn8npAir8",
+      "type": "subtopic",
+      "label": "Logarithmic",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 111.8618127280065,
+        "y": 533.23924063046
+      },
+      "keywords": [
+        "logarithmic"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HOpL-4jYhOe0LNrrkPrET",
+      "type": "subtopic",
+      "label": "Linear",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 111.8618127280065,
+        "y": 586.23924063046
+      },
+      "keywords": [
+        "linear"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QKhmM_IG1FkBudfdrf1aT",
+      "type": "subtopic",
+      "label": "Polynomial",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 111.8618127280065,
+        "y": 639.23924063046
+      },
+      "keywords": [
+        "polynomial"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xqzaYJBvlsNtT6qZ59ktv",
+      "type": "subtopic",
+      "label": "Exponential",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 111.8618127280065,
+        "y": 692.23924063046
+      },
+      "keywords": [
+        "exponential"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wclY3cmt1fBNYjLsmijdW",
+      "type": "subtopic",
+      "label": "Factorial",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 111.8618127280065,
+        "y": 745.23924063046
+      },
+      "keywords": [
+        "factorial"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v0LrabYYOKzV4oCXOK2Rs",
+      "type": "subtopic",
+      "label": "Asymptotic Notation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -708.8399839574668,
+        "y": 749.9149257985019
+      },
+      "keywords": [
+        "asymptotic",
+        "notation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 192,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oylTfop_JDPHJ3jYuA2Nq",
+      "type": "subtopic",
+      "label": "Big-O Notation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -695.8399839574668,
+        "y": 807.7947698407204
+      },
+      "keywords": [
+        "big",
+        "notation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 192,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ex6tzu6gwrarWm1CNFufO",
+      "type": "subtopic",
+      "label": "Big-θ Notation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -696.3399839574668,
+        "y": 860.7947698407204
+      },
+      "keywords": [
+        "big",
+        "notation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 192,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CkUi93TvTkEm2_isHNvqr",
+      "type": "subtopic",
+      "label": "Big-Ω Notation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -696.8399839574668,
+        "y": 913.7947698407204
+      },
+      "keywords": [
+        "big",
+        "notation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 192,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WzFkdkcbL8ea9DBkjfSwa",
+      "type": "topic",
+      "label": "Sorting Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 837.4149257985019
+      },
+      "keywords": [
+        "sorting",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zUDKCJCQHLW4c_6A349R3",
+      "type": "subtopic",
+      "label": "Bubble Sort",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -338.4515822676942,
+        "y": 929.0108704739819
+      },
+      "keywords": [
+        "bubble",
+        "sort"
+      ],
+      "metadata": {
+        "style": {
+          "width": 151
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "k0UBAj3hOYab4mUziOYyW",
+      "type": "subtopic",
+      "label": "Merge Sort",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -167.45158226769425,
+        "y": 929.0108704739819
+      },
+      "keywords": [
+        "merge",
+        "sort"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "liJfTV5ajAFZcfwBdVGpU",
+      "type": "subtopic",
+      "label": "Insertion Sort",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -338.4515822676942,
+        "y": 982.0108704739819
+      },
+      "keywords": [
+        "insertion",
+        "sort"
+      ],
+      "metadata": {
+        "style": {
+          "width": 151
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LgEV0Wm4avrOqR8bV5GXW",
+      "type": "subtopic",
+      "label": "Quick Sort",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -167.45158226769425,
+        "y": 982.0108704739819
+      },
+      "keywords": [
+        "quick",
+        "sort"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SMgBHvqXLD6Cgr2nix4wR",
+      "type": "subtopic",
+      "label": "Selection Sort",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 1035.0108704739819
+      },
+      "keywords": [
+        "selection",
+        "sort"
+      ],
+      "metadata": {
+        "style": {
+          "width": 290
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yMv9Oa3hsgT8Adx6m_rdL",
+      "type": "subtopic",
+      "label": "Heap Sort",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -339.1381872719935,
+        "y": 1088.0108704739819
+      },
+      "keywords": [
+        "heap",
+        "sort"
+      ],
+      "metadata": {
+        "style": {
+          "width": 290
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "z_Cf_alLAYSCyYtNviRcO",
+      "type": "topic",
+      "label": "Search Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 101.8618127280065,
+        "y": 974.0108704739819
+      },
+      "keywords": [
+        "search",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AtX-PeI8nY4-5bA-xLla0",
+      "type": "subtopic",
+      "label": "Linear Search",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 172.52847939467313,
+        "y": 888.6775371406485
+      },
+      "keywords": [
+        "linear",
+        "search"
+      ],
+      "metadata": {
+        "style": {
+          "width": 173
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Wt74MRKaZcs8lYvfqjffT",
+      "type": "subtopic",
+      "label": "Binary Search",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 172.52847939467313,
+        "y": 835.6775371406485
+      },
+      "keywords": [
+        "binary",
+        "search"
+      ],
+      "metadata": {
+        "style": {
+          "width": 173
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r2Jagzbx0qOG-VtxBY-mz",
+      "type": "topic",
+      "label": "Tree Data Structures",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 99.8618127280065,
+        "y": 1163.8297498253157
+      },
+      "keywords": [
+        "tree",
+        "data",
+        "structures"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2Od5lNc6fCM6Gyj_axj4n",
+      "type": "subtopic",
+      "label": "Tree Traversal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -122.75937095351239,
+        "y": 1251.7591775424928
+      },
+      "keywords": [
+        "tree",
+        "traversal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YJsAQWJpLwVN6oCxNwNAn",
+      "type": "subtopic",
+      "label": "Search Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 100.75475775437354,
+        "y": 1250.7275486887602
+      },
+      "keywords": [
+        "search",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pfg-qclOpvlsGMdlZ1aoj",
+      "type": "subtopic",
+      "label": "Breadth First Search",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 119.25475775437354,
+        "y": 1308.3406878686105
+      },
+      "keywords": [
+        "breadth",
+        "first",
+        "search"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gR8KcOIADUxS8hdiEaGZy",
+      "type": "subtopic",
+      "label": "Depth First Search",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 119.25475775437354,
+        "y": 1361.3406878686105
+      },
+      "keywords": [
+        "depth",
+        "first",
+        "search"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iCA7UKZih4ItDmDNEC8Q-",
+      "type": "subtopic",
+      "label": "In-Order Traversal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -112.75937095351239,
+        "y": 1312.7591775424928
+      },
+      "keywords": [
+        "order",
+        "traversal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BMEoO65zsX51H4Js1gcWI",
+      "type": "subtopic",
+      "label": "Pre-Order Traversal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -112.75937095351239,
+        "y": 1365.7591775424928
+      },
+      "keywords": [
+        "pre",
+        "order",
+        "traversal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j6_DyKiyG1wBuygQkxWB7",
+      "type": "subtopic",
+      "label": "Post-Order Traversal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -112.75937095351239,
+        "y": 1418.7591775424928
+      },
+      "keywords": [
+        "post",
+        "order",
+        "traversal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RPU5CGp2Li5lk0UB-zNHT",
+      "type": "subtopic",
+      "label": "Binary Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -346.8767254736989,
+        "y": 1254.1460383626422
+      },
+      "keywords": [
+        "binary",
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UYm7unZfXd9Ge5EYV4odb",
+      "type": "subtopic",
+      "label": "Binary Search Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -346.8767254736989,
+        "y": 1311.1460383626422
+      },
+      "keywords": [
+        "binary",
+        "search",
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5MCgKpylPzDZaGBEUU51r",
+      "type": "subtopic",
+      "label": "AVL Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -347.8767254736989,
+        "y": 1367.1460383626422
+      },
+      "keywords": [
+        "avl",
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2F6BcbAzICynOK3oEj-Is",
+      "type": "subtopic",
+      "label": "B-Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -347.8767254736989,
+        "y": 1422.1460383626422
+      },
+      "keywords": [
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j_r1tB16bA7R3yDAWN7Oj",
+      "type": "topic",
+      "label": "Graph Data Structures",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -711.2840503957483,
+        "y": 1163.8297498253157
+      },
+      "keywords": [
+        "graph",
+        "data",
+        "structures"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XVw2_dL3uN0SOWmjH1Uao",
+      "type": "subtopic",
+      "label": "Directed Graph",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.2840503957483,
+        "y": 1018.1825774196891
+      },
+      "keywords": [
+        "directed",
+        "graph"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VnKm_j7McUW9Lo0iKyPUp",
+      "type": "subtopic",
+      "label": "Undirected Graph",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -709.2840503957483,
+        "y": 1071.182577419689
+      },
+      "keywords": [
+        "undirected",
+        "graph"
+      ],
+      "metadata": {
+        "style": {
+          "width": 239
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "A3lFT7bB2T_uM3EGlMnV4",
+      "type": "section",
+      "label": "A3lFT7bB2T_uM3EGlMnV4",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1256.6983580268131
+      },
+      "keywords": [
+        "a3lft7bb2t_um3eglmnv4"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 171
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LW5HZMca4lvhbbA8KYaOa",
+      "type": "subtopic",
+      "label": "Search Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1256.6983580268131
+      },
+      "keywords": [
+        "search",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "c7LdXJPv-5M-NPKSCXYuB",
+      "type": "subtopic",
+      "label": "Breadth First Search",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -699.7840503957483,
+        "y": 1314.3114972066635
+      },
+      "keywords": [
+        "breadth",
+        "first",
+        "search"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NrPO7vF8Z1WzmA9Ca3Y_E",
+      "type": "subtopic",
+      "label": "Depth First Search",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -699.7840503957483,
+        "y": 1367.3114972066635
+      },
+      "keywords": [
+        "depth",
+        "first",
+        "search"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ky_3Gu_ObKNs5dXhqWQMW",
+      "type": "section",
+      "label": "ky_3Gu_ObKNs5dXhqWQMW",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1430.3966310007177
+      },
+      "keywords": [
+        "ky_3gu_obkns5dxhqwqmw"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 171
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "N-qvYirxpORcaTslvlOL0",
+      "type": "subtopic",
+      "label": "Shortest Path Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1430.3966310007177
+      },
+      "keywords": [
+        "shortest",
+        "path",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "87UugvReiywF0E7Acos9U",
+      "type": "subtopic",
+      "label": "Dijkstra's Algorithm",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -699.7840503957483,
+        "y": 1488.009770180568
+      },
+      "keywords": [
+        "dijkstra",
+        "algorithm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7CgGwdwHnOmISmEPtJegN",
+      "type": "subtopic",
+      "label": "Bellman-Ford Algoritm",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -699.7840503957483,
+        "y": 1540.3211823343227
+      },
+      "keywords": [
+        "bellman",
+        "ford",
+        "algoritm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Kx52UjvvWUncCaGJezk54",
+      "type": "section",
+      "label": "Kx52UjvvWUncCaGJezk54",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1657.3211823343227
+      },
+      "keywords": [
+        "kx52ujvvwunccagjezk54"
+      ],
+      "metadata": {
+        "style": {
+          "width": 242,
+          "height": 171
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ktqau1VkVrnnVYByqcacM",
+      "type": "subtopic",
+      "label": "Minimum Spanning Tree",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1657.3211823343227
+      },
+      "keywords": [
+        "minimum",
+        "spanning",
+        "tree"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yEWnYjW0ZLVhsLc9rH4ae",
+      "type": "subtopic",
+      "label": "Prim's Algorithm",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -699.7840503957483,
+        "y": 1714.934321514173
+      },
+      "keywords": [
+        "prim",
+        "algorithm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "F3bPbwIdCNMzL7QXEYJK3",
+      "type": "subtopic",
+      "label": "Kruskal's Algorithm",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -699.7840503957483,
+        "y": 1767.934321514173
+      },
+      "keywords": [
+        "kruskal",
+        "algorithm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G4chkalXNt5RjJzNA1ev6",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -402.1381872719935,
+        "y": 1187.8297498253157
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KnyUHDvpDTUO0EkAs9pT8",
+      "type": "topic",
+      "label": "Advanced Data Structures",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -426.5482627301021,
+        "y": 1632.9124703947627
+      },
+      "keywords": [
+        "advanced",
+        "data",
+        "structures"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "zy3wpb1MjizfUfx9_rZy2",
+      "type": "subtopic",
+      "label": "Trie",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -78.66928117616911,
+        "y": 1524.9124703947627
+      },
+      "keywords": [
+        "trie"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iFNS3x9wVRIjpixct6H7x",
+      "type": "subtopic",
+      "label": "Segment Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -78.66928117616911,
+        "y": 1577.9124703947627
+      },
+      "keywords": [
+        "segment",
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "V9SWO58kaMsU1NT7q26WG",
+      "type": "subtopic",
+      "label": "Fenwick Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -78.66928117616911,
+        "y": 1630.9124703947627
+      },
+      "keywords": [
+        "fenwick",
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "La8XAT0BWvqRCrvQxtZIp",
+      "type": "subtopic",
+      "label": "Disjoint Set (Union-Find)",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -78.66928117616911,
+        "y": 1683.9124703947627
+      },
+      "keywords": [
+        "disjoint",
+        "set",
+        "union",
+        "find"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zprVkxpojaxNo0LQar3Ex",
+      "type": "subtopic",
+      "label": "Suffix Trees and Arrays",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -78.66928117616911,
+        "y": 1736.9124703947627
+      },
+      "keywords": [
+        "suffix",
+        "trees",
+        "arrays"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kSpgFuAHyzySWlGBLOHZR",
+      "type": "topic",
+      "label": "Complex Data Structures",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -427.5482627301021,
+        "y": 1851.9582120033715
+      },
+      "keywords": [
+        "complex",
+        "data",
+        "structures"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2G6vn7K11_mPQQ7_IXJ96",
+      "type": "subtopic",
+      "label": "B/B+ Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1904.9582120033715
+      },
+      "keywords": [
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "TQu-OBpvR-aQfMByUcwyM",
+      "type": "subtopic",
+      "label": "Skip List",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1957.9582120033715
+      },
+      "keywords": [
+        "skip",
+        "list"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uxErZ4gLeKqwhrUG88InQ",
+      "type": "subtopic",
+      "label": "ISAM",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 2010.9582120033715
+      },
+      "keywords": [
+        "isam"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "o0fNAhJ1LsCdmGzY2ni_x",
+      "type": "subtopic",
+      "label": "2-3 Trees",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -713.2840503957483,
+        "y": 1851.9582120033715
+      },
+      "keywords": [
+        "trees"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ar7GEGfI9O_dLPbIEVhF_",
+      "type": "topic",
+      "label": "Indexing",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -1.8718212281080469,
+        "y": 1851.9582120033715
+      },
+      "keywords": [
+        "indexing"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4noav5w_8GrMTXN1Lxm5h",
+      "type": "subtopic",
+      "label": "Linear",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 191.5771207110738,
+        "y": 1828.6520523420259
+      },
+      "keywords": [
+        "linear"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZXUfeyfC5oSKkGktXuK8t",
+      "type": "subtopic",
+      "label": "Tree-Based",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 191.5771207110738,
+        "y": 1881.6520523420259
+      },
+      "keywords": [
+        "tree",
+        "based"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Y1Uz6XRbR1YqFtO4akiPA",
+      "type": "topic",
+      "label": "Problem Solving Techniques",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -1.8718212281080469,
+        "y": 2092.769352765344
+      },
+      "keywords": [
+        "problem",
+        "solving",
+        "techniques"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5T2y6Iqi-I_zOtLkeSPzY",
+      "type": "subtopic",
+      "label": "Brute Force",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -427.8329547470348,
+        "y": 1985.6735199864388
+      },
+      "keywords": [
+        "brute",
+        "force"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mKoC5o__gLSTjAlq8iXkV",
+      "type": "subtopic",
+      "label": "Backtracking",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -280.1614174906316,
+        "y": 1985.6735199864388
+      },
+      "keywords": [
+        "backtracking"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qUlqyTjk3XKF9DEm6Lsgb",
+      "type": "subtopic",
+      "label": "Greedy Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -427.8329547470348,
+        "y": 2039.7693527653441
+      },
+      "keywords": [
+        "greedy",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RiS8KZs3YBE6mKWPHszMp",
+      "type": "subtopic",
+      "label": "Randomised Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -427.8329547470348,
+        "y": 2092.769352765344
+      },
+      "keywords": [
+        "randomised",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xchWhsizaKgYuHPC4Tz9H",
+      "type": "subtopic",
+      "label": "Divide and COnquer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -427.8329547470348,
+        "y": 2145.769352765344
+      },
+      "keywords": [
+        "divide",
+        "conquer"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4ZAzcwP0oPGZ9Rw042V8-",
+      "type": "subtopic",
+      "label": "Recursion",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -262.8329547470348,
+        "y": 2198.769352765344
+      },
+      "keywords": [
+        "recursion"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jKAZNybU9cxufNBdFsqsP",
+      "type": "subtopic",
+      "label": "Dynamic Programming",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -427.8329547470348,
+        "y": 2251.769352765344
+      },
+      "keywords": [
+        "dynamic",
+        "programming"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "itvhUXbe9dr9JN5ga2jYy",
+      "type": "subtopic",
+      "label": "Two Pointer Technique",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -427.8329547470348,
+        "y": 2304.769352765344
+      },
+      "keywords": [
+        "two",
+        "pointer",
+        "technique"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gbHVR-ojRxv9I0E5eSlWy",
+      "type": "subtopic",
+      "label": "Sliding Window Technique",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -427.8329547470348,
+        "y": 2357.769352765344
+      },
+      "keywords": [
+        "sliding",
+        "window",
+        "technique"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VMV4F-SPKWn9CtpHXEjeN",
+      "type": "topic",
+      "label": "Platforms to Practice",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -1.8718212281080469,
+        "y": 2330.152683880965
+      },
+      "keywords": [
+        "platforms",
+        "practice"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "waM_j5mbe_XoA7h8u4vFN",
+      "type": "subtopic",
+      "label": "Leetcode",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 170.5771207110738,
+        "y": 2188.098310553547
+      },
+      "keywords": [
+        "leetcode"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8-7phxPp1D1mv2yubpLBo",
+      "type": "subtopic",
+      "label": "Edabit",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 169.5771207110738,
+        "y": 2241.098310553547
+      },
+      "keywords": [
+        "edabit"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kpF15oUmlUmk1qVGEBB7Y",
+      "type": "paragraph",
+      "label": "Find the interactive version of this roadmap and more at",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": 83.99419451849974,
+        "y": -149.2948532825934
+      },
+      "keywords": [
+        "find",
+        "interactive",
+        "version",
+        "roadmap",
+        "more"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "if9eTna5NRTMStVwpSwDP",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 99.8618127280065,
+        "y": -65.54342745103565
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DYeA_bXEfy_C_eAioOUh2",
+      "type": "linksgroup",
+      "label": "Related Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -713.2840503957483,
+        "y": -149.2948532825934
+      },
+      "keywords": [
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "paragraph",
+      "label": "Continue learning with following roadmaps",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -126.8562092510441,
+        "y": 2448.9444507362514
+      },
+      "keywords": [
+        "continue",
+        "learning",
+        "following",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 410,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UloavCkIvZnD1XMFohYVT",
+      "type": "button",
+      "label": "Computer Science",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": -111.8562092510441,
+        "y": 2503.090108169361
+      },
+      "keywords": [
+        "computer",
+        "science"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ef-jFKMs8jw3Ti94jem96",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 38.12817877189196,
+        "y": 2565.9444507362514
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 74
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OIcmPSbdsuWapb6HZ4BEi",
+      "type": "button",
+      "label": "System Design",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 112.9167081706737,
+        "y": 2503.090108169361
+      },
+      "keywords": [
+        "system",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 380,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "J_No8GTa92DcwPtua30wL",
+      "type": "subtopic",
+      "label": "Fast and Slow Pointers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -657.1381872719935,
+        "y": 2357.769352765344
+      },
+      "keywords": [
+        "fast",
+        "slow",
+        "pointers"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "L1FIJAluyxG6CGaVLM20O",
+      "type": "subtopic",
+      "label": "Cyclic Sort",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -657.1381872719935,
+        "y": 2304.769352765344
+      },
+      "keywords": [
+        "cyclic",
+        "sort"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "S2mBvlFTd673XcXxisD5P",
+      "type": "subtopic",
+      "label": "Merge Intervals",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -657.1381872719935,
+        "y": 2251.769352765344
+      },
+      "keywords": [
+        "merge",
+        "intervals"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JcchUF_U99zkFpXp3VT2R",
+      "type": "subtopic",
+      "label": "Kth Element",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -427.8329547470348,
+        "y": 2198.769352765344
+      },
+      "keywords": [
+        "kth",
+        "element"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MGb8ufztTK75aXAyEAuaf",
+      "type": "subtopic",
+      "label": "Two Heaps",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -657.1381872719935,
+        "y": 2198.769352765344
+      },
+      "keywords": [
+        "two",
+        "heaps"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gaaRAL3HR48Qj9rz1CkDU",
+      "type": "subtopic",
+      "label": "Multi-threaded",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -657.1381872719935,
+        "y": 2145.769352765344
+      },
+      "keywords": [
+        "multi",
+        "threaded"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "q9qLI6HzOJ0vYaIVrZ5CU",
+      "type": "subtopic",
+      "label": "Island traversal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -657.1381872719935,
+        "y": 2092.769352765344
+      },
+      "keywords": [
+        "island",
+        "traversal"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R3Coq0TG1_cSOXzXWgpuI",
+      "type": "subtopic",
+      "label": "Heap",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -237.8767254736989,
+        "y": 1422.1460383626422
+      },
+      "keywords": [
+        "heap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AabJqPUwFVBVS02YPDPvL",
+      "type": "subtopic",
+      "label": "A* Algorithm",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -699.7840503957483,
+        "y": 1592.6325944880773
+      },
+      "keywords": [
+        "algorithm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "5jNTeoLONIHWlT68poo7b",
+      "target": "Z4uVzAoNzcAkyjd-lp3_M",
+      "type": "default"
+    },
+    {
+      "source": "Z4uVzAoNzcAkyjd-lp3_M",
+      "target": "HVD9G3JlLBsAg111vQILj",
+      "type": "default"
+    },
+    {
+      "source": "Z4uVzAoNzcAkyjd-lp3_M",
+      "target": "gjZZOwmYkXQHPfg9Ynz80",
+      "type": "default"
+    },
+    {
+      "source": "Z4uVzAoNzcAkyjd-lp3_M",
+      "target": "OkdM_PJge70j5tsjT2Esl",
+      "type": "default"
+    },
+    {
+      "source": "Z4uVzAoNzcAkyjd-lp3_M",
+      "target": "9h1mz0xAUvPrnRm9VndJF",
+      "type": "default"
+    },
+    {
+      "source": "ebQdTOAOV54WBToHmFtBk",
+      "target": "tvy3Vic8Vp-Ie2x_OyZ5b",
+      "type": "default"
+    },
+    {
+      "source": "ebQdTOAOV54WBToHmFtBk",
+      "target": "kE6qddRhO8C5ur3JbeuhF",
+      "type": "default"
+    },
+    {
+      "source": "ebQdTOAOV54WBToHmFtBk",
+      "target": "G74Xp8_EMZO2oEzNTRAli",
+      "type": "default"
+    },
+    {
+      "source": "ebQdTOAOV54WBToHmFtBk",
+      "target": "Cu08m5JOfvrPUDGony144",
+      "type": "default"
+    },
+    {
+      "source": "ebQdTOAOV54WBToHmFtBk",
+      "target": "QFR1FMOf2OV3n3jcDnOCP",
+      "type": "default"
+    },
+    {
+      "source": "ebQdTOAOV54WBToHmFtBk",
+      "target": "jvWuYXWRtt_ePawc4q1Tg",
+      "type": "default"
+    },
+    {
+      "source": "iTlpa9A7h33FkUAv0UaVZ",
+      "target": "jvKRykGNy140FlquF2fcK",
+      "type": "default"
+    },
+    {
+      "source": "iTlpa9A7h33FkUAv0UaVZ",
+      "target": "kSy-8ubESdmIX4Fyl8TSu",
+      "type": "default"
+    },
+    {
+      "source": "iTlpa9A7h33FkUAv0UaVZ",
+      "target": "bRu9u8pEAQ1TmKygjIjyI",
+      "type": "default"
+    },
+    {
+      "source": "iTlpa9A7h33FkUAv0UaVZ",
+      "target": "VotdHk0_bI3CeoIf-KoKu",
+      "type": "default"
+    },
+    {
+      "source": "VotdHk0_bI3CeoIf-KoKu",
+      "target": "unaYmPzK761Eh_iZMLeRC",
+      "type": "default"
+    },
+    {
+      "source": "VotdHk0_bI3CeoIf-KoKu",
+      "target": "HosRc0hczubBHrWxCzEJj",
+      "type": "default"
+    },
+    {
+      "source": "VotdHk0_bI3CeoIf-KoKu",
+      "target": "v0LrabYYOKzV4oCXOK2Rs",
+      "type": "default"
+    },
+    {
+      "source": "VotdHk0_bI3CeoIf-KoKu",
+      "target": "WzFkdkcbL8ea9DBkjfSwa",
+      "type": "default"
+    },
+    {
+      "source": "r2Jagzbx0qOG-VtxBY-mz",
+      "target": "j_r1tB16bA7R3yDAWN7Oj",
+      "type": "default"
+    },
+    {
+      "source": "j_r1tB16bA7R3yDAWN7Oj",
+      "target": "VnKm_j7McUW9Lo0iKyPUp",
+      "type": "default"
+    },
+    {
+      "source": "j_r1tB16bA7R3yDAWN7Oj",
+      "target": "A3lFT7bB2T_uM3EGlMnV4",
+      "type": "default"
+    },
+    {
+      "source": "KnyUHDvpDTUO0EkAs9pT8",
+      "target": "iFNS3x9wVRIjpixct6H7x",
+      "type": "default"
+    },
+    {
+      "source": "KnyUHDvpDTUO0EkAs9pT8",
+      "target": "zy3wpb1MjizfUfx9_rZy2",
+      "type": "default"
+    },
+    {
+      "source": "KnyUHDvpDTUO0EkAs9pT8",
+      "target": "V9SWO58kaMsU1NT7q26WG",
+      "type": "default"
+    },
+    {
+      "source": "KnyUHDvpDTUO0EkAs9pT8",
+      "target": "La8XAT0BWvqRCrvQxtZIp",
+      "type": "default"
+    },
+    {
+      "source": "KnyUHDvpDTUO0EkAs9pT8",
+      "target": "zprVkxpojaxNo0LQar3Ex",
+      "type": "default"
+    },
+    {
+      "source": "kSpgFuAHyzySWlGBLOHZR",
+      "target": "o0fNAhJ1LsCdmGzY2ni_x",
+      "type": "default"
+    },
+    {
+      "source": "kSpgFuAHyzySWlGBLOHZR",
+      "target": "2G6vn7K11_mPQQ7_IXJ96",
+      "type": "default"
+    },
+    {
+      "source": "kSpgFuAHyzySWlGBLOHZR",
+      "target": "TQu-OBpvR-aQfMByUcwyM",
+      "type": "default"
+    },
+    {
+      "source": "kSpgFuAHyzySWlGBLOHZR",
+      "target": "uxErZ4gLeKqwhrUG88InQ",
+      "type": "default"
+    },
+    {
+      "source": "kSpgFuAHyzySWlGBLOHZR",
+      "target": "Ar7GEGfI9O_dLPbIEVhF_",
+      "type": "default"
+    },
+    {
+      "source": "Ar7GEGfI9O_dLPbIEVhF_",
+      "target": "4noav5w_8GrMTXN1Lxm5h",
+      "type": "default"
+    },
+    {
+      "source": "Ar7GEGfI9O_dLPbIEVhF_",
+      "target": "ZXUfeyfC5oSKkGktXuK8t",
+      "type": "default"
+    },
+    {
+      "source": "Y1Uz6XRbR1YqFtO4akiPA",
+      "target": "mKoC5o__gLSTjAlq8iXkV",
+      "type": "default"
+    },
+    {
+      "source": "Y1Uz6XRbR1YqFtO4akiPA",
+      "target": "qUlqyTjk3XKF9DEm6Lsgb",
+      "type": "default"
+    },
+    {
+      "source": "Y1Uz6XRbR1YqFtO4akiPA",
+      "target": "RiS8KZs3YBE6mKWPHszMp",
+      "type": "default"
+    },
+    {
+      "source": "Y1Uz6XRbR1YqFtO4akiPA",
+      "target": "xchWhsizaKgYuHPC4Tz9H",
+      "type": "default"
+    },
+    {
+      "source": "Y1Uz6XRbR1YqFtO4akiPA",
+      "target": "4ZAzcwP0oPGZ9Rw042V8-",
+      "type": "default"
+    },
+    {
+      "source": "Y1Uz6XRbR1YqFtO4akiPA",
+      "target": "jKAZNybU9cxufNBdFsqsP",
+      "type": "default"
+    },
+    {
+      "source": "Y1Uz6XRbR1YqFtO4akiPA",
+      "target": "itvhUXbe9dr9JN5ga2jYy",
+      "type": "default"
+    },
+    {
+      "source": "Y1Uz6XRbR1YqFtO4akiPA",
+      "target": "gbHVR-ojRxv9I0E5eSlWy",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 72
+    },
+    {
+      "name": "programming-language",
+      "count": 24
+    },
+    {
+      "name": "vertical",
+      "count": 10
+    },
+    {
+      "name": "topic",
+      "count": 10
+    },
+    {
+      "name": "section",
+      "count": 7
+    },
+    {
+      "name": "button",
+      "count": 3
+    },
+    {
+      "name": "horizontal",
+      "count": 2
+    },
+    {
+      "name": "paragraph",
+      "count": 2
+    },
+    {
+      "name": "frontend",
+      "count": 1
+    },
+    {
+      "name": "database",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "wGQDKIEu-q3Xa9QDjoVbw",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "wgqdkieu",
+        "q3xa9qdjovbw"
+      ]
+    },
+    {
+      "name": "3EDlCW_qIgvDcnBZSmVNI",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "3edlcw_qigvdcnbzsmvni"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "5KDw-OrEYfaUPGyuE00IC",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "5kdw",
+        "oreyfaupgyue00ic"
+      ]
+    },
+    {
+      "name": "wX2--f8Tqcj-MIrMC32yD",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "wx2",
+        "f8tqcj",
+        "mirmc32yd"
+      ]
+    },
+    {
+      "name": "Data Structures & Algorithms",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "data",
+        "structures",
+        "algorithms"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Pick a Language",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "pick",
+        "language"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "javascript"
+      ]
+    },
+    {
+      "name": "Java",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "java"
+      ]
+    },
+    {
+      "name": "Go",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "python"
+      ]
+    },
+    {
+      "name": "Rust",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "rust"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "ruby"
+      ]
+    },
+    {
+      "name": "Programming Fundamentals",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "programming",
+        "fundamentals"
+      ]
+    },
+    {
+      "name": "Language Syntax",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "language",
+        "syntax"
+      ]
+    },
+    {
+      "name": "Control Structures",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "control",
+        "structures"
+      ]
+    },
+    {
+      "name": "Functions",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "functions"
+      ]
+    },
+    {
+      "name": "OOP Basics",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "oop",
+        "basics"
+      ]
+    },
+    {
+      "name": "Pseudo Code",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "pseudo",
+        "code"
+      ]
+    },
+    {
+      "name": "What are Data Structures?",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "what",
+        "data",
+        "structures"
+      ]
+    },
+    {
+      "name": "Why are Data Structures Important?",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "why",
+        "data",
+        "structures",
+        "important"
+      ]
+    },
+    {
+      "name": "Basic Data Structures",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "basic",
+        "data",
+        "structures"
+      ]
+    },
+    {
+      "name": "Array",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "array"
+      ]
+    },
+    {
+      "name": "Linked Lists",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "linked",
+        "lists"
+      ]
+    },
+    {
+      "name": "Stacks",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "stacks"
+      ]
+    },
+    {
+      "name": "Queues",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "queues"
+      ]
+    },
+    {
+      "name": "Hash Tables",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "hash",
+        "tables"
+      ]
+    },
+    {
+      "name": "Algorithmic Complexity",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "algorithmic",
+        "complexity"
+      ]
+    },
+    {
+      "name": "Time vs Space Complexity",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "time",
+        "space",
+        "complexity"
+      ]
+    },
+    {
+      "name": "How to Calculate Complexity?",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "how",
+        "calculate",
+        "complexity"
+      ]
+    },
+    {
+      "name": "Common Runtimes",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "common",
+        "runtimes"
+      ]
+    },
+    {
+      "name": "Constant",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "constant"
+      ]
+    },
+    {
+      "name": "Logarithmic",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "logarithmic"
+      ]
+    },
+    {
+      "name": "Linear",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "linear"
+      ]
+    },
+    {
+      "name": "Polynomial",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "polynomial"
+      ]
+    },
+    {
+      "name": "Exponential",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "exponential"
+      ]
+    },
+    {
+      "name": "Factorial",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "factorial"
+      ]
+    },
+    {
+      "name": "Asymptotic Notation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "asymptotic",
+        "notation"
+      ]
+    },
+    {
+      "name": "Big-O Notation",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "big",
+        "notation"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 133,
+    "totalEdges": 42,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:24.502Z",
+    "version": "2.0"
+  }
+}

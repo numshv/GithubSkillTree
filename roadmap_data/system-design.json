@@ -1,0 +1,5310 @@
+{
+  "name": "system-design",
+  "title": "System Design",
+  "nodes": [
+    {
+      "id": "9_t9UR6FVSn41Ha8kfbyJ",
+      "type": "section",
+      "label": "9_t9UR6FVSn41Ha8kfbyJ",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -72.56981288497383,
+        "y": 3316.7871372731006
+      },
+      "keywords": [
+        "9_t9ur6fvsn41ha8kfbyj"
+      ],
+      "metadata": {
+        "style": {
+          "width": 277,
+          "height": 202
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2dBw7KwXyXzZAZUSw0EAy",
+      "type": "section",
+      "label": "2dBw7KwXyXzZAZUSw0EAy",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 198.11213811444725,
+        "y": 3045.9996104690044
+      },
+      "keywords": [
+        "2dbw7kwxyxzzazusw0eay"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 474
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yy2gnfWzDpMa1KChmfrgy",
+      "type": "section",
+      "label": "yy2gnfWzDpMa1KChmfrgy",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -71.63171528418138,
+        "y": 3045.5183671746804
+      },
+      "keywords": [
+        "yy2gnfwzdpma1kchmfrgy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273,
+          "height": 255
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IG4lMqEfFCgQyz3tyiGgk",
+      "type": "section",
+      "label": "IG4lMqEfFCgQyz3tyiGgk",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -351.21273166220635,
+        "y": 3044.7840884377797
+      },
+      "keywords": [
+        "ig4lmqeffcgqyz3tyiggk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 283,
+          "height": 255
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iCaCrvC5uord0zs0UtP4a",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 198.5,
+        "y": 2288.4915694361566
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 65
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wM_Z9VLxO_vpwR1Kfx_qK",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 342.5,
+        "y": 2288.4915694361566
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 65
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FT5tOhtkEXCcUj3xRKsVW",
+      "type": "section",
+      "label": "FT5tOhtkEXCcUj3xRKsVW",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -341.19669367734,
+        "y": 2275.713852028059
+      },
+      "keywords": [
+        "ft5tohtkexccuj3xrksvw"
+      ],
+      "metadata": {
+        "style": {
+          "width": 334,
+          "height": 628
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UQKMEfR6t72oqk0qTfYi9",
+      "type": "section",
+      "label": "UQKMEfR6t72oqk0qTfYi9",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 19.21310958899096,
+        "y": 2364.5836910533135
+      },
+      "keywords": [
+        "uqkmefr6t72oqk0qtfyi9"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235,
+          "height": 460.5
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HAkZP9cC1VtsnANNLNKn2",
+      "type": "section",
+      "label": "HAkZP9cC1VtsnANNLNKn2",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 249.79296473841032,
+        "y": 2363.4915694361566
+      },
+      "keywords": [
+        "hakzp9cc1vtsnannlnkn2"
+      ],
+      "metadata": {
+        "style": {
+          "width": 286,
+          "height": 568
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-0XsGJCcC8hIaPgNPMsoC",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 23.85602569580078,
+        "y": 1707.6321590449484
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gvSx-FcbHjuuSYICrv2BW",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 144.5499950268134,
+        "y": 1708.6321590449484
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ii6jsjup_8pRe5mBK0iJt",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 79,
+        "y": 1575.3071977542106
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 85
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O3b90NuLijJq9a-WuPXDs",
+      "type": "section",
+      "label": "O3b90NuLijJq9a-WuPXDs",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -303.0983379795378,
+        "y": 1581.6321741814686
+      },
+      "keywords": [
+        "o3b90nulijjq9a",
+        "wupxds"
+      ],
+      "metadata": {
+        "style": {
+          "width": 214,
+          "height": 126
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rLSI7a7h09MxAXM86LfpN",
+      "type": "section",
+      "label": "rLSI7a7h09MxAXM86LfpN",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 502.52556355171316,
+        "y": 1481.6321590449484
+      },
+      "keywords": [
+        "rlsi7a7h09mxaxm86lfpn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 331
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vwomvb6mMBiKcd9jg7iWI",
+      "type": "section",
+      "label": "vwomvb6mMBiKcd9jg7iWI",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 502.52556355171316,
+        "y": 1220.615307718412
+      },
+      "keywords": [
+        "vwomvb6mmbikcd9jg7iwi"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 270
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fXbUXsM1KbLqTyeOIGMJN",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -94.44015059681118,
+        "y": 1143.7994626720824
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 70,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Abp4pD1x7gM8zFInV-6SK",
+      "type": "section",
+      "label": "Abp4pD1x7gM8zFInV-6SK",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -302.4401505968112,
+        "y": 891.2722684546688
+      },
+      "keywords": [
+        "abp4pd1x7gm8zfinv",
+        "6sk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 209,
+          "height": 270
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FWDXTm_Fu7E2X0r6L4xkf",
+      "type": "section",
+      "label": "FWDXTm_Fu7E2X0r6L4xkf",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -302.683453649206,
+        "y": 1151.5927435005694
+      },
+      "keywords": [
+        "fwdxtm_fu7e2x0r6l4xkf"
+      ],
+      "metadata": {
+        "style": {
+          "width": 209,
+          "height": 330
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FwGeTZ0ItXYI9Nn5skyx0",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 292.88281941246055,
+        "y": 845.4632786581586
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 202
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JTHRP_HfSOwmqJErt9tGB",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 351.3560256958008,
+        "y": 566.171875
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 80,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bCRi5W6CHyle35zUo56er",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 23.85602569580078,
+        "y": 566.171875
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 95,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "urVudVWogiwLJMybuf7f8",
+      "type": "section",
+      "label": "urVudVWogiwLJMybuf7f8",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": 428.8560256958008,
+        "y": 551.671875
+      },
+      "keywords": [
+        "urvudvwogiwljmybuf7f8"
+      ],
+      "metadata": {
+        "style": {
+          "width": 328,
+          "height": 206
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sM7epahS3ZKtTKcpC7aYw",
+      "type": "section",
+      "label": "sM7epahS3ZKtTKcpC7aYw",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -303.1439743041992,
+        "y": 500.171875
+      },
+      "keywords": [
+        "sm7epahs3zkttkcpc7ayw"
+      ],
+      "metadata": {
+        "style": {
+          "width": 166,
+          "height": 146
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FguoNXuSg-7m3z5dp0fp6",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 21.361812728006612,
+        "y": 387.87833957831333
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 109,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MRD8SlWGmk8hoaZL6U690",
+      "type": "section",
+      "label": "MRD8SlWGmk8hoaZL6U690",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -304.6381872719934,
+        "y": 260.40074822234897
+      },
+      "keywords": [
+        "mrd8slwgmk8hoazl6u690"
+      ],
+      "metadata": {
+        "style": {
+          "width": 327,
+          "height": 163
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "type": "title",
+      "label": "System Design",
+      "description": "",
+      "category": "title",
+      "position": {
+        "x": 114.5,
+        "y": 73.40074822234891
+      },
+      "keywords": [
+        "system",
+        "design"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "_hYN0gEi9BL24nptEtXWU",
+      "type": "topic",
+      "label": "Introduction",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 105.5,
+        "y": 214.37833957831333
+      },
+      "keywords": [
+        "introduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "idLHBxhvcIqZTqmh_E8Az",
+      "type": "subtopic",
+      "label": "What is System Design?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 432.83333333333337,
+        "y": 188
+      },
+      "keywords": [
+        "what",
+        "system",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "os3Pa6W9SSNEzgmlBbglQ",
+      "type": "subtopic",
+      "label": "How to approach System Design?",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 432.83333333333337,
+        "y": 242
+      },
+      "keywords": [
+        "how",
+        "approach",
+        "system",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 308,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "Yj8mGmDmELssP8D_Ujh0F",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 218.5,
+        "y": -24.59925177765109
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 93
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "e_15lymUjFc6VWqzPnKxG",
+      "type": "topic",
+      "label": "Performance vs Scalability",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 105.5,
+        "y": 267.37833957831333
+      },
+      "keywords": [
+        "performance",
+        "scalability"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O3wAHLnzrkvLWr4afHDdr",
+      "type": "topic",
+      "label": "Latency vs Throughput",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 105.5,
+        "y": 320.37833957831333
+      },
+      "keywords": [
+        "latency",
+        "throughput"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uJc27BNAuP321HQNbjftn",
+      "type": "topic",
+      "label": "Availability vs Consistency",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 105.5,
+        "y": 373.37833957831333
+      },
+      "keywords": [
+        "availability",
+        "consistency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tcGdVQsCEobdV9hgOq3eG",
+      "type": "subtopic",
+      "label": "CAP Theorem",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -294.6381872719934,
+        "y": 363.37833957831333
+      },
+      "keywords": [
+        "cap",
+        "theorem"
+      ],
+      "metadata": {
+        "style": {
+          "width": 305,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m4xqKqnCvrCc13oO86z1h",
+      "type": "label",
+      "label": "AP - Availability + Partition Tolerance",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -294.6381872719934,
+        "y": 276
+      },
+      "keywords": [
+        "availability",
+        "partition",
+        "tolerance"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2b5j0CJbR1NahDu9VmB6F",
+      "type": "label",
+      "label": "CP - Consistency + Partition Tolerance",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -294.6381872719934,
+        "y": 316.87833957831333
+      },
+      "keywords": [
+        "consistency",
+        "partition",
+        "tolerance"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GHe8V-REu1loRpDnHbyUn",
+      "type": "topic",
+      "label": "Consistency Patterns",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 105.5,
+        "y": 426.37833957831333
+      },
+      "keywords": [
+        "consistency",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EKD5AikZtwjtsEYRPJhQ2",
+      "type": "subtopic",
+      "label": "Weak Consistency",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 455.3560256958008,
+        "y": 373.671875
+      },
+      "keywords": [
+        "weak",
+        "consistency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rRDGVynX43inSeQ9lR_FS",
+      "type": "subtopic",
+      "label": "Eventual Consistency",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 455.3560256958008,
+        "y": 426.671875
+      },
+      "keywords": [
+        "eventual",
+        "consistency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JjB7eB8gdRCAYf5M0RcT7",
+      "type": "subtopic",
+      "label": "Strong Consistency",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 455.33333333333337,
+        "y": 480.671875
+      },
+      "keywords": [
+        "strong",
+        "consistency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 263,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ezptoTqeaepByegxS5kHL",
+      "type": "topic",
+      "label": "Availability Patterns",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 105.5,
+        "y": 551.671875
+      },
+      "keywords": [
+        "availability",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "L_jRfjvMGjFbHEbozeVQl",
+      "type": "subtopic",
+      "label": "Fail-Over",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -290.6439743041992,
+        "y": 583.171875
+      },
+      "keywords": [
+        "fail",
+        "over"
+      ],
+      "metadata": {
+        "style": {
+          "width": 141,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "d_Cg6Zjyf2HEs0l5cpX8P",
+      "type": "label",
+      "label": "Active - Active",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -281.6439743041992,
+        "y": 511.171875
+      },
+      "keywords": [
+        "active"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OUz9JOof4kkNAIsTzklS3",
+      "type": "label",
+      "label": "Active - Passive",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -287.6439743041992,
+        "y": 542.171875
+      },
+      "keywords": [
+        "active",
+        "passive"
+      ],
+      "metadata": {
+        "style": {
+          "width": 135,
+          "height": 36
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vJkqOyqXGa-aRjx3M1H-K",
+      "type": "section",
+      "label": "vJkqOyqXGa-aRjx3M1H-K",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -141.14397430419922,
+        "y": 500.171875
+      },
+      "keywords": [
+        "vjkqoyqxga",
+        "arjx3m1h"
+      ],
+      "metadata": {
+        "style": {
+          "width": 166,
+          "height": 146
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0RQ5jzZKdadYY0h_QZ0Bb",
+      "type": "subtopic",
+      "label": "Replication",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -128.64397430419922,
+        "y": 583.171875
+      },
+      "keywords": [
+        "replication"
+      ],
+      "metadata": {
+        "style": {
+          "width": 141,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mKV71c9XnnRbgVlmwlsbw",
+      "type": "label",
+      "label": "Master - Slave",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -121.14397430419922,
+        "y": 511.171875
+      },
+      "keywords": [
+        "master",
+        "slave"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K8xJZfEGkwOFcqb7CRJ7f",
+      "type": "label",
+      "label": "Master - Master",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -127.64397430419922,
+        "y": 542.171875
+      },
+      "keywords": [
+        "master"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uHdrZllrZFAnVkwIB3y5-",
+      "type": "subtopic",
+      "label": "Availability in Numbers",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 441.3560256958008,
+        "y": 695.921875
+      },
+      "keywords": [
+        "availability",
+        "numbers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 304,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0mI68m25Zrhj6Uoc1om2B",
+      "type": "label",
+      "label": "99.9% Availability - three 9s",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 445.3560256958008,
+        "y": 571.671875
+      },
+      "keywords": [
+        "availability",
+        "three"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rgadr3yf8Xq_1kCEJ0exf",
+      "type": "label",
+      "label": "99.99% Availability - four 9s",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 445.3560256958008,
+        "y": 611.421875
+      },
+      "keywords": [
+        "availability",
+        "four"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XJrLBec_U4QXa7IOecFbL",
+      "type": "label",
+      "label": "Availability in Parallel vs Sequence",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 445.3560256958008,
+        "y": 651.171875
+      },
+      "keywords": [
+        "availability",
+        "parallel",
+        "sequence"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DOESIlBThd_wp2uOSd_CS",
+      "type": "topic",
+      "label": "Background Jobs",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -38.450004973186594,
+        "y": 708.671875
+      },
+      "keywords": [
+        "background",
+        "jobs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NEsPjQifNDlZJE-2YLVl1",
+      "type": "subtopic",
+      "label": "Event-Driven",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -300.8123473873875,
+        "y": 682.5759021485857
+      },
+      "keywords": [
+        "event",
+        "driven"
+      ],
+      "metadata": {
+        "style": {
+          "width": 187,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zoViI4kzpKIxpU20T89K_",
+      "type": "subtopic",
+      "label": "Schedule Driven",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -300.8123473873875,
+        "y": 735.5759021485857
+      },
+      "keywords": [
+        "schedule",
+        "driven"
+      ],
+      "metadata": {
+        "style": {
+          "width": 187,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2gRIstNT-fTkv5GZ692gx",
+      "type": "subtopic",
+      "label": "Returning Results",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -300.8123473873875,
+        "y": 808.5503059007614
+      },
+      "keywords": [
+        "returning",
+        "results"
+      ],
+      "metadata": {
+        "style": {
+          "width": 187,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Uk6J8JRcKVEFz4_8rLfnQ",
+      "type": "topic",
+      "label": "Domain Name System",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -38.450004973186594,
+        "y": 808.5503059007614
+      },
+      "keywords": [
+        "domain",
+        "name",
+        "system"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O730v5Ww3ByAiBSs6fwyM",
+      "type": "topic",
+      "label": "Content Delivery Networks",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 238.5,
+        "y": 808.5503059007614
+      },
+      "keywords": [
+        "content",
+        "delivery",
+        "networks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 262,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uIerrf_oziiLg-KEyz8WM",
+      "type": "subtopic",
+      "label": "Push CDNs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 572.1868989634623,
+        "y": 838.4632786581586
+      },
+      "keywords": [
+        "push",
+        "cdns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 183,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HkXiEMLqxJoQyAHav3ccL",
+      "type": "subtopic",
+      "label": "Pull CDNs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 572.1868989634623,
+        "y": 785.4632786581586
+      },
+      "keywords": [
+        "pull",
+        "cdns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 183,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "14KqLKgh090Rb3MDwelWY",
+      "type": "topic",
+      "label": "Load Balancers",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 238.5,
+        "y": 1029.2994626720824
+      },
+      "keywords": [
+        "load",
+        "balancers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 167,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ocdcbhHrwjJX0KWgmsOL6",
+      "type": "subtopic",
+      "label": "LB vs Reverse Proxy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 502.27648583084766,
+        "y": 923.2994626720824
+      },
+      "keywords": [
+        "reverse",
+        "proxy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "urSjLyLTE5IIz0TFxMBWL",
+      "type": "subtopic",
+      "label": "Load Balancing Algorithms",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 502.27648583084766,
+        "y": 976.2994626720824
+      },
+      "keywords": [
+        "load",
+        "balancing",
+        "algorithms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "e69-JVbDj7dqV_p1j1kML",
+      "type": "subtopic",
+      "label": "Layer 7 Load Balancing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 502.27648583084766,
+        "y": 1029.2994626720824
+      },
+      "keywords": [
+        "layer",
+        "load",
+        "balancing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MpM9rT1-_LGD7YbnBjqOk",
+      "type": "subtopic",
+      "label": "Layer 4 Load Balancing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 502.27648583084766,
+        "y": 1082.2994626720824
+      },
+      "keywords": [
+        "layer",
+        "load",
+        "balancing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IkUCfSWNY-02wg2WCo1c6",
+      "type": "subtopic",
+      "label": "Horizontal Scaling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 502.27648583084766,
+        "y": 1135.2994626720824
+      },
+      "keywords": [
+        "horizontal",
+        "scaling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 251,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XXuzTrP5UNVwSpAk-tAGr",
+      "type": "topic",
+      "label": "Application Layer",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -38.450004973186594,
+        "y": 1029.2994626720824
+      },
+      "keywords": [
+        "application",
+        "layer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UKTiaHCzYXnrNw31lHriv",
+      "type": "subtopic",
+      "label": "Microservices",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -38.450004973186594,
+        "y": 889.9959916278779
+      },
+      "keywords": [
+        "microservices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "Nt0HUWLOl4O77elF8Is1S",
+      "type": "subtopic",
+      "label": "Service Discovery",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -38.450004973186594,
+        "y": 942.9959916278779
+      },
+      "keywords": [
+        "service",
+        "discovery"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5FXwwRMNBhG7LT5ub6t2L",
+      "type": "topic",
+      "label": "Databases",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -38.450004973186594,
+        "y": 1129.2994626720824
+      },
+      "keywords": [
+        "databases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "KLnpMR2FxlQkCHZP6-tZm",
+      "type": "subtopic",
+      "label": "SQL vs NoSQL",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -38.450004973186594,
+        "y": 1221.833610961679
+      },
+      "keywords": [
+        "sql",
+        "nosql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 184,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dc-aIbBwUdlwgwQKGrq49",
+      "type": "subtopic",
+      "label": "Replication",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -294.683453649206,
+        "y": 1165.5927435005694
+      },
+      "keywords": [
+        "replication"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FX6dcV_93zOfbZMdM_-li",
+      "type": "subtopic",
+      "label": "Sharding",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -294.683453649206,
+        "y": 1218.5927435005694
+      },
+      "keywords": [
+        "sharding"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DGmVRI7oWdSOeIUn_g0rI",
+      "type": "subtopic",
+      "label": "Federation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -294.683453649206,
+        "y": 1271.5927435005694
+      },
+      "keywords": [
+        "federation"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Zp9D4--DgtlAjE2nIfaO_",
+      "type": "subtopic",
+      "label": "Denormalization",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -294.683453649206,
+        "y": 1324.5927435005694
+      },
+      "keywords": [
+        "denormalization"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fY8zgbB13wxZ1CFtMSdZZ",
+      "type": "subtopic",
+      "label": "SQL Tuning",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -294.683453649206,
+        "y": 1377.5927435005694
+      },
+      "keywords": [
+        "sql",
+        "tuning"
+      ],
+      "metadata": {
+        "style": {
+          "height": 49,
+          "width": 193
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uyrV_iIIQQvEDSUM9gt7H",
+      "type": "label",
+      "label": "RDBMS",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -239.183453649206,
+        "y": 1437.5927435005694
+      },
+      "keywords": [
+        "rdbms"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KFtdmmce4bRkDyvFXZzLN",
+      "type": "subtopic",
+      "label": "Key-Value Store",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -294.4401505968112,
+        "y": 899.2722684546688
+      },
+      "keywords": [
+        "key",
+        "value",
+        "store"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "didEznSlVHqqlijtyOSr3",
+      "type": "subtopic",
+      "label": "Document Store",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -294.4401505968112,
+        "y": 952.2722684546688
+      },
+      "keywords": [
+        "document",
+        "store"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WHq1AdISkcgthaugE9uY7",
+      "type": "subtopic",
+      "label": "Wide Column Store",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -294.4401505968112,
+        "y": 1005.2722684546688
+      },
+      "keywords": [
+        "wide",
+        "column",
+        "store"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6RLgnL8qLBzYkllHeaI-Z",
+      "type": "subtopic",
+      "label": "Graph Databases",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -294.4401505968112,
+        "y": 1058.2722684546688
+      },
+      "keywords": [
+        "graph",
+        "databases"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "de-uXrRy3XDwZbLyXXluK",
+      "type": "label",
+      "label": "NoSQL",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -234.44015059681118,
+        "y": 1115.2232701331175
+      },
+      "keywords": [
+        "nosql"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-X4g8kljgVBOBcf1DDzgi",
+      "type": "topic",
+      "label": "Caching",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 238.5,
+        "y": 1261.115307718412
+      },
+      "keywords": [
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 167,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Bgqgl67FK56ioLNFivIsc",
+      "type": "subtopic",
+      "label": "Refresh Ahead",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 512.0255635517132,
+        "y": 1230.326180649652
+      },
+      "keywords": [
+        "refresh",
+        "ahead"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vNndJ-MWetcbaF2d-3-JP",
+      "type": "subtopic",
+      "label": "Write-behind",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 512.0255635517132,
+        "y": 1283.326180649652
+      },
+      "keywords": [
+        "write",
+        "behind"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RNITLR1FUQWkRbSBXTD_z",
+      "type": "subtopic",
+      "label": "Write-through",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 512.0255635517132,
+        "y": 1336.326180649652
+      },
+      "keywords": [
+        "write",
+        "through"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bffJlvoLHFldS0CluWifP",
+      "type": "subtopic",
+      "label": "Cache Aside",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 512.0255635517132,
+        "y": 1389.326180649652
+      },
+      "keywords": [
+        "cache",
+        "aside"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AUCyMMaN7s2OnCEMo2-Or",
+      "type": "label",
+      "label": "Strategies",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 580.5255635517132,
+        "y": 1447.615307718412
+      },
+      "keywords": [
+        "strategies"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RHNRb6QWiGvCK3KQOPK3u",
+      "type": "subtopic",
+      "label": "Client Caching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 514.5255635517132,
+        "y": 1496.6321590449484
+      },
+      "keywords": [
+        "client",
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Kisvxlrjb7XnKFCOdxRtb",
+      "type": "subtopic",
+      "label": "CDN Caching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 514.5255635517132,
+        "y": 1549.6321590449484
+      },
+      "keywords": [
+        "cdn",
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "o532nPnL-d2vXJn9k6vMl",
+      "type": "subtopic",
+      "label": "Web Server Caching",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 514.5255635517132,
+        "y": 1602.6321590449484
+      },
+      "keywords": [
+        "web",
+        "server",
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BeIg4jzbij2cwc_a_VpYG",
+      "type": "subtopic",
+      "label": "Database Caching",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 514.5255635517132,
+        "y": 1655.6321590449484
+      },
+      "keywords": [
+        "database",
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "5Ux_JBDOkflCaIm4tVBgO",
+      "type": "subtopic",
+      "label": "Application Caching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 514.5255635517132,
+        "y": 1708.6321590449484
+      },
+      "keywords": [
+        "application",
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "84N4XY31PwXRntXX1sdCU",
+      "type": "topic",
+      "label": "Asynchronism",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 238.5,
+        "y": 1377.615307718412
+      },
+      "keywords": [
+        "asynchronism"
+      ],
+      "metadata": {
+        "style": {
+          "width": 167,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YiYRZFE_zwPMiCZxz9FnP",
+      "type": "subtopic",
+      "label": "Back Pressure",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -39.821155651437266,
+        "y": 1324.5699820487132
+      },
+      "keywords": [
+        "back",
+        "pressure"
+      ],
+      "metadata": {
+        "style": {
+          "width": 190,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a9wGW_H1HpvvdYCXoS-Rf",
+      "type": "subtopic",
+      "label": "Task Queues",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -39.821155651437266,
+        "y": 1377.5699820487132
+      },
+      "keywords": [
+        "task",
+        "queues"
+      ],
+      "metadata": {
+        "style": {
+          "width": 190,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "37X1_9eCmkZkz5RDudE5N",
+      "type": "subtopic",
+      "label": "Message Queues",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -39.821155651437266,
+        "y": 1430.5699820487132
+      },
+      "keywords": [
+        "message",
+        "queues"
+      ],
+      "metadata": {
+        "style": {
+          "width": 190,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8FbjRx2vPtjeayul0aczD",
+      "type": "label",
+      "label": "Types of Caching",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 553.5255635517132,
+        "y": 1768.6321590449484
+      },
+      "keywords": [
+        "types",
+        "caching"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3ewsWpHDMS3XBucSnG3Ab",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 404.5,
+        "y": 1275.615307718412
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 99,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "3pRi8M4xQXsehkdfUNtYL",
+      "type": "topic",
+      "label": "Idempotent Operations",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 238.5,
+        "y": 1526.3071977542106
+      },
+      "keywords": [
+        "idempotent",
+        "operations"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xqPpYbDLE8si-QW58dswv",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 311.5,
+        "y": 1426.615307718412
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 101
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uQFzD_ryd-8Dr1ppjorYJ",
+      "type": "topic",
+      "label": "Communication",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 11.356025695800781,
+        "y": 1525.7191455814577
+      },
+      "keywords": [
+        "communication"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I_nR6EwjNXSG7_hw-_VhX",
+      "type": "subtopic",
+      "label": "HTTP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -302.4401505968112,
+        "y": 1525.7191455814577
+      },
+      "keywords": [
+        "http"
+      ],
+      "metadata": {
+        "style": {
+          "width": 76,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2nF5uC6fYKbf0RFgGNHiP",
+      "type": "subtopic",
+      "label": "TCP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -223.94015059681118,
+        "y": 1525.7191455814577
+      },
+      "keywords": [
+        "tcp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 66,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LC5aTmUKNiw9RuSUt3fSE",
+      "type": "subtopic",
+      "label": "UDP",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -155.44015059681118,
+        "y": 1525.7191455814577
+      },
+      "keywords": [
+        "udp"
+      ],
+      "metadata": {
+        "style": {
+          "width": 66,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ixqucoAkgnphWYAFnsMe-",
+      "type": "subtopic",
+      "label": "RPC",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -293.8857859406101,
+        "y": 1591.990516401245
+      },
+      "keywords": [
+        "rpc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 86,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6-bgmfDTAQ9zABhpmVoHV",
+      "type": "subtopic",
+      "label": "REST",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -293.8857859406101,
+        "y": 1644.990516401245
+      },
+      "keywords": [
+        "rest"
+      ],
+      "metadata": {
+        "style": {
+          "width": 86,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Hw2v1rCYn24qxBhhmdc28",
+      "type": "subtopic",
+      "label": "gRPC",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -204.2836423217721,
+        "y": 1593.7013893324854
+      },
+      "keywords": [
+        "grpc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jwv2g2Yeq-6Xv5zSd746R",
+      "type": "subtopic",
+      "label": "GraphQL",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -204.2836423217721,
+        "y": 1645.759886389313
+      },
+      "keywords": [
+        "graphql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "p--uEm6klLx_hKxKJiXE5",
+      "type": "topic",
+      "label": "Performance Antipatterns",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -32,
+        "y": 1659.6321590449484
+      },
+      "keywords": [
+        "performance",
+        "antipatterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hxiV2uF7tvhZKe4K-4fTn",
+      "type": "subtopic",
+      "label": "Busy Database",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 96.17222469280483,
+        "y": 1738.5954266172366
+      },
+      "keywords": [
+        "busy",
+        "database"
+      ],
+      "metadata": {
+        "style": {
+          "width": 176,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "i_2M3VloG-xTgWDWp4ngt",
+      "type": "subtopic",
+      "label": "Busy Frontend",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 96.17222469280483,
+        "y": 1791.5954266172366
+      },
+      "keywords": [
+        "busy",
+        "frontend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 176,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0IzQwuYi_E00bJwxDuw2B",
+      "type": "subtopic",
+      "label": "Chatty I/O",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 96.17222469280483,
+        "y": 1844.5954266172366
+      },
+      "keywords": [
+        "chatty"
+      ],
+      "metadata": {
+        "style": {
+          "width": 176,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6u3XmtJFWyJnyZUnJcGYb",
+      "type": "subtopic",
+      "label": "Extraneous Fetching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -150.96939176792688,
+        "y": 1952.198253700603
+      },
+      "keywords": [
+        "extraneous",
+        "fetching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lwMs4yiUHF3nQwcvauers",
+      "type": "subtopic",
+      "label": "Improper Instantiation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -150.96939176792688,
+        "y": 1740.198253700603
+      },
+      "keywords": [
+        "improper",
+        "instantiation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "p1QhCptnwzTGUXVMnz_Oz",
+      "type": "subtopic",
+      "label": "Monolithic Persistence",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -150.96939176792688,
+        "y": 1793.198253700603
+      },
+      "keywords": [
+        "monolithic",
+        "persistence"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "klvHk1_e03Jarn5T46QNi",
+      "type": "subtopic",
+      "label": "No Caching",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 96.17222469280483,
+        "y": 1950.5954266172366
+      },
+      "keywords": [
+        "caching"
+      ],
+      "metadata": {
+        "style": {
+          "width": 176,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r7uQxmurvfsYtTCieHqly",
+      "type": "subtopic",
+      "label": "Noisy Neighbor",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -150.96939176792688,
+        "y": 1846.198253700603
+      },
+      "keywords": [
+        "noisy",
+        "neighbor"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LNmAJmh2ndFtOQIpvX_ga",
+      "type": "subtopic",
+      "label": "Retry Storm",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 96.17222469280483,
+        "y": 1897.5954266172366
+      },
+      "keywords": [
+        "retry",
+        "storm"
+      ],
+      "metadata": {
+        "style": {
+          "width": 176,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ihnmxo_bVgZABDwg1QGGk",
+      "type": "subtopic",
+      "label": "Synchronous I/O",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -150.96939176792688,
+        "y": 1899.198253700603
+      },
+      "keywords": [
+        "synchronous"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hDFYlGFYwcwWXLmrxodFX",
+      "type": "topic",
+      "label": "Monitoring",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 278.5,
+        "y": 2042.9719489680733
+      },
+      "keywords": [
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 146,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "hkjYvLoVt9xKDzubm0Jy3",
+      "type": "subtopic",
+      "label": "Health Monitoring",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 522.0707860146841,
+        "y": 1883.9719489680733
+      },
+      "keywords": [
+        "health",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rVrwaioGURvrqNBufF2dj",
+      "type": "subtopic",
+      "label": "Availability Monitoring",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 522.0707860146841,
+        "y": 1936.9719489680733
+      },
+      "keywords": [
+        "availability",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "x1i3qWFtNNjd00-kAvFHw",
+      "type": "subtopic",
+      "label": "Performance Monitoring",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 522.0707860146841,
+        "y": 1989.9719489680733
+      },
+      "keywords": [
+        "performance",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I_NfmDcBph8-oyFVFTknL",
+      "type": "subtopic",
+      "label": "Security Monitoring",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": 522.0707860146841,
+        "y": 2042.9719489680733
+      },
+      "keywords": [
+        "security",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eSZq74lROh5lllLyTBK5a",
+      "type": "subtopic",
+      "label": "Usage Monitoring",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 522.0707860146841,
+        "y": 2095.9719489680733
+      },
+      "keywords": [
+        "usage",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Q0fKphqmPwjTD0dhqiP6K",
+      "type": "subtopic",
+      "label": "Instrumentation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 522.0707860146841,
+        "y": 2148.9719489680733
+      },
+      "keywords": [
+        "instrumentation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IwMOTpsYHApdvHZOhXtIw",
+      "type": "subtopic",
+      "label": "Visualization & Alerts",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 522.0707860146841,
+        "y": 2201.9719489680733
+      },
+      "keywords": [
+        "visualization",
+        "alerts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 232,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8ZK2iHO4D3cONYu2JN74F",
+      "type": "paragraph",
+      "label": "The design patterns given in this section are of varying importance. You don't need to master all of them. Simply get an overview of each and this will give you some insight into designing scalable systems.",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -302.4401505968112,
+        "y": 2038.9719489680733
+      },
+      "keywords": [
+        "design",
+        "patterns",
+        "given",
+        "section",
+        "varying",
+        "importance",
+        "you",
+        "don",
+        "need",
+        "master",
+        "all",
+        "them",
+        "simply",
+        "get",
+        "overview"
+      ],
+      "metadata": {
+        "style": {
+          "width": 463,
+          "height": 140
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "THlzcZTNnPGLRiHPWT-Jv",
+      "type": "topic",
+      "label": "Cloud Design Patterns",
+      "description": "",
+      "category": "cloud",
+      "position": {
+        "x": 138.5,
+        "y": 2250.9719489680733
+      },
+      "keywords": [
+        "cloud",
+        "design",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {
+          "width": 286,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MPrL72ZLsxJeLKHHCIo3s",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 342.5,
+        "y": 2091.9719489680733
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 161
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dsWpta3WIBvv2K9pNVPo0",
+      "type": "topic",
+      "label": "Messaging",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 249.79296473841032,
+        "y": 2338.9915694361566
+      },
+      "keywords": [
+        "messaging"
+      ],
+      "metadata": {
+        "style": {
+          "width": 286,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VgvUWAC6JYFyPZKBRoEqf",
+      "type": "subtopic",
+      "label": "Sequential Convoy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2395.9915694361566
+      },
+      "keywords": [
+        "sequential",
+        "convoy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uR1fU6pm7zTtdBcNgSRi4",
+      "type": "subtopic",
+      "label": "Scheduling Agent Supervisor",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2448.9915694361566
+      },
+      "keywords": [
+        "scheduling",
+        "agent",
+        "supervisor"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LncTxPg-wx8loy55r5NmV",
+      "type": "subtopic",
+      "label": "Queue-Based Load Leveling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2501.9915694361566
+      },
+      "keywords": [
+        "queue",
+        "based",
+        "load",
+        "leveling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2ryzJhRDTo98gGgn9mAxR",
+      "type": "subtopic",
+      "label": "Publisher/Subscriber",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2554.9915694361566
+      },
+      "keywords": [
+        "publisher",
+        "subscriber"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DZcZEOi7h3u0744YhASet",
+      "type": "subtopic",
+      "label": "Priority Queue",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2607.9915694361566
+      },
+      "keywords": [
+        "priority",
+        "queue"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "siXdR3TB9-4wx_qWieJ5w",
+      "type": "subtopic",
+      "label": "Pipes and Filters",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2660.9915694361566
+      },
+      "keywords": [
+        "pipes",
+        "filters"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9Ld07KLOqP0ICtXEjngYM",
+      "type": "subtopic",
+      "label": "Competing Consumers",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2713.9915694361566
+      },
+      "keywords": [
+        "competing",
+        "consumers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aCzRgUkVBvtHUeLU6p5ZH",
+      "type": "subtopic",
+      "label": "Choreography",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2766.9915694361566
+      },
+      "keywords": [
+        "choreography"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kl4upCnnZvJSf2uII1Pa0",
+      "type": "subtopic",
+      "label": "Claim Check",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 260.7929647384103,
+        "y": 2819.9915694361566
+      },
+      "keywords": [
+        "claim",
+        "check"
+      ],
+      "metadata": {
+        "style": {
+          "width": 267,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eNFNXPsFiryVxFe4unVxk",
+      "type": "subtopic",
+      "label": "Async Request Reply",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 261.7929647384103,
+        "y": 2872.9915694361566
+      },
+      "keywords": [
+        "async",
+        "request",
+        "reply"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "W0cUCrhiwH_Nrzxw50x3L",
+      "type": "topic",
+      "label": "Data Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 19.21310958899096,
+        "y": 2338.9915694361566
+      },
+      "keywords": [
+        "data",
+        "management"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "stZOcr8EUBOK_ZB48uToj",
+      "type": "subtopic",
+      "label": "Valet Key",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 27.21310958899096,
+        "y": 2397.0836910533135
+      },
+      "keywords": [
+        "valet",
+        "key"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-lKq-LT7EPK7r3xbXLgwS",
+      "type": "subtopic",
+      "label": "Static Content Hosting",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 27.21310958899096,
+        "y": 2450.0836910533135
+      },
+      "keywords": [
+        "static",
+        "content",
+        "hosting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R6YehzA3X6DDo6oGBoBAx",
+      "type": "subtopic",
+      "label": "Sharding",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 27.21310958899096,
+        "y": 2503.0836910533135
+      },
+      "keywords": [
+        "sharding"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WB7vQ4IJ0TPh2MbZvxP6V",
+      "type": "subtopic",
+      "label": "Materialized View",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 27.21310958899096,
+        "y": 2556.0836910533135
+      },
+      "keywords": [
+        "materialized",
+        "view"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AH0nVeVsfYOjcI3vZvcdz",
+      "type": "subtopic",
+      "label": "Index Table",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 27.21310958899096,
+        "y": 2609.0836910533135
+      },
+      "keywords": [
+        "index",
+        "table"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7OgRKlwFqrk3XO2z49EI1",
+      "type": "subtopic",
+      "label": "Event Sourcing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 27.21310958899096,
+        "y": 2662.0836910533135
+      },
+      "keywords": [
+        "event",
+        "sourcing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LTD3dn05c0ruUJW0IQO7z",
+      "type": "subtopic",
+      "label": "CQRS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 27.21310958899096,
+        "y": 2715.0836910533135
+      },
+      "keywords": [
+        "cqrs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PK4V9OWNVi8StdA2N13X2",
+      "type": "subtopic",
+      "label": "Cache-Aside",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 27.21310958899096,
+        "y": 2768.0836910533135
+      },
+      "keywords": [
+        "cache",
+        "aside"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PtJ7-v1VCLsyaWWYHYujV",
+      "type": "topic",
+      "label": "Design & Implementation",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -342.19669367734,
+        "y": 2251.213852028059
+      },
+      "keywords": [
+        "design",
+        "implementation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 335
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VIbXf7Jh9PbQ9L-g6pHUG",
+      "type": "subtopic",
+      "label": "Strangler Fig",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.19669367734,
+        "y": 2308.213852028059
+      },
+      "keywords": [
+        "strangler",
+        "fig"
+      ],
+      "metadata": {
+        "style": {
+          "width": 168,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "izPT8NfJy1JC6h3i7GJYl",
+      "type": "subtopic",
+      "label": "Static Content Hosting",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.19669367734,
+        "y": 2361.213852028059
+      },
+      "keywords": [
+        "static",
+        "content",
+        "hosting"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AAgOGrra5Yz3_eG6tD2Fx",
+      "type": "subtopic",
+      "label": "Sidecar",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -162.19669367733997,
+        "y": 2308.213852028059
+      },
+      "keywords": [
+        "sidecar"
+      ],
+      "metadata": {
+        "style": {
+          "width": 147,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WkoFezOXLf1H2XI9AtBtv",
+      "type": "subtopic",
+      "label": "Pipes & Filters",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.19669367734,
+        "y": 2468.872440135695
+      },
+      "keywords": [
+        "pipes",
+        "filters"
+      ],
+      "metadata": {
+        "style": {
+          "width": 169,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "beWKUIB6Za27yhxQwEYe3",
+      "type": "subtopic",
+      "label": "Leader Election",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.19669367734,
+        "y": 2414.429860708825
+      },
+      "keywords": [
+        "leader",
+        "election"
+      ],
+      "metadata": {
+        "style": {
+          "width": 169,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LXH_mDlILqcyIKtMYTWqy",
+      "type": "subtopic",
+      "label": "Gateway Routing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.1966936773399,
+        "y": 2523.4562087989852
+      },
+      "keywords": [
+        "gateway",
+        "routing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0SOWAA8hrLM-WsG5k66fd",
+      "type": "subtopic",
+      "label": "Gateway Offloading",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.1966936773399,
+        "y": 2576.4562087989852
+      },
+      "keywords": [
+        "gateway",
+        "offloading"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bANGLm_5zR9mqMd6Oox8s",
+      "type": "subtopic",
+      "label": "Gateway Aggregation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.1966936773399,
+        "y": 2629.4562087989852
+      },
+      "keywords": [
+        "gateway",
+        "aggregation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "BrgXwf7g2F-6Rqfjryvpj",
+      "type": "subtopic",
+      "label": "External Config Store",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.1966936773399,
+        "y": 2682.4562087989852
+      },
+      "keywords": [
+        "external",
+        "config",
+        "store"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ODjVoXnvJasPvCS2A5iMO",
+      "type": "subtopic",
+      "label": "Compute Resource Consolidation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.1966936773399,
+        "y": 2735.4562087989852
+      },
+      "keywords": [
+        "compute",
+        "resource",
+        "consolidation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ivr3mh0OES5n86FI1PN4N",
+      "type": "subtopic",
+      "label": "CQRS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -160.69669367733997,
+        "y": 2414.429860708825
+      },
+      "keywords": [
+        "cqrs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "n4It-lr7FFtSY83DcGydX",
+      "type": "subtopic",
+      "label": "Backends for Frontend",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -334.1966936773399,
+        "y": 2788.4562087989852
+      },
+      "keywords": [
+        "backends",
+        "frontend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4hi7LvjLcv8eR6m-uk8XQ",
+      "type": "subtopic",
+      "label": "Anti-Corruption Layer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -334.1966936773399,
+        "y": 2841.4562087989852
+      },
+      "keywords": [
+        "anti",
+        "corruption",
+        "layer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 319,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Hja4YF3JcgM6CPwB1mxmo",
+      "type": "subtopic",
+      "label": "Ambassador",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -160.69669367733997,
+        "y": 2468.872440135695
+      },
+      "keywords": [
+        "ambassador"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DYkdM_L7T2GcTPAoZNnUR",
+      "type": "topic",
+      "label": "Reliability Patterns",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 526.7929647384103,
+        "y": 2958.0321887577434
+      },
+      "keywords": [
+        "reliability",
+        "patterns"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DOvQbApZ6k15FwOTAi9kP",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -348.2070352615897,
+        "y": 2972.5321887577434
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 876,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Xzkvf4naveszLGV9b-8ih",
+      "type": "topic",
+      "label": "Availability",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -352.21273166220635,
+        "y": 3020.2840884377797
+      },
+      "keywords": [
+        "availability"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FPPJw-I1cw8OxKwmDh0dT",
+      "type": "subtopic",
+      "label": "Deployment Stamps",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -344.21273166220635,
+        "y": 3077.2840884377797
+      },
+      "keywords": [
+        "deployment",
+        "stamps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ml9lPDGjRAJTHkBnX51Un",
+      "type": "subtopic",
+      "label": "Geodes",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -344.21273166220635,
+        "y": 3130.2840884377797
+      },
+      "keywords": [
+        "geodes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 111,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cNJQoMNZmxNygWAJIA8HI",
+      "type": "subtopic",
+      "label": "Health Endpoint Monitoring",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -344.21273166220635,
+        "y": 3183.2840884377797
+      },
+      "keywords": [
+        "health",
+        "endpoint",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-M3Zd8w79sKBAY6_aJRE8",
+      "type": "subtopic",
+      "label": "Queue-Based Load Leveling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -344.21273166220635,
+        "y": 3236.2840884377797
+      },
+      "keywords": [
+        "queue",
+        "based",
+        "load",
+        "leveling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6YVkguDOtwveyeP4Z1NL3",
+      "type": "subtopic",
+      "label": "Throttling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -227.44015059681118,
+        "y": 3129.7840884377797
+      },
+      "keywords": [
+        "throttling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 151,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wPe7Xlwqws7tEpTAVvYjr",
+      "type": "topic",
+      "label": "High Availability",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -71.63171528418138,
+        "y": 3021.0183671746804
+      },
+      "keywords": [
+        "high",
+        "availability"
+      ],
+      "metadata": {
+        "style": {
+          "width": 273
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ze471tPbAwlwZyU4oIzH9",
+      "type": "subtopic",
+      "label": "Deployment Stamps",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -63.63171528418138,
+        "y": 3078.0183671746804
+      },
+      "keywords": [
+        "deployment",
+        "stamps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 257,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6hOSEZJZ7yezVN67h5gmS",
+      "type": "subtopic",
+      "label": "Geodes",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -63.63171528418138,
+        "y": 3131.0183671746804
+      },
+      "keywords": [
+        "geodes"
+      ],
+      "metadata": {
+        "style": {
+          "width": 124,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uK5o7NgDvr2pV0ulF0Fh9",
+      "type": "subtopic",
+      "label": "Health Endpoint Monitoring",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -63.63171528418138,
+        "y": 3184.0183671746804
+      },
+      "keywords": [
+        "health",
+        "endpoint",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 257,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "IR2_kgs2U9rnAJiDBmpqK",
+      "type": "subtopic",
+      "label": "Bulkhead",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 64.36828471581862,
+        "y": 3131.4996104690044
+      },
+      "keywords": [
+        "bulkhead"
+      ],
+      "metadata": {
+        "style": {
+          "width": 129,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D1OmCoqvd3-_af3u0ciHr",
+      "type": "subtopic",
+      "label": "Circuit Breaker",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -63.63171528418138,
+        "y": 3235
+      },
+      "keywords": [
+        "circuit",
+        "breaker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 257,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wlAWMjxZF6yav3ZXOScxH",
+      "type": "topic",
+      "label": "Resiliency",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 198.11213811444725,
+        "y": 3021.4996104690044
+      },
+      "keywords": [
+        "resiliency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 284,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PLn9TF9GYnPcbpTdDMQbG",
+      "type": "subtopic",
+      "label": "Bulkhead",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.11213811444725,
+        "y": 3078.4996104690044
+      },
+      "keywords": [
+        "bulkhead"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "O4zYDqvVWD7sMI27k_0Nl",
+      "type": "subtopic",
+      "label": "Circuit Breaker",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 208.11213811444725,
+        "y": 3131.4996104690044
+      },
+      "keywords": [
+        "circuit",
+        "breaker"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MNlWNjrG8eh5OzPVlbb9t",
+      "type": "subtopic",
+      "label": "Compensating Transaction",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.11213811444725,
+        "y": 3184.4996104690044
+      },
+      "keywords": [
+        "compensating",
+        "transaction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CKCNk3obx4u43rBqUj2Yf",
+      "type": "subtopic",
+      "label": "Health Endpoint Monitoring",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.11213811444725,
+        "y": 3237.4996104690044
+      },
+      "keywords": [
+        "health",
+        "endpoint",
+        "monitoring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AJLBFyAsEdQYF6ygO0MmQ",
+      "type": "subtopic",
+      "label": "Leader Election",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.11213811444725,
+        "y": 3290.4996104690044
+      },
+      "keywords": [
+        "leader",
+        "election"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NybkOwl1lgaglZPRJQJ_Z",
+      "type": "subtopic",
+      "label": "Queue-Based Load Leveling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.11213811444725,
+        "y": 3343.4996104690044
+      },
+      "keywords": [
+        "queue",
+        "based",
+        "load",
+        "leveling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xX_9VGUaOkBYFH3jPjnww",
+      "type": "subtopic",
+      "label": "Retry ",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.11213811444725,
+        "y": 3396.4996104690044
+      },
+      "keywords": [
+        "retry"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RTEJHZ26znfBLrpQPtNvn",
+      "type": "subtopic",
+      "label": "Scheduler Agent Supervisor",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.11213811444725,
+        "y": 3449.4996104690044
+      },
+      "keywords": [
+        "scheduler",
+        "agent",
+        "supervisor"
+      ],
+      "metadata": {
+        "style": {
+          "width": 266,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZvYpE6-N5dAtRDIwqcAu6",
+      "type": "topic",
+      "label": "Security",
+      "description": "",
+      "category": "security",
+      "position": {
+        "x": -72.56981288497383,
+        "y": 3292.2871372731006
+      },
+      "keywords": [
+        "security"
+      ],
+      "metadata": {
+        "style": {
+          "width": 275,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lHPl-kr1ArblR7bJeQEB9",
+      "type": "subtopic",
+      "label": "Federated Identity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -57.56981288497383,
+        "y": 3349.2871372731006
+      },
+      "keywords": [
+        "federated",
+        "identity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DTQJu0AvgWOhMFcOYqzTD",
+      "type": "subtopic",
+      "label": "Gatekeeper",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -57.56981288497383,
+        "y": 3402.2871372731006
+      },
+      "keywords": [
+        "gatekeeper"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VltZgIrApHOwZ8YHvdmHB",
+      "type": "subtopic",
+      "label": "Valet Key",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -57.56981288497383,
+        "y": 3455.2871372731006
+      },
+      "keywords": [
+        "valet",
+        "key"
+      ],
+      "metadata": {
+        "style": {
+          "width": 247,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "paragraph",
+      "label": "Visit the following relevant tracks to learn more",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -72.67045304080784,
+        "y": 3564.7516539612006
+      },
+      "keywords": [
+        "visit",
+        "following",
+        "relevant",
+        "tracks",
+        "learn",
+        "more"
+      ],
+      "metadata": {
+        "style": {
+          "width": 431,
+          "height": 115
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OIcmPSbdsuWapb6HZ4BEi",
+      "type": "button",
+      "label": "Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -60.11226826767984,
+        "y": 3618.8973113943102
+      },
+      "keywords": [
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 132,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xi0QAi4kXm3-IFKgopnOP",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 134.33680999419494,
+        "y": 3681.8813239972997
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 85
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CH_K6mmFX_GdSzi2n1ID7",
+      "type": "button",
+      "label": "Software Architect",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 74.88773173232016,
+        "y": 3618.8973113943102
+      },
+      "keywords": [
+        "software",
+        "architect"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-sFboM4eFUMVq1tlPl-fV",
+      "type": "button",
+      "label": "DevOps",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": 237.88773173232016,
+        "y": 3618.8973113943102
+      },
+      "keywords": [
+        "devops"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5YmUrGQwDYxumNM8EDLpr",
+      "type": "linksgroup",
+      "label": "Other Roadmaps",
+      "description": "",
+      "category": "linksgroup",
+      "position": {
+        "x": -348.2070352615897,
+        "y": -24.59925177765109
+      },
+      "keywords": [
+        "other",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 333,
+          "height": 164
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 412.1124585902421,
+        "y": -38.8640868817655
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 425.31583300304214,
+        "y": 43.12147653597968
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "_hYN0gEi9BL24nptEtXWU",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "idLHBxhvcIqZTqmh_E8Az",
+      "type": "default"
+    },
+    {
+      "source": "_hYN0gEi9BL24nptEtXWU",
+      "target": "os3Pa6W9SSNEzgmlBbglQ",
+      "type": "default"
+    },
+    {
+      "source": "GHe8V-REu1loRpDnHbyUn",
+      "target": "rRDGVynX43inSeQ9lR_FS",
+      "type": "default"
+    },
+    {
+      "source": "GHe8V-REu1loRpDnHbyUn",
+      "target": "EKD5AikZtwjtsEYRPJhQ2",
+      "type": "default"
+    },
+    {
+      "source": "GHe8V-REu1loRpDnHbyUn",
+      "target": "JjB7eB8gdRCAYf5M0RcT7",
+      "type": "default"
+    },
+    {
+      "source": "GHe8V-REu1loRpDnHbyUn",
+      "target": "ezptoTqeaepByegxS5kHL",
+      "type": "default"
+    },
+    {
+      "source": "ezptoTqeaepByegxS5kHL",
+      "target": "DOESIlBThd_wp2uOSd_CS",
+      "type": "smoothstep"
+    },
+    {
+      "source": "zoViI4kzpKIxpU20T89K_",
+      "target": "2gRIstNT-fTkv5GZ692gx",
+      "type": "default"
+    },
+    {
+      "source": "DOESIlBThd_wp2uOSd_CS",
+      "target": "NEsPjQifNDlZJE-2YLVl1",
+      "type": "default"
+    },
+    {
+      "source": "DOESIlBThd_wp2uOSd_CS",
+      "target": "zoViI4kzpKIxpU20T89K_",
+      "type": "default"
+    },
+    {
+      "source": "DOESIlBThd_wp2uOSd_CS",
+      "target": "Uk6J8JRcKVEFz4_8rLfnQ",
+      "type": "default"
+    },
+    {
+      "source": "Uk6J8JRcKVEFz4_8rLfnQ",
+      "target": "O730v5Ww3ByAiBSs6fwyM",
+      "type": "default"
+    },
+    {
+      "source": "O730v5Ww3ByAiBSs6fwyM",
+      "target": "HkXiEMLqxJoQyAHav3ccL",
+      "type": "default"
+    },
+    {
+      "source": "O730v5Ww3ByAiBSs6fwyM",
+      "target": "uIerrf_oziiLg-KEyz8WM",
+      "type": "default"
+    },
+    {
+      "source": "14KqLKgh090Rb3MDwelWY",
+      "target": "ocdcbhHrwjJX0KWgmsOL6",
+      "type": "default"
+    },
+    {
+      "source": "14KqLKgh090Rb3MDwelWY",
+      "target": "urSjLyLTE5IIz0TFxMBWL",
+      "type": "default"
+    },
+    {
+      "source": "14KqLKgh090Rb3MDwelWY",
+      "target": "e69-JVbDj7dqV_p1j1kML",
+      "type": "default"
+    },
+    {
+      "source": "14KqLKgh090Rb3MDwelWY",
+      "target": "MpM9rT1-_LGD7YbnBjqOk",
+      "type": "default"
+    },
+    {
+      "source": "14KqLKgh090Rb3MDwelWY",
+      "target": "IkUCfSWNY-02wg2WCo1c6",
+      "type": "default"
+    },
+    {
+      "source": "14KqLKgh090Rb3MDwelWY",
+      "target": "XXuzTrP5UNVwSpAk-tAGr",
+      "type": "default"
+    },
+    {
+      "source": "XXuzTrP5UNVwSpAk-tAGr",
+      "target": "Nt0HUWLOl4O77elF8Is1S",
+      "type": "default"
+    },
+    {
+      "source": "XXuzTrP5UNVwSpAk-tAGr",
+      "target": "5FXwwRMNBhG7LT5ub6t2L",
+      "type": "default"
+    },
+    {
+      "source": "5FXwwRMNBhG7LT5ub6t2L",
+      "target": "KLnpMR2FxlQkCHZP6-tZm",
+      "type": "default"
+    },
+    {
+      "source": "5FXwwRMNBhG7LT5ub6t2L",
+      "target": "-X4g8kljgVBOBcf1DDzgi",
+      "type": "smoothstep"
+    },
+    {
+      "source": "-X4g8kljgVBOBcf1DDzgi",
+      "target": "84N4XY31PwXRntXX1sdCU",
+      "type": "default"
+    },
+    {
+      "source": "84N4XY31PwXRntXX1sdCU",
+      "target": "a9wGW_H1HpvvdYCXoS-Rf",
+      "type": "default"
+    },
+    {
+      "source": "84N4XY31PwXRntXX1sdCU",
+      "target": "37X1_9eCmkZkz5RDudE5N",
+      "type": "default"
+    },
+    {
+      "source": "84N4XY31PwXRntXX1sdCU",
+      "target": "YiYRZFE_zwPMiCZxz9FnP",
+      "type": "default"
+    },
+    {
+      "source": "3pRi8M4xQXsehkdfUNtYL",
+      "target": "uQFzD_ryd-8Dr1ppjorYJ",
+      "type": "default"
+    },
+    {
+      "source": "uQFzD_ryd-8Dr1ppjorYJ",
+      "target": "LC5aTmUKNiw9RuSUt3fSE",
+      "type": "default"
+    },
+    {
+      "source": "p--uEm6klLx_hKxKJiXE5",
+      "target": "hDFYlGFYwcwWXLmrxodFX",
+      "type": "smoothstep"
+    },
+    {
+      "source": "hDFYlGFYwcwWXLmrxodFX",
+      "target": "I_NfmDcBph8-oyFVFTknL",
+      "type": "default"
+    },
+    {
+      "source": "hDFYlGFYwcwWXLmrxodFX",
+      "target": "hkjYvLoVt9xKDzubm0Jy3",
+      "type": "default"
+    },
+    {
+      "source": "hDFYlGFYwcwWXLmrxodFX",
+      "target": "rVrwaioGURvrqNBufF2dj",
+      "type": "default"
+    },
+    {
+      "source": "hDFYlGFYwcwWXLmrxodFX",
+      "target": "x1i3qWFtNNjd00-kAvFHw",
+      "type": "default"
+    },
+    {
+      "source": "hDFYlGFYwcwWXLmrxodFX",
+      "target": "eSZq74lROh5lllLyTBK5a",
+      "type": "default"
+    },
+    {
+      "source": "hDFYlGFYwcwWXLmrxodFX",
+      "target": "Q0fKphqmPwjTD0dhqiP6K",
+      "type": "default"
+    },
+    {
+      "source": "hDFYlGFYwcwWXLmrxodFX",
+      "target": "IwMOTpsYHApdvHZOhXtIw",
+      "type": "default"
+    },
+    {
+      "source": "THlzcZTNnPGLRiHPWT-Jv",
+      "target": "PtJ7-v1VCLsyaWWYHYujV",
+      "type": "default"
+    },
+    {
+      "source": "THlzcZTNnPGLRiHPWT-Jv",
+      "target": "DYkdM_L7T2GcTPAoZNnUR",
+      "type": "smoothstep"
+    },
+    {
+      "source": "KMA7NkxFbPoUDtFnGBFnj",
+      "target": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "simplebezier"
+    },
+    {
+      "source": "DYkdM_L7T2GcTPAoZNnUR",
+      "target": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "smoothstep"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 96
+    },
+    {
+      "name": "topic",
+      "count": 17
+    },
+    {
+      "name": "section",
+      "count": 15
+    },
+    {
+      "name": "database",
+      "count": 13
+    },
+    {
+      "name": "data-science",
+      "count": 13
+    },
+    {
+      "name": "vertical",
+      "count": 10
+    },
+    {
+      "name": "label",
+      "count": 7
+    },
+    {
+      "name": "horizontal",
+      "count": 6
+    },
+    {
+      "name": "frontend",
+      "count": 5
+    },
+    {
+      "name": "backend",
+      "count": 5
+    },
+    {
+      "name": "programming-language",
+      "count": 3
+    },
+    {
+      "name": "devops",
+      "count": 3
+    },
+    {
+      "name": "security",
+      "count": 2
+    },
+    {
+      "name": "button",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "count": 1
+    },
+    {
+      "name": "cloud",
+      "count": 1
+    },
+    {
+      "name": "paragraph",
+      "count": 1
+    },
+    {
+      "name": "linksgroup",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "9_t9UR6FVSn41Ha8kfbyJ",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "9_t9ur6fvsn41ha8kfbyj"
+      ]
+    },
+    {
+      "name": "2dBw7KwXyXzZAZUSw0EAy",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "2dbw7kwxyxzzazusw0eay"
+      ]
+    },
+    {
+      "name": "yy2gnfWzDpMa1KChmfrgy",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "yy2gnfwzdpma1kchmfrgy"
+      ]
+    },
+    {
+      "name": "IG4lMqEfFCgQyz3tyiGgk",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ig4lmqeffcgqyz3tyiggk"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "FT5tOhtkEXCcUj3xRKsVW",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "ft5tohtkexccuj3xrksvw"
+      ]
+    },
+    {
+      "name": "UQKMEfR6t72oqk0qTfYi9",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "uqkmefr6t72oqk0qtfyi9"
+      ]
+    },
+    {
+      "name": "HAkZP9cC1VtsnANNLNKn2",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "hakzp9cc1vtsnannlnkn2"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "O3b90NuLijJq9a-WuPXDs",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "o3b90nulijjq9a",
+        "wupxds"
+      ]
+    },
+    {
+      "name": "rLSI7a7h09MxAXM86LfpN",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "rlsi7a7h09mxaxm86lfpn"
+      ]
+    },
+    {
+      "name": "vwomvb6mMBiKcd9jg7iWI",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "vwomvb6mmbikcd9jg7iwi"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "Abp4pD1x7gM8zFInV-6SK",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "abp4pd1x7gm8zfinv",
+        "6sk"
+      ]
+    },
+    {
+      "name": "FWDXTm_Fu7E2X0r6L4xkf",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "fwdxtm_fu7e2x0r6l4xkf"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "urVudVWogiwLJMybuf7f8",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "urvudvwogiwljmybuf7f8"
+      ]
+    },
+    {
+      "name": "sM7epahS3ZKtTKcpC7aYw",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "sm7epahs3zkttkcpc7ayw"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "MRD8SlWGmk8hoaZL6U690",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "mrd8slwgmk8hoazl6u690"
+      ]
+    },
+    {
+      "name": "System Design",
+      "category": "title",
+      "difficulty": "advanced",
+      "keywords": [
+        "system",
+        "design"
+      ]
+    },
+    {
+      "name": "Introduction",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "name": "What is System Design?",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "what",
+        "system",
+        "design"
+      ]
+    },
+    {
+      "name": "How to approach System Design?",
+      "category": "subtopic",
+      "difficulty": "advanced",
+      "keywords": [
+        "how",
+        "approach",
+        "system",
+        "design"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Performance vs Scalability",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "performance",
+        "scalability"
+      ]
+    },
+    {
+      "name": "Latency vs Throughput",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "latency",
+        "throughput"
+      ]
+    },
+    {
+      "name": "Availability vs Consistency",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "availability",
+        "consistency"
+      ]
+    },
+    {
+      "name": "CAP Theorem",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "cap",
+        "theorem"
+      ]
+    },
+    {
+      "name": "AP - Availability + Partition Tolerance",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "availability",
+        "partition",
+        "tolerance"
+      ]
+    },
+    {
+      "name": "CP - Consistency + Partition Tolerance",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "consistency",
+        "partition",
+        "tolerance"
+      ]
+    },
+    {
+      "name": "Consistency Patterns",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "consistency",
+        "patterns"
+      ]
+    },
+    {
+      "name": "Weak Consistency",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "weak",
+        "consistency"
+      ]
+    },
+    {
+      "name": "Eventual Consistency",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "eventual",
+        "consistency"
+      ]
+    },
+    {
+      "name": "Strong Consistency",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "strong",
+        "consistency"
+      ]
+    },
+    {
+      "name": "Availability Patterns",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "availability",
+        "patterns"
+      ]
+    },
+    {
+      "name": "Fail-Over",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "fail",
+        "over"
+      ]
+    },
+    {
+      "name": "Active - Active",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "active"
+      ]
+    },
+    {
+      "name": "Active - Passive",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "active",
+        "passive"
+      ]
+    },
+    {
+      "name": "vJkqOyqXGa-aRjx3M1H-K",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "vjkqoyqxga",
+        "arjx3m1h"
+      ]
+    },
+    {
+      "name": "Replication",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "replication"
+      ]
+    },
+    {
+      "name": "Master - Slave",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "master",
+        "slave"
+      ]
+    },
+    {
+      "name": "Master - Master",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "master"
+      ]
+    },
+    {
+      "name": "Availability in Numbers",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "availability",
+        "numbers"
+      ]
+    },
+    {
+      "name": "99.9% Availability - three 9s",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "availability",
+        "three"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 201,
+    "totalEdges": 43,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:23.579Z",
+    "version": "2.0"
+  }
+}

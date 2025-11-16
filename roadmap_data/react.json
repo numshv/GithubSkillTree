@@ -1,0 +1,3086 @@
+{
+  "name": "react",
+  "title": "React",
+  "nodes": [
+    {
+      "id": "-AKmITUmSGIflJG-eGkm5",
+      "type": "section",
+      "label": "-AKmITUmSGIflJG-eGkm5",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -334.6031392708364,
+        "y": 1216.976431006493
+      },
+      "keywords": [
+        "akmitumsgifljg",
+        "egkm5"
+      ],
+      "metadata": {
+        "style": {
+          "width": 353,
+          "height": 218
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NiyRDadVpAFMzSVtgoFZ0",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -387.02532545570534,
+        "y": 810.9443302389855
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 72
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sL8hbjRDbzA2bc9OzIfPe",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -387.02532545570534,
+        "y": 889.4443302389855
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 149
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "n1TuNyZjK9CLAfbKRQENe",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 91.54031453135002,
+        "y": 429.44433023898546
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 124
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NeJdgNbsxiUjt_GBzub6Z",
+      "type": "section",
+      "label": "NeJdgNbsxiUjt_GBzub6Z",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -248.52532545570534,
+        "y": 274.94433023898546
+      },
+      "keywords": [
+        "nejdgnbsxiujt_gbzub6z"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248,
+          "height": 168
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FkTj8n1pIAGa1nf93MUKC",
+      "type": "section",
+      "label": "FkTj8n1pIAGa1nf93MUKC",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -5.525325455705342,
+        "y": 274.44433023898546
+      },
+      "keywords": [
+        "fktj8n1piaga1nf93mukc"
+      ],
+      "metadata": {
+        "style": {
+          "width": 158,
+          "height": 155
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "clS37EDia6KZVHCszqRqZ",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 351.3414717224867,
+        "y": 235.94433023898546
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 84
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "l4RmWQLIK1NOOm6QTQMBa",
+      "type": "section",
+      "label": "l4RmWQLIK1NOOm6QTQMBa",
+      "description": "",
+      "category": "section",
+      "position": {
+        "x": -514.0253254557053,
+        "y": 262.94433023898546
+      },
+      "keywords": [
+        "l4rmwqlik1noom6qtqmba"
+      ],
+      "metadata": {
+        "style": {
+          "width": 235,
+          "height": 270
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "type": "title",
+      "label": "React",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -49.45968546864998,
+        "y": -157.76957062917046
+      },
+      "keywords": [
+        "react"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LEijbLyxg4RyutKEM2Y5g",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -1.4596854686499796,
+        "y": -232.76957062917046
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 64
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 179.8414717224867,
+        "y": -232.76957062917046
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 364,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R_Fs6rdl2XtQ9aLOubMqL",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 193.04484613528683,
+        "y": -150.78400721142515
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 340,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xwpc_KxehAruFM0pCQnie",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 161.49706098308326,
+        "y": 2056.1213007495107
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 104
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "paragraph",
+      "label": "Have a look at the following related roadmaps",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -41.502939016916685,
+        "y": 1966.605335469083
+      },
+      "keywords": [
+        "look",
+        "following",
+        "related",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 427,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ZSrQoNGKiR484uALMWO9F",
+      "type": "button",
+      "label": "TypeScript Roadmap",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 169.0448461352869,
+        "y": 2024.2946173807345
+      },
+      "keywords": [
+        "typescript",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "P5IZjP0g1_fnvHy3YTR4q",
+      "type": "button",
+      "label": "Frontend Roadmap",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -31.15582553598972,
+        "y": 2024.2946173807345
+      },
+      "keywords": [
+        "frontend",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tU4Umtnfu01t9gLlnlK6b",
+      "type": "topic",
+      "label": "CLI Tools",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": -94.45968546864998,
+        "y": 114.94433023898546
+      },
+      "keywords": [
+        "cli",
+        "tools"
+      ],
+      "metadata": {
+        "style": {
+          "width": 207,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XDvH2t3AJGevS17uM8TO6",
+      "type": "button",
+      "label": "JavaScript Roadmap",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -94.45968546864998,
+        "y": 2.944330238985458
+      },
+      "keywords": [
+        "javascript",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 207,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y9ToYDix-koRbR6FLydFw",
+      "type": "subtopic",
+      "label": "Vite",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": 169.0448461352869,
+        "y": 114.94433023898546
+      },
+      "keywords": [
+        "vite"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XB1EQomsFGntZTofIfckn",
+      "type": "paragraph",
+      "label": "Make sure to learn the \"Beginner\" topics of the JavaScript roadmap before you start learning React.",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 169.0448461352869,
+        "y": -46.05566976101454
+      },
+      "keywords": [
+        "make",
+        "sure",
+        "learn",
+        "beginner",
+        "topics",
+        "javascript",
+        "roadmap",
+        "before",
+        "you",
+        "start",
+        "learning",
+        "react"
+      ],
+      "metadata": {
+        "style": {
+          "width": 364,
+          "height": 119
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "79K4xgljcoSHkCYI1D55O",
+      "type": "topic",
+      "label": "Components",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -94.45968546864998,
+        "y": 207.44433023898546
+      },
+      "keywords": [
+        "components"
+      ],
+      "metadata": {
+        "style": {
+          "width": 207,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8mw4TxlLN4ZKAlLl-_NVV",
+      "type": "subtopic",
+      "label": "Functional Components",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -515.0253254557053,
+        "y": 207.44433023898546
+      },
+      "keywords": [
+        "functional",
+        "components"
+      ],
+      "metadata": {
+        "style": {
+          "width": 237,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h_o0LOSuwRvymWLF7IVj_",
+      "type": "paragraph",
+      "label": "There used to be \"Class Components\" which React doesn't recommend any more. You don't need to learn about them but you might still notice them in some legacy projects",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -514.5253254557053,
+        "y": 0.944330238985458
+      },
+      "keywords": [
+        "there",
+        "used",
+        "class",
+        "components",
+        "which",
+        "react",
+        "doesn",
+        "recommend",
+        "any",
+        "more",
+        "you",
+        "don",
+        "need",
+        "learn",
+        "about"
+      ],
+      "metadata": {
+        "style": {
+          "width": 364
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HMTUjok_ZAcrP6YobWs3T",
+      "type": "label",
+      "label": "Component Basics",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -506.02532545570534,
+        "y": 489.94433023898546
+      },
+      "keywords": [
+        "component",
+        "basics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WREBxWSNQDD_6fzpHL6CE",
+      "type": "subtopic",
+      "label": "JSX",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -506.02532545570534,
+        "y": 270.94433023898546
+      },
+      "keywords": [
+        "jsx"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RFuy3Eho3mnW1GpP08BVw",
+      "type": "subtopic",
+      "label": "Props vs State",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -506.02532545570534,
+        "y": 323.94433023898546
+      },
+      "keywords": [
+        "props",
+        "state"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aE6XBgH23135_9QmD4ff2",
+      "type": "subtopic",
+      "label": "Conditional Rendering",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -506.02532545570534,
+        "y": 376.94433023898546
+      },
+      "keywords": [
+        "conditional",
+        "rendering"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4T59gdcwdXqj9kCuK7cfp",
+      "type": "subtopic",
+      "label": "Composition",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -506.02532545570534,
+        "y": 429.94433023898546
+      },
+      "keywords": [
+        "composition"
+      ],
+      "metadata": {
+        "style": {
+          "width": 219,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0uiGsC5SWavNdlFqizkKe",
+      "type": "topic",
+      "label": "Rendering",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 298.04484613528683,
+        "y": 207.44433023898546
+      },
+      "keywords": [
+        "rendering"
+      ],
+      "metadata": {
+        "style": {
+          "width": 130,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8OBlgDRUg-CTgDXY-QHyO",
+      "type": "subtopic",
+      "label": "Component Lifecycle",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 305.47467454429466,
+        "y": 278.44433023898546
+      },
+      "keywords": [
+        "component",
+        "lifecycle"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HeWVCPHqVnnbOn6zIim4K",
+      "type": "subtopic",
+      "label": "Lists and Keys",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 305.47467454429466,
+        "y": 331.44433023898546
+      },
+      "keywords": [
+        "lists",
+        "keys"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vdumdIglnouf1KyGIGZnc",
+      "type": "subtopic",
+      "label": "Render Props",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 305.47467454429466,
+        "y": 384.44433023898546
+      },
+      "keywords": [
+        "render",
+        "props"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_zNAOhFWMcWqP4oxNPCXF",
+      "type": "subtopic",
+      "label": "Refs",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 305.47467454429466,
+        "y": 437.44433023898546
+      },
+      "keywords": [
+        "refs"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Nex2HcTOYIbfqUzXyxSMY",
+      "type": "subtopic",
+      "label": "Events",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 305.47467454429466,
+        "y": 490.44433023898546
+      },
+      "keywords": [
+        "events"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zOENl96GUZRw2PP2KxIck",
+      "type": "subtopic",
+      "label": "High Order Components",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 305.47467454429466,
+        "y": 543.4443302389855
+      },
+      "keywords": [
+        "high",
+        "order",
+        "components"
+      ],
+      "metadata": {
+        "style": {
+          "width": 234,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LbLQhonBqzxHU6B-L--Vq",
+      "type": "topic",
+      "label": "Hooks",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 57.04484613528689,
+        "y": 541.5892656435051
+      },
+      "keywords": [
+        "hooks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 113,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mkmz1JuNsTOR1D4vqilCX",
+      "type": "label",
+      "label": "Basic Hooks",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": 16.974674544294658,
+        "y": 387.44433023898546
+      },
+      "keywords": [
+        "basic",
+        "hooks"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YEpkbNzEMzS6wAKg85J_N",
+      "type": "subtopic",
+      "label": "useState",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 6.974674544294658,
+        "y": 282.44433023898546
+      },
+      "keywords": [
+        "usestate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "8OnzX03hkZ9K9i__tjmFX",
+      "type": "subtopic",
+      "label": "useEffect",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 3.9746745442946576,
+        "y": 335.44433023898546
+      },
+      "keywords": [
+        "useeffect"
+      ],
+      "metadata": {
+        "style": {
+          "width": 140,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HX75SExuzR5AP7TQ94qid",
+      "type": "subtopic",
+      "label": "Creating Custom Hooks",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -249.95515386471317,
+        "y": 521.0892656435051
+      },
+      "keywords": [
+        "creating",
+        "custom",
+        "hooks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EyspErq0ByXTgkgk3SGUz",
+      "type": "label",
+      "label": "Common Hooks",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -195.52532545570534,
+        "y": 478.14493540451963
+      },
+      "keywords": [
+        "common",
+        "hooks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 140,
+          "height": 36
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dgoDNDtW2_q9R9yhkXrcz",
+      "type": "subtopic",
+      "label": "useCallback",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -241.52532545570534,
+        "y": 282.94433023898546
+      },
+      "keywords": [
+        "usecallback"
+      ],
+      "metadata": {
+        "style": {
+          "width": 129,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "t_laNdMmdLApYszqXRdWg",
+      "type": "subtopic",
+      "label": "useRef",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -110.52532545570534,
+        "y": 282.94433023898546
+      },
+      "keywords": [
+        "useref"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "w3bNp7OkehI1gjx8NzlC8",
+      "type": "subtopic",
+      "label": "useMemo",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -110.52532545570534,
+        "y": 334.94433023898546
+      },
+      "keywords": [
+        "usememo"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "v48Mv0wQqjXbvy8x6gDjQ",
+      "type": "subtopic",
+      "label": "useReducer",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -241.52532545570534,
+        "y": 334.94433023898546
+      },
+      "keywords": [
+        "usereducer"
+      ],
+      "metadata": {
+        "style": {
+          "width": 129,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "D5_O-uElftYGQr_bTU_se",
+      "type": "subtopic",
+      "label": "useContext",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -240.52532545570534,
+        "y": 386.94433023898546
+      },
+      "keywords": [
+        "usecontext"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FK59Zsm5ENA9g11XWCan_",
+      "type": "subtopic",
+      "label": "useState",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 3.9746745442946576,
+        "y": 282.44433023898546
+      },
+      "keywords": [
+        "usestate"
+      ],
+      "metadata": {
+        "style": {
+          "width": 140,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mkyU0ug8MXxV4biHuOity",
+      "type": "subtopic",
+      "label": "Hooks Best Practices",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -249.95515386471317,
+        "y": 574.0892656435051
+      },
+      "keywords": [
+        "hooks",
+        "best",
+        "practices"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NStw6bi_pPB49K41BFSgo",
+      "type": "topic",
+      "label": "Routers",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 392.97467454429466,
+        "y": 686.2974386815656
+      },
+      "keywords": [
+        "routers"
+      ],
+      "metadata": {
+        "style": {
+          "width": 118,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zWL8VLx_g0SWubavJDs6i",
+      "type": "subtopic",
+      "label": "Tanstack Router",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 363.97467454429466,
+        "y": 825.7974386815656
+      },
+      "keywords": [
+        "tanstack",
+        "router"
+      ],
+      "metadata": {
+        "style": {
+          "width": 176,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jvp43wFkKlGQX2y7IxkbM",
+      "type": "subtopic",
+      "label": "React Router",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 363.97467454429466,
+        "y": 772.7974386815656
+      },
+      "keywords": [
+        "react",
+        "router"
+      ],
+      "metadata": {
+        "style": {
+          "width": 176,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "I7_mX4h-Yywp1YyTJRKXI",
+      "type": "topic",
+      "label": "State Management",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 49.693201050423,
+        "y": 867.4443302389855
+      },
+      "keywords": [
+        "state",
+        "management"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "10uL0r388lKh8pWYWqRZD",
+      "type": "subtopic",
+      "label": "Context",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 82.693201050423,
+        "y": 685.9443302389855
+      },
+      "keywords": [
+        "context"
+      ],
+      "metadata": {
+        "style": {
+          "width": 127,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nl5imPsdY2oEWlg-9TTuk",
+      "type": "subtopic",
+      "label": "Zustand",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 82.693201050423,
+        "y": 738.9443302389855
+      },
+      "keywords": [
+        "zustand"
+      ],
+      "metadata": {
+        "style": {
+          "width": 127,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yI6XiNW04EL78UL4lkVgd",
+      "type": "subtopic",
+      "label": "Jotai",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 82.693201050423,
+        "y": 791.9443302389855
+      },
+      "keywords": [
+        "jotai"
+      ],
+      "metadata": {
+        "style": {
+          "width": 127,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DfrCkbD-HEHwLymv10zb5",
+      "type": "topic",
+      "label": "Writing CSS",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -194.02532545570534,
+        "y": 867.4443302389855
+      },
+      "keywords": [
+        "writing",
+        "css"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MnDgQq9Vcxsu3wDqv5uh2",
+      "type": "topic",
+      "label": "Headless Component Libraries",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -519.0253254557053,
+        "y": 989.4443302389855
+      },
+      "keywords": [
+        "headless",
+        "component",
+        "libraries"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KO3viVIJJREtxXxsocN7j",
+      "type": "subtopic",
+      "label": "Tailwind CSS",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -200.02532545570534,
+        "y": 789.9443302389855
+      },
+      "keywords": [
+        "tailwind",
+        "css"
+      ],
+      "metadata": {
+        "style": {
+          "width": 149
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "thfnymb_UIiKxakKfiua5",
+      "type": "topic",
+      "label": "Component / Libraries",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -515.0253254557053,
+        "y": 867.4443302389855
+      },
+      "keywords": [
+        "component",
+        "libraries"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "akVNUPOqaTXaSHoQFlkP_",
+      "type": "subtopic",
+      "label": "Panda CSS",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -200.02532545570534,
+        "y": 683.9443302389855
+      },
+      "keywords": [
+        "panda",
+        "css"
+      ],
+      "metadata": {
+        "style": {
+          "width": 149
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "uqphqAnlcJOLnwHZs5jWu",
+      "type": "subtopic",
+      "label": "Chakra UI",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -453.52532545570534,
+        "y": 724.9443302389855
+      },
+      "keywords": [
+        "chakra"
+      ],
+      "metadata": {
+        "style": {
+          "width": 138,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gy7eBxPOlwG8BvxHVLDQ9",
+      "type": "subtopic",
+      "label": "Material UI",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -453.52532545570534,
+        "y": 671.9443302389855
+      },
+      "keywords": [
+        "material"
+      ],
+      "metadata": {
+        "style": {
+          "width": 138,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "njKsYNkwTXPQ1NjlGKXab",
+      "type": "subtopic",
+      "label": "Shadcn UI",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -453.52532545570534,
+        "y": 777.9443302389855
+      },
+      "keywords": [
+        "shadcn"
+      ],
+      "metadata": {
+        "style": {
+          "width": 138,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "awoEhwPKjUcR84XGL6Som",
+      "type": "subtopic",
+      "label": "CSS Modules",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -200.02532545570534,
+        "y": 736.9443302389855
+      },
+      "keywords": [
+        "css",
+        "modules"
+      ],
+      "metadata": {
+        "style": {
+          "width": 149
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XL9XOV2h0BAuA5cFcM5L_",
+      "type": "subtopic",
+      "label": "Radix UI",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -153.52532545570534,
+        "y": 936.4443302389855
+      },
+      "keywords": [
+        "radix"
+      ],
+      "metadata": {
+        "style": {
+          "width": 175
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RvDfKoa_HIW3QDBfkPv3m",
+      "type": "subtopic",
+      "label": "React Aria",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -153.52532545570534,
+        "y": 989.4443302389855
+      },
+      "keywords": [
+        "react",
+        "aria"
+      ],
+      "metadata": {
+        "style": {
+          "width": 175,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kiCTo0U6VgNON8rv_Ktlj",
+      "type": "subtopic",
+      "label": "Ark UI",
+      "description": "",
+      "category": "frontend",
+      "position": {
+        "x": -153.52532545570534,
+        "y": 1042.4443302389855
+      },
+      "keywords": [
+        "ark"
+      ],
+      "metadata": {
+        "style": {
+          "width": 175
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "b4AP2OggxFAwsQtUwiUJJ",
+      "type": "topic",
+      "label": "API Calls",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -215.60313927083638,
+        "y": 1129.476431006493
+      },
+      "keywords": [
+        "api",
+        "calls"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "8nMbfGxe3STMbrAVcqHHh",
+      "type": "subtopic",
+      "label": "Apollo",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -321.88461276470804,
+        "y": 1228.476431006493
+      },
+      "keywords": [
+        "apollo"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cLfM342sZfsCwmPPxQpEI",
+      "type": "subtopic",
+      "label": "Relay",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -321.88461276470804,
+        "y": 1281.476431006493
+      },
+      "keywords": [
+        "relay"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9M5jRu0pj8KMvg9f-2oqZ",
+      "type": "subtopic",
+      "label": "urql",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -321.88461276470804,
+        "y": 1334.476431006493
+      },
+      "keywords": [
+        "urql"
+      ],
+      "metadata": {
+        "style": {
+          "width": 115,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zWcMFfyiWJddGbiIhmdKm",
+      "type": "label",
+      "label": "GraphQL",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -307.88461276470804,
+        "y": 1390.476431006493
+      },
+      "keywords": [
+        "graphql"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-ea1KsXEyz-4voHXklG_J",
+      "type": "subtopic",
+      "label": "swr",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -94.60313927083638,
+        "y": 1281.976431006493
+      },
+      "keywords": [
+        "swr"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5EPmbiNdP_vhIXclv_GjV",
+      "type": "subtopic",
+      "label": "react-query",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -198.60313927083638,
+        "y": 1228.476431006493
+      },
+      "keywords": [
+        "react",
+        "query"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ElqWQClryfSYdL7P_mgYK",
+      "type": "subtopic",
+      "label": "Axios",
+      "description": "",
+      "category": "mobile",
+      "position": {
+        "x": -198.60313927083638,
+        "y": 1281.976431006493
+      },
+      "keywords": [
+        "axios"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "h49-tjEkKcq7d7ikRHIOx",
+      "type": "subtopic",
+      "label": "rtk-query",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -198.60313927083638,
+        "y": 1334.976431006493
+      },
+      "keywords": [
+        "rtk",
+        "query"
+      ],
+      "metadata": {
+        "style": {
+          "width": 206,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KNAlIYCENB4VMuQGqJNk3",
+      "type": "label",
+      "label": "REST",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -125.60313927083638,
+        "y": 1390.476431006493
+      },
+      "keywords": [
+        "rest"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "e_lwZ-a72-tAan2KDX6k3",
+      "type": "topic",
+      "label": "Testing",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 162.47467454429466,
+        "y": 1129.476431006493
+      },
+      "keywords": [
+        "testing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 143,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "opa61u9gYgSpoPtxp58wu",
+      "type": "subtopic",
+      "label": "Jest",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 231.97467454429466,
+        "y": 986.4443302389855
+      },
+      "keywords": [
+        "jest"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LULjhsPNONyI5912DKzPw",
+      "type": "subtopic",
+      "label": "Vitest",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 134.97467454429466,
+        "y": 986.4443302389855
+      },
+      "keywords": [
+        "vitest"
+      ],
+      "metadata": {
+        "style": {
+          "width": 94,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cQllxv7qGbRtM9O5llgN6",
+      "type": "subtopic",
+      "label": "react-testing-library",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 134.97467454429466,
+        "y": 1039.4443302389855
+      },
+      "keywords": [
+        "react",
+        "testing",
+        "library"
+      ],
+      "metadata": {
+        "style": {
+          "width": 198,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "zN7Ps1puD-YpHbKi1pHH8",
+      "type": "subtopic",
+      "label": "Cypress",
+      "description": "",
+      "category": "testing",
+      "position": {
+        "x": 156.47467454429466,
+        "y": 1214.4443302389855
+      },
+      "keywords": [
+        "cypress"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "g39P0c6M2sHNoUPs0m8tr",
+      "type": "subtopic",
+      "label": "Playwright",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 156.47467454429466,
+        "y": 1267.4443302389855
+      },
+      "keywords": [
+        "playwright"
+      ],
+      "metadata": {
+        "style": {
+          "width": 155
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "W-atg_Msa9uPLr6RXAKSb",
+      "type": "topic",
+      "label": "Frameworks",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 393.49469523818516,
+        "y": 1129.476431006493
+      },
+      "keywords": [
+        "frameworks"
+      ],
+      "metadata": {
+        "style": {
+          "width": 143,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "HdWq9ue0JdwmwqSIN2OD_",
+      "type": "subtopic",
+      "label": "Next.js",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 395.49469523818516,
+        "y": 1036.4443302389855
+      },
+      "keywords": [
+        "next"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_HoZkE7FH-v3wI_722ZTF",
+      "type": "subtopic",
+      "label": "Astro",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 395.49469523818516,
+        "y": 983.4443302389855
+      },
+      "keywords": [
+        "astro"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-WjJBYCmRRj08n_9HxohY",
+      "type": "subtopic",
+      "label": "react-router",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 395.49469523818516,
+        "y": 930.4443302389855
+      },
+      "keywords": [
+        "react",
+        "router"
+      ],
+      "metadata": {
+        "style": {
+          "width": 139,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KHcC5pFN3qLnsbPPKpYd2",
+      "type": "topic",
+      "label": "Forms",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 393.49469523818516,
+        "y": 1382.9443302389855
+      },
+      "keywords": [
+        "forms"
+      ],
+      "metadata": {
+        "style": {
+          "width": 143,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_5ht0PAdVOJWPzTRS1mVg",
+      "type": "subtopic",
+      "label": "React Hook Form",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 374.49469523818516,
+        "y": 1474.1701814857588
+      },
+      "keywords": [
+        "react",
+        "hook",
+        "form"
+      ],
+      "metadata": {
+        "style": {
+          "width": 181,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gr1CaLvL7tFOkIRywSsID",
+      "type": "subtopic",
+      "label": "Formik",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 374.49469523818516,
+        "y": 1527.1701814857588
+      },
+      "keywords": [
+        "formik"
+      ],
+      "metadata": {
+        "style": {
+          "width": 181,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UNlvRp6k3_RDoTAAIEfJ1",
+      "type": "topic",
+      "label": "Types & Validation",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 82.693201050423,
+        "y": 1520.8287356248509
+      },
+      "keywords": [
+        "types",
+        "validation"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ElgRwv5LSVg5FXGx-2K2s",
+      "type": "subtopic",
+      "label": "TypeScript",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 100.193201050423,
+        "y": 1378.4581550365865
+      },
+      "keywords": [
+        "typescript"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150,
+          "height": 47.4759521484375
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "K3RZ8ESxWCpLKHePF87Hy",
+      "type": "subtopic",
+      "label": "Zod",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 100.193201050423,
+        "y": 1429.4581550365865
+      },
+      "keywords": [
+        "zod"
+      ],
+      "metadata": {
+        "style": {
+          "width": 150
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ydxyne6RzIDPHij1Z3CsN",
+      "type": "paragraph",
+      "label": "Advanced Topics",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -288.02532545570534,
+        "y": 1511.8287356248509
+      },
+      "keywords": [
+        "advanced",
+        "topics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204,
+          "height": 67
+        },
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "bRpeoo9zXrnZ2IHSI7JX4",
+      "type": "topic",
+      "label": "Animation",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -517.08952699072,
+        "y": 1627.5845254232022
+      },
+      "keywords": [
+        "animation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SUeXDkmOLipdRP4fSrZOH",
+      "type": "topic",
+      "label": "Server APIs",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -212.55356635764488,
+        "y": 1680.5845254232022
+      },
+      "keywords": [
+        "server",
+        "apis"
+      ],
+      "metadata": {
+        "style": {
+          "width": 178,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "H6-XGDjs4f-qbv13v5av0",
+      "type": "subtopic",
+      "label": "Framer Motion",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -517.08952699072,
+        "y": 1711.5475484484205
+      },
+      "keywords": [
+        "framer",
+        "motion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WzoB5B6SdOI4Mzv6U51nY",
+      "type": "subtopic",
+      "label": "react spring",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": -517.08952699072,
+        "y": 1764.5475484484205
+      },
+      "keywords": [
+        "react",
+        "spring"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 47.4759521484375
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "y2dI1DVLWKAkv6VRpgaQa",
+      "type": "subtopic",
+      "label": "GSock",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -517.08952699072,
+        "y": 1815.5475484484205
+      },
+      "keywords": [
+        "gsock"
+      ],
+      "metadata": {
+        "style": {
+          "width": 170,
+          "height": 47.4759521484375
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_F3WMxhzaK9F8_-zHDDMF",
+      "type": "topic",
+      "label": "Suspense",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -212.55356635764488,
+        "y": 1733.5845254232022
+      },
+      "keywords": [
+        "suspense"
+      ],
+      "metadata": {
+        "style": {
+          "width": 178,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DcDggX4OmmwvJGHwuV86t",
+      "type": "topic",
+      "label": "Portals",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -212.55356635764488,
+        "y": 1786.5845254232022
+      },
+      "keywords": [
+        "portals"
+      ],
+      "metadata": {
+        "style": {
+          "width": 178
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "gMHMjsh0i8paLZUH5mDX3",
+      "type": "topic",
+      "label": "Error Boundaries",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -212.55356635764488,
+        "y": 1627.5845254232022
+      },
+      "keywords": [
+        "error",
+        "boundaries"
+      ],
+      "metadata": {
+        "style": {
+          "width": 178
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "txARr3lgTvy-vJCj5zAb1",
+      "type": "topic",
+      "label": "Mobile Applications",
+      "description": "",
+      "category": "mobile",
+      "position": {
+        "x": 73.99706098308326,
+        "y": 1786.5845254232022
+      },
+      "keywords": [
+        "mobile",
+        "applications"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "NvXAq1vN2wpncdW-yTL4c",
+      "type": "subtopic",
+      "label": "React Native",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 98.99706098308327,
+        "y": 1665.4067151287932
+      },
+      "keywords": [
+        "react",
+        "native"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5xCbPG6RMI0OEAI4aXKC7",
+      "type": "legend",
+      "label": "5xCbPG6RMI0OEAI4aXKC7",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -495.02532545570534,
+        "y": -210.78400721142515
+      },
+      "keywords": [
+        "5xcbpg6rmi0oeai4axkc7"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1kbrCI5JS0c9wbzxXpgFU",
+      "type": "subtopic",
+      "label": "MobX",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 82.693201050423,
+        "y": 632.9443302389855
+      },
+      "keywords": [
+        "mobx"
+      ],
+      "metadata": {
+        "style": {
+          "width": 127,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "smoothstep"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "XDvH2t3AJGevS17uM8TO6",
+      "type": "default"
+    },
+    {
+      "source": "tU4Umtnfu01t9gLlnlK6b",
+      "target": "y9ToYDix-koRbR6FLydFw",
+      "type": "default"
+    },
+    {
+      "source": "XDvH2t3AJGevS17uM8TO6",
+      "target": "tU4Umtnfu01t9gLlnlK6b",
+      "type": "default"
+    },
+    {
+      "source": "79K4xgljcoSHkCYI1D55O",
+      "target": "8mw4TxlLN4ZKAlLl-_NVV",
+      "type": "default"
+    },
+    {
+      "source": "tU4Umtnfu01t9gLlnlK6b",
+      "target": "79K4xgljcoSHkCYI1D55O",
+      "type": "default"
+    },
+    {
+      "source": "79K4xgljcoSHkCYI1D55O",
+      "target": "0uiGsC5SWavNdlFqizkKe",
+      "type": "default"
+    },
+    {
+      "source": "0uiGsC5SWavNdlFqizkKe",
+      "target": "LbLQhonBqzxHU6B-L--Vq",
+      "type": "default"
+    },
+    {
+      "source": "LbLQhonBqzxHU6B-L--Vq",
+      "target": "HX75SExuzR5AP7TQ94qid",
+      "type": "default"
+    },
+    {
+      "source": "LbLQhonBqzxHU6B-L--Vq",
+      "target": "mkyU0ug8MXxV4biHuOity",
+      "type": "default"
+    },
+    {
+      "source": "LbLQhonBqzxHU6B-L--Vq",
+      "target": "NStw6bi_pPB49K41BFSgo",
+      "type": "default"
+    },
+    {
+      "source": "NStw6bi_pPB49K41BFSgo",
+      "target": "jvp43wFkKlGQX2y7IxkbM",
+      "type": "default"
+    },
+    {
+      "source": "NStw6bi_pPB49K41BFSgo",
+      "target": "I7_mX4h-Yywp1YyTJRKXI",
+      "type": "default"
+    },
+    {
+      "source": "I7_mX4h-Yywp1YyTJRKXI",
+      "target": "yI6XiNW04EL78UL4lkVgd",
+      "type": "default"
+    },
+    {
+      "source": "KO3viVIJJREtxXxsocN7j",
+      "target": "DfrCkbD-HEHwLymv10zb5",
+      "type": "default"
+    },
+    {
+      "source": "I7_mX4h-Yywp1YyTJRKXI",
+      "target": "DfrCkbD-HEHwLymv10zb5",
+      "type": "default"
+    },
+    {
+      "source": "DfrCkbD-HEHwLymv10zb5",
+      "target": "thfnymb_UIiKxakKfiua5",
+      "type": "default"
+    },
+    {
+      "source": "MnDgQq9Vcxsu3wDqv5uh2",
+      "target": "XL9XOV2h0BAuA5cFcM5L_",
+      "type": "default"
+    },
+    {
+      "source": "MnDgQq9Vcxsu3wDqv5uh2",
+      "target": "RvDfKoa_HIW3QDBfkPv3m",
+      "type": "default"
+    },
+    {
+      "source": "MnDgQq9Vcxsu3wDqv5uh2",
+      "target": "kiCTo0U6VgNON8rv_Ktlj",
+      "type": "default"
+    },
+    {
+      "source": "MnDgQq9Vcxsu3wDqv5uh2",
+      "target": "b4AP2OggxFAwsQtUwiUJJ",
+      "type": "smoothstep"
+    },
+    {
+      "source": "b4AP2OggxFAwsQtUwiUJJ",
+      "target": "-AKmITUmSGIflJG-eGkm5",
+      "type": "default"
+    },
+    {
+      "source": "b4AP2OggxFAwsQtUwiUJJ",
+      "target": "e_lwZ-a72-tAan2KDX6k3",
+      "type": "default"
+    },
+    {
+      "source": "e_lwZ-a72-tAan2KDX6k3",
+      "target": "cQllxv7qGbRtM9O5llgN6",
+      "type": "default"
+    },
+    {
+      "source": "e_lwZ-a72-tAan2KDX6k3",
+      "target": "zN7Ps1puD-YpHbKi1pHH8",
+      "type": "default"
+    },
+    {
+      "source": "W-atg_Msa9uPLr6RXAKSb",
+      "target": "HdWq9ue0JdwmwqSIN2OD_",
+      "type": "default"
+    },
+    {
+      "source": "e_lwZ-a72-tAan2KDX6k3",
+      "target": "W-atg_Msa9uPLr6RXAKSb",
+      "type": "default"
+    },
+    {
+      "source": "W-atg_Msa9uPLr6RXAKSb",
+      "target": "KHcC5pFN3qLnsbPPKpYd2",
+      "type": "default"
+    },
+    {
+      "source": "KHcC5pFN3qLnsbPPKpYd2",
+      "target": "_5ht0PAdVOJWPzTRS1mVg",
+      "type": "default"
+    },
+    {
+      "source": "KHcC5pFN3qLnsbPPKpYd2",
+      "target": "UNlvRp6k3_RDoTAAIEfJ1",
+      "type": "default"
+    },
+    {
+      "source": "UNlvRp6k3_RDoTAAIEfJ1",
+      "target": "K3RZ8ESxWCpLKHePF87Hy",
+      "type": "default"
+    },
+    {
+      "source": "UNlvRp6k3_RDoTAAIEfJ1",
+      "target": "ydxyne6RzIDPHij1Z3CsN",
+      "type": "default"
+    },
+    {
+      "source": "ydxyne6RzIDPHij1Z3CsN",
+      "target": "bRpeoo9zXrnZ2IHSI7JX4",
+      "type": "smoothstep"
+    },
+    {
+      "source": "bRpeoo9zXrnZ2IHSI7JX4",
+      "target": "H6-XGDjs4f-qbv13v5av0",
+      "type": "default"
+    },
+    {
+      "source": "bRpeoo9zXrnZ2IHSI7JX4",
+      "target": "gMHMjsh0i8paLZUH5mDX3",
+      "type": "default"
+    },
+    {
+      "source": "DcDggX4OmmwvJGHwuV86t",
+      "target": "txARr3lgTvy-vJCj5zAb1",
+      "type": "default"
+    },
+    {
+      "source": "txARr3lgTvy-vJCj5zAb1",
+      "target": "NvXAq1vN2wpncdW-yTL4c",
+      "type": "default"
+    },
+    {
+      "source": "txARr3lgTvy-vJCj5zAb1",
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 36
+    },
+    {
+      "name": "topic",
+      "count": 12
+    },
+    {
+      "name": "framework",
+      "count": 11
+    },
+    {
+      "name": "frontend",
+      "count": 11
+    },
+    {
+      "name": "vertical",
+      "count": 6
+    },
+    {
+      "name": "section",
+      "count": 4
+    },
+    {
+      "name": "programming-language",
+      "count": 4
+    },
+    {
+      "name": "backend",
+      "count": 4
+    },
+    {
+      "name": "testing",
+      "count": 4
+    },
+    {
+      "name": "data-science",
+      "count": 3
+    },
+    {
+      "name": "label",
+      "count": 3
+    },
+    {
+      "name": "paragraph",
+      "count": 2
+    },
+    {
+      "name": "mobile",
+      "count": 2
+    },
+    {
+      "name": "database",
+      "count": 2
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "tools",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "-AKmITUmSGIflJG-eGkm5",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "akmitumsgifljg",
+        "egkm5"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "NeJdgNbsxiUjt_GBzub6Z",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "nejdgnbsxiujt_gbzub6z"
+      ]
+    },
+    {
+      "name": "FkTj8n1pIAGa1nf93MUKC",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "fktj8n1piaga1nf93mukc"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "l4RmWQLIK1NOOm6QTQMBa",
+      "category": "section",
+      "difficulty": "beginner",
+      "keywords": [
+        "l4rmwqlik1noom6qtqmba"
+      ]
+    },
+    {
+      "name": "React",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "react"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Have a look at the following related roadmaps",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "look",
+        "following",
+        "related",
+        "roadmaps"
+      ]
+    },
+    {
+      "name": "TypeScript Roadmap",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "typescript",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Frontend Roadmap",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "frontend",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "CLI Tools",
+      "category": "tools",
+      "difficulty": "beginner",
+      "keywords": [
+        "cli",
+        "tools"
+      ]
+    },
+    {
+      "name": "JavaScript Roadmap",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "javascript",
+        "roadmap"
+      ]
+    },
+    {
+      "name": "Vite",
+      "category": "frontend",
+      "difficulty": "beginner",
+      "keywords": [
+        "vite"
+      ]
+    },
+    {
+      "name": "Make sure to learn the \"Beginner\" topics of the JavaScript roadmap before you start learning React.",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "make",
+        "sure",
+        "learn",
+        "beginner",
+        "topics"
+      ]
+    },
+    {
+      "name": "Components",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "components"
+      ]
+    },
+    {
+      "name": "Functional Components",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "functional",
+        "components"
+      ]
+    },
+    {
+      "name": "There used to be \"Class Components\" which React doesn't recommend any more. You don't need to learn about them but you might still notice them in some legacy projects",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "there",
+        "used",
+        "class",
+        "components",
+        "which"
+      ]
+    },
+    {
+      "name": "Component Basics",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "component",
+        "basics"
+      ]
+    },
+    {
+      "name": "JSX",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "jsx"
+      ]
+    },
+    {
+      "name": "Props vs State",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "props",
+        "state"
+      ]
+    },
+    {
+      "name": "Conditional Rendering",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "conditional",
+        "rendering"
+      ]
+    },
+    {
+      "name": "Composition",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "composition"
+      ]
+    },
+    {
+      "name": "Rendering",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "rendering"
+      ]
+    },
+    {
+      "name": "Component Lifecycle",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "component",
+        "lifecycle"
+      ]
+    },
+    {
+      "name": "Lists and Keys",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "lists",
+        "keys"
+      ]
+    },
+    {
+      "name": "Render Props",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "render",
+        "props"
+      ]
+    },
+    {
+      "name": "Refs",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "refs"
+      ]
+    },
+    {
+      "name": "Events",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "events"
+      ]
+    },
+    {
+      "name": "High Order Components",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "high",
+        "order",
+        "components"
+      ]
+    },
+    {
+      "name": "Hooks",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "hooks"
+      ]
+    },
+    {
+      "name": "Basic Hooks",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "basic",
+        "hooks"
+      ]
+    },
+    {
+      "name": "useState",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "usestate"
+      ]
+    },
+    {
+      "name": "useEffect",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "useeffect"
+      ]
+    },
+    {
+      "name": "Creating Custom Hooks",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "creating",
+        "custom",
+        "hooks"
+      ]
+    },
+    {
+      "name": "Common Hooks",
+      "category": "label",
+      "difficulty": "beginner",
+      "keywords": [
+        "common",
+        "hooks"
+      ]
+    },
+    {
+      "name": "useCallback",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "usecallback"
+      ]
+    },
+    {
+      "name": "useRef",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "useref"
+      ]
+    },
+    {
+      "name": "useMemo",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "usememo"
+      ]
+    },
+    {
+      "name": "useReducer",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "usereducer"
+      ]
+    },
+    {
+      "name": "useContext",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "usecontext"
+      ]
+    },
+    {
+      "name": "useState",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "usestate"
+      ]
+    },
+    {
+      "name": "Hooks Best Practices",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "hooks",
+        "best",
+        "practices"
+      ]
+    },
+    {
+      "name": "Routers",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "routers"
+      ]
+    },
+    {
+      "name": "Tanstack Router",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "tanstack",
+        "router"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 106,
+    "totalEdges": 40,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:11:24.545Z",
+    "version": "2.0"
+  }
+}

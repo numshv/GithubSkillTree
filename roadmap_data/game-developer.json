@@ -1,0 +1,4604 @@
+{
+  "name": "game-developer",
+  "title": "Game Developer",
+  "nodes": [
+    {
+      "id": "o3PyFTPgsW83BXocJQsDJ",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -260.4072387161244,
+        "y": 1919.7076829543832
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "77ufRs9I5bQ6-3oqeVEeP",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -203.23195037554086,
+        "y": 1717.215711596427
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 153,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4Z4RnLqpSbDJRqzA18Z5k",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 448.241338239984,
+        "y": 1722.928855367065
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 109
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Z3SBDE-j5lYzk4Qy5ncS7",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 39.214820522490754,
+        "y": 1396.7939445578397
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 99
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EL9CPU70hF4x9ouOQ66Rm",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -57.08852226085975,
+        "y": 1396.7939445578397
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 170
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vGVyQfjMJB9sxFRshpV5A",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -143.58852226085975,
+        "y": 1396.7939445578397
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 99
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bYFNueU1BFB3eAQ8HXh7n",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 3.062543592821953,
+        "y": 1253.7939445578397
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 195,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "x1LxhiMT_mbWJZnoeLcnz",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 446.89009638382095,
+        "y": 1100.6993653585232
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 77
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ee7D0WF54YreyzBG9MKIh",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -95.90430753953456,
+        "y": 1191.3406441617572
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 66
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "G7_iBEFY0b2FmvLVr0gti",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -212.09789095083502,
+        "y": 543.2157115964269
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 1184
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "type": "title",
+      "label": "Game Developer",
+      "description": "",
+      "category": "title",
+      "position": {
+        "x": -128.73195037554086,
+        "y": -184.83998521803062
+      },
+      "keywords": [
+        "game",
+        "developer"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LEijbLyxg4RyutKEM2Y5g",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -11.231950375540862,
+        "y": -243.55566976101449
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 64
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": 179.8414717224867,
+        "y": -232.76957062917046
+      },
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along",
+        "other",
+        "similar",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 355,
+          "height": 143
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "R_Fs6rdl2XtQ9aLOubMqL",
+      "type": "button",
+      "label": "roadmap.sh",
+      "description": "",
+      "category": "button",
+      "position": {
+        "x": 193.04484613528683,
+        "y": -150.78400721142515
+      },
+      "keywords": [
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 330,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xwpc_KxehAruFM0pCQnie",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -5.808218001963041,
+        "y": 2335.039079314256
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 104
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "paragraph",
+      "label": "Visit the following relevant roadmaps",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -168.80821800196304,
+        "y": 2247.683054538901
+      },
+      "keywords": [
+        "visit",
+        "following",
+        "relevant",
+        "roadmaps"
+      ],
+      "metadata": {
+        "style": {
+          "width": 347,
+          "height": 120
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "P5IZjP0g1_fnvHy3YTR4q",
+      "type": "button",
+      "label": "Backend",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -154.23195037554086,
+        "y": 2303.3819660369822
+      },
+      "keywords": [
+        "backend"
+      ],
+      "metadata": {
+        "style": {
+          "width": 159,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SIvQYH0q1H29NgbtLq3L8",
+      "type": "button",
+      "label": "Server Side",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 267.11202169501337,
+        "y": -55.32399710033968
+      },
+      "keywords": [
+        "server",
+        "side"
+      ],
+      "metadata": {
+        "style": {
+          "width": 171,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rQArtuVKGVgLn_fw9yO3b",
+      "type": "topic",
+      "label": "Client Side Development",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -122.23195037554086,
+        "y": -55.32399710033968
+      },
+      "keywords": [
+        "client",
+        "side",
+        "development"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m1wX27XBWKXZcTMH2U1xp",
+      "type": "topic",
+      "label": "Game Mathematics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -122.23195037554086,
+        "y": 174.17600289966032
+      },
+      "keywords": [
+        "game",
+        "mathematics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "grRf-MmaXimDB4iODOV47",
+      "type": "subtopic",
+      "label": "Linear Algebra",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -519.0712461079418,
+        "y": 18.010149146221465
+      },
+      "keywords": [
+        "linear",
+        "algebra"
+      ],
+      "metadata": {
+        "style": {
+          "width": 289,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yLEyh5XJ3sl8eHD-PoSvJ",
+      "type": "subtopic",
+      "label": "Vector",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -520.0712461079418,
+        "y": 72.01014914622147
+      },
+      "keywords": [
+        "vector"
+      ],
+      "metadata": {
+        "style": {
+          "width": 143,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Kg6Mg9ieUUGXWX9Lai7B0",
+      "type": "subtopic",
+      "label": "Matrix",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -374.07124610794176,
+        "y": 71.01014914622147
+      },
+      "keywords": [
+        "matrix"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XWxW2ZBw3LcQ4DRk4tgAG",
+      "type": "subtopic",
+      "label": "Geometry",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -520.0712461079418,
+        "y": 177.01014914622147
+      },
+      "keywords": [
+        "geometry"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XABzEU9owCx9-zw1id9xU",
+      "type": "subtopic",
+      "label": "Linear Transformation",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -520.0712461079418,
+        "y": 124.01014914622147
+      },
+      "keywords": [
+        "linear",
+        "transformation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 289,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r5TcXQsU9s4NlAQIPvZ3U",
+      "type": "subtopic",
+      "label": "Affine Space",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -373.07124610794176,
+        "y": 177.01014914622147
+      },
+      "keywords": [
+        "affine",
+        "space"
+      ],
+      "metadata": {
+        "style": {
+          "width": 143,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SkCreb6g4i-OFtJWhRYqO",
+      "type": "subtopic",
+      "label": "Affine Transformation",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": -520.0712461079418,
+        "y": 230.01014914622147
+      },
+      "keywords": [
+        "affine",
+        "transformation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 290,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iIWEjpkNFBj4R5wQ0mcWY",
+      "type": "topic",
+      "label": "Orientation",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -378.07124610794176,
+        "y": 286.51014914622147
+      },
+      "keywords": [
+        "orientation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "zPs_LlDvkfxvvCrk5fXB2",
+      "type": "subtopic",
+      "label": "Quaternion",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -378.07124610794176,
+        "y": 339.51014914622147
+      },
+      "keywords": [
+        "quaternion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "L0J2kvveJNsmN9ueXhqKf",
+      "type": "subtopic",
+      "label": "Euler Angle",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -378.07124610794176,
+        "y": 392.51014914622147
+      },
+      "keywords": [
+        "euler",
+        "angle"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YTkOF_33oL1ZkA-loc_DP",
+      "type": "topic",
+      "label": "Curve",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -122.23195037554086,
+        "y": 291.6760028996603
+      },
+      "keywords": [
+        "curve"
+      ],
+      "metadata": {
+        "style": {
+          "width": 243,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "nTiHZXRh2j3_FsBotmlGf",
+      "type": "subtopic",
+      "label": "Spline",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -122.2319503755408,
+        "y": 345.81015303721455
+      },
+      "keywords": [
+        "spline"
+      ],
+      "metadata": {
+        "style": {
+          "width": 90,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m4AuHjEBnHS0wyATG-I1Z",
+      "type": "subtopic",
+      "label": "Hermite",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -28.231950375540805,
+        "y": 345.81015303721455
+      },
+      "keywords": [
+        "hermite"
+      ],
+      "metadata": {
+        "style": {
+          "width": 149,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DUEEm9sAaZqSI-W-PFZ8f",
+      "type": "subtopic",
+      "label": "Bezier",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -122.2319503755408,
+        "y": 398.81015303721455
+      },
+      "keywords": [
+        "bezier"
+      ],
+      "metadata": {
+        "style": {
+          "width": 90,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "N9GoA3YvOaKwYjljj6NZv",
+      "type": "subtopic",
+      "label": "Catmull-Rom",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -28.231950375540805,
+        "y": 398.81015303721455
+      },
+      "keywords": [
+        "catmull",
+        "rom"
+      ],
+      "metadata": {
+        "style": {
+          "width": 149,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5qfoD77wU4ETI7rUSy4Nc",
+      "type": "topic",
+      "label": "Projection",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -517.0712461079418,
+        "y": 285.51014914622147
+      },
+      "keywords": [
+        "projection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "LEJymJ2EaAW5FM5LgKW38",
+      "type": "subtopic",
+      "label": "Perspective",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -517.0712461079418,
+        "y": 338.51014914622147
+      },
+      "keywords": [
+        "perspective"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "d6C1qFv-Tad3AtMBDLI6r",
+      "type": "subtopic",
+      "label": "Orthogonal",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -517.0712461079418,
+        "y": 391.51014914622147
+      },
+      "keywords": [
+        "orthogonal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 136
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UTBnrQiZ6Bf96yJYIUf3b",
+      "type": "topic",
+      "label": "Game Physics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 330.39009638382095,
+        "y": 516.4583152599474
+      },
+      "keywords": [
+        "game",
+        "physics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 191,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0D7KQlF-9ylmILTBBVxot",
+      "type": "topic",
+      "label": "Dynamics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 312.39009638382095,
+        "y": 429.5296064989004
+      },
+      "keywords": [
+        "dynamics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "HWtU4q-YPXxSi64t43VNF",
+      "type": "subtopic",
+      "label": "Center of Mass",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 312.39009638382095,
+        "y": 64.52960649890042
+      },
+      "keywords": [
+        "center",
+        "mass"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "6E2mkXuAzoYnrT1SEIA16",
+      "type": "subtopic",
+      "label": "Moment of Inertia",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 312.39009638382095,
+        "y": 116.52960649890042
+      },
+      "keywords": [
+        "moment",
+        "inertia"
+      ],
+      "metadata": {
+        "style": {
+          "width": 226,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ejZMnxZ0QrN-jBqo9Vrj8",
+      "type": "subtopic",
+      "label": "Acceleration",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 312.39009638382095,
+        "y": 168.52960649890042
+      },
+      "keywords": [
+        "acceleration"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "m2_wUW2VHMCXHnn5B91qr",
+      "type": "subtopic",
+      "label": "Joints",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 436.39009638382095,
+        "y": 168.52960649890042
+      },
+      "keywords": [
+        "joints"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qduFRhmrzJ2sn0g7L-tza",
+      "type": "subtopic",
+      "label": "Force",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 436.39009638382095,
+        "y": 220.52960649890042
+      },
+      "keywords": [
+        "force"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "egOcxFTQP7vPIGrxcieuk",
+      "type": "subtopic",
+      "label": "Restitution",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 313.39009638382095,
+        "y": 220.52960649890042
+      },
+      "keywords": [
+        "restitution"
+      ],
+      "metadata": {
+        "style": {
+          "width": 121,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Y7HYY5eq7OG42V9yQz0Q1",
+      "type": "subtopic",
+      "label": "Angular Velocity",
+      "description": "",
+      "category": "framework",
+      "position": {
+        "x": 313.39009638382095,
+        "y": 272.5296064989004
+      },
+      "keywords": [
+        "angular",
+        "velocity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WzcmdW_fKHv3gwdBnvI0_",
+      "type": "subtopic",
+      "label": "Buoyancy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 312.39009638382095,
+        "y": 324.5296064989004
+      },
+      "keywords": [
+        "buoyancy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 122,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Z_U6abGV_wVkTGZ2LVkFK",
+      "type": "subtopic",
+      "label": "Linear Velocity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 312.39009638382095,
+        "y": 376.5296064989004
+      },
+      "keywords": [
+        "linear",
+        "velocity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 227,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Hz9R4YGYtD0jAur8rYist",
+      "type": "subtopic",
+      "label": "Friction",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 436.39009638382095,
+        "y": 324.5296064989004
+      },
+      "keywords": [
+        "friction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AdOfOJtLtNgDwuABb6orE",
+      "type": "topic",
+      "label": "Collision Detection",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": 328.9857878718208,
+        "y": 617.9812781501682
+      },
+      "keywords": [
+        "collision",
+        "detection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 191,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "SuemqQuiePab0Qpm2EGy9",
+      "type": "subtopic",
+      "label": "Narrow Phase",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 328.9857878718208,
+        "y": 724.5601890981626
+      },
+      "keywords": [
+        "narrow",
+        "phase"
+      ],
+      "metadata": {
+        "style": {
+          "width": 191,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AKd2UpITqBZV7cZszSRps",
+      "type": "subtopic",
+      "label": "Broad Phase",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 328.9857878718208,
+        "y": 777.5601890981626
+      },
+      "keywords": [
+        "broad",
+        "phase"
+      ],
+      "metadata": {
+        "style": {
+          "width": 191,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YLusnwCba7BIdKOYUoY6F",
+      "type": "subtopic",
+      "label": "Convexity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 134.06254359282195,
+        "y": 724.6479448168348
+      },
+      "keywords": [
+        "convexity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 137,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "pG_V12qhS4HevoP_KHTvh",
+      "type": "subtopic",
+      "label": "Convex",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 134.06254359282195,
+        "y": 799.2235652019868
+      },
+      "keywords": [
+        "convex"
+      ],
+      "metadata": {
+        "style": {
+          "width": 137,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jslk7Gy58VspO1uXGDgBp",
+      "type": "subtopic",
+      "label": "Concave",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 134.06254359282195,
+        "y": 853.340644161757
+      },
+      "keywords": [
+        "concave"
+      ],
+      "metadata": {
+        "style": {
+          "width": 137,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jixffcPBELkhoG0e7Te8g",
+      "type": "subtopic",
+      "label": "Convex Hull",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -115.74983529021279,
+        "y": 799.2235652019868
+      },
+      "keywords": [
+        "convex",
+        "hull"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bgP9NpD0DJGqN4VCt65xP",
+      "type": "subtopic",
+      "label": "Convex Decomposition",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -115.74983529021279,
+        "y": 853.340644161757
+      },
+      "keywords": [
+        "convex",
+        "decomposition"
+      ],
+      "metadata": {
+        "style": {
+          "width": 225,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vmRYaXNVCe0N73xG8bsEK",
+      "type": "subtopic",
+      "label": "Intersection",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 134.06254359282195,
+        "y": 671.5601890981626
+      },
+      "keywords": [
+        "intersection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 137,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "kSMz7mZ243qMKtT_YD3AD",
+      "type": "subtopic",
+      "label": "SAT",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -22.517250963174092,
+        "y": 618.6479448168349
+      },
+      "keywords": [
+        "sat"
+      ],
+      "metadata": {
+        "style": {
+          "width": 79
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lwd3Gz9bJEKCIwhXD6m-v",
+      "type": "subtopic",
+      "label": "GJK",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -22.517250963174092,
+        "y": 671.6479448168349
+      },
+      "keywords": [
+        "gjk"
+      ],
+      "metadata": {
+        "style": {
+          "width": 79
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vWLKYK2KUzV1fO-vQunzW",
+      "type": "subtopic",
+      "label": "EPA",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -22.517250963174092,
+        "y": 724.6479448168348
+      },
+      "keywords": [
+        "epa"
+      ],
+      "metadata": {
+        "style": {
+          "width": 79
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PLR_4yoRifoTzkOR4c7ym",
+      "type": "subtopic",
+      "label": "Bounding Volume",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 327.9857878718208,
+        "y": 918.2235652019868
+      },
+      "keywords": [
+        "bounding",
+        "volume"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aTeYGd4JlPr5txNPyBezn",
+      "type": "subtopic",
+      "label": "AABB",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 177.11202169501337,
+        "y": 918.2235652019866
+      },
+      "keywords": [
+        "aabb"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7nGtvbxoEAheiF4IPMfPf",
+      "type": "subtopic",
+      "label": "OBB",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 108.11202169501337,
+        "y": 918.2235652019866
+      },
+      "keywords": [
+        "obb"
+      ],
+      "metadata": {
+        "style": {
+          "width": 66,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9Fk3XSINBr2NNdbMtwsIK",
+      "type": "subtopic",
+      "label": "Spatial Partitioning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 327.9857878718208,
+        "y": 974.6723516686346
+      },
+      "keywords": [
+        "spatial",
+        "partitioning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 193,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "STdvFYM9V0a36IkPXjvrB",
+      "type": "subtopic",
+      "label": "Sort & Sweep",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 109.27787544845216,
+        "y": 974.6723516686346
+      },
+      "keywords": [
+        "sort",
+        "sweep"
+      ],
+      "metadata": {
+        "style": {
+          "width": 160,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FCc5xwb_G3VsDRXOcg3hV",
+      "type": "subtopic",
+      "label": "BVH",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 208.27787544845216,
+        "y": 1027.6723516686347
+      },
+      "keywords": [
+        "bvh"
+      ],
+      "metadata": {
+        "style": {
+          "width": 61,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XHFV4d6Ab4kWQ3-XcZTyT",
+      "type": "subtopic",
+      "label": "DBVT",
+      "description": "",
+      "category": "database",
+      "position": {
+        "x": 109.1830419521774,
+        "y": 1027.6723516686347
+      },
+      "keywords": [
+        "dbvt"
+      ],
+      "metadata": {
+        "style": {
+          "width": 66,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1yK8TH4Pn7Ag8VQoug54i",
+      "type": "subtopic",
+      "label": "CCD",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 328.9857878718208,
+        "y": 670.9812781501682
+      },
+      "keywords": [
+        "ccd"
+      ],
+      "metadata": {
+        "style": {
+          "width": 191,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "fv5tivGad2P9GRZOodfn2",
+      "type": "topic",
+      "label": "Game Engine",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -270.90430753953456,
+        "y": 516.4583152599474
+      },
+      "keywords": [
+        "game",
+        "engine"
+      ],
+      "metadata": {
+        "style": {
+          "width": 191,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "7OffO2mBmfBKqPBTZ9ngI",
+      "type": "subtopic",
+      "label": "Godot",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -519.86850729745,
+        "y": 616.7966982100413
+      },
+      "keywords": [
+        "godot"
+      ],
+      "metadata": {
+        "style": {
+          "width": 159
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "a6H-cZtp3A_fB8jnfMxBR",
+      "type": "subtopic",
+      "label": "Unreal Engine",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -519.86850729745,
+        "y": 517.7966982100413
+      },
+      "keywords": [
+        "unreal",
+        "engine"
+      ],
+      "metadata": {
+        "style": {
+          "width": 159,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CeAUEN233L4IoFSZtIvvl",
+      "type": "subtopic",
+      "label": "Native",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -519.86850729745,
+        "y": 570.7966982100413
+      },
+      "keywords": [
+        "native"
+      ],
+      "metadata": {
+        "style": {
+          "width": 159,
+          "height": 42.029266357421875
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rNeOti8DDyWTMP9FB9kJ_",
+      "type": "subtopic",
+      "label": "Unity 3D",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -519.86850729745,
+        "y": 464.7966982100413
+      },
+      "keywords": [
+        "unity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 159
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4YgbrXLXf5mfaL2tlYkzk",
+      "type": "topic",
+      "label": "Programming Languages",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -299.40430753953456,
+        "y": 718.8829068777812
+      },
+      "keywords": [
+        "programming",
+        "languages"
+      ],
+      "metadata": {
+        "style": {
+          "width": 248,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "jsq0UXnIIC0Z_nbK2w48f",
+      "type": "subtopic",
+      "label": "C/C++",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -425.84276797402634,
+        "y": 718.8829068777814
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ph3ZqmSnwwzUBUC-6dgf-",
+      "type": "subtopic",
+      "label": "C#",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -519.8427679740262,
+        "y": 718.8829068777812
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AaRZiItRcn8fYb5R62vfT",
+      "type": "subtopic",
+      "label": "GDScript",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -518.3608206359495,
+        "y": 824.8829068777812
+      },
+      "keywords": [
+        "gdscript"
+      ],
+      "metadata": {
+        "style": {
+          "width": 185,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ts9pWxUimvFqfNJYCmNNw",
+      "type": "subtopic",
+      "label": "Rust",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -519.8427679740262,
+        "y": 771.8829068777812
+      },
+      "keywords": [
+        "rust"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AJp_QRLgSG5ETXDIjUjmm",
+      "type": "subtopic",
+      "label": "Python",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": -425.84276797402634,
+        "y": 771.8829068777812
+      },
+      "keywords": [
+        "python"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lIb5MeDoqVj6HycveOgTS",
+      "type": "topic",
+      "label": "Computer Graphics",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -224.23195037554086,
+        "y": 1238.7939445578397
+      },
+      "keywords": [
+        "computer",
+        "graphics"
+      ],
+      "metadata": {
+        "style": {
+          "width": 249,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "JW5c_0JEtO-OiBoXUia6A",
+      "type": "subtopic",
+      "label": "Ray Tracing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -516.9565121239493,
+        "y": 1078.9347422218125
+      },
+      "keywords": [
+        "ray",
+        "tracing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "vYNj9nzu90e9xlrzHULnP",
+      "type": "subtopic",
+      "label": "Rasterization",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -516.9565121239493,
+        "y": 1131.9347422218125
+      },
+      "keywords": [
+        "rasterization"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "shSRnMf4NONuZ3TGPAoQc",
+      "type": "subtopic",
+      "label": "Graphics Pipeline",
+      "description": "",
+      "category": "devops",
+      "position": {
+        "x": -516.9565121239493,
+        "y": 1184.9347422218125
+      },
+      "keywords": [
+        "graphics",
+        "pipeline"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rmtxybcavWV6A53R4ZWgc",
+      "type": "subtopic",
+      "label": "Sampling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -516.9565121239493,
+        "y": 1237.9347422218125
+      },
+      "keywords": [
+        "sampling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qIrePusMuvcUva9LMDmDx",
+      "type": "subtopic",
+      "label": "Shader",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -516.9565121239493,
+        "y": 1293.7939445578397
+      },
+      "keywords": [
+        "shader"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WVgozaQPFbYthZLWMbNUg",
+      "type": "subtopic",
+      "label": "Rendering Equation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -516.9565121239493,
+        "y": 1347.7939445578397
+      },
+      "keywords": [
+        "rendering",
+        "equation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 204,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eI2jym4AAz3ani-lreSKE",
+      "type": "subtopic",
+      "label": "Reflection",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -419.9565121239493,
+        "y": 1402.7939445578397
+      },
+      "keywords": [
+        "reflection"
+      ],
+      "metadata": {
+        "style": {
+          "width": 107,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "0g1z5G2dsF4PTIfFAG984",
+      "type": "subtopic",
+      "label": "Diffuse",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -416.9565121239493,
+        "y": 1475.952242669871
+      },
+      "keywords": [
+        "diffuse"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "odfZWKtPbb-lC35oeTCNV",
+      "type": "subtopic",
+      "label": "Specular",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -416.9565121239493,
+        "y": 1528.7393171338706
+      },
+      "keywords": [
+        "specular"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "THMmnx8p_P0X-dSPoHvst",
+      "type": "subtopic",
+      "label": "Mapping",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -518.5116185559558,
+        "y": 1402.7939445578397
+      },
+      "keywords": [
+        "mapping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 96,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "iBZ1JsEWI0xuLgUvfWfl-",
+      "type": "subtopic",
+      "label": "Texture",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -518.5116185559558,
+        "y": 1475.952242669871
+      },
+      "keywords": [
+        "texture"
+      ],
+      "metadata": {
+        "style": {
+          "width": 96,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "r4UkMd5QURbvJ3Jlr_H9H",
+      "type": "subtopic",
+      "label": "Bump",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -518.5116185559558,
+        "y": 1528.952242669871
+      },
+      "keywords": [
+        "bump"
+      ],
+      "metadata": {
+        "style": {
+          "width": 96,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YGeGleEN203nokiZIYJN8",
+      "type": "subtopic",
+      "label": "Parallax",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -518.5116185559558,
+        "y": 1581.952242669871
+      },
+      "keywords": [
+        "parallax"
+      ],
+      "metadata": {
+        "style": {
+          "width": 96,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9cBOfj58I4hBlxlQIyV9g",
+      "type": "subtopic",
+      "label": "Horizon",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -518.5116185559558,
+        "y": 1634.952242669871
+      },
+      "keywords": [
+        "horizon"
+      ],
+      "metadata": {
+        "style": {
+          "width": 96,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1RdyzTI_TXqmct2bIbNh9",
+      "type": "subtopic",
+      "label": "Computer Animation",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -129.0221800907267,
+        "y": 998.6993653585232
+      },
+      "keywords": [
+        "computer",
+        "animation"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "WK6fLWJq9Vh2ySVrSqd-U",
+      "type": "subtopic",
+      "label": "Color",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -129.0221800907267,
+        "y": 1051.6993653585232
+      },
+      "keywords": [
+        "color"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1S1qPogijW2SQCiF7KLZe",
+      "type": "subtopic",
+      "label": "Visual Perception",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -129.0221800907267,
+        "y": 1104.6993653585232
+      },
+      "keywords": [
+        "visual",
+        "perception"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "RgC9TOc0wbr2QSuvrpIDV",
+      "type": "subtopic",
+      "label": "Tone Reproduction",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -129.0221800907267,
+        "y": 1157.6993653585232
+      },
+      "keywords": [
+        "tone",
+        "reproduction"
+      ],
+      "metadata": {
+        "style": {
+          "width": 205,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lNKSnx79jCQW0AM1bFITr",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -452.07124610794176,
+        "y": 947.7235652019866
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 323,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "bEF-DIgaMpKyRTw2uAB8R",
+      "type": "label",
+      "label": "Getting deeper",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -453.40430753953456,
+        "y": 911.7235652019866
+      },
+      "keywords": [
+        "getting",
+        "deeper"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DDN3mn0LTueBhjRzXFcbU",
+      "type": "subtopic",
+      "label": "Lighting and Shadow",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 217.39905342267605,
+        "y": 1145.5450031343512
+      },
+      "keywords": [
+        "lighting",
+        "shadow"
+      ],
+      "metadata": {
+        "style": {
+          "width": 320,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ygtru6fqQ3gpFZRN_I8rP",
+      "type": "subtopic",
+      "label": "Shadow Map",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 216.131124908341,
+        "y": 1198.5450031343512
+      },
+      "keywords": [
+        "shadow",
+        "map"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Wq8siopWTD7sylNi0575X",
+      "type": "subtopic",
+      "label": "2D",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 216.131124908341,
+        "y": 1251.5450031343512
+      },
+      "keywords": [],
+      "metadata": {
+        "style": {
+          "width": 51,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "cv1-AwewuqJsZDBI3h84G",
+      "type": "subtopic",
+      "label": "Cube",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 270.131124908341,
+        "y": 1251.5450031343512
+      },
+      "keywords": [
+        "cube"
+      ],
+      "metadata": {
+        "style": {
+          "width": 90,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Lu38SfZ38y89BffLRMmGk",
+      "type": "subtopic",
+      "label": "Cascaded",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 216.131124908341,
+        "y": 1304.5450031343512
+      },
+      "keywords": [
+        "cascaded"
+      ],
+      "metadata": {
+        "style": {
+          "width": 145,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "VLrcBE1vb6N5fw5YESCge",
+      "type": "subtopic",
+      "label": "Light Source",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 364.7557147875399,
+        "y": 1198.5450031343512
+      },
+      "keywords": [
+        "light",
+        "source"
+      ],
+      "metadata": {
+        "style": {
+          "width": 174,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "foD8K7V0yIxgeXwl687Bv",
+      "type": "subtopic",
+      "label": "Directional",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 364.7557147875399,
+        "y": 1251.5450031343512
+      },
+      "keywords": [
+        "directional"
+      ],
+      "metadata": {
+        "style": {
+          "width": 112,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aNhyXWW2b7yKTv8y14zk9",
+      "type": "subtopic",
+      "label": "Point",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 478.7557147875399,
+        "y": 1304.5450031343512
+      },
+      "keywords": [
+        "point"
+      ],
+      "metadata": {
+        "style": {
+          "width": 61,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FetbhcK1RDt4izZ6NEUEP",
+      "type": "subtopic",
+      "label": "Spot",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 478.7557147875399,
+        "y": 1251.5450031343512
+      },
+      "keywords": [
+        "spot"
+      ],
+      "metadata": {
+        "style": {
+          "width": 61,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sC3omOmL2DOyTSvET5cDa",
+      "type": "subtopic",
+      "label": "Infinite",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 364.7557147875399,
+        "y": 1304.5450031343512
+      },
+      "keywords": [
+        "infinite"
+      ],
+      "metadata": {
+        "style": {
+          "width": 112,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "OcxesFnB5wO6VXrHYnhz-",
+      "type": "subtopic",
+      "label": "Visibility and Occlusion",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 219.4111613103055,
+        "y": 1373.480291360171
+      },
+      "keywords": [
+        "visibility",
+        "occlusion"
+      ],
+      "metadata": {
+        "style": {
+          "width": 320,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "MlLYqO_8JDNOwKRvaM-bf",
+      "type": "subtopic",
+      "label": "Occluder",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 219.196019138284,
+        "y": 1426.480291360171
+      },
+      "keywords": [
+        "occluder"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1gdDeUPBRco10LpOxug4k",
+      "type": "subtopic",
+      "label": "Culling",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 329.67908982464064,
+        "y": 1426.480291360171
+      },
+      "keywords": [
+        "culling"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "xP_VDMu1z9jiVnZaBFKJQ",
+      "type": "subtopic",
+      "label": "Clipping",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 423.6790898246407,
+        "y": 1426.480291360171
+      },
+      "keywords": [
+        "clipping"
+      ],
+      "metadata": {
+        "style": {
+          "width": 117,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2ocwC0P1-ZFmjA9EmA1lV",
+      "type": "subtopic",
+      "label": "Fog",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 219.196019138284,
+        "y": 1479.480291360171
+      },
+      "keywords": [
+        "fog"
+      ],
+      "metadata": {
+        "style": {
+          "width": 108,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "UcLGWYu41Ok2NYdLNIY5C",
+      "type": "subtopic",
+      "label": "Frustum",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 330.8563765666081,
+        "y": 1479.480291360171
+      },
+      "keywords": [
+        "frustum"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "_1LkU258hzizSIgXipE0b",
+      "type": "subtopic",
+      "label": "Light",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 330.8563765666081,
+        "y": 1532.480291360171
+      },
+      "keywords": [
+        "light"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "lqfW8hkuN3vWtacrqBBtI",
+      "type": "subtopic",
+      "label": "Shadow",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 330.8563765666081,
+        "y": 1585.480291360171
+      },
+      "keywords": [
+        "shadow"
+      ],
+      "metadata": {
+        "style": {
+          "width": 91,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-r15srXTBLnUGokpXKclH",
+      "type": "subtopic",
+      "label": "Polygon",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 423.6790898246407,
+        "y": 1479.480291360171
+      },
+      "keywords": [
+        "polygon"
+      ],
+      "metadata": {
+        "style": {
+          "width": 117,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GHfLMtgmc36OCvjQvW_Su",
+      "type": "subtopic",
+      "label": "Polyhedron",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 423.6790898246407,
+        "y": 1532.480291360171
+      },
+      "keywords": [
+        "polyhedron"
+      ],
+      "metadata": {
+        "style": {
+          "width": 117,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AEAVc8Ih4fctSGGVJG0Np",
+      "type": "subtopic",
+      "label": "Stencil Shadow",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 376.39009638382095,
+        "y": 1070.9347422218125
+      },
+      "keywords": [
+        "stencil",
+        "shadow"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "5ZdQrL9tPyQ4Ho1hecKLD",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": 188.10474936274625,
+        "y": 1143.952242669871
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 509
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Kx7O7RLp7aPGtOvK8e314",
+      "type": "topic",
+      "label": "Graphics API",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": -227.23195037554086,
+        "y": 1469.952242669871
+      },
+      "keywords": [
+        "graphics",
+        "api"
+      ],
+      "metadata": {
+        "style": {
+          "width": 321,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "bgWFV09AtDv1yJS5t0EaB",
+      "type": "subtopic",
+      "label": "DirectX",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -173.58852226085975,
+        "y": 1392.283891636011
+      },
+      "keywords": [
+        "directx"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ffa5-YxRhE3zhWg7KXQ4r",
+      "type": "subtopic",
+      "label": "OpenGL",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -89.58852226085975,
+        "y": 1392.283891636011
+      },
+      "keywords": [
+        "opengl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 86,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CeydBMwckqKll-2AgOlyd",
+      "type": "subtopic",
+      "label": "WebGL",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -40.415232321660085,
+        "y": 1594.409509249386
+      },
+      "keywords": [
+        "webgl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "wYUDJb-q1rtM4w2QV3Wr1",
+      "type": "subtopic",
+      "label": "HLSL",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -173.58852226085975,
+        "y": 1339.283891636011
+      },
+      "keywords": [
+        "hlsl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "j8mWMFMQCEIPUzegDDsm1",
+      "type": "subtopic",
+      "label": "GLSL",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -89.58852226085975,
+        "y": 1339.4861622120663
+      },
+      "keywords": [
+        "glsl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 86,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "EVOiWAeZsIvjLTt3EYu-6",
+      "type": "subtopic",
+      "label": "OpenGL ES",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -125.40723871612443,
+        "y": 1541.409509249386
+      },
+      "keywords": [
+        "opengl"
+      ],
+      "metadata": {
+        "style": {
+          "width": 166,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oEznLciLxZJaulMlBGgg4",
+      "type": "subtopic",
+      "label": "Metal",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -124.41523232166008,
+        "y": 1594.409509249386
+      },
+      "keywords": [
+        "metal"
+      ],
+      "metadata": {
+        "style": {
+          "width": 81,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "yPfhJSTFS7a72UcqF1ROK",
+      "type": "subtopic",
+      "label": "Vulkan",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -0.7851794775092458,
+        "y": 1392.4861622120663
+      },
+      "keywords": [
+        "vulkan"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "DvV32n3NoXNEej8Fsqqs2",
+      "type": "subtopic",
+      "label": "SPIR-V",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -0.7851794775092458,
+        "y": 1339.4861622120663
+      },
+      "keywords": [
+        "spir"
+      ],
+      "metadata": {
+        "style": {
+          "width": 101,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Hpf_CPmLpCSP8Qo07Kq1X",
+      "type": "topic",
+      "label": "Game AI",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -84.04934274317372,
+        "y": 1702.215711596427
+      },
+      "keywords": [
+        "game"
+      ],
+      "metadata": {
+        "style": {
+          "width": 179,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Ky-95ipdgyPZGAIdqwMCk",
+      "type": "subtopic",
+      "label": "Decision Making",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 147.45497250681115,
+        "y": 1702.215711596427
+      },
+      "keywords": [
+        "decision",
+        "making"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rwGivalwv2ozdSlVMSc4U",
+      "type": "subtopic",
+      "label": "Decision Tree",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 146.4323839005565,
+        "y": 1755.215711596427
+      },
+      "keywords": [
+        "decision",
+        "tree"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aJa_2xkZuSjQ5bt6Kj5oe",
+      "type": "subtopic",
+      "label": "State Machine",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 146.4323839005565,
+        "y": 1808.215711596427
+      },
+      "keywords": [
+        "state",
+        "machine"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ztoW8fBY73Es624A_tjd7",
+      "type": "subtopic",
+      "label": "Behavior Tree",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 146.4323839005565,
+        "y": 1861.215711596427
+      },
+      "keywords": [
+        "behavior",
+        "tree"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "4ZCVUpYrCT14d_JULulLe",
+      "type": "subtopic",
+      "label": "Fuzzy Logic",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 146.4323839005565,
+        "y": 1914.215711596427
+      },
+      "keywords": [
+        "fuzzy",
+        "logic"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "c6j-30p84vk3MZEF1R2hN",
+      "type": "subtopic",
+      "label": "Markov System",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 146.4323839005565,
+        "y": 1967.215711596427
+      },
+      "keywords": [
+        "markov",
+        "system"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Cuc0xvCAkVyUtwOxO_Uua",
+      "type": "subtopic",
+      "label": "Goal Oriented Behavior",
+      "description": "",
+      "category": "programming-language",
+      "position": {
+        "x": 146.4323839005565,
+        "y": 2020.215711596427
+      },
+      "keywords": [
+        "goal",
+        "oriented",
+        "behavior"
+      ],
+      "metadata": {
+        "style": {
+          "width": 231,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "mUyzX-DXnIKDl-r9o8d38",
+      "type": "subtopic",
+      "label": "Movement",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 386.89905342267605,
+        "y": 1702.215711596427
+      },
+      "keywords": [
+        "movement"
+      ],
+      "metadata": {
+        "style": {
+          "width": 146,
+          "height": 50
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "eoK70YRCz73GmzbNhh5kg",
+      "type": "subtopic",
+      "label": "Board Game",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 387.89905342267605,
+        "y": 1804.215711596427
+      },
+      "keywords": [
+        "board",
+        "game"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "oOjGqicW3eqRwWyIwJdBA",
+      "type": "subtopic",
+      "label": "Minimax",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 387.89905342267605,
+        "y": 1859.1290666268271
+      },
+      "keywords": [
+        "minimax"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "KYCi4d475zZfNwlj6HZVD",
+      "type": "subtopic",
+      "label": "AB Pruning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 387.89905342267605,
+        "y": 1912.1290666268271
+      },
+      "keywords": [
+        "pruning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "QD9TfZn3yhGPVwiyJ6d0V",
+      "type": "subtopic",
+      "label": "MCTS",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 387.89905342267605,
+        "y": 1965.1290666268271
+      },
+      "keywords": [
+        "mcts"
+      ],
+      "metadata": {
+        "style": {
+          "width": 144
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "Hpk8eOaOepERMmOvUgkxa",
+      "type": "topic",
+      "label": "Game AI",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -84.04934274317372,
+        "y": 1905.2076829543832
+      },
+      "keywords": [
+        "game"
+      ],
+      "metadata": {
+        "style": {
+          "width": 179,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "1G4wQLJCBBN0ynvbpc9DG",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": -204.93174897756708,
+        "y": 1824.5505297319055
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "laGrI97zR5SEwbYims5E5",
+      "type": "label",
+      "label": "Maximise your skills",
+      "description": "",
+      "category": "label",
+      "position": {
+        "x": -204.93174897756708,
+        "y": 1796.8373859612675
+      },
+      "keywords": [
+        "maximise",
+        "your",
+        "skills"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ul5XnVwQCwr4ZaL4kBNpd",
+      "type": "subtopic",
+      "label": "Decision Learning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -524.0349097293682,
+        "y": 1790.5591247226812
+      },
+      "keywords": [
+        "decision",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "aw1BAGqrdBBmUwB6vMF_A",
+      "type": "subtopic",
+      "label": "Naive Bayes Classifier",
+      "description": "",
+      "category": "data-science",
+      "position": {
+        "x": -524.0349097293682,
+        "y": 1737.5591247226812
+      },
+      "keywords": [
+        "naive",
+        "bayes",
+        "classifier"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "sz1047M8_kScjth84yPwU",
+      "type": "subtopic",
+      "label": "Decision Tree Learning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -524.0349097293682,
+        "y": 1896.5591247226812
+      },
+      "keywords": [
+        "decision",
+        "tree",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "ltkEyfuDxExs7knqs79ya",
+      "type": "subtopic",
+      "label": "Deep Learning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -524.0349097293682,
+        "y": 1949.5591247226812
+      },
+      "keywords": [
+        "deep",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "AoH2r4EOHyZd8YaV24rBk",
+      "type": "subtopic",
+      "label": "Artificial Neural Network",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -524.0349097293682,
+        "y": 2002.5591247226812
+      },
+      "keywords": [
+        "artificial",
+        "neural",
+        "network"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "rGEHTfdNeBAX3_XqC-vvI",
+      "type": "subtopic",
+      "label": "Reinforcements Learning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -524.0349097293682,
+        "y": 1843.5591247226812
+      },
+      "keywords": [
+        "reinforcements",
+        "learning"
+      ],
+      "metadata": {
+        "style": {
+          "width": 246,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "-QCv_s22wvTQ-OeQYgBUA",
+      "type": "vertical",
+      "label": "vertical node",
+      "description": "",
+      "category": "vertical",
+      "position": {
+        "x": -270.90430753953456,
+        "y": 1737.215711596427
+      },
+      "keywords": [
+        "vertical",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 21,
+          "height": 313
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "9_OcZ9rzedDFfwEYxAghh",
+      "type": "subtopic",
+      "label": "Learning",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -228.74983529021276,
+        "y": 1905.2076829543832
+      },
+      "keywords": [
+        "learning"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "CDYszS1U4v95GozB_drbt",
+      "type": "topic",
+      "label": "Advanced Rendering",
+      "description": "",
+      "category": "topic",
+      "position": {
+        "x": -99.30821800196304,
+        "y": 2105.233172893317
+      },
+      "keywords": [
+        "advanced",
+        "rendering"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "advanced"
+      }
+    },
+    {
+      "id": "_i7BXZq-iLxQc3QZRMees",
+      "type": "subtopic",
+      "label": "Real-time Ray Tracing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 302.23120414171314,
+        "y": 2105.233172893317
+      },
+      "keywords": [
+        "real",
+        "time",
+        "ray",
+        "tracing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 217,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "qoIkw9o8iMx7MzUyVYoR2",
+      "type": "subtopic",
+      "label": "DirectX Ray Tracing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 302.23120414171314,
+        "y": 2199.3409871463487
+      },
+      "keywords": [
+        "directx",
+        "ray",
+        "tracing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 217
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "tDGnV8dGIFr_diz4HcEjr",
+      "type": "subtopic",
+      "label": "Vulkan Ray Tracing",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 302.23120414171314,
+        "y": 2252.3409871463487
+      },
+      "keywords": [
+        "vulkan",
+        "ray",
+        "tracing"
+      ],
+      "metadata": {
+        "style": {
+          "width": 217
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "GDLysy3__cbYidEaOmFze",
+      "type": "subtopic",
+      "label": "OptiX",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": 302.23120414171314,
+        "y": 2305.3409871463487
+      },
+      "keywords": [
+        "optix"
+      ],
+      "metadata": {
+        "style": {
+          "width": 217
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "XvFtMHrYsBREmuerE7CGc",
+      "type": "subtopic",
+      "label": "Physically-Based Rendering",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -511.38874871773237,
+        "y": 2105.233172893317
+      },
+      "keywords": [
+        "physically",
+        "based",
+        "rendering"
+      ],
+      "metadata": {
+        "style": {},
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "PuhXaRZ-Ql5PCqzMyz3en",
+      "type": "subtopic",
+      "label": "Translucency & Transparency",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -515.8887487177324,
+        "y": 2247.4742913383143
+      },
+      "keywords": [
+        "translucency",
+        "transparency"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "H3hkafXO9zqEnWuwHa38P",
+      "type": "subtopic",
+      "label": "Conservation of Energy",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -515.8887487177324,
+        "y": 2300.4742913383143
+      },
+      "keywords": [
+        "conservation",
+        "energy"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "olY1ibR7kw1yJ58TfU-37",
+      "type": "subtopic",
+      "label": "Metallicity",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -515.8887487177324,
+        "y": 2353.4742913383143
+      },
+      "keywords": [
+        "metallicity"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "YrQgfjsdLCIUxrwflpEHO",
+      "type": "subtopic",
+      "label": "Microsurface Scattering",
+      "description": "",
+      "category": "subtopic",
+      "position": {
+        "x": -515.8887487177324,
+        "y": 2194.4742913383143
+      },
+      "keywords": [
+        "microsurface",
+        "scattering"
+      ],
+      "metadata": {
+        "style": {
+          "width": 271
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "FbfHP9hFBuISrGzKaX-qm",
+      "type": "paragraph",
+      "label": "Shout out to Chris Ohk who helped make the initial version of this roadmap.",
+      "description": "",
+      "category": "paragraph",
+      "position": {
+        "x": -520.8639110926986,
+        "y": -233.1028359109968
+      },
+      "keywords": [
+        "shout",
+        "out",
+        "chris",
+        "ohk",
+        "who",
+        "helped",
+        "make",
+        "initial",
+        "version",
+        "roadmap"
+      ],
+      "metadata": {
+        "style": {
+          "width": 348,
+          "height": 148
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "label": "Visit his GitHub",
+      "description": "",
+      "category": "tools",
+      "position": {
+        "x": -505.86391109269846,
+        "y": -152.09530466580176
+      },
+      "keywords": [
+        "visit",
+        "his",
+        "github"
+      ],
+      "metadata": {
+        "style": {
+          "width": 318,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "id": "dlGf3ZdFXYx0Z6Viu2x-l",
+      "type": "button",
+      "label": "API Design",
+      "description": "",
+      "category": "backend",
+      "position": {
+        "x": 8.768049624459138,
+        "y": 2303.3819660369822
+      },
+      "keywords": [
+        "api",
+        "design"
+      ],
+      "metadata": {
+        "style": {
+          "width": 158,
+          "height": 49
+        },
+        "required": false,
+        "difficulty": "intermediate"
+      }
+    },
+    {
+      "id": "3in61wmgTAqq7nSJm00p-",
+      "type": "horizontal",
+      "label": "horizontal node",
+      "description": "",
+      "category": "horizontal",
+      "position": {
+        "x": 441.84147172248663,
+        "y": -40.82399710033968
+      },
+      "keywords": [
+        "horizontal",
+        "node"
+      ],
+      "metadata": {
+        "style": {
+          "width": 93,
+          "height": 20
+        },
+        "required": false,
+        "difficulty": "beginner"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "smoothstep"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    },
+    {
+      "source": "rQArtuVKGVgLn_fw9yO3b",
+      "target": "SIvQYH0q1H29NgbtLq3L8",
+      "type": "default"
+    },
+    {
+      "source": "rQArtuVKGVgLn_fw9yO3b",
+      "target": "m1wX27XBWKXZcTMH2U1xp",
+      "type": "default"
+    },
+    {
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "rQArtuVKGVgLn_fw9yO3b",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "YTkOF_33oL1ZkA-loc_DP",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "grRf-MmaXimDB4iODOV47",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "Kg6Mg9ieUUGXWX9Lai7B0",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "XABzEU9owCx9-zw1id9xU",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "r5TcXQsU9s4NlAQIPvZ3U",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "SkCreb6g4i-OFtJWhRYqO",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "iIWEjpkNFBj4R5wQ0mcWY",
+      "type": "default"
+    },
+    {
+      "source": "m1wX27XBWKXZcTMH2U1xp",
+      "target": "UTBnrQiZ6Bf96yJYIUf3b",
+      "type": "default"
+    },
+    {
+      "source": "SuemqQuiePab0Qpm2EGy9",
+      "target": "vmRYaXNVCe0N73xG8bsEK",
+      "type": "default"
+    },
+    {
+      "source": "vmRYaXNVCe0N73xG8bsEK",
+      "target": "kSMz7mZ243qMKtT_YD3AD",
+      "type": "default"
+    },
+    {
+      "source": "vmRYaXNVCe0N73xG8bsEK",
+      "target": "lwd3Gz9bJEKCIwhXD6m-v",
+      "type": "default"
+    },
+    {
+      "source": "vmRYaXNVCe0N73xG8bsEK",
+      "target": "vWLKYK2KUzV1fO-vQunzW",
+      "type": "default"
+    },
+    {
+      "source": "SuemqQuiePab0Qpm2EGy9",
+      "target": "YLusnwCba7BIdKOYUoY6F",
+      "type": "default"
+    },
+    {
+      "source": "pG_V12qhS4HevoP_KHTvh",
+      "target": "jixffcPBELkhoG0e7Te8g",
+      "type": "default"
+    },
+    {
+      "source": "jslk7Gy58VspO1uXGDgBp",
+      "target": "bgP9NpD0DJGqN4VCt65xP",
+      "type": "default"
+    },
+    {
+      "source": "YLusnwCba7BIdKOYUoY6F",
+      "target": "pG_V12qhS4HevoP_KHTvh",
+      "type": "default"
+    },
+    {
+      "source": "AKd2UpITqBZV7cZszSRps",
+      "target": "PLR_4yoRifoTzkOR4c7ym",
+      "type": "default"
+    },
+    {
+      "source": "PLR_4yoRifoTzkOR4c7ym",
+      "target": "aTeYGd4JlPr5txNPyBezn",
+      "type": "default"
+    },
+    {
+      "source": "9Fk3XSINBr2NNdbMtwsIK",
+      "target": "STdvFYM9V0a36IkPXjvrB",
+      "type": "default"
+    },
+    {
+      "source": "9Fk3XSINBr2NNdbMtwsIK",
+      "target": "FCc5xwb_G3VsDRXOcg3hV",
+      "type": "default"
+    },
+    {
+      "source": "FCc5xwb_G3VsDRXOcg3hV",
+      "target": "XHFV4d6Ab4kWQ3-XcZTyT",
+      "type": "default"
+    },
+    {
+      "source": "UTBnrQiZ6Bf96yJYIUf3b",
+      "target": "fv5tivGad2P9GRZOodfn2",
+      "type": "default"
+    },
+    {
+      "source": "fv5tivGad2P9GRZOodfn2",
+      "target": "rNeOti8DDyWTMP9FB9kJ_",
+      "type": "default"
+    },
+    {
+      "source": "fv5tivGad2P9GRZOodfn2",
+      "target": "a6H-cZtp3A_fB8jnfMxBR",
+      "type": "default"
+    },
+    {
+      "source": "fv5tivGad2P9GRZOodfn2",
+      "target": "CeAUEN233L4IoFSZtIvvl",
+      "type": "default"
+    },
+    {
+      "source": "fv5tivGad2P9GRZOodfn2",
+      "target": "7OffO2mBmfBKqPBTZ9ngI",
+      "type": "default"
+    },
+    {
+      "source": "UTBnrQiZ6Bf96yJYIUf3b",
+      "target": "AdOfOJtLtNgDwuABb6orE",
+      "type": "default"
+    },
+    {
+      "source": "4YgbrXLXf5mfaL2tlYkzk",
+      "target": "jsq0UXnIIC0Z_nbK2w48f",
+      "type": "default"
+    },
+    {
+      "source": "THMmnx8p_P0X-dSPoHvst",
+      "target": "iBZ1JsEWI0xuLgUvfWfl-",
+      "type": "default"
+    },
+    {
+      "source": "lIb5MeDoqVj6HycveOgTS",
+      "target": "JW5c_0JEtO-OiBoXUia6A",
+      "type": "default"
+    },
+    {
+      "source": "lIb5MeDoqVj6HycveOgTS",
+      "target": "vYNj9nzu90e9xlrzHULnP",
+      "type": "default"
+    },
+    {
+      "source": "lIb5MeDoqVj6HycveOgTS",
+      "target": "shSRnMf4NONuZ3TGPAoQc",
+      "type": "default"
+    },
+    {
+      "source": "lIb5MeDoqVj6HycveOgTS",
+      "target": "rmtxybcavWV6A53R4ZWgc",
+      "type": "default"
+    },
+    {
+      "source": "eI2jym4AAz3ani-lreSKE",
+      "target": "0g1z5G2dsF4PTIfFAG984",
+      "type": "default"
+    },
+    {
+      "source": "UTBnrQiZ6Bf96yJYIUf3b",
+      "target": "0D7KQlF-9ylmILTBBVxot",
+      "type": "default"
+    },
+    {
+      "source": "lIb5MeDoqVj6HycveOgTS",
+      "target": "qIrePusMuvcUva9LMDmDx",
+      "type": "default"
+    },
+    {
+      "source": "Hpf_CPmLpCSP8Qo07Kq1X",
+      "target": "Ky-95ipdgyPZGAIdqwMCk",
+      "type": "default"
+    },
+    {
+      "source": "Hpf_CPmLpCSP8Qo07Kq1X",
+      "target": "Hpk8eOaOepERMmOvUgkxa",
+      "type": "simplebezier"
+    },
+    {
+      "source": "Hpk8eOaOepERMmOvUgkxa",
+      "target": "CDYszS1U4v95GozB_drbt",
+      "type": "default"
+    },
+    {
+      "source": "_i7BXZq-iLxQc3QZRMees",
+      "target": "qoIkw9o8iMx7MzUyVYoR2",
+      "type": "default"
+    },
+    {
+      "source": "CDYszS1U4v95GozB_drbt",
+      "target": "_i7BXZq-iLxQc3QZRMees",
+      "type": "default"
+    },
+    {
+      "source": "CDYszS1U4v95GozB_drbt",
+      "target": "XvFtMHrYsBREmuerE7CGc",
+      "type": "default"
+    },
+    {
+      "source": "XvFtMHrYsBREmuerE7CGc",
+      "target": "YrQgfjsdLCIUxrwflpEHO",
+      "type": "default"
+    },
+    {
+      "source": "CDYszS1U4v95GozB_drbt",
+      "target": "GV_zWF6rSWg5bqgiXhOEf",
+      "type": "default"
+    }
+  ],
+  "categories": [
+    {
+      "name": "subtopic",
+      "count": 113
+    },
+    {
+      "name": "vertical",
+      "count": 11
+    },
+    {
+      "name": "topic",
+      "count": 11
+    },
+    {
+      "name": "programming-language",
+      "count": 10
+    },
+    {
+      "name": "horizontal",
+      "count": 6
+    },
+    {
+      "name": "backend",
+      "count": 5
+    },
+    {
+      "name": "data-science",
+      "count": 4
+    },
+    {
+      "name": "database",
+      "count": 3
+    },
+    {
+      "name": "paragraph",
+      "count": 2
+    },
+    {
+      "name": "label",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "count": 1
+    },
+    {
+      "name": "button",
+      "count": 1
+    },
+    {
+      "name": "framework",
+      "count": 1
+    },
+    {
+      "name": "devops",
+      "count": 1
+    },
+    {
+      "name": "tools",
+      "count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "horizontal node",
+      "category": "horizontal",
+      "difficulty": "beginner",
+      "keywords": [
+        "horizontal",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Game Developer",
+      "category": "title",
+      "difficulty": "beginner",
+      "keywords": [
+        "game",
+        "developer"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Find the detailed version of this roadmap along with other similar roadmaps",
+      "category": "data-science",
+      "difficulty": "beginner",
+      "keywords": [
+        "find",
+        "detailed",
+        "version",
+        "roadmap",
+        "along"
+      ]
+    },
+    {
+      "name": "roadmap.sh",
+      "category": "button",
+      "difficulty": "beginner",
+      "keywords": [
+        "roadmap"
+      ]
+    },
+    {
+      "name": "vertical node",
+      "category": "vertical",
+      "difficulty": "beginner",
+      "keywords": [
+        "vertical",
+        "node"
+      ]
+    },
+    {
+      "name": "Visit the following relevant roadmaps",
+      "category": "paragraph",
+      "difficulty": "beginner",
+      "keywords": [
+        "visit",
+        "following",
+        "relevant",
+        "roadmaps"
+      ]
+    },
+    {
+      "name": "Backend",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "backend"
+      ]
+    },
+    {
+      "name": "Server Side",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "server",
+        "side"
+      ]
+    },
+    {
+      "name": "Client Side Development",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "client",
+        "side",
+        "development"
+      ]
+    },
+    {
+      "name": "Game Mathematics",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "game",
+        "mathematics"
+      ]
+    },
+    {
+      "name": "Linear Algebra",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "linear",
+        "algebra"
+      ]
+    },
+    {
+      "name": "Vector",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "vector"
+      ]
+    },
+    {
+      "name": "Matrix",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "matrix"
+      ]
+    },
+    {
+      "name": "Geometry",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "geometry"
+      ]
+    },
+    {
+      "name": "Linear Transformation",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "linear",
+        "transformation"
+      ]
+    },
+    {
+      "name": "Affine Space",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "affine",
+        "space"
+      ]
+    },
+    {
+      "name": "Affine Transformation",
+      "category": "database",
+      "difficulty": "beginner",
+      "keywords": [
+        "affine",
+        "transformation"
+      ]
+    },
+    {
+      "name": "Orientation",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "orientation"
+      ]
+    },
+    {
+      "name": "Quaternion",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "quaternion"
+      ]
+    },
+    {
+      "name": "Euler Angle",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "euler",
+        "angle"
+      ]
+    },
+    {
+      "name": "Curve",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "curve"
+      ]
+    },
+    {
+      "name": "Spline",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "spline"
+      ]
+    },
+    {
+      "name": "Hermite",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "hermite"
+      ]
+    },
+    {
+      "name": "Bezier",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "bezier"
+      ]
+    },
+    {
+      "name": "Catmull-Rom",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "catmull",
+        "rom"
+      ]
+    },
+    {
+      "name": "Projection",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "projection"
+      ]
+    },
+    {
+      "name": "Perspective",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "perspective"
+      ]
+    },
+    {
+      "name": "Orthogonal",
+      "category": "programming-language",
+      "difficulty": "beginner",
+      "keywords": [
+        "orthogonal"
+      ]
+    },
+    {
+      "name": "Game Physics",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "game",
+        "physics"
+      ]
+    },
+    {
+      "name": "Dynamics",
+      "category": "topic",
+      "difficulty": "beginner",
+      "keywords": [
+        "dynamics"
+      ]
+    },
+    {
+      "name": "Center of Mass",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "center",
+        "mass"
+      ]
+    },
+    {
+      "name": "Moment of Inertia",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "moment",
+        "inertia"
+      ]
+    },
+    {
+      "name": "Acceleration",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "acceleration"
+      ]
+    },
+    {
+      "name": "Joints",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "joints"
+      ]
+    },
+    {
+      "name": "Force",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "force"
+      ]
+    },
+    {
+      "name": "Restitution",
+      "category": "backend",
+      "difficulty": "beginner",
+      "keywords": [
+        "restitution"
+      ]
+    },
+    {
+      "name": "Angular Velocity",
+      "category": "framework",
+      "difficulty": "beginner",
+      "keywords": [
+        "angular",
+        "velocity"
+      ]
+    },
+    {
+      "name": "Buoyancy",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "buoyancy"
+      ]
+    },
+    {
+      "name": "Linear Velocity",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "linear",
+        "velocity"
+      ]
+    },
+    {
+      "name": "Friction",
+      "category": "subtopic",
+      "difficulty": "beginner",
+      "keywords": [
+        "friction"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalNodes": 172,
+    "totalEdges": 50,
+    "source": "roadmap.sh",
+    "scrapedAt": "2025-11-16T10:12:20.983Z",
+    "version": "2.0"
+  }
+}
