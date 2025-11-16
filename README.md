@@ -20,7 +20,7 @@ width="800"
 - Roadmap.sh integration
 
 ## 📚 Documentation
-Full docs: https://skill-tree.gitbook.io
+Full docs: https://numshv.gitbook.io/numshv-docs/
 
 ## 🚀 Try It
 Add to your profile README now!
