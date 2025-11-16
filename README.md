@@ -1,6 +1,6 @@
 # 🌳 GitHub Skill Tree Generator
 
-[Screenshot of skill tree]
+![Alt](Tree.png)
 
 > Transform your GitHub repos into an skill tree
 
